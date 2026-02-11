@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 119</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 119</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="61"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1505"><!-- raWSwa-c119 -->
+        <head xml:id="raWSwa-d1e1505-Hd1e101">Caput 119</head>
+        <head xml:id="raWSwa-d1e1505-Hd1e103" type="question-title">
+          De parvo prandiolo.
+        </head>
+        <p xml:id="raWSwa-d1e1505-d1e106">
+          <lb ed="#P" n="90"/>CAPUT CXIX.
+          <lb ed="#P" n="91"/>De parvo prandiolo.
+        </p>
+        <p xml:id="raWSwa-d1e1505-d1e113">
+          <lb ed="#P" n="92"/>Exponendum modo est de parvo quodam 
+          pran<lb break="no" ed="#P" n="93"/>diolo, quod fieri debet ante magnum prandium in
+          <lb ed="#P" n="94"/>Paschate quando communicatum est. Statutum
+          <lb ed="#P" n="95"/>enim est in quibusdam Ecclesiis, et ubique 
+          terra<lb break="no" ed="#P" n="96"/>rumn sic debere fieri, ut illo die panis et vinum in
+          <lb ed="#P" n="97"/>ecclesia habeatur, et cum homines 
+          communicave<lb break="no" ed="#P" n="98"/>rint, detur statim unicuiqne panis buccea priusquam
+          <lb ed="#P" n="99"/>rccedant, et paululum vini, ne forte quidpiam de
+          <lb ed="#P" n="100"/>sacramento inore remanserit, quod exspuendo facil.
+          <lb ed="#P" n="101"/>emitti queat. Posset enim facile contingere, si non
+          <lb ed="#P" n="102"/>statim comederetur. Quae sane laudata consuetudo
+          <lb ed="#P" n="103"/>omnibus probatur, sumpsitque originem ex 
+          insti<lb break="no" ed="#P" n="104"/>tutione B. Benedicti. Instituit namque vir ille 
+          san<lb break="no" ed="#P" n="105"/>ctissimus ob eamdem causam ut illi, qui aliis 
+          fra<lb break="no" ed="#P" n="106"/>tribus debent in prandio post communionem 
+          mini<lb break="no" ed="#P" n="107"/>strare, aliquid prius comederent. Atque hoc quidem
+          <lb ed="#P" n="108"/>prandium mistum appellari solct. Debent autem
+          <lb ed="#P" n="109"/>singulis diebus religiosi communicare, qui vel 
+          po<lb break="no" ed="#P" n="110"/>mum, vel aroma aliquod, vel tale quidpiam 
+          sal<lb break="no" ed="#P" n="111"/>tem comedere debent, quod nauseam compescat.
+          <lb ed="#P" n="112"/>Eadem etiam consideratione statuit Ecclesia ut
+          <lb ed="#P" n="113"/>missae tribus certis horis pro dierum qualitatibus
+          <lb ed="#P" n="114"/>celebrarentur. Tertia videlicet hora diebus festis,
+          <lb ed="#P" n="115"/>sexta profestis, et nona in jejuniis, ut absoluta missa,
+          <lb ed="#P" n="116"/>et peracta communione , statim accedatur ad 
+          pran<lb break="no" ed="#P" n="117"/>dium, ne praedictam causam incurrant hi qui 
+          cem<lb break="no" ed="#P" n="118"/>municavcerunt. Dixi his tribus horis, quia his cclc-
+          <pb ed="#P" n="62"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>bratis licet prandere pro qualitate dierum, et non
+          <lb ed="#P" n="2"/>prius. Si autem forte contingat ut vel ho« die vel
+          <lb ed="#P" n="3"/>quoeunque etiam alio sacramenti aliquid e calice
+          <lb ed="#P" n="4"/>excidat, sciendum est, si de corpore fuerit, quod
+          <lb ed="#P" n="5"/>sumi oporteat ; si vero de sanguine super pannum
+          <lb ed="#P" n="6"/>ceciderit, quod debeat illud omne lambi quantum
+          <lb ed="#P" n="7"/>fieri potest, et si pannus iste lavandus sit, lavetur
+          <lb ed="#P" n="8"/>in pisciua. Sed si super lapidem vel lignum 
+          cecide<lb break="no" ed="#P" n="9"/>rit, debebit omnino eradi, et quod abrasum est 
+          com<lb break="no" ed="#P" n="10"/>buri, ac cinis ille sub altari recondi. Idem 
+          facien<lb break="no" ed="#P" n="11"/>dum est, si simile quidpiam nausea acciderit.
+          <lb ed="#P" n="12"/>Animadvertamus ergo hic quod ob duas praecipue
+          <lb ed="#P" n="13"/>causas aliquid lavatur : nempe propter veneratiouem
+          <lb ed="#P" n="14"/>sacramenti , sicut sacerdos lavat manus quando
+          <lb ed="#P" n="15"/>sacramentum tetigit; et propter immunditiam, ut
+          <lb ed="#P" n="16"/>quod immundum est, mundum efficiaur. ltemque
+          <lb ed="#P" n="17"/>ct illud animadvertamus decretum fuisse in quodam
+          <lb ed="#P" n="18"/>concilio Pictaviensi, ut nullus unquam sine lumine
+          <lb ed="#P" n="19"/>aut communicaret aut missam celebraret. Proinde
+          <lb ed="#P" n="20"/>cum eo quod statim diximus, observemus neque 
+          lai<lb break="no" ed="#P" n="21"/>cumn, neque sacerdotem debere post communionem
+          <lb ed="#P" n="22"/>in talem locum exspuere, quo sputum istud facile
+          <lb ed="#P" n="23"/>possit conculcari, vidclicet ante comestionem. Ubi
+          <lb ed="#P" n="24"/>etiam diligenter cavendum est, ne in locum 
+          immun<lb break="no" ed="#P" n="25"/>dum et impurum exspuatur. Quod autem hic 
+          quaeri<lb break="no" ed="#P" n="26"/>tur, quemadmodum canon dici debeat, citone an
+          <lb ed="#P" n="27"/>tarde? respondemus verba debere cito pronuntiari,
+          <lb ed="#P" n="28"/>sed tamen discrete. Et cur obsecro, cito? ne 
+          videli<lb break="no" ed="#P" n="29"/>cet muscae venientes auferant suavitatem unguenti.
+          <lb ed="#P" n="30"/>Quod quidem constat etiam ex Veteri Testamento
+          <lb ed="#P" n="31"/>in Exodo, ubi hoc pacto dicitur : Comedetis 
+          festi<lb break="no" ed="#P" n="32"/>nanter (Exod. xn). Dictum enim illud de 
+          immola<lb break="no" ed="#P" n="33"/>latione agni.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 105</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 105</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="55"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1334"><!-- raWSwa-c105 -->
+        <head xml:id="raWSwa-d1e1334-Hd1e101">Caput 105</head>
+        <head xml:id="raWSwa-d1e1334-Hd1e103" type="question-title">De Sabbato</head>
+        <p xml:id="raWSwa-d1e1334-d1e106">
+          <lb ed="#P" n="56"/>CAPUT CV
+          <lb ed="#P" n="57"/>De Sabbato.
+        </p>
+        <p xml:id="raWSwa-d1e1334-d1e113">
+          <lb ed="#P" n="58"/>His ita de vi feria prosecutis, transeundum est
+          <lb ed="#P" n="59"/>ad Sabbatum, in quo dicendum prius est de ipsius
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>diei nomine, ac postea de ejusdem eofficio, servato
+          <lb ed="#P" n="61"/>ordine. Hoc ergo Sabbatum xavrovopoci proprie
+          <lb ed="#P" n="62"/>Sabbatum sanctum appellatur. Sabbatum autem
+          <lb ed="#P" n="63"/>interpretatur requies, quoniam tempore creatiouis
+          <lb ed="#P" n="64"/>mundi quam Deus sex diebus absolvit et septimo
+          <lb ed="#P" n="65"/>die ab opere requievit. Quamobrem in lege Deus
+          <lb ed="#P" n="66"/>praecepit hunc diem abomni servili opere observari,
+          <lb ed="#P" n="67"/>ita ut in veteri lege haberetur sanctus. Verum hoc
+          <lb ed="#P" n="68"/>Sabbatum xa' itoys, seu per excellentiam ita est
+          <lb ed="#P" n="69"/>appellatum, quia significat requiem Christi ab opere
+          <lb ed="#P" n="70"/>recreationis in vi aetate. Quemadmodum enim Dcus
+          <lb ed="#P" n="71"/>opere creationis mundi, sexto die completo, septimo
+          <lb ed="#P" n="72"/>conquievit ; ita quoque in sexta aetate, recreationis
+          <lb ed="#P" n="73"/>opere absoluto, scilicet nativitate, passioneet 
+          caete<lb break="no" ed="#P" n="74"/>ris omnibus, quae de illo praedicta fuerant, vn aetate
+          <lb ed="#P" n="75"/>requievit, quae secundum quorumdam opinionem ab
+          <lb ed="#P" n="76"/>ipsius passione fuit auspicata. Alii tamen dicunt
+          <lb ed="#P" n="77"/>eam incoepisse a morte Abeli Quando enim anima
+          <lb ed="#P" n="78"/>Christi mortalitatem et omnem patibilem 
+          corpo<lb break="no" ed="#P" n="79"/>ris qualitatem exuisset, quasi in requic 
+          comquic<lb break="no" ed="#P" n="80"/>vit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

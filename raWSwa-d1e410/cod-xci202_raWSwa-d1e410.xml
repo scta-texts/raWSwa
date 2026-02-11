@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 29</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 29</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="20"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e410"><!-- raWSwa-c29 -->
+        <head xml:id="raWSwa-d1e410-Hd1e101">Caput 29</head>
+        <p xml:id="raWSwa-d1e410-d1e103">
+          <lb ed="#P" n="70"/>CAPUT XXXIX.
+          <lb ed="#P" n="71"/>De aliis sex horis.
+        </p>
+        <p xml:id="raWSwa-d1e410-d1e110">
+          <lb ed="#P" n="72"/>Sequitur de aliis sex horis, sub quibus stem sex
+          <lb ed="#P" n="73"/>aliac comprehenduntur. Diei itaque duodecim horae
+          <lb ed="#P" n="74"/>auribuuntur, et totidem nocti. Sub prima hora
+          <lb ed="#P" n="75"/>duas complectimur, ipsam videlicet primam et 
+          se<lb break="no" ed="#P" n="76"/>cundam; sub tertia tres, ipsam tertiam, et quartam
+          <lb ed="#P" n="77"/>et quintam; sub sexta itidem tres, ipsam sextam,
+          <lb ed="#P" n="78"/>septimam et octavam; sub nona duas, ipsam nonam
+          <lb ed="#P" n="79"/>et decimam; vesperse repraesentant undecimam;
+          <lb ed="#P" n="80"/>completorium duodecimam. A£ roget aliquis cur
+          <lb ed="#P" n="81"/>potius hisce diei horis diurnum celebretur officium,
+          <lb ed="#P" n="82"/>scilicet prima quam secunda, tertia quam quarta
+          <lb ed="#P" n="83"/>vel quinta, sexta quam septima aut octava, nona
+          <lb ed="#P" n="84"/>quam decima. Quoniam istae horae quibusdam 
+          in<lb break="no" ed="#P" n="85"/>signiuntur privilegiis. Prima enim hora Christus
+          <lb ed="#P" n="86"/>Pilato a Judais traditus fuit, et a merte resurgens
+          <lb ed="#P" n="87"/>prima hora Mariae Magdalenae apparuit. Prima hora
+          <lb ed="#P" n="88"/>visus est in littore septem discipulis piscantibus,
+          <lb ed="#P" n="89"/>quibus dixit : Pueri, habetis aliquid pulmenti?
+          <lb ed="#P" n="90"/>(Jean. xxi) Hora vero tertia crucifixus est linguis
+          <lb ed="#P" n="91"/>Judsgorum et flagellatus, eademque hora Spiritus
+          <lb ed="#P" n="92"/>sanctus ipso die Pentecostes discipulis fuit datus;
+          <lb ed="#P" n="93"/>sexta hora Christus pro nobis ligno crucis clavis
+          <lb ed="#P" n="94"/>affixus est, atque eadem quoque hora, ipso d.e
+          <lb ed="#P" n="95"/>ascensionis, cum discipulis discubuit. Nona hora
+          <lb ed="#P" n="96"/>exclamans spiritum emisit, et lanceatus e latere
+          <lb ed="#P" n="97"/>corporis sui duo nobis eduxit sacramenta, aquam
+          <lb ed="#P" n="98"/>videlicet baptismatis et sanguinem redemptionis ac
+          <lb ed="#P" n="99"/>salvationis nostrae. Vespere de cruce depositus est,
+          <lb ed="#P" n="100"/>qua item hora in ultima coena cum discipulis suis
+          <lb ed="#P" n="101"/>cocnavit, ubi illis sacramentum corporis et sanguinis
+          <lb ed="#P" n="102"/>sui tradidit, quod nobis saluberrimum testamentum
+          <lb ed="#P" n="103"/>hinc discedens reliquit. Eadem rursus hora duobus
+          <lb ed="#P" n="104"/>suis discipulis proficiscentibus in Emmaus in 
+          fra<lb break="no" ed="#P" n="105"/>ctione panis fuit agnitus.
+        </p>
+        <p xml:id="raWSwa-d1e410-d1e186">
+          <lb ed="#P" n="106"/>Postremo in completorio Patrem pro suis 
+          disci<lb break="no" ed="#P" n="107"/>pulis oravit, qua etiam hora in sepulcrum positus
+          <lb ed="#P" n="108"/>est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

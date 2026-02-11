@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 30</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 30</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="20"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e422"><!-- raWSwa-c30 -->
+        <head xml:id="raWSwa-d1e422-Hd1e101">Caput 30</head>
+        <head xml:id="raWSwa-d1e422-Hd1e103" type="question-title">
+          De psalmis qui hisce horis cantantur.
+        </head>
+        <p xml:id="raWSwa-d1e422-d1e106">
+          <lb ed="#P" n="109"/>CAPUT XXX.
+          <lb ed="#P" n="110"/>De psalmis qui hisce horis cantantur.
+        </p>
+        <p xml:id="raWSwa-d1e422-d1e113">
+          <lb ed="#P" n="111"/>Qui psalmi hisce horis et quae cantica debeant
+          <lb ed="#P" n="112"/>usurpari, equidem satis notum esse puto. Quia ver
+          <lb ed="#P" n="113"/>ad aliam spectent editionem, ac nos de generali 
+          of<lb break="no" ed="#P" n="114"/>ficio hoc tempore tractare proposuerimus, paucis
+          <lb ed="#P" n="115"/>quae hic sunt praecipienda tradamus. Sciendum ergo
+          <lb ed="#P" n="116"/>est generaliter in matutinis laudibus sex psalmos
+          <pb ed="#P" n="21"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>semper cantari, atque in àliis horis similiter, per
+          <lb ed="#P" n="2"/>quossex opera misericordiae desiguantur, quibus 
+          ope<lb break="no" ed="#P" n="3"/>rarii in vinca Domini laborantes intenti necessario
+          <lb ed="#P" n="4"/>esse debent. quaeque si pie ac mundo corpore 
+          exer<lb break="no" ed="#P" n="5"/>ceamus, aservituie diaboli liberati ad vitae libertatem
+          <lb ed="#P" n="6"/>procul dubio perveniemus, et pro mercede 
+          fidelissi<lb break="no" ed="#P" n="7"/>ni laboris denarium divinum, hoc est 
+          sempiter<lb break="no" ed="#P" n="8"/>nam vitam recipiemus. Sane notandum hic venit
+          <lb ed="#P" n="9"/>quod in laudibus matutipis duos conjungimus 
+          psal<lb break="no" ed="#P" n="10"/>mos, scilicet Deus, Deus meus, ad te de luce vigilo
+          <lb ed="#P" n="11"/>iPsal. 12:1) , et Deus misereaiur nostri (Psal. Lxvi),
+          <lb ed="#P" n="12"/>quos una tantum Cloria finimus. Sed quare hoc fiat,
+          <lb ed="#P" n="13"/>bujusmodi potest ratio adduci : Quoniam alter 
+          ho<lb break="no" ed="#P" n="14"/>rum Dei signiticat dilectionem, alter vero prosimi,
+          <lb ed="#P" n="15"/>que duae dilectiones usque adeo inter se sunt 
+          an<lb break="no" ed="#P" n="16"/>vetae, ut una sine altera in Christiana pcerfectione
+          <lb ed="#P" n="17"/>ntelligi nequeat. Ad hymnum autem trium 
+          puero<lb break="no" ed="#P" n="18"/>rum, scilicet Benedicite, omnia, etc. (Dan. m), 
+          Glo<lb break="no" ed="#P" n="19"/>ria Patri non adjungimus , quod propter ejusmodi
+          <lb ed="#P" n="20"/>filei confessionem in caminum ignis sint conjecti.
+          <lb ed="#P" n="21"/>Quo quidem facto maximne derogatum est Trinitati.
+          <lb ed="#P" n="22"/>Vel quod ejus hymni postremus versiculus idem
+          <lb ed="#P" n="23"/>significat cum Gloria Patri, ne quid in sacris 
+          Scri<lb break="no" ed="#P" n="24"/>pnris supervacaneum reperiatur. In matutinis vero
+          <lb ed="#P" n="25"/>budibus non jubilamus, nisi in ultima tantum 
+          an<lb break="no" ed="#P" n="26"/>upbona. Nam cum per laudes Domini intelliganus
+          <lb ed="#P" n="27"/>resurrectionem, in qua nil penitus desideravit, 
+          bea<lb break="no" ed="#P" n="28"/>titudine et immortalitate jam consecuta, certe nullo
+          <lb ed="#P" n="29"/>bhic opus est jubilo, qui rei alicujus significat 
+          desi<lb break="no" ed="#P" n="30"/>derium. Nec etiam in completorio , quod octasam
+          <lb ed="#P" n="31"/>connolat resurrectionem. Non quod post 
+          resurrectio<lb break="no" ed="#P" n="32"/>nem jubilus esse desinat , quando verius cum ipsis
+          <lb ed="#P" n="33"/>angelis Creatori nostro jubilum simus cantaturi, sed
+          <lb ed="#P" n="34"/>quod tum suam amittet significationem, qua 
+          alicu<lb break="no" ed="#P" n="35"/>jus rei dicitur esse desiderium. Tum enim nihil 
+          de<lb break="no" ed="#P" n="36"/>siderabimus, ut inquit Dominus : In die illa me non
+          <lb ed="#P" n="37"/>rogabitis quidquam (Joan. xvi). Dictis itaque ad
+          <lb ed="#P" n="38"/>eum modum psalmis cum antiphona, legit saccrdos
+          <lb ed="#P" n="39"/>lectionem, quam alio nomine appellamus capitulum,
+          <lb ed="#P" n="40"/>quoniam ex capite epistolae istius diei sumitur, 
+          Le<lb break="no" ed="#P" n="41"/>gitur autem absque Jube, domne, benedicere, et 
+          abs<lb break="no" ed="#P" n="42"/>que sacerdotali benedictionc, quod praelatis 
+          Eccle<lb break="no" ed="#P" n="43"/>size ac sacerdotibus proprium sit cam semper legere,
+          <lb ed="#P" n="44"/>qui lcgndi veniam non petunt, cum eam aliis dare
+          <lb ed="#P" n="45"/>debeant. Nec est quod quis nobis objiciat, si in 
+          no<lb break="no" ed="#P" n="46"/>cturnis (quod fere flt) sacerdoscctionem lcgerit, an
+          <lb ed="#P" n="47"/>ctiam sit necessarium veniam postulare ac dicere:
+          <lb ed="#P" n="48"/>Jube, domne, benedicere, quod ejus sit 
+          benedictio<lb break="no" ed="#P" n="49"/>nem et licentiam dare? Dicimus enim quod si hoc
+          <lb ed="#P" n="50"/>pacto lectionem legerit sacerdos, eum praeter officium
+          <lb ed="#P" n="51"/>suum facerc, cum sit lectoris. Verum si hic non
+          <lb ed="#P" n="52"/>adsit, tum facile permittitur ut vel sacerdos, vel 
+          cle<lb break="no" ed="#P" n="53"/>ricus sacerdotis, vel ctiam quispiam alius ordinis
+          <lb ed="#P" n="54"/>minoris tanquam lecturus dicat : Jube, domne, 
+          at<lb break="no" ed="#P" n="55"/>que ei benedictio a sacerdote reddatur.
+        </p>
+        <p xml:id="raWSwa-d1e422-d1e252">
+          <lb ed="#P" n="56"/>Absoluto capitulo non subjungit, Tu autem 
+          Do<lb break="no" ed="#P" n="57"/>mine, quia ratio postulat ut sacerdos sit perfectus,
+          <lb ed="#P" n="58"/>et qui suggestionibus diaboli haud facile succumbat.
+          <lb ed="#P" n="59"/>Sacerdos igitur in persona Domini per capitulum
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>nos senus admonet, atque hortatur ore, ut in fide
+          <lb ed="#P" n="61"/>perseveremus , et operibus misericordiae perpetuo
+          <lb ed="#P" n="62"/>incumbamus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

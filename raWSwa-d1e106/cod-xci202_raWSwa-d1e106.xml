@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 4</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 4</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="9"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e106"><!-- raWSwa-c4 -->
+        <head xml:id="raWSwa-d1e106-Hd1e101">Caput 4</head>
+        <head xml:id="raWSwa-d1e106-Hd1e103" type="question-title">
+          De solemnitate festivitatum.
+        </head>
+        <p xml:id="raWSwa-d1e106-d1e106">
+          <lb ed="#P" n="21"/>CAPUT IV.
+          <lb ed="#P" n="22"/>De solemnitate festivitatum.
+        </p>
+        <p xml:id="raWSwa-d1e106-d1e113">
+          <lb ed="#P" n="23"/>Primo igitur de festivitatum solemnitate 
+          agen<lb break="no" ed="#P" n="24"/>Qum est, quae pluribus nominibus vulgo exprimi 
+          so<lb break="no" ed="#P" n="25"/>let, nimirum his : festivitas, festum, celebritas, 
+          exi<lb break="no" ed="#P" n="26"/>tus, transitus, obitus, assumptio, dcepos:tio, 
+          dor<lb break="no" ed="#P" n="27"/>mitio, passio, dedicatio, nativitas, natalis, vcl 
+          na<lb break="no" ed="#P" n="28"/>tale et natalitium. Festivitas dicitur, quasi festi
+          <lb ed="#P" n="29"/>sancti alicujus nativitas. Nativitas vero proprie 
+          ap<lb break="no" ed="#P" n="30"/>pellatur festum illius nativitatis, quae est in carne
+          <lb ed="#P" n="31"/>et in mundo, ita ut hinc solum dicatur nativitas
+          <lb ed="#P" n="32"/>Christi, B. Marize et Joannis Baptistae, quod horum
+          <lb ed="#P" n="33"/>nativitates duntaxat ab Ecclesia celebrentur. 
+          Nata<lb break="no" ed="#P" n="34"/>lis vel natale et natalitium vocatur sanctorum ex
+          <lb ed="#P" n="35"/>hoc szeculo commigratio, qia ut seeculo et muno
+          <lb ed="#P" n="36"/>meoriuntur, ita tunc coelo nascuntur. Indifferenter
+          <lb ed="#P" n="37"/>autem tria bac vocabula usurpantur. Dicitur porro
+          <lb ed="#P" n="38"/>transitus festum, quod est de morte beatorum, cum
+          <lb ed="#P" n="39"/>corum animxae e corporibus exeuntes per varia loca
+          <lb ed="#P" n="40"/>sibi incognita transire debeant, nempc, si dicere
+          <lb ed="#P" n="41"/>liceat, per caelum aerium, aethereum, crystallinum,
+          <lb ed="#P" n="42"/>donec pervenerint ad coelum empyreum. Obitus
+          <lb ed="#P" n="43"/>appellatur, quasi tum animis angeli veniant 
+          ob<lb break="no" ed="#P" n="44"/>viam, cujusmodi de B. Martino legitur. Passio 
+          au<lb break="no" ed="#P" n="45"/>tem nuncupatur, quasi tum maxime corpus 
+          patie<lb break="no" ed="#P" n="46"/>batur, cum inde anima excederet. Quapropter fieri
+          <lb ed="#P" n="47"/>etiam 'potest ut uniuscujusque obitus appellctur
+          <lb ed="#P" n="48"/>passio, cum ille discessus animae ac distractio a
+          <lb ed="#P" n="49"/>corpore. non sine magno dolore fiat. Nec cnim sine
+          <lb ed="#P" n="50"/>causa est, quod D. Hieronymus in Vitis Patrum de
+          <lb ed="#P" n="51"/>quodam viro sancto narrat, qui Dominum 
+          rogave<lb break="no" ed="#P" n="52"/>rat ut sibi vellet ostendere quemadmodum e corpore
+          <lb ed="#P" n="53"/>excedcret anima absque dolore et angustia aliqua.
+          <lb ed="#P" n="54"/>Nam cum hic quodam die forte fortuna ab suo 
+          ve<lb break="no" ed="#P" n="55"/>niret tuguriolo, vidit juxta viam pauperem 
+          quem<lb break="no" ed="#P" n="56"/>dam ante se misere prostratum, ac jam animam
+          <lb ed="#P" n="57"/>agentem, cui aliquot, ut perspicue videbat, 
+          asta<lb break="no" ed="#P" n="58"/>bant angeli, qui ejus exspectabant animam, ut eam
+          <lb ed="#P" n="59"/>ad superos deportarent. Verum hi, postcaquam illic
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>multum diuque exspectassent , vox -missa e caelis
+          <lb ed="#P" n="61"/>ad angelos iHico audita est : « Ad quid tandem 
+          mo<lb break="no" ed="#P" n="62"/>ramini ? » Ad quaim illi responderunt Dominum
+          <lb ed="#P" n="63"/>priecepisse ut animam illius sine corporis 
+          anxie<lb break="no" ed="#P" n="64"/>tate educerent, quod certe facere non poterant.
+          <lb ed="#P" n="65"/>Haud iujuria érgo cujusque obitus et passio dici
+          <lb ed="#P" n="66"/>potest. Assumptio vero proprie dicitur transitus B.
+          <lb ed="#P" n="67"/>Marise, et depositio S. Joannis evangelistae, qui 
+          vi<lb break="no" ed="#P" n="68"/>vus sepulcrum ingressus est, et se quasi in illud
+          <lb ed="#P" n="69"/>deposuit. Tandein etiam dormitio mors appellatur
+          <lb ed="#P" n="70"/>sanctorum, quae illis est velut optatissima quies.
+          <lb ed="#P" n="71"/>Sicut enim a somno validiores atque integriores
+          <lb ed="#P" n="72"/>surgere omnces soleamus, ita et sancti sine 
+          difficnl<lb break="no" ed="#P" n="73"/>tate resurgent in corporibus glorificatis quasi e
+          <lb ed="#P" n="74"/>somno fuissent expcrrecti. Unde illud est quod 
+          Do<lb break="no" ed="#P" n="75"/>minus de Lazaro dixit : Lazarus amicus noster 
+          dor<lb break="no" ed="#P" n="76"/>mit (Joan. x1).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

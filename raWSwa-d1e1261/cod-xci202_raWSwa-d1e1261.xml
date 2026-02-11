@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 99</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 99</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="52"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1261"><!-- raWSwa-c99 -->
+        <head xml:id="raWSwa-d1e1261-Hd1e101">Caput 99</head>
+        <head xml:id="raWSwa-d1e1261-Hd1e103" type="question-title">
+          De duabus partibus sacramenti.
+        </head>
+        <p xml:id="raWSwa-d1e1261-d1e106">
+          <lb ed="#P" n="30"/>CAPUT XCIX.
+          <lb ed="#P" n="31"/>De duabus partibus sacramenti.
+        </p>
+        <p xml:id="raWSwa-d1e1261-d1e113">
+          <lb ed="#P" n="32"/>Nunc dicendum est, quare una pars sacramenti,
+          <lb ed="#P" n="33"/>scilicet corpus, sub specie panis reservetur die
+          <lb ed="#P" n="34"/>Coenae, et altera pars, scilicet sanguis, sub specie
+          <lb ed="#P" n="35"/>vini non reservetur. Ac duae quidem sunt caussee,
+          <lb ed="#P" n="36"/>quamobrem corpus reservetur. Prima est ne fortasse
+          <lb ed="#P" n="37"/>quispiam ex hac vita sine viatico discedat, quod
+          <lb ed="#P" n="38"/>evenire posset, ni reservaretur ; atque ipstitutum ita
+          <lb ed="#P" n="39"/>est ab Innocentio papa. Secunda est quod illis tribus
+          <lb ed="#P" n="40"/>diebus maxime omncs ii religiosi quibus necessitas
+          <lb ed="#P" n="41"/>est, debeant communicare. (uare oportet ut 
+          sacra<lb break="no" ed="#P" n="42"/>mentum illud reservetur , quoniam eo die 
+          conse<lb break="no" ed="#P" n="43"/>crari non debet : ut supra ostensum est. Cur autem
+          <lb ed="#P" n="44"/>sacramentum vini non servetur, triplex est ratio:
+          <lb ed="#P" n="45"/>Prima est quia, cum vinum liquidum sit, non posset
+          <lb ed="#P" n="46"/>tam hene reservari, quin quadam negligentia facile
+          <lb ed="#P" n="47"/>queat labi; secunda est quod duos sacrificiorum
+          <lb ed="#P" n="48"/>ritus suis temporibus approbavcrit Deus, veterem
+          <lb ed="#P" n="49"/>legis, videlicet suo tempore, et novum hoc 
+          tem<lb break="no" ed="#P" n="50"/>pore. Hos duos ritus siguificant panis et vinum,
+          <lb ed="#P" n="51"/>licet utraque res sit novi sacramenti, panis nempe
+          <lb ed="#P" n="52"/>novum, et vinum veterem. Nec mirum videri debet,
+          <lb ed="#P" n="53"/>si per rem novi sacramenti vetus sacrificium 
+          signi<lb break="no" ed="#P" n="54"/>ficetur, cum et contra inveniatur, rem videlicet
+          <lb ed="#P" n="55"/>veteris Testamenti declarare novum. Nam quartis
+          <lb ed="#P" n="56"/>feriis septimanarum quando ordines celebrantur,
+          <lb ed="#P" n="57"/>dua lectiones ex veteri Testamento recitantur,
+          <lb ed="#P" n="58"/>quarum altera quae sub nocturnali tomo exprimitur,
+          <lb ed="#P" n="59"/>vetus significat Testamentum ; altera vero quae sub
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>tono communi, Novum. Ex eo itaque, quod vinum
+          <lb ed="#P" n="61"/>non reservetur, ostenditur vetus sacrificium 
+          ces<lb break="no" ed="#P" n="62"/>sarce debere. Tertia ratio est, quod idcirco non 
+          re<lb break="no" ed="#P" n="63"/>servetur, quia Christus dixit in coena : Amen dico
+          <lb ed="#P" n="64"/>vobis, quod amodo non bibam de hoc genimine vitis,
+          <lb ed="#P" n="65"/>donec bibam illud vobiscum novum in regno Patris
+          <lb ed="#P" n="66"/>mei (Matth. xxvi).
+        </p>
+        <p xml:id="raWSwa-d1e1261-d1e194">
+          <lb ed="#P" n="67"/>Si quis autem roget, num istud vinum, quod eo
+          <lb ed="#P" n="68"/>die in communione sumitur, ex Dominici corporis
+          <lb ed="#P" n="69"/>contactu consacretur, quamvis complurium scripta
+          <lb ed="#P" n="70"/>illud asserere videantur, nos tamen veritstem
+          <lb ed="#P" n="71"/>magis sequentes et ea quae sancti Patres 
+          tradide<lb break="no" ed="#P" n="72"/>runt, dicimus vinum illud omnino non esse 
+          conse<lb break="no" ed="#P" n="73"/>cratum ex illo contactu, sed sanctificatum. Est enim
+          <lb ed="#P" n="74"/>differentia inter consecratum et sanctificatum. 
+          Con<lb break="no" ed="#P" n="75"/>secratum dicitur quod in consecratione, ut ita 
+          di<lb break="no" ed="#P" n="76"/>cam, transubstantiatur. Sanctificatum vero est
+          <lb ed="#P" n="77"/>quod per verborum significationem efficitur sanctum
+          <lb ed="#P" n="78"/>sine aliqua transubstantiatione , ut aqua lustralis,
+          <lb ed="#P" n="79"/>quam ideo benedictam dicimus. Rursus 
+          sanctifica<lb break="no" ed="#P" n="80"/>tum dicitur, quod a tractu rei sanctificataa magis
+          <lb ed="#P" n="81"/>efücitur referendum. Si autem diceretur, quod solp
+          <lb ed="#P" n="82"/>contactu vinum vcl aqua consecraretur, magna 
+          pro<lb break="no" ed="#P" n="83"/>fecto inde sequeretur rerum perturbatio et 
+          confa<lb break="no" ed="#P" n="84"/>sie. Sic enim contingeret calicem non posse lavari,
+          <lb ed="#P" n="85"/>indeque efficeretur, ut jam sexcenti panes uuius
+          <lb ed="#P" n="86"/>hostiae contactu, sine verbo possent consecrari; et
+          <lb ed="#P" n="87"/>si una aliqua gutta aquae lustralis seu benedictae in
+          <lb ed="#P" n="88"/>stagnum vel puteum, qui ex lacunis scaturit, 
+          infunde<lb break="no" ed="#P" n="89"/>retur, aqua illa perpetuo benedicta maneret : atque
+          <lb ed="#P" n="90"/>ejusmodi infinita alia iucommoda; ex ea re 
+          nasce<lb break="no" ed="#P" n="91"/>rentur. Jam etiam praetereo, si Dominici corporis
+          <lb ed="#P" n="92"/>tactu vinum consecraretur, contra decretum fieri
+          <lb ed="#P" n="93"/>quod prohibet, ne hoc die consecratio flat.
+        </p>
+        <p xml:id="raWSwa-d1e1261-d1e256">
+          <lb ed="#P" n="94"/>Quod antem hic quaeritur quamobrem Christus
+          <lb ed="#P" n="95"/>discipulis prius corpus suum dederit mysticum
+          <lb ed="#P" n="96"/>quam in veritate illud offerret, discussum satis apud
+          <lb ed="#P" n="97"/>alios est. Advertendum ergo hic est, et repetendum,
+          <lb ed="#P" n="98"/>quod paulo ante a nobis dictum est, utpote 
+          secun<lb break="no" ed="#P" n="99"/>dum triplicem Christi crucifixionem, quae hoc die
+          <lb ed="#P" n="100"/>re ipsa facta est, tribus horis, tertia videlicet sexta
+          <lb ed="#P" n="101"/>et nona per universum annum missas celebrandas
+          <lb ed="#P" n="102"/>esse. lora enim tertia crucifixus est linguis 
+          Judaeo<lb break="no" ed="#P" n="103"/>rum aientium : Tolle, tolle, crucifige eum (Joan.,
+          <lb ed="#P" n="104"/>xix). Hora sexta in cruce positus fuit, et nona 
+          ex<lb break="no" ed="#P" n="105"/>spiravit ; quapropter hae horae ad celebrandas missas
+          <lb ed="#P" n="106"/>canonice sunt institutae, quae Christi immolationem
+          <lb ed="#P" n="107"/>mystice repraesentant. Diebus enim festis cum a
+          <lb ed="#P" n="108"/>libidine est abstinendum, mnissa debet tertia hora
+          <lb ed="#P" n="109"/>celebrari ; pro festis, sexta, et in jejuniis nona, sin
+          <lb ed="#P" n="110"/>aliter fiat certe canonicum et regulare non est. 
+          Ex<lb break="no" ed="#P" n="111"/>ceptis interim iis temporibus, quibus nocte missa
+          <lb ed="#P" n="112"/>celebrari debeat, ut in Natali Domini et in Sabbato
+          <lb ed="#P" n="113"/>Paschae. Missa enim quae tunc celebratur, non ad
+          <lb ed="#P" n="114"/>Sabbatum pertinet, sed ad diem Resurrectionis.
+          <lb ed="#P" n="115"/>Unde etiam nunc Romae et per universum 
+          Raven<lb break="no" ed="#P" n="116"/>nensium archiepiscopatum, sub quo et DBononiensis
+          <lb ed="#P" n="117"/>Ecclesia continetur, tunc missam non celebrat
+          <lb ed="#P" n="118"/>usque ad noctem. Quod autem sic fleri debeat, satis
+          <pb ed="#P" n="53"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ipsa ostendit oratio, qua tum dicitur : Deus, qui
+          <lb ed="#P" n="2"/>kanc sacratissimam noctem, et illud quod in cerei,
+          <lb ed="#P" n="3"/>quem vocant, benedictione canitur : Hac noz est.
+          <lb ed="#P" n="4"/>Sie itidem quotiescunque ordines conficiuntur,
+          <lb ed="#P" n="5"/>socte missa celebrari debet, quoniam officium 
+          majo<lb break="no" ed="#P" n="6"/>rum ordinum ad diem spectat Dominicam. Sed quia
+          <lb ed="#P" n="7"/>3 jejunio incipere oporteat, ideo in Sabbato post
+          <lb ed="#P" n="8"/>vesperas illud inchoamus, et ad noctem usque 
+          pro<lb break="no" ed="#P" n="9"/>tielamus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

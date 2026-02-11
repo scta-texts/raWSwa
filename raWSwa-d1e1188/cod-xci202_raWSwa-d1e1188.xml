@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 93</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 93</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="47"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1188"><!-- raWSwa-c93 -->
+        <head xml:id="raWSwa-d1e1188-Hd1e101">Caput 93</head>
+        <head xml:id="raWSwa-d1e1188-Hd1e103" type="question-title">
+          De Dominicis diebus privilegiatis.
+        </head>
+        <p xml:id="raWSwa-d1e1188-d1e106">
+          <lb ed="#P" n="83"/>CAPUT XCIII.
+          <lb ed="#P" n="84"/>De Dominicis diebus privilegiatis.
+        </p>
+        <p xml:id="raWSwa-d1e1188-d1e113">
+          <lb ed="#P" n="85"/>Sequitur de diebus Dominicis : et quidem prima
+          <lb ed="#P" n="86"/>Dominica Quadragesima in hoc est privilegiata,
+          <lb ed="#P" n="87"/>quoniam inde inchoatur ipsa Quadragesima, quae
+          <lb ed="#P" n="88"/>repraesentat tempus illud, quo morati sint atque
+          <lb ed="#P" n="89"/>haeserint in deserto filii Israel. Sicut enim illi isthic
+          <lb ed="#P" n="90"/>morati sunt per quadraginta duas mansiones manna
+          <lb ed="#P" n="91"/>cibati, ita nos quoque ab hac Dominica usque ad
+          <lb ed="#P" n="92"/>Pascha per quadraginta duos dies a deliciis 
+          corpo<lb break="no" ed="#P" n="93"/>reis abstinentes verbo vitse reficimur, et orationt
+          <lb ed="#P" n="94"/>vacamus ; ut per Christum in terram viventium 
+          in<lb break="no" ed="#P" n="95"/>troducamur, quemadmodum illi introducti per Jesum
+          <lb ed="#P" n="96"/>Nave filium, sive per Josue in terram promissionis. .
+          <lb ed="#P" n="97"/>Tria notanda sunt in populo Israelitico, scilicet
+          <lb ed="#P" n="98"/>peregrinatio, quae fuit in gypto, quando Jacob et
+          <lb ed="#P" n="99"/>filii ejus profecti sunt in ZEgyptum; captivitas quae
+          <lb ed="#P" n="100"/>in Babylone contigit : atque horum duorum nos
+          <lb ed="#P" n="101"/>meminimus. Tertium fuit dispersio, et adhuc est per
+          <lb ed="#P" n="102"/>universum orbem. Cujus quidem nos mentionem
+          <lb ed="#P" n="103"/>non facimus, quia ab illa nunquam revocabuntur,
+          <lb ed="#P" n="104"/>quae facta fuit Tito et Vespasiano. Unde dictum
+          <lb ed="#P" n="105"/>est : Tradam eos in manu, de qua non poterunt 
+          sur<lb break="no" ed="#P" n="106"/>gere (Thren. ). Dominica vero Latare Jerusalem,
+          <lb ed="#P" n="107"/>quae septima est a prima Dominica Septuagesimae,
+          <lb ed="#P" n="108"/>ob id privilegio insignita est, quod libertatem nobis
+          <lb ed="#P" n="109"/>exprimat redeundi, quae fuit concessa filiis Israel
+          <lb ed="#P" n="110"/>in Babylonia anno sexagesimo, quanquam plene 
+          ob<lb break="no" ed="#P" n="111"/>tinuerunt anno septuagesimo. Ex quo sane totum
+          <lb ed="#P" n="112"/>ejus diei officium de laetitia est, ut partim illorum
+          <lb ed="#P" n="113"/>exprimamus laetitiam, partim etiam nostram, quam
+          <lb ed="#P" n="114"/>finitis septem aetatibus, a mundi exsilio liberati 
+          ha<lb break="no" ed="#P" n="115"/>bebimus, cum coalestem paradisum, quae vere patria
+          <lb ed="#P" n="116"/>nostra est, intrabimus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

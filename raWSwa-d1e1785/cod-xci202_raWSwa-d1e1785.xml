@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 142</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 142</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="73"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1785"><!-- raWSwa-c142 -->
+        <head xml:id="raWSwa-d1e1785-Hd1e101">Caput 142</head>
+        <head xml:id="raWSwa-d1e1785-Hd1e103" type="question-title">
+          De festo Machabaorum.
+        </head>
+        <p xml:id="raWSwa-d1e1785-d1e106">
+          <lb ed="#P" n="79"/>CAPUT CXLII.
+          <lb ed="#P" n="80"/>De festo Machabaorum.
+        </p>
+        <p xml:id="raWSwa-d1e1785-d1e113">
+          <lb ed="#P" n="81"/>Hic animadvertendum est Machabaeos hos nona
+          <lb ed="#P" n="82"/>illos esse ex quibus unus fuit Judas Machabaeus, sed
+          <lb ed="#P" n="83"/>qui fuerunt filii Felicitatis, ut quibusdam placet.
+          <lb ed="#P" n="84"/>Alii affirmant Felicitatem matrem fuisse aliorum
+          <lb ed="#P" n="85"/>septem fratrum, qui Christi nomine passi sunt et
+          <lb ed="#P" n="86"/>quorum nomina ignorat Exclesia. Hanc Felicitatem
+          <lb ed="#P" n="87"/>vocat B. Gregorius plusquam martyrem, quod
+          <lb ed="#P" n="88"/>septies passa sit in septem filiis, et octavo tandem
+          <lb ed="#P" n="89"/>in proprio corpore. Certe illa Felicitas, cujus hi sunt
+          <lb ed="#P" n="90"/>liberi , quorum festum hic agitur, duplex sustinutt
+          <lb ed="#P" n="91"/>martyrium, vidit enim filios divcrsa pati tormenta,
+          <lb ed="#P" n="92"/>et deinde ipsa martyrium sustinuit. Erant enim ejus
+          <lb ed="#P" n="93"/>septem filii, tametsi non hos fuisse quidam putent.
+          <lb ed="#P" n="94"/>Meminit autem eorum festum Ecclesia tam 
+          Orien<lb break="no" ed="#P" n="95"/>talis quam Occidentalis, quanquam nullius saucti
+          <lb ed="#P" n="96"/>Veteris Testamenti praeter hos, si ita sint, contra
+          <lb ed="#P" n="97"/>multorum habet festa. Verum hos utraque colit
+          <lb ed="#P" n="98"/>Ecclesia, quod propter lcgis observationem passi
+          <lb ed="#P" n="99"/>sint, cum carnem porcinam comedere recusarent.
+          <lb ed="#P" n="100"/>Est rursus alia ratio quoniam numero septem 
+          fue<lb break="no" ed="#P" n="101"/>runt. Atqui septenarius numerus, ut est praeter 
+          cae<lb break="no" ed="#P" n="102"/>teros plenus et perfectus, ita numerum exprimit
+          <lb ed="#P" n="103"/>universitatis. Quare in his septem significantur 
+          om<lb break="no" ed="#P" n="104"/>nes martyres, tam Veteris quam Novi Testamenti.
+          <lb ed="#P" n="105"/>Atque exhibentur martyribus Novi Testamenu in
+          <lb ed="#P" n="106"/>exeniplum, ut quemadmodum illi pro soa lege passi
+          <lb ed="#P" n="107"/>suBt, ita et nos vel mortis periculum pro nosta
+          <lb ed="#P" n="108"/>adire non horreamus, si necesse fuerit. Saue ergo
+          <lb ed="#P" n="109"/>hujusmodi festum magis celebratur gratia eorum
+          <lb ed="#P" n="110"/>qui significantur quam qui signilicant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

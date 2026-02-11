@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 73</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 73</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="40"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e945"><!-- raWSwa-c73 -->
+        <head xml:id="raWSwa-d1e945-Hd1e101">Caput 73</head>
+        <head xml:id="raWSwa-d1e945-Hd1e103" type="question-title">
+          De Epiphania.
+        </head>
+        <p xml:id="raWSwa-d1e945-d1e106">
+          <lb ed="#P" n="14"/>CAPUT LLXXIII
+          <lb ed="#P" n="15"/>De Epiphania.
+        </p>
+        <p xml:id="raWSwa-d1e945-d1e113">
+          <lb ed="#P" n="16"/>Post haec sequitur dies apparitionum, sive 
+          epi<lb break="no" ed="#P" n="17"/>phaniarum, quae plures leguntur fuisse eodem die,
+          <lb ed="#P" n="18"/>annis tamen diversis. Quarum quidem una effecta
+          <lb ed="#P" n="19"/>est per stellam decimo tertio dic a uativitate Christi.
+          <lb ed="#P" n="20"/>Atque haec proprie dicitur Epipbania, a Graeco verbo
+          <lb ed="#P" n="21"/>ixepaivopat, quod est appareo. Altera vero facta est
+          <lb ed="#P" n="22"/>per vocem Patris, eodem die anno trigesimo, et 
+          ap<lb break="no" ed="#P" n="23"/>gellatur 6sogevin, 2-8«0c, quod nobis est Deus. Tertia
+          <lb ed="#P" n="24"/>Jdenique nominata est Bethania, nomine conflato
+          <lb ed="#P" n="25"/>ab Hebraeo et Graeco, videlicet a beth, quod domus
+          <lb ed="#P" n="26"/>est, quae item alio anno eodem die contigit. 
+          Appa<lb break="no" ed="#P" n="27"/>suit enim in domo per transformationem aqua in
+          <lb ed="#P" n="28"/>vinum. Atque hae quidem tres epiphanie leguntur in
+          <lb ed="#P" n="29"/>Evangeliotanquam eodem die factae. Quartam addidit
+          <lb ed="#P" n="30"/>Beda in Commentariis in Lucam eodem die fuisse 
+          fa<lb break="no" ed="#P" n="31"/>ctam anno revoluto, videlicet quae fuit de 
+          refectio<lb break="no" ed="#P" n="32"/>ne panunt,' diciturque phagipbania a edyo, quod
+          <lb ed="#P" n="33"/>est comedo. His omnibus manifestatus est Christus
+          <lb ed="#P" n="34"/>esse Deus. Quatuor ergo festa sunt uno die. Si
+          <lb ed="#P" n="35"/>quaeratur qua. ratione tam cito reges venire 
+          potue<lb break="no" ed="#P" n="36"/>rint , cum ipso die nativitatis primo eis stella visa
+          <lb ed="#P" n="37"/>$it, ita ut difficile fuerit ab exteris regionibus spatio
+          <lb ed="#P" n="38"/>dierum tredecim itnereterrestri venire Jerosolymam.
+          <lb ed="#P" n="39"/>Sed huic nos bifariam respondere poseumus, quod
+          <lb ed="#P" n="40"/>nimirum ut plerigue affirmant eis ante nativitatem
+          <lb ed="#P" n="41"/>stella apparuerit, vel quod, ut alii putant, 
+          drome<lb break="no" ed="#P" n="42"/>dariis venerint. Est autem dromedarius animal
+          <lb ed="#P" n="43"/>paulo minoris staturae quam camelus , cum tamen
+          <lb ed="#P" n="44"/>cursu sit multo velocior. Potest enim uno die 
+          tan<lb break="no" ed="#P" n="45"/>tum itineris cenficere, quantum equus diebus tribus.
+          <lb ed="#P" n="46"/>Si rursum roget quis quonam stella illa evanuerit,
+          <lb ed="#P" n="47"/>respohdebimus iterum duobus modis, quod vel 
+          ce<lb break="no" ed="#P" n="48"/>ciderit, ut quibusdam placet in puteum, ubi 
+          etiam<lb break="no" ed="#P" n="49"/>num facile sit conspicua iis tantum qui sunt 
+          virgi<lb break="no" ed="#P" n="50"/>nes; vel quod, ut alii opinantur, in priorem 
+          mate<lb break="no" ed="#P" n="51"/>riam sit dissoluta. Caeterum ipso festo Epiphaniae
+          <lb ed="#P" n="52"/>ad primum nocturnum non dicimus : Venite, idque
+          <lb ed="#P" n="53"/>duplici de causa, tum quia reges ad adorandum
+          <lb ed="#P" n="54"/>Christum non invitati venerunt , tum ne videamur
+          <lb ed="#P" n="55"/>Herodem imitari. Ipse enim omnes regni sui 
+          sa<lb break="no" ed="#P" n="56"/>pientes ad consilium convocavit, non ut Christum
+          <lb ed="#P" n="57"/>adoraret, quemadmodum falso dicebat, sed magis
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>ut ipsum perderet. Ad eadem profecto ratione et
+          <lb ed="#P" n="59"/>proditori hoc profectum est, quod triduo ante Pascha
+          <lb ed="#P" n="60"/>osculum pacis non damus, ut prodito Jude nos 
+          dissi<lb break="no" ed="#P" n="61"/>miles esse ostendamus. In secundo autem nocturno ad
+          <lb ed="#P" n="62"/>sextam antiphoniam canimus : Venite, exsultemus
+          <lb ed="#P" n="63"/>(Psal. xcw), quia in sexta mundi actate gentes ad
+          <lb ed="#P" n="64"/>Christi flidem pervenerunt, quarum primi fuerunt
+          <lb ed="#P" n="65"/>tres illi reges, qui ad Christum adorandum e regnis
+          <lb ed="#P" n="66"/>suis profecti sunt. In tertio denique nocturno 
+          can<lb break="no" ed="#P" n="67"/>tamus antiphonam : Fluminis impetus latificat 
+          civi<lb break="no" ed="#P" n="68"/>tatem Dei (Psal. xvv); et psalmum, Dess noster 
+          re<lb break="no" ed="#P" n="69"/>[ugium (ibid.), ordine psalmorum retrogrado, quod
+          <lb ed="#P" n="70"/>amplius in toto anno non fit, nisi in festo Omnium
+          <lb ed="#P" n="71"/>Sanctorum. Sed quare tunc fiat, dicetur alibi. ldeo
+          <lb ed="#P" n="72"/>tertio nocturno, quia tertio tempore, id est, tempore
+          <lb ed="#P" n="73"/>gratiae fluminis, baptismatis scilicet, impetus, 
+          civi<lb break="no" ed="#P" n="74"/>tatem Dei , nempe sanctam militantem Ecclesiam,
+          <lb ed="#P" n="75"/>letificat, hanc mundando et ab omni labe purgando,
+          <lb ed="#P" n="76"/>ut ad septimam aetatem quiescentium feliciter 
+          per<lb break="no" ed="#P" n="77"/>venire possit, ubi tum plenius ac cumulatius 
+          laetifi<lb break="no" ed="#P" n="78"/>cabitur. Et quoniam quidem Dei civitas in aetate
+          <lb ed="#P" n="79"/>septima quiescentium quasi plcnum recipiet statum,
+          <lb ed="#P" n="80"/>cum ab omni poenalitate eximetur et sui Conditoris
+          <lb ed="#P" n="81"/>gratissimo fruetur aspectu, ideo istiusmodi 
+          anti<lb break="no" ed="#P" n="82"/>phona septimo loco cantatur. 1ln tertio nocturno
+          <lb ed="#P" n="83"/>Alleluia propterea frequentamus, ut in tertio 
+          tem<lb break="no" ed="#P" n="84"/>pore per baptisma laetitiam advenisse monstremus.
+          <lb ed="#P" n="85"/>Ad hunc ergo modum incipi debent matutinae : 
+          Do<lb break="no" ed="#P" n="86"/>mine, labia mea aperies (Psal. L). Deinde sequitur
+          <lb ed="#P" n="87"/>hymnus si sit monacbalis Ecclesia. Si vero non,
+          <lb ed="#P" n="88"/>exemplo subjungitur: Afferte Domino , filii (Psal.
+          <lb ed="#P" n="89"/>xxvul); et : Deus noster refugium (Psal. xLv). Ad
+          <lb ed="#P" n="90"/>postremum igitur, ut progrediamur ad caetera, 
+          fa<lb break="no" ed="#P" n="91"/>cile suspicandum est reges non venisse solos, sed
+          <lb ed="#P" n="92"/>eos secum magnum advexisse principum 
+          comi<lb break="no" ed="#P" n="93"/>fatum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

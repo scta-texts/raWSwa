@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 78</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 78</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="42"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1006"><!-- raWSwa-c78 -->
+        <head xml:id="raWSwa-d1e1006-Hd1e101">Caput 78</head>
+        <head xml:id="raWSwa-d1e1006-Hd1e103" type="question-title">De institutione praedictorum</head>
+        <p xml:id="raWSwa-d1e1006-d1e106">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>CAPUT LXXVIII
+          <lb ed="#P" n="60"/>De institutione praedictorum.
+        </p>
+        <p xml:id="raWSwa-d1e1006-d1e115">
+          <lb ed="#P" n="61"/>Viso quid praedicta signiflcent, de eorum 
+          institu<lb break="no" ed="#P" n="62"/>tionibus subsequenter agamus, et primo de 
+          Qua<lb break="no" ed="#P" n="63"/>dragesima. In primig ergo videndum est quare 
+          vo<lb break="no" ed="#P" n="64"/>cetur Quadragesima, cum potius dici eberet 
+          de<lb break="no" ed="#P" n="65"/>cima, quod sit dierum decima. Verum boc ita 
+          fa<lb break="no" ed="#P" n="66"/>ctum est ex consuetudine ethnicorum sive 
+          genti<lb break="no" ed="#P" n="67"/>lium. Quemadmodum enim Hebraii ex omnibus
+          <lb ed="#P" n="68"/>suis bonis decimam partem dabant, ita gentiles
+          <lb ed="#P" n="69"/>quadragesimam, et tales reditus vocabant 
+          quadra<lb break="no" ed="#P" n="70"/>gesimam, vel decimam. Juxta similitudinem igitur
+          <lb ed="#P" n="71"/>regii fisci vel telonei, aut Romanae exactionis 
+          die<lb break="no" ed="#P" n="72"/>rum decimam, quam Deo persolvimus , 
+          quadrage<lb break="no" ed="#P" n="73"/>simam appellamus. Tametsi quidem non habeat
+          <lb ed="#P" n="74"/>nisi triginta et sex dies de decima, et incipiat 
+          qua<lb break="no" ed="#P" n="75"/>dragesima, ut dictum est, Dominica qua cantatur
+          <lb ed="#P" n="76"/>Invocavit me. Sed quia Christus jejunavit 
+          quadra<lb break="no" ed="#P" n="77"/>ginta diebus, et nos debemus esse illius imitatores,
+          <lb ed="#P" n="78"/>additi sunt quatuor dies, ut similiter quadraginta
+          <lb ed="#P" n="79"/>dies jejunemus. Atque etiam ideo quadraginta dies
+          <lb ed="#P" n="80"/>jejunamus, ut diebus ilis quadraginta a Pascha
+          <lb ed="#P" n="81"/>usque ad Ascensionem quos in laetitia acturi 
+          su<lb break="no" ed="#P" n="82"/>mus, non excedamus, quin Christum caput 
+          no<lb break="no" ed="#P" n="83"/>strum ad caelos consequi valeamus. Similiter 
+          sen<lb break="no" ed="#P" n="84"/>tiendum est de Quinquagesima. Cum enim clerici
+          <lb ed="#P" n="85"/>considerabant se praecedere populum ordine, rati
+          <lb ed="#P" n="86"/>sunt gequum esse, ut et sanctitate praeirent. Quare
+          <lb ed="#P" n="87"/>duos dies addiderunt et, a die Dominica ante 
+          Invo<lb break="no" ed="#P" n="88"/>carit me, incipiunt jejunare. Atque ita instituta est
+          <lb ed="#P" n="89"/>Quinquagesima. Vel ideo etiam quinquaginta dies
+          <lb ed="#P" n="90"/>in poenitentiam ducimus, ut peractis quinquaginta
+          <lb ed="#P" n="91"/>diebus laetitiae post Pascha, ipso die Pentecostes 
+          di<lb break="no" ed="#P" n="92"/>gni habeamur qui Spiritus sancti gratiam 
+          suscipia<lb break="no" ed="#P" n="93"/>mus. Verum Septuagesimae institutio hujusmodi
+          <lb ed="#P" n="94"/>sumpsit initium : Melchiades papa et S. Sylvester
+          <lb ed="#P" n="95"/>statuerunt ut bis quoque Sabbato comederetur, ne
+          <lb ed="#P" n="96"/>propter abstinentiam et afflictionem carnis quam
+          <lb ed="#P" n="97"/>sustinuerant sexta feria, quae omni tempore 
+          jeju<lb break="no" ed="#P" n="98"/>nabatur, et adhuc debet ab omnibus jejunari, 
+          na<lb break="no" ed="#P" n="99"/>tura debilitaretur. In redemptionem ergo 
+          Sabbato<lb break="no" ed="#P" n="100"/>rum illius temporis, addiderunt unam septimanam,
+          <lb ed="#P" n="101"/>et sic instituta est Sexagesima, quae tantum 
+          proten<lb break="no" ed="#P" n="102"/>ditur usque ad quartam feriam post Pascha. Sic
+          <lb ed="#P" n="103"/>quoque aliam habet originem Septuagesima. Nam
+          <lb ed="#P" n="104"/>cum propter venerationem diei Ascensionis, in qua
+          <lb ed="#P" n="105"/>natura nostra coelos ascendit exaltata vel ultra
+          <lb ed="#P" n="106"/>choros angelorum, statutum est a sanctis Patribus,
+          <lb ed="#P" n="107"/>ut quinta feria semper celebris haberetur. Sed cum
+          <lb ed="#P" n="108"/>nos cadem die nostra melius procuramus, factum
+          <lb ed="#P" n="109"/>est ut illam diem secundum antiquam 
+          consuetudi<lb break="no" ed="#P" n="110"/>nem solemniter non observemus. Pro illis ergo
+          <lb ed="#P" n="111"/>rursus unam septimanam Sexagesimae addiderunt,
+          <lb ed="#P" n="112"/>incipientes jejunare a Circumdederunt me. Atque
+          <lb ed="#P" n="113"/>ita instituta est Septuagesima, quae, ut dictum est,
+          <lb ed="#P" n="114"/>usque ad Sabbatum post Paschoa protenditur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

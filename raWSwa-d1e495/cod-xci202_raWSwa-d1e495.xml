@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 36</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 36</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="22"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e495"><!-- raWSwa-c36 -->
+        <head xml:id="raWSwa-d1e495-Hd1e101">Caput 36</head>
+        <head xml:id="raWSwa-d1e495-Hd1e103" type="question-title">
+          De Kyrie, eleison, etc.
+        </head>
+        <p xml:id="raWSwa-d1e495-d1e106">
+          <lb ed="#P" n="109"/>CAPUT XXXVI.
+          <lb ed="#P" n="110"/>De Kyrie, eleison, etc.
+        </p>
+        <p xml:id="raWSwa-d1e495-d1e113">
+          <lb ed="#P" n="111"/>Sequitur Kyrie, eleison, et Christe, elcison, etc.
+          <lb ed="#P" n="112"/>quod ideo Graece canitur, ut ostendatur Ecclesiam
+          <lb ed="#P" n="113"/>primo in Graecia coepisse, ac inde Bomam postea
+          <lb ed="#P" n="114"/>delatam fuisse, unde reliqua sunt Latina. Cantatue
+          <lb ed="#P" n="115"/>autem ter propter Patrem et Filium et Spiritum 
+          san<lb break="no" ed="#P" n="116"/>ctum continuo , idque ternis vicibus ut simul 
+          dica<lb break="no" ed="#P" n="117"/>tur novies, propter novem ordines angelorum 
+          qui<lb break="no" ed="#P" n="118"/>bus associari petimus. In quibusda Ecclesiis ad-
+          <pb ed="#P" n="23"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>diRur ipdie, quasi dicant , o Domine, miserere nostri.
+          <lb ed="#P" n="2"/>Solemnibus diebus sequitur hymnus de Evangelio,
+          <lb ed="#P" n="3"/>sive evangelicus, Gloria in exceisis Deo (Luc. ):
+          <lb ed="#P" n="4"/>qued amtea solum ad missam dicebatur. Reliqua
+          <lb ed="#P" n="5"/>vero B. Hilarius Pictaviensis episcopus apposuit,
+          <lb ed="#P" n="6"/>scilicet , Laudamus te, et cetera, quae sequuntur,
+          <lb ed="#P" n="7"/>quae etiam ad missam cantari instituit. Verum 
+          enim<lb break="no" ed="#P" n="8"/>vero tum illud consuetum est, cum festum aegitur
+          <lb ed="#P" n="9"/>apostolorum , martyrum, confessorum et eorum
+          <lb ed="#P" n="10"/>quorum in honorem ecclesia est dedicata, quaecunque
+          <lb ed="#P" n="11"/>etiam illa sit. Eo autem finito sacerdos salutat 
+          po<lb break="no" ed="#P" n="12"/>pulum , inquiens Dominus vobiscum. Quae salutatio
+          <lb ed="#P" n="13"/>ex veteri sumpta est Testamento nimirum, ut 
+          di<lb break="no" ed="#P" n="14"/>ctum est, ex libro Ruth ( Buik. u), pertinctque ad
+          <lb ed="#P" n="15"/>minores sacerdotes. Est enim et alia, videlicet
+          <lb ed="#P" n="16"/>Pexz vobis, qua ut est sumpta ex Evangelio ( Joan.
+          <lb ed="#P" n="17"/>x1), ita solum spectat ad episcopos, et qui iis
+          <lb ed="#P" n="18"/>sunt superiores. Quo sane illud expresse innuitur
+          <lb ed="#P" n="19"/>quod novum Testamentum dignius sit Testamento
+          <lb ed="#P" n="20"/>veteri. Responsio vero populi : Et cum spiritu tuo,
+          <lb ed="#P" n="21"/>ez apostolo in Epistola ad Titum desumpta est
+          <lb ed="#P" n="22"/>(Tit. u ). Cum denique ait, Oremus, universalem ad
+          <lb ed="#P" n="23"/>se colligit Ecclesiam , quasi esset syndicus aliquis
+          <lb ed="#P" n="24"/>in persona multorum lequens. Hoc enim syndicus
+          <lb ed="#P" n="25"/>sigaificat. Longa vetustate comprobatum est , quod
+          <lb ed="#P" n="26"/>Oremus dicimus. Antiqui enim, praemisso Oremus,
+          <lb ed="#P" n="27"/>etemple orstionem communiter subjungebant :
+          <lb ed="#P" n="28"/>emissa ratione, illud tantum, videlicet Oremus,
+          <lb ed="#P" n="29"/>reservavimus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

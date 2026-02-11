@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 10</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 10</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="11"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e179"><!-- raWSwa-c10 -->
+        <head xml:id="raWSwa-d1e179-Hd1e101">Caput 10</head>
+        <head xml:id="raWSwa-d1e179-Hd1e103" type="question-title">
+          De distinctione jejunii.
+        </head>
+        <p xml:id="raWSwa-d1e179-d1e106">
+          <lb ed="#P" n="61"/>CAPUT X.
+          <lb ed="#P" n="62"/>De distinctione jejunii.
+        </p>
+        <p xml:id="raWSwa-d1e179-d1e113">
+          <lb ed="#P" n="63"/>Jejunium sic primo dividi potest, quod aliud,sit
+          <lb ed="#P" n="64"/>carnis, aliud mentis. Carnis est, cum quis abstinet
+          <lb ed="#P" n="65"/>a cibis; mentis vero quando quis jejunat a vitiis.
+          <lb ed="#P" n="66"/>Vel etiam carnis jejunium dici potest, sl quando
+          <lb ed="#P" n="67"/>quispiam ob nimiam pinguedinem jejunat, ne 
+          cor<lb break="no" ed="#P" n="68"/>pore supra modum pinguescat. Verum illud nullius
+          <lb ed="#P" n="69"/>virtutis est, adeoque dicendum est potius essc 
+          atte<lb break="no" ed="#P" n="70"/>nuationis. Qua ratione et mentis jejunium esse 
+          vo<lb break="no" ed="#P" n="71"/>lumus contra luxuriam, ne similiter plus aequo 
+          pin<lb break="no" ed="#P" n="72"/>guescat, ac in multis luxurietur. Secundo jejunium
+          <lb ed="#P" n="73"/>et hoc modo distinguitur, aliud videlicet esse 
+          ingti<lb break="no" ed="#P" n="74"/>tutionis , aliud devotionia, aliud paritatis, et aliud
+          <lb ed="#P" n="75"/>dispensationis. Jejunium institutionis est 
+          Quadra<lb break="no" ed="#P" n="76"/>gesima a sanctis Patribus olim instituta. 
+          Quemad<lb break="no" ed="#P" n="77"/>modum enim in lege veteri sancti Patres rerum 
+          sua<lb break="no" ed="#P" n="78"/>rum omnium decimas et primitias Deo reddere 
+          con<lb break="no" ed="#P" n="79"/>sueverunt; ita nos quoque debemux ei decimas et
+          <lb ed="#P" n="80"/>primitias offerre, non solum ex rebus nostris, nempe
+          <lb ed="#P" n="81"/>ex frugibus, et aliis quae possidemus, verum etiam
+          <lb ed="#P" n="82"/>ex nobismetipsis scilicet jejunando, idque corpore
+          <lb ed="#P" n="83"/>quidem a cibis, mente vero a vitiis. Est enim, ut
+          <lb ed="#P" n="84"/>statim diximus, carnis pariter et mentis jejunium.
+          <lb ed="#P" n="85"/>Offcrimus autem Deo ex nobis primitias et decimas,
+          <lb ed="#P" n="86"/>si quando bene operamur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

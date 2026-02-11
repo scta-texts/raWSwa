@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 98</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 98</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="50"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1249"><!-- raWSwa-c98 -->
+        <head xml:id="raWSwa-d1e1249-Hd1e101">Caput 98</head>
+        <head xml:id="raWSwa-d1e1249-Hd1e103" type="question-title">
+          Quare ita hujus diei officium sit institutum.
+        </head>
+        <p xml:id="raWSwa-d1e1249-d1e106">
+          <lb ed="#P" n="85"/>CAPUT XCVIII.
+          <lb ed="#P" n="86"/>Quare ita hujus diei officium sit institutum.
+        </p>
+        <p xml:id="raWSwa-d1e1249-d1e113">
+          <lb ed="#P" n="87"/>His iaque historice prosecutis. quid significent
+          <lb ed="#P" n="88"/>deinceps videamus. Quod enim dua lectiones 
+          le<lb break="no" ed="#P" n="89"/>gantur, declarat Christum passum fuisse pro 
+          duo<lb break="no" ed="#P" n="90"/>bus potissimum populis, Hebraeo nimirum et 
+          gen<lb break="no" ed="#P" n="91"/>tili. Sed earum una ex lege sumpta est, videlicet ex
+          <lb ed="#P" n="92"/>Levitico, altera ex prophetis, nempe Osea, quia
+          <lb ed="#P" n="93"/>Christi passio et a lege fuit ante praefigurata, et a
+          <lb ed="#P" n="94"/>prophetis praedicta, et a patriarchis sub velamine
+          <lb ed="#P" n="95"/>quodam nobis revelata. Abraham enim carnem
+          <lb ed="#P" n="96"/>Christi tectim immolavit, cum arietem sacrificaret;
+          <lb ed="#P" n="97"/>sic Ábel quoque cum agnum in hostiam offerret.
+          <lb ed="#P" n="98"/>Quae ita fuerunt Christi figura tanquam velamine
+          <lb ed="#P" n="99"/>tecta, ut intelligi non potuissent, nisj explicarentur.
+          <lb ed="#P" n="100"/>Assimilatus est praeterea in prophetis , unde 
+          Domi<lb break="no" ed="#P" n="101"/>nus : Sicut fuit Jonas in centre ceti tribus diebus et
+          <lb ed="#P" n="102"/>tribus noctibus, ita erit Filius hominis in corde terra
+          <lb ed="#P" n="103"/>(Matth. xn). Recitantur autem lectiones cum 
+          pas<lb break="no" ed="#P" n="104"/>sione sine titulo, quod caput nostrum videlicet
+          <lb ed="#P" n="105"/>Christus nobis auferatur. Per tractum quatuor 
+          ver<lb break="no" ed="#P" n="106"/>suum intelligimus hominem Christi passione fuisse
+          <lb ed="#P" n="107"/>redemptum, qui ex quatuor conflatus est elementis.
+          <lb ed="#P" n="108"/>Hinc est quod Christus non in coelo, neque in terra
+          <lb ed="#P" n="109"/>sit crucifixus, sed in medio, hoc est in aere. Fecit
+          <lb ed="#P" n="110"/>enim pacem inter corlestia et terrena, atque etiam
+          <lb ed="#P" n="111"/>inter ipsa terrestria pacem conciliavit, postea quam
+          <lb ed="#P" n="112"/>erant simultates et inimicitiae inter unum hominem
+          <lb ed="#P" n="113"/>atque alterum, sed majores tamen erant inter 
+          an<lb break="no" ed="#P" n="114"/>gelum et hominem. lpse vero Christus in omnibus
+          <lb ed="#P" n="115"/>per crucem pacem composuit, quod quae inter se
+          <lb ed="#P" n="116"/>disjuncta ac discreta erant conjunxerit, et ex 
+          duo<lb break="no" ed="#P" n="117"/>bus unum fccerit. Est enim lapis angularis. Aut
+          <lb ed="#P" n="118"/>etiam quatuor illi versus tractus significant quatuor
+          <pb ed="#P" n="51"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>partes crucis, quae similis est ultimae litterae 
+          alpha<lb break="no" ed="#P" n="2"/>beti Hebraeorum, videlicet Thau, quie sonat, si 
+          in<lb break="no" ed="#P" n="3"/>terpretetur signum. Omnia volumina vetcris legis
+          <lb ed="#P" n="4"/>sighificarunt crucem Domini.
+        </p>
+        <p xml:id="raWSwa-d1e1249-d1e198">
+          <lb ed="#P" n="5"/>Hoc ergo die quatuor in uno tractu versus dici
+          <lb ed="#P" n="6"/>debent, ad declarandas quatuor partes crucis, sicut
+          <lb ed="#P" n="7"/>et quinque dicuntur in quarta feria, quod quinquies
+          <lb ed="#P" n="8"/>Christus sanguinemn suum effuderit : primo in 
+          cir<lb break="no" ed="#P" n="9"/>cuncisione, secundo in oratione, tertio in 
+          flagella<lb break="no" ed="#P" n="10"/>lione, quarto in crucifixione, quinto cum esset 
+          lan<lb break="no" ed="#P" n="11"/>cestus. Tractus qui prolixior est, repraesentat 
+          ma<lb break="no" ed="#P" n="12"/>gzum istud bellum Davidis contra Goliam. Nam et
+          <lb ed="#P" n="13"/>Christus noster David hodie magnum Goliam, id est
+          <lb ed="#P" n="14"/>diabolum, debellavit. Quadam Ecclcsiae tractum
+          <lb ed="#P" n="15"/>canunt, videlicet : Qui habitat, etc. (Psal. xcx), quia
+          <lb ed="#P" n="16"/>Christus a diabolo primum latenter fuit tentatus,
+          <lb ed="#P" n="17"/>velut a dracone quopiam latitante sub pcetra, sed
+          <lb ed="#P" n="18"/>postea in passione tanquam a forti leone acriter fuit
+          <lb ed="#P" n="19"/>vexatus, quod per hunc versum facile exprimitur:
+          <lb ed="#P" n="20"/>Super aspidem et basiliscum ambulabis, et 
+          ccnculca<lb break="no" ed="#P" n="21"/>bis leonem et draconem (ibid.). Passio legitur ideo,
+          <lb ed="#P" n="22"/>quia tum Christus reipsa patiebatur. Cum autem
+          <lb ed="#P" n="23"/>sentum est ad illum locum : Diviserunt sibi 
+          vesti<lb break="no" ed="#P" n="24"/>uenta mea, et super vesiem meam miserunt sortem
+          <lb ed="#P" n="25"/>(Matth. xxvi), tunc duo hypodiaconi duo mantilia,
+          <lb ed="#P" n="26"/>sel duos alios pannos altari impositos, auferunt.
+          <lb ed="#P" n="27"/>quod quatuor illi milites qui Christum 
+          crucifige<lb break="no" ed="#P" n="28"/>bant ex duabus ejus vestibus sibi indumenta 
+          confe<lb break="no" ed="#P" n="29"/>cerunt, historiam ipsam repraesentantes. Aut certe
+          <lb ed="#P" n="30"/>remotio pannorum fugam signiflcat apostolorumn,
+          <lb ed="#P" n="31"/>qui erant quasi vestes Christi. Petrus enim ad 
+          vo<lb break="no" ed="#P" n="32"/>cem unius ancilla ipsum negavit, et Joannes nudus
+          <lb ed="#P" n="33"/>aufugit. Tertia vestis, quae in altari relinquitur,
+          <lb ed="#P" n="34"/>designat vestem Domini inconsutilem non fuisse
+          <lb ed="#P" n="35"/>scissam, vel partitam, sed sortitione uni contigisse.
+          <lb ed="#P" n="36"/>Unitas enim Ecclesie nen potest, nec unquam 
+          po<lb break="no" ed="#P" n="37"/>tuit ab haereticis et schismaticis scindi, cum nulla
+          <lb ed="#P" n="38"/>eit sapientia adversus Dominum. Christus cum in
+          <lb ed="#P" n="39"/>cruce pateretur et maxima animi angustia 
+          affligere<lb break="no" ed="#P" n="40"/>tur, prolixe oravit decantans decem psalmos, 
+          scili<lb break="no" ed="#P" n="41"/>cet : Deus, Deus meus, respice in me (Psal. xxi),
+          <lb ed="#P" n="42"/>usque ad, In te Domine, speravi (Psal. xxx), donec
+          <lb ed="#P" n="43"/>pervenisset ad istum versum: In manus tuas, 
+          Doni<lb break="no" ed="#P" n="44"/>ne, commendo spiritum meum (ibid.), quo emisit
+          <lb ed="#P" n="45"/>spiritum. Quare et nos quoque, postquam 
+          passio<lb break="no" ed="#P" n="46"/>nem recitavimus quae Christi anxietatem et dolorem
+          <lb ed="#P" n="47"/>exprimit, oramus, quantumvis sane mos iste orandi
+          <lb ed="#P" n="48"/>infrequens et insolitus sit. Usu enim jam pridem
+          <lb ed="#P" n="49"/>receptum est ut diebus aliis ante evangelium 
+          di<lb break="no" ed="#P" n="50"/>cantur orationes. Verum hoc die contra fit ordine
+          <lb ed="#P" n="51"/>permutato : quod et in initio a nobis dictum est,
+          <lb ed="#P" n="52"/>quo quadam officia in Quadragesima transmutari
+          <lb ed="#P" n="53"/>ostensum est. Oravit autem Christus pro tribus,
+          <lb ed="#P" n="54"/>pro se, inquiens : Pater, clarifica Filium tuum (Joan.
+          <lb ed="#P" n="55"/>zvi); pro suis, aiens: Pater, pro eis, quos dedisti
+          <lb ed="#P" n="56"/>mihi rogo (ibid.), et pro illis etiam qui credituri
+          <lb ed="#P" n="57"/>erant in eum, dicens : Pater, non tantum pro eis
+          <lb ed="#P" n="58"/>rogo, sed pro omnibus illis qui credituri »unt in me
+          <lb ed="#P" n="59"/>(ibid ).
+        </p>
+        <p xml:id="raWSwa-d1e1249-d1e321">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>Ex quo sequi videtur quod non debeamus orare
+          <lb ed="#P" n="61"/>pro illis quos scimus non esse salvandos, veluti pro
+          <lb ed="#P" n="62"/>eis qui in inferno remanserunt, et pro Juda qui 
+          de<lb break="no" ed="#P" n="63"/>speravit. Sed et nos similiter oramus, partim pro
+          <lb ed="#P" n="64"/>nobis, partim pro omni gradu Ecclesix, scilicet pro
+          <lb ed="#P" n="65"/>neophytis, gentilibus, Judaeis, haereticis et 
+          schisma<lb break="no" ed="#P" n="66"/>ticis, ut cis Deus gratiam suam infundat, et ad 
+          fi<lb break="no" ed="#P" n="67"/>dem Catholicam convertat, flcctentes quidem genua
+          <lb ed="#P" n="68"/>pro aliis, verum non pro Judaeis, quoniam illi 
+          illu<lb break="no" ed="#P" n="69"/>dentes Christo genua flexerunt. Obiter ergo hic
+          <lb ed="#P" n="70"/>animadverte id quod legitur ante genuflexionem non
+          <lb ed="#P" n="71"/>esse orationem, sed adhortationem quemadmodum
+          <lb ed="#P" n="72"/>est oremus et quasi quamdam ostensionem pro 
+          qui<lb break="no" ed="#P" n="73"/>bus simus oraturi. Quod vero postea dicitur, oratio
+          <lb ed="#P" n="74"/>est. Item rursus animadverte tres fuisse illusiones,
+          <lb ed="#P" n="75"/>quas Judai genibus flexis Christo exhibucrunt. Et
+          <lb ed="#P" n="76"/>quidem prima fuit, velata ejus facie in atrio 
+          ponti<lb break="no" ed="#P" n="77"/>ficis, altera vero praetorio. Quoniam illo tradito 
+          Ju<lb break="no" ed="#P" n="78"/>dais a Pilato ut ipsum crucifigerent, militeg 
+          spi<lb break="no" ed="#P" n="79"/>neam plectentes coronam flexis gcnibus illudebeant
+          <lb ed="#P" n="80"/>ei. Quod quamvis a Judais factum non fuerit, 
+          ascri<lb break="no" ed="#P" n="81"/>bitur tamen illis, quod causam praestiterint. Tertia
+          <lb ed="#P" n="82"/>denique illusio fuit, cum praetereuntes illi jam in
+          <lb ed="#P" n="83"/>cruce pendenti dicebant : ,Vah, qui destruis, etc.
+          <lb ed="#P" n="84"/>(Matth. xxvn). Contra illas tres illusiones nos ante
+          <lb ed="#P" n="85"/>crucis revelationem tres praemittimus adorationes
+          <lb ed="#P" n="86"/>cum dicimus ter Agios, etc., quasi ter honorantes
+          <lb ed="#P" n="87"/>illusum propter nos; idque duabus linguis, quia
+          <lb ed="#P" n="88"/>tertia adhuc silet. Hinc igitur et illud notandum
+          <lb ed="#P" n="89"/>venit, quod, cum multa sint genera linguarum, tres
+          <lb ed="#P" n="90"/>tamen potissimum existant principales; prima 
+          La<lb break="no" ed="#P" n="91"/>tina, propter nobilitatein et dominium Romani 
+          im<lb break="no" ed="#P" n="92"/>perii; secunda Graeca, propter sapientiam; tertia
+          <lb ed="#P" n="93"/>Hebraea, utpote quod caeterarum linguarum mater
+          <lb ed="#P" n="94"/>sit. His autem tribus linguis descriptus fuit titulus
+          <lb ed="#P" n="95"/>Domini in cruce. Quare praeter reliquas linguas hae
+          <lb ed="#P" n="96"/>tres solum in missa usurpantur, dum in ea canimus
+          <lb ed="#P" n="97"/>Graece Kyrie eleison, Hebraice Alleluia, etc. Latine.
+          <lb ed="#P" n="98"/>Adversus tres Judaeorum accusationes in Christum,
+          <lb ed="#P" n="99"/>dicimus nos tres excusationes in persona Salvatoris,
+          <lb ed="#P" n="100"/>scilicet, Popule meus, ubi Christus exprobrat illis
+          <lb ed="#P" n="101"/>sua beneficia, liberationes videlicet ab /Egypto, 
+          re<lb break="no" ed="#P" n="102"/>gimen in deserto. introductionem in terram 
+          opti<lb break="no" ed="#P" n="103"/>mam. Quasi dicat Christus : Tu accusas me, quod
+          <lb ed="#P" n="104"/>tributum dari negaverim, deberes potius gratias
+          <lb ed="#P" n="105"/>agere, quia te liberavi a servitute JEgypti. Tu 
+          ac<lb break="no" ed="#P" n="106"/>cusas me, quod regem me fecerim, verum satius
+          <lb ed="#P" n="107"/>foret quod gratias ageres de eo quod splendide et
+          <lb ed="#P" n="108"/>regulariter te in deserto paverim. Tu denique me
+          <lb ed="#P" n="109"/>accusas, quod dixerim me Filium esse Dei, sed
+          <lb ed="#P" n="110"/>gratitudinis signum potius exhibe, quod tibi 
+          dede<lb break="no" ed="#P" n="111"/>rim terram lacte et melle manantem.
+        </p>
+        <p xml:id="raWSwa-d1e1249-d1e438">
+          <lb ed="#P" n="112"/>His ergo ita dictis, crux aperta ac nudo 
+          profer<lb break="no" ed="#P" n="113"/>tur ad significandum omnia quae fuerant obscura,
+          <lb ed="#P" n="114"/>tunc fuisse manifesta, et salutatur crux hisce 
+          ver<lb break="no" ed="#P" n="115"/>bis : Ecce lignum, etc., quoniam per crucem 
+          omni<lb break="no" ed="#P" n="116"/>bus salus reformatur ac restituitur. Posiea autem
+          <lb ed="#P" n="117"/>adoratur, id est cum reverentia osculatur ; solus
+          <lb ed="#P" n="118"/>enim Deus adorandus est, et caetera illius cauga ve-
+          <pb ed="#P" n="52"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>neranda. Crux ergo adoratur ideo, uf ostendamus
+          <lb ed="#P" n="2"/>nos debere bumiliter facere quod illi fecerunt 
+          su<lb break="no" ed="#P" n="3"/>perbe. Osculata cruce, Dominicum eorpus altari
+          <lb ed="#P" n="4"/>apponitur, et tunc sacerdos cum praefatione 
+          praepo<lb break="no" ed="#P" n="5"/>sita, videlicet : Üremus, pracepiis, etc., quam 
+          addi<lb break="no" ed="#P" n="6"/>dit beatus Gregorius, cantat Orationem Dominicam.
+          <lb ed="#P" n="7"/>Quo quidcem repraesentatur antiqua apostolorum
+          <lb ed="#P" n="8"/>consuetudo, qua in celebrandis missis utebantur.
+          <lb ed="#P" n="9"/>Olim enim apostoli haec tantum verba proferebant,
+          <lb ed="#P" n="10"/>quae dixit Dominus : Hoc est corpus meum, etc.
+          <lb ed="#P" n="11"/>(Matth. xxvi); et, Hic est sanguis novi testamenti,
+          <lb ed="#P" n="12"/>etc. (Ibid.), quibus ipsi apostolici postea addiderunt
+          <lb ed="#P" n="13"/>Orationem Dominicam. Atque haec est consuetudo
+          <lb ed="#P" n="14"/>apostolorum quae hic representatur, eo modo quo
+          <lb ed="#P" n="15"/>antiquitus celebrabatur, sed Gelasius papa, 
+          Grege<lb break="no" ed="#P" n="16"/>rius et Coelestinus multa tandem addiderunt, ut
+          <lb ed="#P" n="17"/>supra dictum est. Facta autem communione, statim
+          <lb ed="#P" n="18"/>cantantur vesperae cum oratione, et tam missa quam
+          <lb ed="#P" n="19"/>vesperae una finiuntur collecta. Hoc ita peracto,
+          <lb ed="#P" n="20"/>crucifixus in suum locum reponi debet, ante quem
+          <lb ed="#P" n="21"/>necesse est, ut chorus psalmos psallat, etiam 
+          epi<lb break="no" ed="#P" n="22"/>scopus vel loco ipsius vicarius ejus, idque tantisper
+          <lb ed="#P" n="23"/>usque ad horam illam, qua Christus resurrexeri.
+          <lb ed="#P" n="24"/>Atque ita tum celebrare debet mysterium de 
+          resur<lb break="no" ed="#P" n="25"/>rectione. Primo namque provenit labor, secundo
+          <lb ed="#P" n="26"/>clamor, tertio autem exauditio, unde Psaltes ille :
+          <lb ed="#P" n="27"/>Ad Dominum, inquit, cum tribularer, clamasi, ei
+          <lb ed="#P" n="28"/>exaudivit me (Psal. exix.) Quare et nos oportet ejus
+          <lb ed="#P" n="29"/>esse imitatores.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

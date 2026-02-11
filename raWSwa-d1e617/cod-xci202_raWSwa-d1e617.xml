@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 46</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 46</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="27"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e617"><!-- raWSwa-c46 -->
+        <head xml:id="raWSwa-d1e617-Hd1e101">Caput 46</head>
+        <head xml:id="raWSwa-d1e617-Hd1e103" type="question-title">
+          De canone.
+        </head>
+        <p xml:id="raWSwa-d1e617-d1e106">
+          <lb ed="#P" n="43"/>CAPUT XLVI.
+          <lb ed="#P" n="44"/>De canone.
+        </p>
+        <p xml:id="raWSwa-d1e617-d1e113">
+          <lb ed="#P" n="45"/>Deinceps vero sequitur canon; ita cnim Graecis
+          <lb ed="#P" n="46"/>dicitur, nobis autem regula, quod per eam 
+          regula<lb break="no" ed="#P" n="47"/>siter sacramenti hujus fis confectio. Nuncupatur
+          <lb ed="#P" n="48"/>etiam actio, quia tunc cum Deo nestra agitur causa.
+          <lb ed="#P" n="49"/>Quamobrem et in festis stantes oramus, in profestis
+          <lb ed="#P" n="50"/>vel jejuniis prostrati. Sub silentie tribus de causis
+          <lb ed="#P" n="51"/>dicitur : primo, quoniam Deus non oris, sed cordis
+          <lb ed="#P" n="52"/>elamorem intendit ; unde et Mosi dixit : Quid 
+          cla<lb break="no" ed="#P" n="53"/>was ad me (Exod. xvv) ? cum tamen ipse taceret.
+          <lb ed="#P" n="54"/>Nibilominus tamen proferimus verba, ne quae 
+          peti<lb break="no" ed="#P" n="55"/>mus, aut qua petere debemus, penitus ignorare
+          <lb ed="#P" n="56"/>aestimemur; sccundo, ob id submisse canon dici
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="57"/>oportet, ne, si alta voce esset proferendus, longo
+          <lb ed="#P" n="58"/>clamore deficiamus; vel tertio ob hanc rationem,
+          <lb ed="#P" n="59"/>ne tanti mysterii per usum quotidianum verba 
+          vi<lb break="no" ed="#P" n="60"/>lescant, et in locis competentibus passim 
+          indiscrete<lb break="no" ed="#P" n="61"/>pronuntientur, atque ita tandem exstinguantur ac
+          <lb ed="#P" n="62"/>pereant, quemadmodum paulo ante de pastoribus.
+          <lb ed="#P" n="63"/>narratum est. Probibitum enim est per decretum,
+          <lb ed="#P" n="64"/>et sub anathemate datum, ut nullus nisi haec sacris.
+          <lb ed="#P" n="65"/>vestibus, ex libro in altari consecrato, haec verba.
+          <lb ed="#P" n="66"/>proferat. Dicit ergo sacerdos : Te igitur, 
+          clementis<lb break="no" ed="#P" n="67"/>sime Pater, etc. Alloquitur Dominum, tanquam 
+          prae<lb break="no" ed="#P" n="68"/>sentem. Incipit autem a littera thau, T, quae in 
+          mo<lb break="no" ed="#P" n="69"/>duin crucis effecta est. Quoniam per Christi 
+          passio<lb break="no" ed="#P" n="70"/>nem haec omnia in cruce sunt completa, habentque
+          <lb ed="#P" n="71"/>suam efficaciam. Undc profecto est quod isthic 
+          Cru<lb break="no" ed="#P" n="72"/>cifixi imago adpingi debeat. Sequuntur 
+          postea<lb break="no" ed="#P" n="73"/>multa, ut sunt nomina apostolorum, martyrum,.
+          <lb ed="#P" n="74"/>pontiicum, virginum, qui omnes pro Christo nostro.
+          <lb ed="#P" n="75"/>se sacrificio exposuerunt. Atque item alia quaedam.
+          <lb ed="#P" n="76"/>sequuntur, quae nobis explicare non licet, nisi forte
+          <lb ed="#P" n="77"/>solis sacerdotibus , et ideo de illis tacebimus. Unum
+          <lb ed="#P" n="78"/>hoc tamen addemus, nulli hic concessum esse 
+          ali<lb break="no" ed="#P" n="79"/>quid vel detraherc vcl addere, nisi quandoque 
+          no<lb break="no" ed="#P" n="80"/>men illorum pro quibus specialiter aut nominatius
+          <lb ed="#P" n="81"/>offertur sacrificium.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

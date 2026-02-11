@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 163</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 163</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="82"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e2040"><!-- raWSwa-c163 -->
+        <head xml:id="raWSwa-d1e2040-Hd1e101">Caput 163</head>
+        <head xml:id="raWSwa-d1e2040-Hd1e103" type="question-title">
+          De solemnitate beati Martini.
+        </head>
+        <p xml:id="raWSwa-d1e2040-d1e106">
+          <lb ed="#P" n="87"/>CAPUT CLXII.
+          <lb ed="#P" n="88"/>De solemnitate beati Martini.
+        </p>
+        <p xml:id="raWSwa-d1e2040-d1e113">
+          <lb ed="#P" n="89"/>Sciendum vero est de B. Martino quod par et 
+          z<lb break="no" ed="#P" n="90"/>qualis apostolis sit appellatus pro suscitatione 
+          quo<lb break="no" ed="#P" n="91"/>remdam mortuorum, ut plerique arbitrantur, cum
+          <lb ed="#P" n="92"/>idem et multi alii martvres fecerunt et confessores
+          <lb ed="#P" n="93"/>Yerum potius ob quoddam miraculum quod 
+          con<lb break="no" ed="#P" n="94"/>tingit, cum Turonis esset episcopus. Nam cum 
+          hi<lb break="no" ed="#P" n="95"/>bernis mensibus pauper ei seminudus obviam 
+          ve<lb break="no" ed="#P" n="96"/>niret, orans sibi vestimentum dari : accersito 
+          ar<lb break="no" ed="#P" n="97"/>chidiacono statim algentem jussit vestiri. Quod
+          <lb ed="#P" n="98"/>cum archidiaconus facere distulisset, irrupit 
+          pau<lb break="no" ed="#P" n="99"/>per in sacrarium, quod intraverat Martinus 
+          con<lb break="no" ed="#P" n="100"/>querens se a clerico dissimulatum, atque aigere
+          <lb ed="#P" n="101"/>deplorans. Eo audito Martinus illico occulte suam
+          <lb ed="#P" n="102"/>eduxit tunicam, ac suo concessit precatori, 
+          petiit<lb break="no" ed="#P" n="103"/>que ab archidiacono priusquam ccelebraret 
+          tuni<lb break="no" ed="#P" n="104"/>cam, quam pauperi emere jusserat, atque eam
+          <lb ed="#P" n="105"/>vilem, hispidam et brevem clanculum induit. 
+          At<lb break="no" ed="#P" n="106"/>que ita sane paravit se ad celebrandarum 
+          Missa<lb break="no" ed="#P" n="107"/>rum solemnia. Sed cum ante altare, ut moris est
+          <lb ed="#P" n="108"/>in praefatione, sisteret, manusque ad Dommnum
+          <lb ed="#P" n="109"/>sublevaret, ita ut brachia ejus faciie, ub 
+          amplitu<lb break="no" ed="#P" n="110"/>dinem et brevitatem manicarum, conspicerentur,
+          <lb ed="#P" n="111"/>illico aurei torques ipsa honeste operuerunt, et
+          <lb ed="#P" n="112"/>supra caput ejus igneus globus visus est. Quo
+          <lb ed="#P" n="113"/>quidem declaratum fuit Spiritum sanctum in cum
+          <lb ed="#P" n="114"/>descendisse, ad confirmationem et robur, sicut
+          <lb ed="#P" n="115"/>in apostolis ipso die Pentecostes. Quapropter ergo
+          <lb ed="#P" n="116"/>non immerito dictus est par apostolis. Fuit autem
+          <lb ed="#P" n="117"/>oriunlus ex Pannonia, quae est prope Austriam,
+          <lb ed="#P" n="118"/>unde ctiam fuit Db. llieronymus. Fecit. praeterea
+          <pb ed="#P" n="83"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>multa signa et innumera miracuta, quae 
+          conscri<lb break="no" ed="#P" n="2"/>pserunt Sulpitius et Fortunatus, ut qui ipsum
+          <lb ed="#P" n="3"/>multum adamarunt. Quod autem ad officium 
+          atti<lb break="no" ed="#P" n="4"/>net considerandum est, hunc solum inter 
+          confesso<lb break="no" ed="#P" n="5"/>res institutionis octavas dabere, sicut et beatus
+          <lb ed="#P" n="6"/>Laurentius vigiliam, quod ipso die passionis suae
+          <lb ed="#P" n="7"/>dixerit, quod in ejus festo repetit Ecclesia: Igne
+          <lb ed="#P" n="8"/>me examinasti (Psal. xvi), etc. Sed Martinus in agone
+          <lb ed="#P" n="9"/>mortis dixit astanti daemoni: Nihil in me invenies 
+          cru<lb break="no" ed="#P" n="10"/>enta bestia. Ecce quam optime conveniunt merita.
+          <lb ed="#P" n="11"/>Ergo ille tanquam qui caeteros martyrio longe 
+          supe<lb break="no" ed="#P" n="12"/>rarit, vigiliam habet atque hoc confessor caeteris item
+          <lb ed="#P" n="13"/>prastantior, solus habet octavas.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 24</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 24</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="18"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e349"><!-- raWSwa-c24 -->
+        <head xml:id="raWSwa-d1e349-Hd1e101">Caput 24</head>
+        <head xml:id="raWSwa-d1e349-Hd1e103" type="question-title">
+          De pulsu campanarum et matutini temporis initio.
+        </head>
+        <p xml:id="raWSwa-d1e349-d1e106">
+          <lb ed="#P" n="47"/>CAPUT XXIV.
+          <lb ed="#P" n="48"/>De pulsu campanarum et matutini temporis initio.
+        </p>
+        <p xml:id="raWSwa-d1e349-d1e113">
+          <lb ed="#P" n="49"/>' Cum Ecclesie ministri ad nocturnum officium
+          <lb ed="#P" n="50"/>surgunt, quenadmodum in castris vigiles sese tubis
+          <lb ed="#P" n="51"/>cxcitant, ita hi primo pulsant campanas, in signuu
+          <lb ed="#P" n="52"/>fiuclibus ut pernoctent, et sese adversus insidiantem
+          <lb ed="#P" n="53"/>diabolum nuniant, ac suum Creatorem laudihus
+          <lb ed="#P" n="54"/>extollant, per quem a peccatorum tenebris et ab
+          <lb ed="#P" n="55"/>iniquitate daemonum se fore liberandos certissime
+          <lb ed="#P" n="56"/>sperant. Quemadiodum vero pulsandum sit in
+          <lb ed="#P" n="57"/>magnis solemnitatibus, diebus Dominicis, festis 
+          mi<lb break="no" ed="#P" n="58"/>noribus, et aliis diebus privatis, opportunius dicce
+          <lb ed="#P" n="59"/>tur alias. Dum igitur pulsantur campaneae, ecclesia
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>aperta est, quam simul atque ministri Ecclesiae 
+          in<lb break="no" ed="#P" n="61"/>gressi sunt, debent se ante omnia ad sanctorum 
+          al<lb break="no" ed="#P" n="62"/>taria conferre, ibique pressa voce prostrati eos 
+          im<lb break="no" ed="#P" n="63"/>plerare, quatenus et se et suum gregem eorum 
+          au<lb break="no" ed="#P" n="64"/>xiliis bene vigilando a principe tenebrarum valeant
+          <lb ed="#P" n="65"/>custodire et perpetuo in divinis laudibus 
+          perseve<lb break="no" ed="#P" n="66"/>rare. Sed quoniam campanarum mentionem 
+          feci<lb break="no" ed="#P" n="67"/>mus, facile illud nebis cencedetur, si quod 
+          myste<lb break="no" ed="#P" n="68"/>rium hic lateat, dewacto velus cortice aperiamus.
+          <lb ed="#P" n="69"/>Campana enim significat concionatores, qui perinde
+          <lb ed="#P" n="70"/>nos ad divinas orationes adhortantur. Lignum vero
+          <lb ed="#P" n="71"/>quod ullra campanae caput protenditur, crucem 
+          de<lb break="no" ed="#P" n="72"/>clarat Domini, et cavilla (sic enim ferrum illud 
+          pen<lb break="no" ed="#P" n="73"/>sile vocant, quod Graeci rectius poraov nominant ,
+          <lb ed="#P" n="74"/>cujus pulsu campana sonum reddit) mentem 
+          concio<lb break="no" ed="#P" n="75"/>natoris. Nam ut campana pulsari non potest nisi
+          <lb ed="#P" n="76"/>mediante cavilla, ita quoque inutilis ille est 
+          cencio<lb break="no" ed="#P" n="77"/>nator, qui mente non sit praeditus. Caeterum chorda
+          <lb ed="#P" n="78"/>quae campanae appenditur , sacram exprimit 
+          Scri<lb break="no" ed="#P" n="79"/>pturam, quia sicut chorda ex tribus potissimum
+          <lb ed="#P" n="80"/>conficitur funiculis, sic triplex omnino esse dicitur
+          <lb ed="#P" n="81"/>Scriptura, nempe historica, allegorica atque ethica.
+          <lb ed="#P" n="82"/>Quod autem campana elevcetur ac deprimatur 
+          indi<lb break="no" ed="#P" n="83"/>cio nobis est sacram Scripturam loqui aliquando alte
+          <lb ed="#P" n="84"/>et aliquando submisse. Jam ergo redeamus , unde
+          <lb ed="#P" n="85"/>diverti coepimus.
+        </p>
+        <p xml:id="raWSwa-d1e349-d1e198">
+          <lb ed="#P" n="86"/>Pulsatis campanis, hebdomadarius (ita eum 
+          appel<lb break="no" ed="#P" n="87"/>lamus cujus est tota hebdomada in choro 
+          adnmini<lb break="no" ed="#P" n="88"/>strare officium) alta voce incipit : Domine , labia
+          <lb ed="#P" n="89"/>mea aperies ( Psal. .), id est aperi, ut sit enallage
+          <lb ed="#P" n="90"/>temporis. Domine, inquam, aperi, et os meum 
+          an<lb break="no" ed="#P" n="91"/>nuntiabit laudem tuam (Ibid.) At non et antea 
+          aper<lb break="no" ed="#P" n="92"/>tum os hahuit, cum orabat ? Habuit quidem, sed is
+          <lb ed="#P" n="93"/>est loquendi modus; non enim dicitur apertum os
+          <lb ed="#P" n="94"/>habuisse, quandiu submissa voce orabat, sed tunc
+          <lb ed="#P" n="95"/>aperuisse, quando illius vox aperte incoepit audiri.
+          <lb ed="#P" n="96"/>Yel necdum os aperierat ad laudandum Dominum,
+          <lb ed="#P" n="97"/>licet aperuisset ad orapdum. Yel etiam tangit 
+          reli<lb break="no" ed="#P" n="98"/>gionem sacerdotum primitivae Ecclesiae, qui cumm
+          <lb ed="#P" n="99"/>ircnt cubitum signaculo crucis se muniebant vocemn
+          <lb ed="#P" n="100"/>comprimentes ad tempus usque matutinum, et tunc
+          <lb ed="#P" n="101"/>dcmum vocibus in laudem Dei prorumpebant. Sed
+          <lb ed="#P" n="102"/>quia hoc habet homo a Dco, quod ipsum laudet,
+          <lb ed="#P" n="103"/>idco ab ipeo petit, ut sibi os aperiatur, inquiens:
+          <lb ed="#P" n="104"/>Domine, labia mea aperies. Yerumenimvcro cum 
+          dia<lb break="no" ed="#P" n="105"/>bolus semper odio habeat laudem Dei, et bominem,
+          <lb ed="#P" n="106"/>tunc acerrime impugnet, quando se Dominum 
+          lau<lb break="no" ed="#P" n="107"/>darc promitit, ne laudator Dei a diabolo superetur,
+          <lb ed="#P" n="108"/>cui haud facile est resistere, divinum implorat 
+          ausi<lb break="no" ed="#P" n="109"/>lium, cum ait : Deus, in adjutorium meum intendc
+          <lb ed="#P" n="110"/>(Psal. 1xix). Undc profecto etiam nunc moris est,
+          <lb ed="#P" n="111"/>ut tunc crucis fiat signaculum. Tum divino fretus
+          <lb ed="#P" n="112"/>auxilio, quod semper praesto adest cum illud 
+          invo<lb break="no" ed="#P" n="113"/>cabimus, feliciter auspicatur promissam laudem non
+          <lb ed="#P" n="114"/>solum Patri, vel Filio, vel Spiritui sancto, sed toti
+          <lb ed="#P" n="115"/>Trinitati, cum inquit : Gloria Patri et Filio et 
+          Spi<lb break="no" ed="#P" n="116"/>ritui sancto. Inchoata ad eum modum Dei laude,
+          <lb ed="#P" n="117"/>cantor, qui est quasi praeco Ecclesiae, vel ejus 
+          vica<lb break="no" ed="#P" n="118"/>rius, alios adbuc ante altare suis orationibus insi-
+          <pb ed="#P" n="19"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>stentes ad laudandum Dominum hortatur, cum ait:
+          <lb ed="#P" n="2"/>Venite, exsultemus Domino, etc., (Psal. xcwv). ln quo
+          <lb ed="#P" n="3"/>psaimo etiam quaedam causae, quamobrem Demino
+          <lb ed="#P" n="4"/>exsultandum sit, continentur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

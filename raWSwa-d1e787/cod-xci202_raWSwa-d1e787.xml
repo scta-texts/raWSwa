@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 60</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 60</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="33"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e787"><!-- raWSwa-c60 -->
+        <head xml:id="raWSwa-d1e787-Hd1e101">Caput 60</head>
+        <head xml:id="raWSwa-d1e787-Hd1e103" type="question-title">De quinque libris lectionum</head>
+        <p xml:id="raWSwa-d1e787-d1e106">
+          <cb ed="#P" n="b"/>
+          <!-- column coord error in coords -->
+          <lb ed="#P" n="60"/>CAPUT LX.
+          <lb ed="#P" n="61"/>De quinque libris lectionum.
+        </p>
+        <p xml:id="raWSwa-d1e787-d1e117">
+          <lb ed="#P" n="62"/>Nunc de quinque libris lectionum videamus. Et
+          <lb ed="#P" n="63"/>primus quidem est bibliotheca a 6i£uoc quod liber
+          <lb ed="#P" n="64"/>est, et Om positio. In eo enim totum continetur
+          <lb ed="#P" n="65"/>utrumque Testamentum. Atque hinc propter 
+          excel<lb break="no" ed="#P" n="66"/>lentiam, tanquam si dignior et major essct, solus
+          <lb ed="#P" n="67"/>omnium librorum materiae nomen retinuit. Fitbant
+          <lb ed="#P" n="68"/>enim omnes libri ex biblio : unde bibliopolee 
+          vendi<lb break="no" ed="#P" n="69"/>ores librorum appellantur. Vel rectius ideo liber
+          <lb ed="#P" n="70"/>hie dictus est bibliotheca, quod instar cujusdam
+          <lb ed="#P" n="71"/>bibliothecae multos et varios libros complcctatur.
+          <lb ed="#P" n="72"/>Scecundus vero liber est passionarius, qui tamen
+          <lb ed="#P" n="73"/>plures sunt. Tertius est legendarius. Quartus 
+          Lome<lb break="no" ed="#P" n="74"/>liarius. Quintus denique sermo.ogus, sive liber 
+          ser<lb break="no" ed="#P" n="75"/>monum. Redcanus igitur ad primum, et singutos
+          <lb ed="#P" n="76"/>paulo accuratius examinemus.
+        </p>
+        <p xml:id="raWSwa-d1e787-d1e152">
+          <lb ed="#P" n="77"/>Bibliotheca vox est ambigua et homonyma, sive,
+          <lb ed="#P" n="78"/>ut nunc loquuntur, aequivoca. Uno namque nomine e
+          <lb ed="#P" n="79"/>locum ubi libri reponuntur, nempe armarium 
+          signi<lb break="no" ed="#P" n="80"/>ficat, et volumen aliquod magnum com»actum ex
+          <lb ed="#P" n="81"/>omnibus libris Novi et Veteris Testamenti. Sunt 
+          au<lb break="no" ed="#P" n="82"/>tem viginti duo volumina Veterie Testamenti, quae
+          <lb ed="#P" n="83"/>ibi continentur, et octo Novi, scilicet evangelictae
+          <lb ed="#P" n="84"/>quatuor, Epistolae Pauli, Apocalypsis, Epistolee 
+          ca<lb break="no" ed="#P" n="85"/>nonicae, et Actus apostolorum. Volumina Veteris
+          <lb ed="#P" n="86"/>Testamenti sunt quinque libri Mosis, videlicet
+          <lb ed="#P" n="87"/>Pentateuchus, qui proprie apud Judaeos dicitur 
+          Tho<lb break="no" ed="#P" n="88"/>ral, id est lex, vel libri legis, super quos jurant
+          <lb ed="#P" n="89"/>illi, ut nos super Evangelia tunquam sauctiora
+          <lb ed="#P" n="90"/>in nevo Testamento. Sunt praeterea qui hoc pacto
+          <lb ed="#P" n="91"/>enumerantur, Josue scilicet, Judicum, cujus extrema
+          <lb ed="#P" n="92"/>pericope pars est libri, Ruth, Samuel, Malachim,
+          <lb ed="#P" n="93"/>quae duo volumina unum reputamus, videlicet 
+          Rc<lb break="no" ed="#P" n="94"/>gum, quod tamen quatuor habeat partitiones vel 
+          dis<lb break="no" ed="#P" n="95"/>tinctiones. Postea in uno volumine sequuntur alii
+          <lb ed="#P" n="96"/>quatuor : Isaias, Jeremias , Ezechiel et David. Sub
+          <lb ed="#P" n="97"/>uno volumince comprehenduntur duodecim prophetae
+          <lb ed="#P" n="98"/>minores propter nimiam brevitatem. Novemn quie
+          <lb ed="#P" n="99"/>deinceps sequuntur reputantur hagiographa, ita 
+          ta<lb break="no" ed="#P" n="100"/>men ut sint authenthica, nimirum liber Psalmorum,
+          <lb ed="#P" n="101"/>liber Jobi, tres libri Salomonis, scilicet Parabolae,
+          <lb ed="#P" n="102"/>sive mavis dicere Proverbia, Ecclesiastes et 
+          Can<lb break="no" ed="#P" n="103"/>tica canticorum , liber Paralipomenon, Judith et
+          <lb ed="#P" n="104"/>Esther. Quatuor tandem enumerant apocrypha, 
+          li<lb break="no" ed="#P" n="105"/>brum videlicet Tobiae, Machabaeorum, Philonis, 
+          cu<lb break="no" ed="#P" n="106"/>jus principium est. Diligite justitiam, et Jesu filü
+          <lb ed="#P" n="107"/>Siracb, qui sic incipit : Omnis sapientia a Domino,
+          <lb ed="#P" n="108"/>etc., appellaturque etiam Ecclesiasticus. Verum hos
+          <lb ed="#P" n="109"/>quatuor quidam non recipiunt, Ecclesia tamen eos
+          <lb ed="#P" n="110"/>approbat, quod argumentum fere habeant librorum
+          <lb ed="#P" n="111"/>Salomonis, etiamsi eorum auctores pro certo ac
+          <lb ed="#P" n="112"/>vere non sciat. Alios duos crcdimus Esdram 
+          com<lb break="no" ed="#P" n="113"/>posuisse, qui totam bibliotbecam Vetcris 
+          Testa<lb break="no" ed="#P" n="114"/>menti restituit, cum a Babyloniis esset combusta.
+          <lb ed="#P" n="115"/>Nos itaque bibliothecam nostram, scilicet Vetus et
+          <lb ed="#P" n="116"/>Novum Testamentum diversis temporibus legimus
+          <lb ed="#P" n="117"/>juxta varias hjstorias singulis mensibus, ut sic 
+          tan<lb break="no" ed="#P" n="118"/>dem cum totius apni circulo universa absolvatur,
+          <lb ed="#P" n="119"/>Unde equdem non ignoro, quin illud in aduentu
+          <pb ed="#P" n="34"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Domini primo sit assignandum et declarandum, sed
+          <lb ed="#P" n="2"/>facilius et dilucidius apparebit , si ab alio tempore
+          <lb ed="#P" n="3"/>incipiat assignatio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

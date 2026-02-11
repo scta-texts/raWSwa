@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 114</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 114</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="60"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1444"><!-- raWSwa-c114 -->
+        <head xml:id="raWSwa-d1e1444-Hd1e101">Caput 114</head>
+        <head xml:id="raWSwa-d1e1444-Hd1e103" type="question-title">
+          Qua circa hoc tempus sint observanda.
+        </head>
+        <p xml:id="raWSwa-d1e1444-d1e106">
+          <lb ed="#P" n="36"/>CAPUT CXIV.
+          <lb ed="#P" n="37"/>Qua circa hoc tempus sint observanda.
+        </p>
+        <p xml:id="raWSwa-d1e1444-d1e113">
+          <lb ed="#P" n="38"/>Posthaec priusquam caetera prosequamur de 
+          qui<lb break="no" ed="#P" n="39"/>busdam quae huic consideranda veniunt, oportet
+          <lb ed="#P" n="40"/>paucis tractemus, videlicet de ornatu templi, 
+          dere<lb break="no" ed="#P" n="41"/>conciliatione proximi, de modo salutandi, de 
+          vene<lb break="no" ed="#P" n="42"/>ratione hujus temporis, de mensa corporis, et 
+          po<lb break="no" ed="#P" n="43"/>stremo de quadam libertate Decembris. Ac templum
+          <lb ed="#P" n="44"/>quidem aliud, ut diximus, est materiale, aliud 
+          spi<lb break="no" ed="#P" n="45"/>rituale. Materiale est quod ex lignis, caementis, 
+          sa<lb break="no" ed="#P" n="46"/>xis, lapidibus, et caeteris aedificandi materiis 
+          conpfe<lb break="no" ed="#P" n="47"/>ctum est, spirituale vero nos sumus. Utrumque 
+          cir<lb break="no" ed="#P" n="48"/>citer hoc tempus mundandum est, utrumque 
+          ornan<lb break="no" ed="#P" n="49"/>dum et poliendum. Necesse enim est ut hoc tempore
+          <lb ed="#P" n="50"/>ad balneas veniamus, non utique ad voluptatem, sed
+          <lb ed="#P" n="51"/>ad ejus rei declarationem, ut per extrinsecam 
+          cor<lb break="no" ed="#P" n="52"/>poris ablutionem interiorem animae purgationem
+          <lb ed="#P" n="53"/>fieri debere intelligamus. Exigit praeterea tempus
+          <lb ed="#P" n="54"/>hoc ut barbas radamus ac tonsuras et coronas, quas
+          <lb ed="#P" n="55"/>in vertice cap:tis gestamus, capillosque demamus.
+          <lb ed="#P" n="56"/>Abrasio enim capillorum et barbae, quae ex 
+          super<lb break="no" ed="#P" n="57"/>fluis stomachi nascuntur humoribus, ut ungues ex
+          <lb ed="#P" n="58"/>superfluis humoribus cordis, significat quod 
+          debea<lb break="no" ed="#P" n="59"/>mus vitia et peccata, quie nobis sunt superflua, re-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>secare. Capillos ultra aurcs demere debemus, ut
+          <lb ed="#P" n="61"/>quinque corporis sensus expeditos et promptos ad
+          <lb ed="#P" n="62"/>serviendum Deo habeamus. Sed ideo summitatem
+          <lb ed="#P" n="63"/>capitis radimus, quo per hoc nihil inter nos et 
+          Do<lb break="no" ed="#P" n="64"/>minum esse demonstremus. Oportet ergo hic 
+          mun<lb break="no" ed="#P" n="65"/>das et solemnes induamus vestes, maximeque 
+          can<lb break="no" ed="#P" n="66"/>didas depositis nimirum nigris et poenitentialibus.
+          <lb ed="#P" n="67"/>Indicat enim tempus hoc secundam illam 
+          resurre<lb break="no" ed="#P" n="68"/>ctionem, qua nos stolam salutis vel glorificationis
+          <lb ed="#P" n="69"/>corpore induemus, et animo stolam justitia; vel
+          <lb ed="#P" n="70"/>etiam propter renatos, qui albis vestibus tunc sint
+          <lb ed="#P" n="71"/>induti ; vel denique ob angelos, qui in resurrectione
+          <lb ed="#P" n="72"/>Domini albis vestibus apparuerunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

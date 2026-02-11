@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 134</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 134</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="69"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1687"><!-- raWSwa-c134 -->
+        <head xml:id="raWSwa-d1e1687-Hd1e101">Caput 134</head>
+        <head xml:id="raWSwa-d1e1687-Hd1e103" type="question-title">De institutione jejuniorum Quatuor Temporum</head>
+        <p xml:id="raWSwa-d1e1687-d1e106">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="57"/>CAPUT CXXXIV.
+          <lb ed="#P" n="58"/>De institutione jejuniorum Quatuor Temporum.
+        </p>
+        <p xml:id="raWSwa-d1e1687-d1e115">
+          <lb ed="#P" n="59"/>In primitiva Ecclesia fuit institutum ut jejunia
+          <lb ed="#P" n="60"/>haec quoque anno ter fierent. Sed Calixtus papa
+          <lb ed="#P" n="61"/>instituit (9) ut quater fierent, sumens rationem
+          <lb ed="#P" n="62"/>ex Veteri Testamento. Judaei namque quater 
+          jeju<lb break="no" ed="#P" n="63"/>nabant in anno, ante Pascham, Pentecosten, 
+          Sce<lb break="no" ed="#P" n="64"/>nopegiam, id est ante fictionem tabernaculorum in
+          <lb ed="#P" n="65"/>Septembri, et ante Encania, id est dedicationem in
+          <lb ed="#P" n="66"/>Decembri. Praeterea si ter fierent, et tres dies 
+          sin<lb break="no" ed="#P" n="67"/>gulis vicibus jejunarentur, anno diviso in tres
+          <lb ed="#P" n="68"/>partes rcmanerent semper aliquot dies, quorum
+          <lb ed="#P" n="69"/>primitias non redderemus. Sunt rursus et multe
+          <lb ed="#P" n="70"/>alie rationes, quamobrem quater fiant in anno.
+          <lb ed="#P" n="71"/>Una est quod in humanae naturae constitutione 
+          qua<lb break="no" ed="#P" n="72"/>tuor sunt qualitates, ut pole quod simus calidi, 
+          fri<lb break="no" ed="#P" n="73"/>gidi, humidi, sicci, ex quibus qualitatibus quilibet
+          <lb ed="#P" n="74"/>peccandi petit delectationes. Ut ergo quatuor has
+          <lb ed="#P" n="75"/>qualitates a peccandi libidine refrenemus, quater in
+          <lb ed="#P" n="76"/>anno jejunamus. Vel talis etiam ratio reddi potest :
+          <lb ed="#P" n="77"/>Homo constat ex anima et corpore. Corpus autem
+          <lb ed="#P" n="78"/>consistit ex quatuor elementis. Sed anima tres 
+          po<lb break="no" ed="#P" n="79"/>tissimum habet proprietates, uti ratione, irasci, et
+          <lb ed="#P" n="80"/>concupiscere. Quare ut haec in nobis moderentur,
+          <lb ed="#P" n="81"/>quater in anno tribus diebus jejunamus, ut 
+          quater<lb break="no" ed="#P" n="82"/>narius numerus referatur ad corpus, ternarius ad
+          <lb ed="#P" n="83"/>amimam. Rursum, annus in quatuor tempora 
+          divi<lb break="no" ed="#P" n="84"/>ditur, quorum unumquodque tres habet inenses.
+          <lb ed="#P" n="85"/>Quater igitur in anno jejunamus tres dies, pro 
+          quo<lb break="no" ed="#P" n="86"/>libet mense diem unum. Est iterum alia ratio, cur
+          <lb ed="#P" n="87"/>quater jejunamus, ob quatuor videlicet anni 
+          tesa<lb break="no" ed="#P" n="88"/>pora. In hieme enim mandamus terrae semina, in
+          <lb ed="#P" n="89"/>vere arbores florescunt et' vineae pubescunt, in 
+          aes<lb break="no" ed="#P" n="90"/>tate metimus nonnullas fruges, et in autumno 
+          col<lb break="no" ed="#P" n="91"/>liguntur uvae. Quater denuo jejunamus, quia ut
+          <lb ed="#P" n="92"/>veteres quoque anno quater jejunabant 
+          quadragesi<lb break="no" ed="#P" n="93"/>mam diem, et nos his temporibus tres dies 
+          jejuna<lb break="no" ed="#P" n="94"/>mas. Dicuntur autem jejunia Quatuor Temporum,
+          <lb ed="#P" n="95"/>vel jejunia primitiarum, vel jejunia duplicia, quia
+          <lb ed="#P" n="96"/>funt tribus diebus, quibus solemus jejunare in una
+          <lb ed="#P" n="97"/>septimana. Sunt vero instituta, ut dictum est, a
+          <lb ed="#P" n="98"/>Calixto papa, et prima hujusmodi jejunia fiunt in
+          <lb ed="#P" n="99"/>Martie, in prima videlicet septimana 
+          Quadragesi<lb break="no" ed="#P" n="100"/>mec. ut in nobis marceant vitia. Non enim omnino
+          <lb ed="#P" n="101"/>possunt exstingui. In aestate fiunt secunda, nimirum
+          <lb ed="#P" n="102"/>in septimana Pentecostes, ut quoniam tunc venit
+          <lb ed="#P" n="103"/>Spiritus sanctus, et nos esse debeamus ferventes
+          <lb ed="#P" n="104"/>spiritu. Tertia jejunia fiunt ante festum sancti 
+          Mi<lb break="no" ed="#P" n="105"/>chaelis, in tertia septimana Septembris, quod 
+          que<lb break="no" ed="#P" n="106"/>madmodum tunc arborum fructus colligantur, et
+          <lb ed="#P" n="107"/>nos quoque deceat Deo reddere bonorum operum
+          <lb ed="#P" n="108"/>fructus. Quarta postremo flunt in septimana, ante
+          <lb ed="#P" n="109"/>Natale Domirii scilicet in Decembri, quia sicut tunc
+          <lb ed="#P" n="110"/>herbae moriuntur, ita et nos oportet mori mundo,
+          <lb ed="#P" n="111"/>et renasci Deo.
+        </p>
+        <p xml:id="raWSwa-d1e1687-d1e232">
+          <lb ed="#P" n="112"/>In horum jejuniorum quarta feria dici debent
+          <lb ed="#P" n="113"/>duae lectiones tono sive voce nocturnali : una ex
+          <lb ed="#P" n="114"/>Yeteri Testamento, altera ex Novo, tono et voce
+          <pb ed="#P" n="70"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>conmuni, ad significationem ejus, quod qui 
+          ordi<lb break="no" ed="#P" n="2"/>nandi sunt Sabbato sequenti, oportceat ut sint 
+          utri<lb break="no" ed="#P" n="3"/>usque Testamenti periti. Idem indicat mitra 
+          episco<lb break="no" ed="#P" n="4"/>palis per duo illa cornua (10). Debet enim hic
+          <lb ed="#P" n="5"/>utriusque Tcstamenti non esse ignarus, quo 
+          tan<lb break="no" ed="#P" n="6"/>quam duplici cornu possit ferire fidei inimicos atque
+          <lb ed="#P" n="7"/>haereticos. Sexta jejuniorum feria, una duntaxat
+          <lb ed="#P" n="8"/>dici debet lectio, quod auctor Veteris et Novi
+          <lb ed="#P" n="9"/>Testamenti unus et solus sit Deus atque ex Veteri
+          <lb ed="#P" n="10"/>et Novo Testamento unum factum sit Evangelium.
+          <lb ed="#P" n="11"/>Sabbato autem quatuor recitantur lectiones, 
+          ante<lb break="no" ed="#P" n="12"/>quam celebrentur ordines, quarum prima pertinet
+          <lb ed="#P" n="13"/>ad populum, secunda ad Ecclesiae primates, tertia
+          <lb ed="#P" n="14"/>ad ministros, quarta ad omnes religiosos. Lectio
+          <lb ed="#P" n="15"/>banielis ideo sequitur de tribus pueris, quod qui
+          <lb ed="#P" n="16"/>sunt ordinandi. in fide debeant esse probati, sicut
+          <lb ed="#P" n="17"/>illi fuerunt. Sunt autem hi circa tria potissimum
+          <lb ed="#P" n="18"/>inquirendi, circa naturam, utrum videlicet ex 
+          legi<lb break="no" ed="#P" n="19"/>timo matrimonio sint procreati : circa litteras et
+          <lb ed="#P" n="20"/>circa vitam ac bonam conversationem. Notemus ergo
+          <lb ed="#P" n="21"/>hic quod archipresbyter ordinandos prius debeat
+          <lb ed="#P" n="22"/>offerre archidiacono : unde hic etiam dicitur 
+          vica<lb break="no" ed="#P" n="23"/>rius, quoniam in hoc vicem supplet sacerdotum.
+          <lb ed="#P" n="24"/>Eorum enim esset hoc facere. Archidiaconi officium
+          <lb ed="#P" n="25"/>cst eos examinare et scrutari in vita, in natura et
+          <lb ed="#P" n="26"/>houesta conversatione, atque ita eos tradere in
+          <lb ed="#P" n="27"/>manus scolasteris, cujus munus est periculum facere
+          <lb ed="#P" n="28"/>in litteris. Sic itaque diligenter inquisiti dcbent
+          <lb ed="#P" n="29"/>tradi in manus episcopi. Post lectionem Danielis
+          <lb ed="#P" n="30"/>subjungitur cantus Benedicite. Sed quare ad 
+          lectio<lb break="no" ed="#P" n="31"/>nem Danielis non flectuntur genua, supra dictum
+          <lb ed="#P" n="32"/>est. Epistola Pauli deinde legitur, ad quam genua
+          <lb ed="#P" n="33"/>non flectimus, quoniam ad Novum pertinet 
+          Testa<lb break="no" ed="#P" n="34"/>mentum. lIluic deinceps tractus subjungitur cum
+          <lb ed="#P" n="35"/>gravi cantu, quod ordinati graves esse debeant et
+          <lb ed="#P" n="36"/>constantes, ne facili superbiae flatu afferantur. 
+          Obi<lb break="no" ed="#P" n="37"/>ter tamen animadvertere non permissum esse, ut
+          <lb ed="#P" n="38"/>eadem die bis aliquis ordinetur. Sed si necesse
+          <lb ed="#P" n="39"/>fuerit, potest ordinari Sabbato in diaconum, et
+          <lb ed="#P" n="40"/>Dominica sequenti in sacerdote, et postea in octavis
+          <lb ed="#P" n="41"/>Pentecostes potest consecrari in episcopum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

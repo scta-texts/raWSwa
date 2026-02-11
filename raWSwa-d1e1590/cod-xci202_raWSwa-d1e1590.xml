@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 126</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 126</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="67"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1590"><!-- raWSwa-c126 -->
+        <head xml:id="raWSwa-d1e1590-Hd1e101">Caput 126</head>
+        <head xml:id="raWSwa-d1e1590-Hd1e103" type="question-title">
+          De sancto Joanne evangelista ante Portam Latinam
+        </head>
+        <p xml:id="raWSwa-d1e1590-d1e106">
+          <lb ed="#P" n="15"/>CAPUT CXXVI.
+          <lb ed="#P" n="16"/>De sancto Joanne evangelista ante Portam Latinam.
+        </p>
+        <p xml:id="raWSwa-d1e1590-d1e113">
+          <lb ed="#P" n="17"/>Nero interfecerat Petrum et Paulum. Quo 
+          mor<lb break="no" ed="#P" n="18"/>tuo, successit ei Vespasianus, atque ei Titus, cui
+          <lb ed="#P" n="19"/>postea Domitianus. Sub hoc beatus Joannes 
+          evan<lb break="no" ed="#P" n="20"/>relista profectus est Romam, ut isthic verbum Dei
+          <lb ed="#P" n="21"/>concionaretur. Domitianus autem ipsum poni 
+          cu<lb break="no" ed="#P" n="22"/>ravit in dolium ferventis olei plenum ante Portam
+          <lb ed="#P" n="23"/>Latinam, sic enim vocabatur. Sed B. Joannes nullam
+          <lb ed="#P" n="24"/>sthic sensit Llesionem, divina gratia ipsum 
+          prote<lb break="no" ed="#P" n="25"/>gente. Quantum tamen ad illum attinet, martyr
+          <lb ed="#P" n="26"/>fuit. Quapropter festum de illo agitur, non secus
+          <lb ed="#P" n="27"/>ac si martyrium ibi sustinuisset. Tum a Domitiano
+          <lb ed="#P" n="28"/>in Pathmos insulam deportatus est. Sed tandem a
+          <lb ed="#P" n="29"/>Nerva imperatore revocatus est. Notemus hic tres
+          <lb ed="#P" n="30"/>tantum apostolos vivos fuisse Romae, Petrum nempe,
+          <lb ed="#P" n="31"/>Paulum et Joannem: ac tres item evangelistas,
+          <lb ed="#P" n="32"/>Joannem, Marcum, et Lucam. Praeterea 
+          animadver<lb break="no" ed="#P" n="33"/>amus Christi apostolos sive discipulos non ideo
+          <lb ed="#P" n="34"/>fuisse passos, quod Christum praedicabant, sed quod
+          <lb ed="#P" n="35"/>ppsum deificabant ac Deum esse aiebant sine 
+          Ro<lb break="no" ed="#P" n="36"/>manorum auctoritate; quod ipsi prohibuerant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 160</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 160</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="80"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e2004"><!-- raWSwa-c160 -->
+        <head xml:id="raWSwa-d1e2004-Hd1e101">Caput 160</head>
+        <head xml:id="raWSwa-d1e2004-Hd1e103" type="question-title">
+          De institutione officii.
+        </head>
+        <p xml:id="raWSwa-d1e2004-d1e106">
+          <lb ed="#P" n="43"/>CAPUT CLX.
+          <lb ed="#P" n="44"/>De institutione officii.
+        </p>
+        <p xml:id="raWSwa-d1e2004-d1e113">
+          <lb ed="#P" n="45"/>Sequitur de officio, et primo quidem a quibus
+          <lb ed="#P" n="46"/>fuit institutum, secundo a quibus fuit actum, tertio
+          <lb ed="#P" n="47"/>a quibus habuit initium, quarto de modo celebrandi.
+          <lb ed="#P" n="48"/>Officium ergo mortuorum primo ab apostolis fuit
+          <lb ed="#P" n="49"/>institutum , sed ab origine, ut testatur Isidorus in
+          <lb ed="#P" n="50"/>libro De ecclesiasticis officiis, fuit actum, et ex
+          <lb ed="#P" n="51"/>maxima parte ordinatum. Unde ipsum commendat
+          <lb ed="#P" n="52"/>beatus Aug. in quodam libro quem ille appellat 
+          En<lb break="no" ed="#P" n="53"/>chiridion, inquiens eum fuisse secundum in. 
+          eccle<lb break="no" ed="#P" n="54"/>siast cis officiis post apostolos. Officium hocinitium
+          <lb ed="#P" n="55"/>habuit a veteri lege. Legitur enim quod, mortuo
+          <lb ed="#P" n="56"/>Jacob, Joseph et alii fratres ejus ut eis praeceperat,
+          <lb ed="#P" n="57"/>cum multis JEgyptiis attulerunt eum in Hebron,
+          <lb ed="#P" n="58"/>sed prius fleverunt ipsum in Agypto triginta 
+          die<lb break="no" ed="#P" n="59"/>bus, ac postea septem in area Athad (Gen. 1). Prae-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>terea legitur quod, mortuo Mose, populus [srac.iticus
+          <lb ed="#P" n="61"/>eum deploravit triginta diebus (Deut. xxxwv), 
+          quem<lb break="no" ed="#P" n="62"/>admodum etiam ferunt factum fuisse de Aaron et
+          <lb ed="#P" n="63"/>Maria. Verum animadverte quod, mortuo Josue qui
+          <lb ed="#P" n="64"/>eos in terram promissionis introduxerat. non 
+          lega<lb break="no" ed="#P" n="65"/>tur ipsum populus flevisse, quamvis tamen contra
+          <lb ed="#P" n="66"/>credatur. Ideo de Josue tacet historia, quia 
+          prafi<lb break="no" ed="#P" n="67"/>guravit Christum, et mors ejus mortem Christi, 
+          vi<lb break="no" ed="#P" n="68"/>delicet ejus qui nos a morte redimens ad vitae 
+          pa<lb break="no" ed="#P" n="69"/>triam reduxit. ubi neque luctus neque dolor est.
+          <lb ed="#P" n="70"/>Prop'er figuram igitur de morte illius historia tacet,
+          <lb ed="#P" n="71"/>sicut alibi de patre Melchisedech qui Christum 
+          fi<lb break="no" ed="#P" n="72"/>guravit, quomam non legitur habuisse patrem,
+          <lb ed="#P" n="73"/>quemadmodum nec Christus patrem habuit 
+          homi<lb break="no" ed="#P" n="74"/>nem. De Mose. licet melior credatur fuisse quam
+          <lb ed="#P" n="75"/>Josue. et de aliis qui mortui sunt in deserto, 
+          popu<lb break="no" ed="#P" n="76"/>lus dicitur flevisse, quoniam desertum aliquando
+          <lb ed="#P" n="77"/>alienationem a Deo significat. Pro illis itaque 
+          flen<lb break="no" ed="#P" n="78"/>dum est qui per peccata sua a Deo atienantur. Ex
+          <lb ed="#P" n="79"/>qua quidem re, inquit Salomon : Luctus filii tui
+          <lb ed="#P" n="80"/>sapientis mortui septem diebus (Prov. x) : Luctus
+          <lb ed="#P" n="81"/>fllii tui stulti aeternus, quandoquidem in aeternum
+          <lb ed="#P" n="82"/>punietur. Sic: Filius sapiens latificat patrem, 
+          stul<lb break="no" ed="#P" n="83"/>tus vero moestitia est matris suce (Eccli. xxw).
+        </p>
+        <p xml:id="raWSwa-d1e2004-d1e202">
+          <lb ed="#P" n="84"/>Septenarius igitur mortuorum luctus et 
+          trigcna<lb break="no" ed="#P" n="85"/>rius a Veteri Testamento sumpsit exordium, 
+          quem<lb break="no" ed="#P" n="86"/>admodum enim Jacob filii fleverunt septem diebus,
+          <lb ed="#P" n="87"/>et Moysen quandoque triginta suorum mortuorum
+          <lb ed="#P" n="88"/>celebrat ofticium. Notemus interim quatuor modis
+          <lb ed="#P" n="89"/>subveniri mortuis, oratione videlicet, amicorum
+          <lb ed="#P" n="90"/>eleemosyna, cognatorum jejunio et missarum 
+          cele<lb break="no" ed="#P" n="91"/>bratione. Septem ergo diebus nostris mortuis 
+          offi<lb break="no" ed="#P" n="92"/>cium facimus, ut ad Sabbatum animarum citius 
+          va<lb break="no" ed="#P" n="93"/>leant pervenire. Aut certe propter septenarium
+          <lb ed="#P" n="94"/>animae et corporis. Habet enim anima tres 
+          potissi<lb break="no" ed="#P" n="95"/>mum proprietates, uti nimirum ratione, 
+          concupi<lb break="no" ed="#P" n="96"/>scere , et irasci. Corpus vero ex quatuor constat
+          <lb ed="#P" n="97"/>elementis. Ut itaque peccata quae homo comnisit
+          <lb ed="#P" n="98"/>per haec septem deleantur, septenarium mortuis 
+          ce<lb break="no" ed="#P" n="99"/>lebramus. Ter decem triginta faciunt. Per ter 
+          in<lb break="no" ed="#P" n="100"/>telligimus Trinitatem, per decem Decalogum. Quare
+          <lb ed="#P" n="101"/>trigenarium mortuis ideo facimus, ut quod in
+          <lb ed="#P" n="102"/>obscrvatione decem praeceptorum deliquerunt , Dei
+          <lb ed="#P" n="103"/>misericordia eis condonetur. Quidam tainen tribus
+          <lb ed="#P" n="104"/>) diebus hoc faciunt, ut in eo triduana Chbristi 
+          sepul<lb break="no" ed="#P" n="105"/>tura repraesentetur, et quod vivus peccaverit 
+          cogi<lb break="no" ed="#P" n="106"/>tatione, verbo et opere mortuo remittatur. (Quod
+          <lb ed="#P" n="107"/>autem plerique officium faciunt novem dierum, licet
+          <lb ed="#P" n="108"/>ea consideratione hoc faciant ut per hujusmodi
+          <lb ed="#P" n="109"/>officium illorum mortui a poenis liberentur, ac 
+          no<lb break="no" ed="#P" n="110"/>vem ordinibus Angelorum associentur, non tamen
+          <lb ed="#P" n="111"/>approbatur, sed omnino interdicitur, quoniam ab
+          <lb ed="#P" n="112"/>ethnicis sumptum esse videtur, qui nono die 
+          cine<lb break="no" ed="#P" n="113"/>res et busta suorum recondebant. Sicut enim non
+          <lb ed="#P" n="114"/>imitamur Judaeos in celebrando pascha. ita etiam
+          <lb ed="#P" n="115"/>in hoc officio ethnicos imitari plane prohibitum est.
+          <lb ed="#P" n="116"/>Sunt praeterea nonnulli qui quinquagenarium 
+          fa<lb break="no" ed="#P" n="117"/>ciunt, et alii qui quadragenarium, sed hi utrique
+          <lb ed="#P" n="118"/>satis cum oratione facerc videntur. Qui enim quin-
+          <pb ed="#P" n="81"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quagenartum faciunt ab Abrahamo occasionem 
+          su<lb break="no" ed="#P" n="2"/>mere videntur, qui ex Domino volente Sodomam
+          <lb ed="#P" n="3"/>subvertere, quaesivit, num si quinquaginta in ea
+          <lb ed="#P" n="4"/>essent justi, illis parceret. Nam et quinquagenarius
+          <lb ed="#P" n="5"/>numerus perfectus est, et significat annum 
+          jubi<lb break="no" ed="#P" n="6"/>leum, id est octavam aetatem, in qua erit remissio
+          <lb ed="#P" n="7"/>et plena libertas. Ut ergo animae mortuorum 
+          ple<lb break="no" ed="#P" n="8"/>pam libertatem et suorum peccatorum remissionem
+          <lb ed="#P" n="9"/>adipiscantur, quinquaginta diebus pro illis a 
+          qui<lb break="no" ed="#P" n="10"/>busdam celebratur officium. Quadragenarium vero
+          <lb ed="#P" n="11"/>ideo quidam faciunt, ut illis qui decesserunt et
+          <lb ed="#P" n="12"/>transgressi sunt in decem praeceptis, et in doctrina
+          <lb ed="#P" n="13"/>quatuor evangelistarum, condonetur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

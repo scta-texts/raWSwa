@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 102</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 102</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="54"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1298"><!-- raWSwa-c102 -->
+        <head xml:id="raWSwa-d1e1298-Hd1e101">Caput 102</head>
+        <head xml:id="raWSwa-d1e1298-Hd1e103" type="question-title">
+          De expositione trium qua praeterea in eiusmodi officio
+          observantur.
+        </head>
+        <p xml:id="raWSwa-d1e1298-d1e106">
+          <lb ed="#P" n="41"/>CAPUT CII
+          <lb ed="#P" n="42"/>De expositione trium qua praeterea in eiusmodi officio
+          <lb ed="#P" n="43"/>observantur.
+        </p>
+        <p xml:id="raWSwa-d1e1298-d1e115">
+          <lb ed="#P" n="44"/>Restant deinceps tria inquirenda : primo 
+          quam<lb break="no" ed="#P" n="45"/>obrem in hoc officio noctis antiphona quae ad 
+          Bene<lb break="no" ed="#P" n="46"/>dictus canitur, atque etiam totus psalmus tam alta
+          <lb ed="#P" n="47"/>voce, et quasi terribili cantetur ; deinde vero quare
+          <lb ed="#P" n="48"/>quidam tropi hujus officii fine lamentabiliter 
+          dican<lb break="no" ed="#P" n="49"/>tur. Postremo cur tribus hisce noctibus ipsum 
+          offi<lb break="no" ed="#P" n="50"/>cium noctis alta voce, quasi terribili et manifesta
+          <lb ed="#P" n="51"/>dccantetur, diurnum autem tacite ac voce omnino
+          <lb ed="#P" n="52"/>dimissa. Verum enimvero quod antiphona ad 
+          Bene<lb break="no" ed="#P" n="53"/>dictus, et ipse etiam psalmus exstinctis candelis, voce
+          <lb ed="#P" n="54"/>elevata et velut horribili canatur, significat 
+          tu<lb break="no" ed="#P" n="55"/>multum cohortis, quam cum gladiis et fustibus 
+          se<lb break="no" ed="#P" n="56"/>cum Judas adduxit, quando Christum traderet. Per
+          <lb ed="#P" n="57"/>pocturnum autem oflficium tenebrarum declaratur
+          <lb ed="#P" n="58"/>prophetia prophetarum, et per diurnum, praedicatia
+          <lb ed="#P" n="59"/>sive concio apostolorum. Quapropter officium noctis
+          <lb ed="#P" n="60"/>alta voce canitur, quia prophetae aperte quae de
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>Christo erant ventura praedixerunt, et quod illis 
+          Spi<lb break="no" ed="#P" n="62"/>ritus sanctus dictabat omni semota formidine 
+          nun<lb break="no" ed="#P" n="63"/>tiaverunt. Sed diurnum officium submissa voce 
+          can<lb break="no" ed="#P" n="64"/>tatur, quod apostoli aut omnino tacucrint, aut certe
+          <lb ed="#P" n="65"/>occulte praedicaverint, et concionati fuerint. 
+          Cop<lb break="no" ed="#P" n="66"/>tinet autem cohors quinquaginta milites qui ob id
+          <lb ed="#P" n="67"/>tanto numero cum Juda nissi sunt ad Christum 
+          ca<lb break="no" ed="#P" n="68"/>piendum, quoniam Judai verebantur ne populus,
+          <lb ed="#P" n="69"/>qui eum libenter audiebat, si hanc proditionem
+          <lb ed="#P" n="70"/>sciret, suas interponeret partes ad ipsum 
+          liberan<lb break="no" ed="#P" n="71"/>dum. Aut certe ideo, quia facile opinabantur eum
+          <lb ed="#P" n="72"/>esse fortissimum, et omnino talem, ad quem 
+          capien<lb break="no" ed="#P" n="73"/>dum pauci non sufficerent. Videbant namque 
+          Domi<lb break="no" ed="#P" n="74"/>nica praecedenti ipsum solum flagello ex funiculi:
+          <lb ed="#P" n="75"/>confecto omnes vendentes et ementes potenter e
+          <lb ed="#P" n="76"/>templo ejecisse, ac nummularjorum mensas fortiter
+          <lb ed="#P" n="77"/>evertisse. In quo quidem facto praeterea viderant
+          <lb ed="#P" n="78"/>fulgorem quemdam, quasi quosdam radios igneos,
+          <lb ed="#P" n="79"/>ex ipsius facie exire. Porro autem tropi, id est 
+          ver<lb break="no" ed="#P" n="80"/>sus illi, qui tribus istis noctibus in fine officii cum
+          <lb ed="#P" n="81"/>K yrie eleison, et Domine, miserere, velut 
+          lamenta<lb break="no" ed="#P" n="82"/>biliter decantantur significant lamentationes et 
+          do<lb break="no" ed="#P" n="83"/>lores mulierum, quae propter cognationem Jesum
+          <lb ed="#P" n="84"/>ab Gatilaea fuerant secutae. Inter quas erant Maria
+          <lb ed="#P" n="85"/>Magdalenae, Maria Jacobi et Salome, plorantes juxta
+          <lb ed="#P" n="86"/>sepulcrum (Matth. xxvu). Tropis cantatis, in 
+          qui<lb break="no" ed="#P" n="87"/>busdam Ecclesiis ad terram procidentes dicunt
+          <lb ed="#P" n="88"/>Miserere mei, Deus (Psal. v), et collectam, videlicet
+          <lb ed="#P" n="89"/>Respice, quesumus, Domine, super hanc familiam, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

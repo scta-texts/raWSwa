@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 139</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 139</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="72"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1748"><!-- raWSwa-c139 -->
+        <head xml:id="raWSwa-d1e1748-Hd1e101">Caput 139</head>
+        <head xml:id="raWSwa-d1e1748-Hd1e103" type="question-title">
+          De divisione apostolorum.
+        </head>
+        <p xml:id="raWSwa-d1e1748-d1e106">
+          <lb ed="#P" n="51"/>CAPUT CXXXIX.
+          <lb ed="#P" n="52"/>De divisione apostolorum.
+        </p>
+        <p xml:id="raWSwa-d1e1748-d1e113">
+          <lb ed="#P" n="53"/>De festo divisionis apostolorum 
+          magnaeauctorita<lb break="no" ed="#P" n="54"/>tis scriptores varii dissentiunt. Quidam enim volunt
+          <lb ed="#P" n="55"/>divisionem hanc intelligendam esse quasi quae 
+          Jero<lb break="no" ed="#P" n="56"/>solymae post duodecim aunos facta esset, cum 
+          vide<lb break="no" ed="#P" n="57"/>licet apostoli partiti ac scparati fuerint ad 
+          concio<lb break="no" ed="#P" n="58"/>nandum ethnicis : Nonnulli vero putant festum hoc
+          <lb ed="#P" n="59"/>esse accipiendum de divisione Petri et Pauli, illa
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>videlicet, de qua superius mentio facta est. illam
+          <lb ed="#P" n="61"/>enim tali dic factam fuisse arbitrantur quod utique
+          <lb ed="#P" n="62"/>bene fieri potuit. Dicitur autem hoc die magna illa
+          <lb ed="#P" n="63"/>apostolorum scquentia, cujus initium est hujusmodi.
+          <lb ed="#P" n="64"/>Cali enarrant, et Exvangelium Ascensionis, sed non
+          <lb ed="#P" n="65"/>integrum, ut quod ibi incipit: Et Dominus quidem
+          <lb ed="#P" n="66"/>Jesus postquam locutus est (Marc. xvi). Ad cujus
+          <lb ed="#P" n="67"/>extrenie partis probationem nonnulli hic mentionem
+          <lb ed="#P" n="68"/>faciunt de duobus discipulis Petri, qui cum ad
+          <lb ed="#P" n="69"/>praedicandum missi essent, et virciter viginti dies
+          <lb ed="#P" n="70"/>iter ingressi, alter eorum mortuus est, et alter ad
+          <lb ed="#P" n="71"/>Petrum rediit. Hunc aiunt fuisse B. Maternum. Sed
+          <lb ed="#P" n="72"/>Petrus ei tradidit baculum suum, ac ipsum remisit,
+          <lb ed="#P" n="73"/>praecipiens ut ad corpus socii sui adiret, et illud suo
+          <lb ed="#P" n="74"/>baculo tangeret. Quod quidem cum hic fecisscet, e
+          <lb ed="#P" n="75"/>vestigio alter revixit ad tactum baculi, qui jam
+          <lb ed="#P" n="76"/>mortuus fucrat quadraginta diebus. Et sic verum
+          <lb ed="#P" n="77"/>esse completum est, quod dixerat Dominus : Et 
+          ma<lb break="no" ed="#P" n="78"/>jora horum facietis (Joan. xw). Dominus cnim 
+          qua<lb break="no" ed="#P" n="79"/>triduanum suscitavit Lazarum, quod sane oppido
+          <lb ed="#P" n="80"/>quam magnunmne fuit : sed magis quod ad tactum 
+          ba<lb break="no" ed="#P" n="81"/>culi Pctri revixit ille, qui jam mortuus fuerat 
+          qua<lb break="no" ed="#P" n="82"/>draginta diebus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

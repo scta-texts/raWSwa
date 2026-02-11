@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 64</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 64</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="36"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e836"><!-- raWSwa-c64 -->
+        <head xml:id="raWSwa-d1e836-Hd1e101">Caput 64</head>
+        <head xml:id="raWSwa-d1e836-Hd1e103" type="question-title">
+          Nunc omittenda sunt in Adventu.
+        </head>
+        <p xml:id="raWSwa-d1e836-d1e106">
+          <lb ed="#P" n="4"/>CAPUT LXIIII
+          <lb ed="#P" n="5"/>Nunc omittenda sunt in Adventu.
+        </p>
+        <p xml:id="raWSwa-d1e836-d1e113">
+          <lb ed="#P" n="6"/>Omittenda sunt in Adventu, ut in Septuagesima,
+          <lb ed="#P" n="7"/>qu:edam cantica betitie, quemadimodum Te Deum
+          <lb ed="#P" n="8"/>laudamus, Gloria in excelsis, lte, missa est. Verum
+          <lb ed="#P" n="9"/>enimvero cum tempus istud partim sit letitiae, non
+          <lb ed="#P" n="10"/>subticetur Alleluia, sicut in Septuagesima, quod
+          <lb ed="#P" n="11"/>tempus totum maeroris est. Quare considerare 
+          pote<lb break="no" ed="#P" n="12"/>rimus tria ista sesc mutuo sequi quidem, $2d non
+          <lb ed="#P" n="13"/>semper. Quaedam enim Ecclesiae in cathedra B. Petri,
+          <lb ed="#P" n="14"/>ctiamsi sit in Quadragesima festum istud, dicunt
+          <lb ed="#P" n="15"/>Te Deum laudamus, cacteris vero laudibus tacitis,
+          <lb ed="#P" n="16"/>quia hoc cantico solemus uti ad inthronizandos 
+          ali<lb break="no" ed="#P" n="17"/>quos in suas sedes. Nam et eodem dic Petrus in
+          <lb ed="#P" n="18"/>cathedra Antiochena fuit constitutus. Rursus Gloria
+          <lb ed="#P" n="19"/>in excelsis, et lte, missa est dicitur ipso die solemni
+          <lb ed="#P" n="20"/>Coenae si episcopus praesens sit, et celebret officium
+          <lb ed="#P" n="21"/>de tribus Oleis, sed Te Deum laudamus non dicitur,
+          <lb ed="#P" n="22"/>quoniam surgitue ad Tencbras. Ob quam etiam
+          <lb ed="#P" n="23"/>causam subticetur in psalmis et in responsoriis
+          <lb ed="#P" n="24"/>hisce diebus Gloria Patri, quia tunc multum 
+          deho<lb break="no" ed="#P" n="25"/>nestata est Trinitas, maximcque illo iriduo. Item in
+          <lb ed="#P" n="26"/>prima missa Natalis Domini canitur Gloria in excelsis,
+          <lb ed="#P" n="27"/>nec tamen dicimus, He, missa est, donec et tertia
+          <lb ed="#P" n="28"/>missa sit absoluta. Alioquin enim recedcret populus,
+          <lb ed="#P" n="29"/>et non audiret matutinas. Unde nonnuili sacerdoteg
+          <lb ed="#P" n="30"/>rescrvant collectam sive orationem finalem primae
+          <lb ed="#P" n="31"/>missae doncc cantentur motutinae, ac postca dicunt
+          <lb ed="#P" n="32"/>et concludunt missam cum Benedicamus Domino.
+          <lb ed="#P" n="33"/>Deindc vero incipitur missa sccunda, et pari modo
+          <lb ed="#P" n="34"/>fünitur, vcl per Ecce completa sunt, in quibusdam
+          <lb ed="#P" n="35"/>Ecclesiis, ne populo licentia abeundi detur, sciatque
+          <lb ed="#P" n="36"/>se adhuc debere tertiam audirc missam, sub cujus
+          <lb ed="#P" n="37"/>linem cxprimitur. Ite, missa est, quae laus pertinet
+          <lb ed="#P" n="38"/>ad licsurrectionem, sicut Gloria in excelsis ad 
+          Nati<lb break="no" ed="#P" n="39"/>vitatem. Atque haec quidem est ratio, quamobrem
+          <lb ed="#P" n="40"/>utrumque in Adventu subticeatur, quod tunc 
+          utrum<lb break="no" ed="#P" n="41"/>que avidc exspectctur, sed Te Deun laudamus idco
+          <lb ed="#P" n="42"/>tacetur, ut cum majori ardore resumatur ipso dic
+          <lb ed="#P" n="43"/>festo, vel, quia nondum presens est qucem 
+          exspec<lb break="no" ed="#P" n="44"/>tamus, cum ad praesentes hoc cantico uti soleamus.
+          <lb ed="#P" n="45"/>Sic et pro Dominus regnarit (Psul. xcvi), dicitur
+          <lb ed="#P" n="46"/>Miserere mei, Deus (Psal. 1), et cantica illa, quae
+          <lb ed="#P" n="47"/>sunt Auns, Movsis, llabacuc, atque alia quae isthic
+          <lb ed="#P" n="48"/>sunt, ut : Ego dixi (Isa. xxxvun; ct: Audite, cali
+          <lb ed="#P" n="49"/>(Deut. xxn), quae per singulas hebdomadas 
+          dicun<lb break="no" ed="#P" n="50"/>r. llora vero D. Virginis idcirco subticentur, quo
+          <lb ed="#P" n="51"/>tetum illius temporis officium ad ejus laudem sit.
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="52"/>liinc etiam animadvertendum est quod in festis
+          <lb ed="#P" n="53"/>novemn lectionum, si quae sunt, in Adventu, ad 
+          ter<lb break="no" ed="#P" n="54"/>tiam debeat cclebrari missa solemnis, cum Cloria
+          <lb ed="#P" n="55"/>in excelsis, et, lte, missa est. Undectiam in plcrisque
+          <lb ed="#P" n="56"/>ecclesiis nigras cappas deponunt ad missam illam
+          <lb ed="#P" n="57"/>tanquam in paschali tempore, nec gcnua tunc flecti
+          <lb ed="#P" n="58"/>debent. Missa vero absoluta cappae resumuntur, et
+          <lb ed="#P" n="59"/>pesta ac nona cantaia, auspicatur missa de jejunio
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>atque tum diaconus pronuntiare dcbet ad 
+          hnius<lb break="no" ed="#P" n="61"/>modi missam, et in omni tempore jejuniorum, 
+          Fle<lb break="no" ed="#P" n="62"/>ciamus genua, exceptis feriis iis quae Pertiecosten
+          <lb ed="#P" n="63"/>proxime sequuntur, in quibus propter revetentiaus
+          <lb ed="#P" n="64"/>festi cantica laetitiae non subticentur, scilicet 
+          Alle<lb break="no" ed="#P" n="65"/>luia, Te Deum laudamus , atque Ite, missa est.
+          <lb ed="#P" n="66"/>Proinde vero neque hic ullius sancti commemorid
+          <lb ed="#P" n="67"/>fieri oportet, sive Christi Adventum praecesserit
+          <lb ed="#P" n="68"/>(cum ejus temporis omnes ad inferos descenderint,
+          <lb ed="#P" n="69"/>unde et pro eis non 'solemnizat Ecclesia), sive 
+          se<lb break="no" ed="#P" n="70"/>cutus fuerit Christi Adventum cum córum singulis
+          <lb ed="#P" n="71"/>diebus hic commeinoratio fieri debeat. Ecce 
+          Domi<lb break="no" ed="#P" n="72"/>nus veniet, etc. (Isa. Lxsi), antiphona est, quae 
+          ca<lb break="no" ed="#P" n="73"/>nitur post Benedicamus Domino, et sequitur orstio
+          <lb ed="#P" n="74"/>hujusmodi , Conscientias nostras, quasumus, 
+          Do<lb break="no" ed="#P" n="75"/>mine, visitaudo purifica, ut veniens Dominus noster
+          <lb ed="#P" n="76"/>Jesus Christus, tum omnibus sanctis paratam aibi in
+          <lb ed="#P" n="77"/>nobis inveniat mansionem, qui tecum, etc. In 
+          anti<lb break="no" ed="#P" n="78"/>phona ponitur, omnes sancti ejus cum eo, et in 
+          ora<lb break="no" ed="#P" n="79"/>tione, cum omnibus sanctis, ita ut hinc 
+          necessa<lb break="no" ed="#P" n="80"/>rium non sit fleri speciatim aliquorum 
+          sancto<lb break="no" ed="#P" n="81"/>rum commemorationem. Sed oportet intelligamus
+          <lb ed="#P" n="82"/>hanc orationent pertinere ad secundum advenum,
+          <lb ed="#P" n="83"/>qui efficitur in mente hominis, cum videlicet 
+          legi<lb break="no" ed="#P" n="84"/>tur : Ut veniens Dominus Jesus Christus paratam
+          <lb ed="#P" n="85"/>sibi in nobis mansionem inveniat. Verum tunc adds
+          <lb ed="#P" n="86"/>non debet cum omnibus sanctis. Nam si illud edj:-
+          <lb ed="#P" n="87"/>ciatur, jam ad tertium adventum videbitur perti.
+          <lb ed="#P" n="88"/>nere. Est enim adventus Christi triplex : in carne,
+          <lb ed="#P" n="89"/>in mente, qui singulis diebus in humanis animis
+          <lb ed="#P" n="90"/>contingit per Spiritum sanctum, et tertius in 
+          ma<lb break="no" ed="#P" n="91"/>jestate, qui adventus erit in die judicii. De secundo
+          <lb ed="#P" n="92"/>adventu, qui fit in humana mente, inquit Salomon;
+          <lb ed="#P" n="93"/>Domine, mitte sapientiam tuam, ut mecum sit, et
+          <lb ed="#P" n="94"/>mecum laborct (Sap. 1x). Est rursus et alia ratio,
+          <lb ed="#P" n="95"/>quae cjusmodi est, ut duos nobis significet adventus,
+          <lb ed="#P" n="96"/>nimirum : Ezcita, Domine, potentiam tuam, et veni,
+          <lb ed="#P" n="97"/>ut ob imminentibus peccatorum nostrorum 
+          pericu<lb break="no" ed="#P" n="98"/>lis, ctc. Ad primum adventum pertinet, cum 
+          dici<lb break="no" ed="#P" n="99"/>tur : Te protegente mereamur eripi; ad secundum
+          <lb ed="#P" n="100"/>vero, cum legimus : Te liberante salvari
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

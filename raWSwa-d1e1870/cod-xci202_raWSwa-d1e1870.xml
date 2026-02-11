@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 149</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 149</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="76"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1870"><!-- raWSwa-c149 -->
+        <head xml:id="raWSwa-d1e1870-Hd1e101">Caput 149</head>
+        <head xml:id="raWSwa-d1e1870-Hd1e103" type="question-title">
+          De Nativitate beate Mariac.
+        </head>
+        <p xml:id="raWSwa-d1e1870-d1e106">
+          <lb ed="#P" n="70"/>CAPUT <sic>CXLI</sic>.
+          <lb ed="#P" n="71"/>De Nativitate beate Mariac.
+        </p>
+        <p xml:id="raWSwa-d1e1870-d1e115">
+          <lb ed="#P" n="72"/>Deinceps sequitur Nativitas B. Mariae. Festum hoc
+          <lb ed="#P" n="73"/>olim fieri non consuevit, sed quodam tempore vir
+          <lb ed="#P" n="74"/>quispiam pius, cum noctu oraret, audivit angelos in
+          <lb ed="#P" n="75"/>coelo canentes. ldem accidit pluribus annis eamdem
+          <lb ed="#P" n="76"/>per noctem. Quare petiit a Domino ut quid hoc sibi
+          <lb ed="#P" n="77"/>rei vellet ipsi revelaretur. Et indicatum est ei 
+          angc<lb break="no" ed="#P" n="78"/>los ita in coelis gaudere, ac velut solemnizare, quod
+          <lb ed="#P" n="79"/>istiusmodi nocte nata esset beata Virgo. llle igitur
+          <lb ed="#P" n="80"/>rem, quam audiverat, ad papam defert : qui cum
+          <lb ed="#P" n="81"/>intellexisset eum virum esse sanctum et magnae 
+          au<lb break="no" ed="#P" n="82"/>ctoritatis, credens ipsum vera loqui, instituit ut per
+          <lb ed="#P" n="83"/>totum mundum christianum , festum hoc 
+          celebrare<lb break="no" ed="#P" n="84"/>tur. Nec vero habet jejunium, vel octavas 
+          institu<lb break="no" ed="#P" n="85"/>tionis. Potest tamen nihilominus habere devotionis.
+          <lb ed="#P" n="86"/>Legitur hoc festo evangelium : Liber 
+          genetatio<lb break="no" ed="#P" n="87"/>nis (Mauh. 1), ubi agitur de genealogia Christi. Sed
+          <lb ed="#P" n="88"/>quaeritur cur in generatione potius computetur 
+          Jo<lb break="no" ed="#P" n="89"/>seph, quam B. Maria, cum Christus non sit filius
+          <lb ed="#P" n="90"/>Joscpb. Vcrum enimvero in Veteri Testamento 
+          po<lb break="no" ed="#P" n="91"/>tius solct fieri computatio per viros quam per 
+          feini<lb break="no" ed="#P" n="92"/>nas, nec multm refert per quem hic fiat 
+          computa<lb break="no" ed="#P" n="93"/>tio, cum Joseph et B. Maria eamdem habuerint 
+          ge<lb break="no" ed="#P" n="94"/>nerationem. Et sane Christus maluit fabri filius 
+          vo<lb break="no" ed="#P" n="95"/>cari, quam ut mater sua lapidibus obrueretur. 
+          Re<lb break="no" ed="#P" n="96"/>vera filius fabri fuit, non illius Nazaraeni, sed fabri
+          <lb ed="#P" n="97"/>ejus, qui fabricatus est aururam et solem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

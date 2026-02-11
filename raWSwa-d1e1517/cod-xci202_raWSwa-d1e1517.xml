@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 120</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 120</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="62"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1517"><!-- raWSwa-c120 -->
+        <head xml:id="raWSwa-d1e1517-Hd1e101">Caput 120</head>
+        <head xml:id="raWSwa-d1e1517-Hd1e103" type="question-title">De quadam libertate Decembris</head>
+        <p xml:id="raWSwa-d1e1517-d1e106">
+          <lb ed="#P" n="34"/>CAPUT CXX.
+          <lb ed="#P" n="35"/>De quadam libertate Decembris.
+        </p>
+        <p xml:id="raWSwa-d1e1517-d1e113">
+          <lb ed="#P" n="36"/>Restat ut de eo nunc agamus, quod ultimo loco
+          <lb ed="#P" n="37"/>in partitione superiori propositum fuit, nimirum
+          <lb ed="#P" n="38"/>de quadam libertate Decembris, quae hoc tempore
+          <lb ed="#P" n="39"/>in quibusdam locis observatur. Sunt enim nonnullae
+          <lb ed="#P" n="40"/>Ecclesiae, in quibus usitatum est ut vel etiam 
+          epi<lb break="no" ed="#P" n="41"/>scopi et archiepiscopi in coenobiis cum suis ludant
+          <lb ed="#P" n="42"/>subditis, ita ut etiam sese ad lusum pilae demittant.
+          <lb ed="#P" n="43"/>Atque haec quidem libertas ideo dicta est 
+          Decem<lb break="no" ed="#P" n="44"/>brica, quod olim apud ethnicos moris fuerit ut hoc
+          <lb ed="#P" n="45"/>mense servi et ancillae et pastores velut quadam 
+          li<lb break="no" ed="#P" n="46"/>bertate donarentur, fierentque cum dominis suis
+          <lb ed="#P" n="47"/>pari conditione, communia festa agentes post 
+          col<lb break="no" ed="#P" n="48"/>lectionem messium. Quanquam vero magnae 
+          Eccle<lb break="no" ed="#P" n="49"/>siae, ut est Remensis, hanc:ludendi consuetudinem
+          <lb ed="#P" n="50"/>observent, videtur tamen laudabilius esse non 
+          lu<lb break="no" ed="#P" n="51"/>dere.
+        </p>
+        <p xml:id="raWSwa-d1e1517-d1e150">
+          <lb ed="#P" n="52"/>Notandum quoque est in plerisque regionibus
+          <lb ed="#P" n="53"/>sccuundo die post Paschae mulieres maritos suos
+          <lb ed="#P" n="54"/>verberare, ac vicissim viros eas tertio die, 
+          quemad<lb break="no" ed="#P" n="55"/>modum licebat servis in Decembris dominos suos
+          <lb ed="#P" n="56"/>impune accusare. Quod ob eam rem faciunt, ut
+          <lb ed="#P" n="57"/>ostendant sese inutuo debere corrigere, ne tempore
+          <lb ed="#P" n="58"/>illo alter ab altero tori debitum exigat. Unde 
+          scicn<lb break="no" ed="#P" n="59"/>dum est in concilio Elibertino sub Sylvestro ponti-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>fice hujusmodi decretum fuisse : ut vir et uxor
+          <lb ed="#P" n="61"/>quando deberent communicare, tribus diebus 
+          ante<lb break="no" ed="#P" n="62"/>quam communicarent, ab amplexibus abstinere, et
+          <lb ed="#P" n="63"/>postea item tribus sequentibus ad minimum, vel
+          <lb ed="#P" n="64"/>quinque vel septem, propter septem dona Spiritus
+          <lb ed="#P" n="65"/>sancti. Quod sane decretum sumptum est ex lib.
+          <lb ed="#P" n="66"/>Regum, idque ex eo loco ubi dicitur, David fugiens
+          <lb ed="#P" n="67"/>a facie Saul venisse Nobe, ad sacerdotem 
+          Abime<lb break="no" ed="#P" n="68"/>lech, et petiisse ab eo cibum. Qui cum non haberet
+          <lb ed="#P" n="69"/>quod ei daret, nisi panes propositionis, quos non
+          <lb ed="#P" n="70"/>licebat nisi sacerdotibus comedere, et illis etiam
+          <lb ed="#P" n="71"/>mundis : cum postularet tamen illos sibi dari David:
+          <lb ed="#P" n="72"/>Sunt, inquit, pueri tui mundi? Cui David respondit:
+          <lb ed="#P" n="73"/>Si de mulieribus quaris, ab heri et nudiustertius
+          <lb ed="#P" n="74"/>abstinuimus (I Reg. xx1). Alii autem codices sic 
+          le<lb break="no" ed="#P" n="75"/>gunt : Si pueri tui sunt mundi, maxime a 
+          mulieri<lb break="no" ed="#P" n="76"/>bus, manducent. Quasi diceret : Necessitas non
+          <lb ed="#P" n="77"/>habet legem. Si tamen ex coitu sunt immundi, ne in
+          <lb ed="#P" n="78"/>necessitate quidem eis dabo. Et inquit ad eum
+          <lb ed="#P" n="79"/>David : Ab heri et nudiustertius nos continuimus : et
+          <lb ed="#P" n="80"/>sunt vasa puerorum sancta, id est, corpora in 
+          qui<lb break="no" ed="#P" n="81"/>bus continentur animae vel ipsi pueri. Porro via
+          <lb ed="#P" n="82"/>polluta est, sed hodie sanctificabitur in vasis (ibid ).
+          <lb ed="#P" n="83"/>Quasi dicat : Forte in via hac aliquid immunditiae
+          <lb ed="#P" n="84"/>contraximus, sed munditia corporum suflicit ad eam
+          <lb ed="#P" n="85"/>mundandam. Nec vero dico quod si vir ab uxore
+          <lb ed="#P" n="86"/>tori debitum postulet, quod huic illa non reddet,
+          <lb ed="#P" n="87"/>sed debet ipsum placide monere ne exigat. Si vere
+          <lb ed="#P" n="88"/>instet, nec ullis monitis acquiescat, persolvat, ne
+          <lb ed="#P" n="89"/>exigenti forte hinc magis peccare accidat, 
+          quemad<lb break="no" ed="#P" n="90"/>modum non ita pridem quibusdam Germanis fertur
+          <lb ed="#P" n="91"/>evenisse. In Germania enim cum caste integra 
+          Qua<lb break="no" ed="#P" n="92"/>dragesima viventes vir et uxor seorsum cubuissent,
+          <lb ed="#P" n="93"/>forte fortuna paschali nocte cum ad matutinas 
+          sur<lb break="no" ed="#P" n="94"/>rexissent, mulier exegit debitum. Quam diligenter
+          <lb ed="#P" n="95"/>vir corrigens, cum nihil bonis admonitionibus 
+          pro<lb break="no" ed="#P" n="96"/>ficeret, promisit se illud facturura quod peteret 
+          si<lb break="no" ed="#P" n="97"/>mul atque rediret, et sic ad matutiias abiit. [lla
+          <lb ed="#P" n="98"/>vero quasi furibunda domi remansit, et accessit a«
+          <lb ed="#P" n="99"/>juvenem quemdam sui mariti fratrem, in eadem
+          <lb ed="#P" n="100"/>domo dormientem, petens ab eo ut se cognosceret.
+          <lb ed="#P" n="101"/>Qui nolens ei acquiescere, tum propter temporis
+          <lb ed="#P" n="102"/>venerationem et sanctitatem, tum propter incestum,
+          <lb ed="#P" n="103"/>quod illa impudenter petebat, prorsus se facturum
+          <lb ed="#P" n="104"/>denegavit, atque iterum |bic obdormivit. Tum 
+          mu<lb break="no" ed="#P" n="105"/>lier ob repulsam, quam passa fuerat, vehementius
+          <lb ed="#P" n="106"/>ardens, dormientem juvenem obtruncat. Viro autem
+          <lb ed="#P" n="107"/>redeunti domum omnem rem naurrat ordine, 
+          in<lb break="no" ed="#P" n="108"/>quiens : « Hujus mali tu auctor es, qui haec me 
+          fa<lb break="no" ed="#P" n="109"/>cere coegisti. » Proinde longam, multamque ambo
+          <lb ed="#P" n="110"/>egerunt poenitentiam, nec ideo sunt separati.
+          <lb ed="#P" n="111"/>(1 Quare hac in parte intelligendum est, virum 
+          mu<lb break="no" ed="#P" n="112"/>licri in omnibus praeesse, et in mulierem omne 
+          ha<lb break="no" ed="#P" n="113"/>bere imperium, exceptis genitalibus, in quibus 
+          utri<lb break="no" ed="#P" n="114"/>que par est et dominium et imperium. Undc 
+          dici<lb break="no" ed="#P" n="115"/>tur : Vir non habet potestatem suc carnis, sed 
+          mu<lb break="no" ed="#P" n="116"/>lier; nec mulier sui corporis, sed vir (I Cor. vn), hoe
+          <lb ed="#P" n="117"/>est gcnitalium; sic enim exponit Augustinus. lHinc
+          <lb ed="#P" n="118"/>etiam est quod sacerdotes non habeant mulieres. Si
+          <pb ed="#P" n="63"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>enim haberent, quotiescunque ab iis debitum 
+          exi<lb break="no" ed="#P" n="2"/>gerent. istud solvere tenerentur, et sic non possent
+          <lb ed="#P" n="3"/>infra tres dies sequentes altari ministrare. Ác 
+          scien<lb break="no" ed="#P" n="4"/>dum praeterea est quod tribus diebus Pascha 
+          se<lb break="no" ed="#P" n="5"/>quentibus plane sit feriandum; sed quarto die 
+          li<lb break="no" ed="#P" n="6"/>c at viris rustica exercere opera, femina autem
+          <lb ed="#P" n="7"/>debeant a nendo abstinere. Magis enim sunt 
+          neces<lb break="no" ed="#P" n="8"/>sria ea quae ad agrorum culturam pertinent, quam
+          <lb ed="#P" n="9"/>ista alia. Unde Gregorius : « Melius est, inquit, 
+          fo<lb break="no" ed="#P" n="10"/>dere et arare die Dominico, quam ducere choreas.»
+          <lb ed="#P" n="11"/>Ex hoc sane fieri dicimus, quod singuli isti dies
+          <lb ed="#P" n="12"/>propria et peculiaria habeant officia et propria 
+          re<lb break="no" ed="#P" n="13"/>sponsoria, alia autem non item, sed quasi per 
+          quam<lb break="no" ed="#P" n="14"/>dam accommodationem. lIn hac porro septimana
+          <lb ed="#P" n="15"/>nihil legendum est ex Veteri Testamento, sed 
+          quae<lb break="no" ed="#P" n="16"/>libet dies sua habet officia. Nec cantandum etiam est,
+          <lb ed="#P" n="17"/>Qnicunque vult, quia hoc tempus significat futurum 
+          il<lb break="no" ed="#P" n="18"/>lud tempus, quod adfore post resurrectionem 
+          credi<lb break="no" ed="#P" n="19"/>mus, quando omnis fides, omnis spes omnino 
+          de<lb break="no" ed="#P" n="20"/>struetur. Post officium autem hic versiculus 
+          dici<lb break="no" ed="#P" n="21"/>r, scilicet, Domine, probasti me et cognovisti me
+          <lb ed="#P" n="22"/>(Psal. cxxxvin), et quidam tacent sessionem meam
+          <lb ed="#P" n="23"/>(ibid.). Sed tamen utrumque dici potest, quo 
+          indi<lb break="no" ed="#P" n="24"/>catur duplex in Christo nativitas. Bifariam prima
+          <lb ed="#P" n="25"/>cantari potest, aut brevius, aut prolixius. Prolixius
+          <lb ed="#P" n="26"/>quicem, cum plena esse dicitur, fitque in litania et
+          <lb ed="#P" n="27"/>cum precibus. Drevius autem, cum minus plena
+          <lb ed="#P" n="28"/>esse appellatur, ac fit vel tantummodo cum 
+          preci<lb break="no" ed="#P" n="29"/>bus et sine litania, vel sine litania ac sine 
+          preci<lb break="no" ed="#P" n="30"/>bus. Atque haec est, quam hisce diebus canimus
+          <lb ed="#P" n="31"/>sine precibus, et omnino brevius quam alio 
+          tem<lb break="no" ed="#P" n="32"/>pore.
+        </p>
+        <p xml:id="raWSwa-d1e1517-d1e375">
+          <lb ed="#P" n="33"/>Magna item in communicandis cautione opus est, ut
+          <lb ed="#P" n="34"/>videlicct sacerdos prius audiat confessionem eorum
+          <lb ed="#P" n="35"/>qui sunt communicaturi, et si quis adversus fratrem
+          <lb ed="#P" n="36"/>suumodium velcriminale aliquid habeat, admonendus
+          <lb ed="#P" n="37"/>prius est ne communicet antequam fratri suo 
+          recon<lb break="no" ed="#P" n="38"/>cilietur. Sed si hujusmod: aliquis se cum aliis 
+          impru<lb break="no" ed="#P" n="39"/>denter ingerat, non est ei negandum, nec agendum ut
+          <lb ed="#P" n="40"/>quidam agunt, qui hostias habent et consecratas,
+          <lb ed="#P" n="41"/>et non consecratas ita ut si aliqui accesserint,
+          <lb ed="#P" n="42"/>cui fraternum odium exercuerint, vel aliquid 
+          crimi<lb break="no" ed="#P" n="43"/>nale, communicent de non consecratis, verum eos
+          <lb ed="#P" n="44"/>graviter peccare satis manifestum est. Fallunt enim
+          <lb ed="#P" n="45"/>eos, quanquam non minus, imo magis peccant alii
+          <lb ed="#P" n="46"/>qui sumunt, cum sponte et voluntarie rei sint. Nam
+          <lb ed="#P" n="47"/>putant se verum corpus sumere, et non pertimescunt
+          <lb ed="#P" n="48"/>illud sumere indigne. Debet ergo sacerdos panem
+          <lb ed="#P" n="49"/>babere consecratum, ut si tales accesserint illo
+          <lb ed="#P" n="50"/>etiam pane communicent. Quatuor autem modis
+          <lb ed="#P" n="51"/>communicatur in Ecclesia, vel sumendo corpus 
+          Do<lb break="no" ed="#P" n="52"/>mini, vel pacem dando, vel benedictionem 
+          accipien<lb break="no" ed="#P" n="53"/>do, vel etiam sub finem missae cum dicitur : 
+          Humi<lb break="no" ed="#P" n="54"/>liete tos ad benedictionem. Quod ideo institutum
+          <lb ed="#P" n="55"/>est, ut si quis hoc modo non communicet, saltem
+          <lb ed="#P" n="56"/>illo. In primitiva enim Ecclesia praeceptum erat ut
+          <lb ed="#P" n="57"/>singulis diebus corpus Domini sumeretur : postea
+          <lb ed="#P" n="58"/>vero crescepje numero fidelium, ut singulis diebus
+          <lb ed="#P" n="59"/>Dominicis. Unde etiam nunc in Gracia sub anathc
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>mate ponitur qui a tribus diebus Dominicis non
+          <lb ed="#P" n="61"/>communicaverit. Modo autem nos tenemur in tribus
+          <lb ed="#P" n="62"/>solemnitatibus, nimirum Paschate, Pentecoste et
+          <lb ed="#P" n="63"/>Natali. Appellatur autem prima illa solemnitas
+          <lb ed="#P" n="64"/>Paschae agnus et transitus, salutandumque eo 
+          tem<lb break="no" ed="#P" n="65"/>pore est boc modo : Fesurrexit Dominus. Sic et 
+          eo<lb break="no" ed="#P" n="66"/>dem die in principio missae populo est concionan--
+          <lb ed="#P" n="67"/>dum, vel post Evangelium: et admonendi sunt 
+          dis<lb break="no" ed="#P" n="68"/>cordes ad concordiam. Ob quam quidem causam
+          <lb ed="#P" n="69"/>tieri putatur, ut cum Dominica Oratio in prima 
+          dici<lb break="no" ed="#P" n="70"/>tur voce submissa, et alta et espressa eadem 
+          pro<lb break="no" ed="#P" n="71"/>nuntietur in missa, ut vel eo pacto adhortentur qui
+          <lb ed="#P" n="72"/>in fraterno sunt odio, et ad concordiam discordes
+          <lb ed="#P" n="73"/>excitentur, antequam communicent. Nunquam etiam
+          <lb ed="#P" n="74"/>magis indigne corpus Christi sumi potest quam ad
+          <lb ed="#P" n="75"/>eum modum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

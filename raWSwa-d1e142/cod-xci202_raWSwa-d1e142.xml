@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 7</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 7</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="10"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e142"><!-- raWSwa-c7 -->
+        <head xml:id="raWSwa-d1e142-Hd1e101">Caput 7</head>
+        <head xml:id="raWSwa-d1e142-Hd1e103" type="question-title">
+          De processionibus.
+        </head>
+        <p xml:id="raWSwa-d1e142-d1e106">
+          <lb ed="#P" n="63"/>CAPUT VII
+          <lb ed="#P" n="64"/>De processionibus.
+        </p>
+        <p xml:id="raWSwa-d1e142-d1e113">
+          <lb ed="#P" n="65"/>Processiones denique duae sunt : una est, quam
+          <lb ed="#P" n="66"/>singulis annis observamus in Ramis Palinarum. Sic
+          <lb ed="#P" n="67"/>enim illam vocamus Dominicam, quae presxime prae
+          <lb ed="#P" n="68"/>cedit Pascha. Atque haec quidem illam repraesentat
+          <lb ed="#P" n="69"/>processionem, quae Domino fuit exhibita a turbis
+          <lb ed="#P" n="70"/>Julaeorum, et pueris cum ramis palmarum, cum
+          <lb ed="#P" n="71"/>insidens asinae Jerosolyman veniret. Altera vero
+          <lb ed="#P" n="72"/>est, quam Doninicis diebus celebramus in ejus
+          <lb ed="#P" n="73"/>menioriam, quam discipuli Christo exhibuerunt
+          <lb ed="#P" n="74"/>ipso die Ascensionis, postquam cum eo simul ad
+          <lb ed="#P" n="75"/>montem Oliveti congredicbantur, unde illis 
+          videnti<lb break="no" ed="#P" n="76"/>bus assumptus est. Non quod illud die Dominice
+          <lb ed="#P" n="77"/>factum sit, sed processio et omnis istius diei 
+          cele<lb break="no" ed="#P" n="78"/>bratie in diem Dominicum translata est, ut a popule
+          <lb ed="#P" n="79"/>tunc maxime ad ecclesiam confugiente et simul es
+          <lb ed="#P" n="80"/>solemnius coli possit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

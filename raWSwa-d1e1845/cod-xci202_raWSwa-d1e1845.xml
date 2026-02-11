@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 147</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 147</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="76"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1845"><!-- raWSwa-c147 -->
+        <head xml:id="raWSwa-d1e1845-Hd1e101">Caput 147</head>
+        <head xml:id="raWSwa-d1e1845-Hd1e103" type="question-title">
+          De Decollatione sancti Joannis.
+        </head>
+        <p xml:id="raWSwa-d1e1845-d1e106">
+          <lb ed="#P" n="12"/>CAPUT CXLVII.
+          <lb ed="#P" n="13"/>De Decollatione sancti Joannis.
+        </p>
+        <p xml:id="raWSwa-d1e1845-d1e113">
+          <lb ed="#P" n="14"/>Ut modo Decollationem Baptistae aggrediamur,
+          <lb ed="#P" n="15"/>praecipue illud cognoscendum est, ipsum tempore
+          <lb ed="#P" n="16"/>Paschali fuisse decollatum et corpus quidem a 
+          dis<lb break="no" ed="#P" n="17"/>cipulis suis Sebastae sepultum, caput vero minime.
+          <lb ed="#P" n="18"/>Quid autem de capite ejus postea actum sit, et 
+          quem<lb break="no" ed="#P" n="19"/>admodum in Aquitaniam venerit. dicetur alibi.
+          <lb ed="#P" n="20"/>Movetur hic quaestio, cum truncus in alio loco, 
+          at<lb break="no" ed="#P" n="21"/>que in alio caput fuerit sepultum, in utro illorum
+          <lb ed="#P" n="22"/>dicatur Joannes sepultus, sed huic controversiae ex
+          <lb ed="#P" n="23"/>supra dictis dari potest solutio. Pergamus ergo. In
+          <lb ed="#P" n="24"/>eo loco tbi corpus erat situm multa in dies Deus et
+          <lb ed="#P" n="25"/>maxima operabatur miracula, ita ut isthuc magna
+          <lb ed="#P" n="26"/>Christianorum turba conflueret. Quod sanc cum
+          <lb ed="#P" n="27"/>cthnici vidissent, moleste admodum tulerunt, et
+          <lb ed="#P" n="28"/>quoniam hoc tempore imperabat Julianus apostata,
+          <lb ed="#P" n="29"/>msaximus Ecclesiae persecutor, in dedecus 
+          Christia<lb break="no" ed="#P" n="30"/>norum S. Joannis mausoleum destruxerunt, et ossa
+          <lb ed="#P" n="31"/>jus per agros sparserunt. Sed cum et illuc 
+          Chri<lb break="no" ed="#P" n="32"/>stiani venirent, nec miracula cessarent, rursus
+          <lb ed="#P" n="33"/>etbnici ossa collegerunt et combusserunt. Verum
+          <lb ed="#P" n="34"/>digitus ille quo Dominum ad Jordanem venientem
+          <lb ed="#P" n="35"/>demonstraverat, inquiens : Ecce Agnus Dei, 
+          com<lb break="no" ed="#P" n="36"/>buri non potuit. Multi tamen Christiani, qui 
+          cthni<lb break="no" ed="#P" n="37"/>cis intererant, dum ossa colligerent, quae potuerant,
+          <lb ed="#P" n="38"/>reservarunt. Atque ob hanc quidem rationem 
+          pla<lb break="no" ed="#P" n="39"/>cuit D. Gilberto festum hoc potius collectionis dici
+          <lb ed="#P" n="40"/>debere, quam decollationis. Non desunt qui putant
+          <lb ed="#P" n="41"/>B. Thecliun digitum S. Joannis, qui comburi non
+          <lb ed="#P" n="42"/>potuit. ex oris transmarinis detulisse in 
+          Maurita<lb break="no" ed="#P" n="43"/>niam, ibique in bonorem B. Joannis ecclesiam 
+          con<lb break="no" ed="#P" n="44"/>struxisse, quae hoc die fuit dedicata. Quare 
+          statu<lb break="no" ed="#P" n="45"/>tuin fuit a pontifice ut hic dies per universum 
+          or<lb break="no" ed="#P" n="46"/>bem Christianum beato Joanni sacer baberetur,
+          <lb ed="#P" n="47"/>juxta quod videtur festum hoc appellandum esse
+          <lb ed="#P" n="48"/>dedicationis. Festum Bartholomaei praetermittimus,
+          <lb ed="#P" n="49"/>quod quae hic essent dicenda, satis cumulate ejus
+          <lb ed="#P" n="50"/>tradat historia. Concionatus tamen est verbum Dei
+          <lb ed="#P" n="51"/>in India, ubi primo die fuit excoriatus, altero 
+          ob<lb break="no" ed="#P" n="52"/>truncatus et translatus Beneventum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

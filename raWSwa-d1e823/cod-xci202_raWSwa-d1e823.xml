@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 63</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 63</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="35"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e823"><!-- raWSwa-c63 -->
+        <head xml:id="raWSwa-d1e823-Hd1e101">Caput 63</head>
+        <head xml:id="raWSwa-d1e823-Hd1e103" type="question-title">
+          De libris cantuum.
+        </head>
+        <p xml:id="raWSwa-d1e823-d1e106">
+          <lb ed="#P" n="72"/>CAPUT LXIII.
+          <lb ed="#P" n="73"/>De libris cantuum.
+        </p>
+        <p xml:id="raWSwa-d1e823-d1e113">
+          <lb ed="#P" n="74"/>Nunc redeamus ad libros cantuum, idque juxta
+          <lb ed="#P" n="75"/>dies adventuum. Primum itaque responsum sequitur
+          <lb ed="#P" n="76"/>tres versus, quod si per universum annum vagemur,
+          <lb ed="#P" n="77"/>non amplius fieri liquido comperiemus. Fit enim
+          <lb ed="#P" n="78"/>illud propter tria tempora antiquorum Patrum 
+          ad<lb break="no" ed="#P" n="79"/>ventum Christi exspectantium. Ac primum quidem
+          <lb ed="#P" n="80"/>tempus fuit ab Adamo usque ad Noe, nempe ad
+          <lb ed="#P" n="81"/>diluvium, secundum vero usque ad Moysen, et 
+          ter<lb break="no" ed="#P" n="82"/>tium usque ad Christum. Et quod terna ftlat ia
+          <lb ed="#P" n="83"/>codem responso repetitio, prima videlicet ab 
+          altio<lb break="no" ed="#P" n="84"/>ri, secunda a minus remoto, et tertia rursuma
+          <lb ed="#P" n="85"/>minus remoto et minori, causam habet hujusmodi :
+          <lb ed="#P" n="86"/>Eo namque nrodo ostendimus Patres primi 
+          tempo<lb break="no" ed="#P" n="87"/>ris remotius ab adventu Christi abfuisse, quam
+          <lb ed="#P" n="88"/>partes secundi vel tertii, atque iterum longius fuisse
+          <lb ed="#P" n="89"/>partes secundi quam tertii. Sic quoque tria sunt
+          <lb ed="#P" n="90"/>tempora patrum novitiorum secundum Christi 
+          ad<lb break="no" ed="#P" n="91"/>ventum exspectantium. Nam horum primum fuit
+          <lb ed="#P" n="92"/>Ecclesiae primitivae de Judaeis ad fidem conversis,
+          <lb ed="#P" n="93"/>et secundum modo praesto est, simul atque gentium
+          <lb ed="#P" n="94"/>sive ethnicorum facta est introductio. Sed tertium
+          <lb ed="#P" n="95"/>erit, cum omnis Israel salvabitur. Magis ergo remoti
+          <lb ed="#P" n="96"/>sunt, aut potius fuerunt primi quam ultimi , ut hec
+          <lb ed="#P" n="97"/>pacto ad utrumque adventum allegoria haec 
+          accom<lb break="no" ed="#P" n="98"/>mnodari possit. Gloria Patri tribus versibus tandem
+          <lb ed="#P" n="99"/>subjungitur, quod omne nostrum desiderium et 
+          ser<lb break="no" ed="#P" n="100"/>vitium ad trinum Dominum sit referendum. Noa
+          <lb ed="#P" n="101"/>enim isthic fit repetitio alicujus partis, sed tntius
+          <lb ed="#P" n="102"/>responsorii, quoniam post hoc hanc praesentem
+          <lb ed="#P" n="103"/>vitam omnia tempora consummabuntur. Tunc Deus
+          <lb ed="#P" n="104"/>erit omnia in omnibus (1 Cor. xv), hoc est 
+          consum<lb break="no" ed="#P" n="105"/>matio omnium et sufficientia. Verum enimvero de
+          <lb ed="#P" n="106"/>qualitate officii videamus, deque temporis reverentia,
+          <lb ed="#P" n="107"/>continentia et abstinentia. Ad qualitatem pertinet
+          <lb ed="#P" n="108"/>quid tenendum sit vel omittendum. Et quideimn quid
+          <lb ed="#P" n="109"/>tenendum seu observandum sit jam aliqua ex parte
+          <lb ed="#P" n="110"/>docuimus, addhnusque sub finem Adventuum cani
+          <lb ed="#P" n="111"/>debere septem antiphonas secundi toni, et 
+          unam<lb break="no" ed="#P" n="112"/>quamque juxta ordinem suo die usque ad Natale.
+          <lb ed="#P" n="113"/>Quae quidem omnes vel ob id secundi toni sunt,
+          <lb ed="#P" n="114"/>quod geminam nobis signiflcent dilectionem, Dei
+          <lb ed="#P" n="115"/>videlicet et proximi, vel etiam propter duas naturas
+          <lb ed="#P" n="116"/>in Christo. Sunt autem septem, propter Spiritum
+          <lb ed="#P" n="117"/>septiformem, quo illuminati erant ii qui Christum
+          <lb ed="#P" n="118"/>exspectabant. Sciendum tamen est his scptem ati-
+          <pb ed="#P" n="36"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>phonis quae surt de Sacramento, additas cssc duas
+          <lb ed="#P" n="2"/>alias, unam videlicet de beato Thoma, aliamn vero
+          <lb ed="#P" n="3"/>de B. Maria Virgine.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

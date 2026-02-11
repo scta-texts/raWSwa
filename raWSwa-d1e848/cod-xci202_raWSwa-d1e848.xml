@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 65</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 65</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="36"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e848"><!-- raWSwa-c65 -->
+        <head xml:id="raWSwa-d1e848-Hd1e101">Caput 65</head>
+        <head xml:id="raWSwa-d1e848-Hd1e103" type="question-title">
+          De temporibus quibus non debent nuptiae celebrari.
+        </head>
+        <p xml:id="raWSwa-d1e848-d1e106">
+          <lb ed="#P" n="101"/>CAPUT LXXV.
+          <lb ed="#P" n="102"/>De temporibus quibus non debent nuptiae celebrari.
+        </p>
+        <p xml:id="raWSwa-d1e848-d1e113">
+          <lb ed="#P" n="103"/>In Adventu non debent celebrari nuptiae, sicut
+          <lb ed="#P" n="104"/>nce in Septuagesima, quod hujusmodi tempora 
+          ora<lb break="no" ed="#P" n="105"/>tioni potissimum sint deputata, ac tunc potius ab
+          <lb ed="#P" n="106"/>uxorio lecto quilibet debeat abstinere, quam eidem
+          <lb ed="#P" n="107"/>adjungi.-Pari modo faciendum est in sacris 
+          solem<lb break="no" ed="#P" n="108"/>nitatibus, cum earumdem feriis, sicut in Pascha et
+          <lb ed="#P" n="109"/>Pentecoste. Et certe quidem diebus quoque 
+          Domini<lb break="no" ed="#P" n="110"/>cis, ac in festis apostotorum praccipue continendum
+          <lb ed="#P" n="111"/>est. Solemnitates namquc institutae supt, ut 
+          libe<lb break="no" ed="#P" n="112"/>rius vacari possit orationi. Verum enimvero rustici
+          <lb ed="#P" n="113"/>contra libentius illis diebus conveniunt, ut vacent
+          <lb ed="#P" n="114"/>potatiuni. Sed in omnibus his cautum oportet esse
+          <lb ed="#P" n="115"/>sacerdotem. Saepenumero enim accidit ut mutum
+          <lb ed="#P" n="116"/>pccus doceat animal divinum, hoc est laicus 
+          cleri<lb break="no" ed="#P" n="117"/>cum. Ac gcneratim quidem observandum est qued
+          <lb ed="#P" n="118"/>quocunque tempore abstinctur a nuptiis, abstinen-
+          <pb ed="#P" n="37"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dumn sit ab amplexu conjugis, si msi quando ob
+          <lb ed="#P" n="2"/>Iragilitatem incontinentiae poscat debitum ab uxore,
+          <lb ed="#P" n="3"/>vel illa a viro. lllud enim exigenti persolvendum
+          <lb ed="#P" n="4"/>est, quia cir, ut inquit Apostolus, non habet 
+          potesta<lb break="no" ed="#P" n="5"/>iem sua carnis, sed mulier (l Cor. vi), et contra. 
+          Se<lb break="no" ed="#P" n="6"/>cundum has ergo rationes, non dehent nuptiae 
+          ce<lb break="no" ed="#P" n="7"/>lebrari, etiam tribus illis septimanis , quae festum
+          <lb ed="#P" n="8"/>S. Joannis Baptistae praecedunt. Verum hoc in 
+          qui<lb break="no" ed="#P" n="9"/>busdatn Eccleiiis jam pridem in dissuetudincm abiit.
+          <lb ed="#P" n="10"/>Fuit tamen ratio, quare Ecclesia constituerat 
+          jeju<lb break="no" ed="#P" n="11"/>sandasa esse Quadragesimam ante festum S. 
+          Joan<lb break="no" ed="#P" n="12"/>nis, sicut ante Natale. Sed propter fragilitatem 
+          hu<lb break="no" ed="#P" n="13"/>manam, duae illa Quadragesimae redacte sunt in
+          <lb ed="#P" n="14"/>unam, atque illa tunc bipartita fuit in tres 
+          septi<lb break="no" ed="#P" n="15"/>manas praecedentes Natalem, et tres praecedentes
+          <lb ed="#P" n="16"/>festum S. Joannis. Quoniam igitur tempora haec
+          <lb ed="#P" n="17"/>orationi sint maxime dedicata, quam ideo 
+          institui<lb break="no" ed="#P" n="18"/>mus, ut ad coelos perveniamus, quod tamen efficere
+          <lb ed="#P" n="19"/>pou possumus sine duobus aliis, scilicet jejunio et
+          <lb ed="#P" n="20"/>eeemosyna, quae ad coelos hominem facile 
+          defe<lb break="no" ed="#P" n="21"/>runt, ideo ordinatum est jejunium, ut quod nobis
+          <lb ed="#P" n="22"/>remanserit propter jejunium pauperibus erogctur,
+          <lb ed="#P" n="23"/>ideoque et sponsus debet abstinere a lecto uxoris,
+          <lb ed="#P" n="24"/>ut liberius ac ceommodius vacet orationi. Atque ita
+          <lb ed="#P" n="25"/>non funt nuptiae a prima Pominica Adventus, usque
+          <lb ed="#P" n="26"/>ad Epiphaniam, nec etiam fierent nisi ad octavam
+          <lb ed="#P" n="27"/>usque Epipbaniae, nisi Dominus nuptias, tum sui
+          <lb ed="#P" n="28"/>praesentia, tum miraculo decorasset. Praeterca in
+          <lb ed="#P" n="29"/>Adventu sciendum est quemlibet versum dici posse,
+          <lb ed="#P" n="30"/>si sit de Adventu, ut : Egredietur Dominus de
+          <lb ed="#P" n="31"/>loco sancto suo in majestate sua, et veniet ad 
+          judi<lb break="no" ed="#P" n="32"/>candum (lsa. xxvi). Et : Veni, Domine, ad 
+          liberan<lb break="no" ed="#P" n="33"/>dum nos (Isa. xxxvi), quod potest dici de quolibet
+          <lb ed="#P" n="34"/>adventu. Adventus enim qui fuit in carne liberavit
+          <lb ed="#P" n="35"/>animas nostras a servitute diaboli; adventus vero
+          <lb ed="#P" n="36"/>in mente liberat animas a peccato; adventus 
+          dcni<lb break="no" ed="#P" n="37"/>que in majestate, liberat corpora. Postremo obiter
+          <lb ed="#P" n="38"/>notandum est festum B. Luciae hic adjunctum 
+          ha<lb break="no" ed="#P" n="39"/>bere Italice charthar : quia tunc maxime carnes 
+          so<lb break="no" ed="#P" n="40"/>lent deponi, quemadmodum secunda Dominica 
+          Se<lb break="no" ed="#P" n="41"/>ptuagesimae dicitur vulgo carnisprivium.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

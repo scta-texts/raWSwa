@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 146</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 146</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="74"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1833"><!-- raWSwa-c146 -->
+        <head xml:id="raWSwa-d1e1833-Hd1e101">Caput 146</head>
+        <head xml:id="raWSwa-d1e1833-Hd1e103" type="question-title">
+          De Assumptione beate Mariae Virginis.
+        </head>
+        <p xml:id="raWSwa-d1e1833-d1e106">
+          <lb ed="#P" n="89"/>CAPUT CXLVI.
+          <lb ed="#P" n="90"/>De Assumptione beate Mariae Virginis.
+        </p>
+        <p xml:id="raWSwa-d1e1833-d1e113">
+          <lb ed="#P" n="91"/>Agendum deinceps est de Assumpuone D. Maria.
+          <lb ed="#P" n="92"/>In primis tamen scire oportet quod sanctorum
+          <lb ed="#P" n="93"/>transitus multis appellatur modis. Dicitur enim 
+          exi<lb break="no" ed="#P" n="94"/>tus, transitus, obitus, natale, nativitas, natalitium,
+          <lb ed="#P" n="95"/>dormitio, depositio, quemadmodum est Joannis
+          <lb ed="#P" n="96"/>evangelistae, passio et assumptio. Sed hoc nomca
+          <lb ed="#P" n="97"/>quasi per antonomasiam solunnnodo dc Leata Maria
+          <lb ed="#P" n="98"/>dicitur. Verum esse beatam Mariam, quo.l ad 
+          ani<lb break="no" ed="#P" n="99"/>mam ejus attinet, assumptam fuisse certo novimus;
+          <lb ed="#P" n="100"/>an vero corpus illius postea ctiam assumptum 
+          fue<lb break="no" ed="#P" n="101"/>rit, profecto incertum est. Pie tamen credimus 
+          ip<lb break="no" ed="#P" n="102"/>sam integre fuisse assumptam, sed prius anima, ac
+          <lb ed="#P" n="103"/>deinde corpore. Nihilominus tamen mulicr quaedam
+          <lb ed="#P" n="104"/>religiosissima appellata Elisabeth, quae etiam nunc
+          <lb ed="#P" n="105"/>in vivis est, habitatque in fiuibus Saxoniae, ait sibi
+          <lb ed="#P" n="106"/>esse revelatum quod circiter dies quadraginta 
+          as<lb break="no" ed="#P" n="107"/>sumptum fuerit corpus post Assumptionem animae.
+          <lb ed="#P" n="108"/>De qua re opusculum quoddam composuit, sed non
+          <lb ed="#P" n="109"/>est in Romana Ecclesia comprobatum. Quaeritur 
+          au<lb break="no" ed="#P" n="110"/>tem quamobrem illo die cantetur evangelium de
+          <lb ed="#P" n="111"/>beata Maria Magdalena et Martha? Ad cujus rei 
+          evi<lb break="no" ed="#P" n="112"/>dentiorem declarationem sciendum est quandoque
+          <lb ed="#P" n="113"/>evangelium legi in ecclesia tot rationibus, quot a
+          <lb ed="#P" n="114"/>nobis ante satis expositum est. Fit namque ut inter-
+          <pb ed="#P" n="75"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dum legatur evangelium propter rem ipsam quam
+          <lb ed="#P" n="2"/>continet, cujusmodi est de Trinitate; interdum vero
+          <lb ed="#P" n="3"/>propter rei partem aliquam, ut est Liber 
+          geueratio<lb break="no" ed="#P" n="4"/>xis i-Matth. 1), quod ob ultimum versiculum quo
+          <lb ed="#P" n="5"/>Christi fit mentio, recitatur. Legitur et aliquando
+          <lb ed="#P" n="6"/>propter totum, quale istud profecto est quod in 
+          Cir<lb break="no" ed="#P" n="7"/>cumcisione dici consuctum est : Postquam 
+          consum<lb break="no" ed="#P" n="8"/>mati sunt dies octo, etc. (Luc. u). Si nonnunquam
+          <lb ed="#P" n="9"/>propter tempus, ut in prima die Quadragesimae, ac
+          <lb ed="#P" n="10"/>propter jejunium, nonnunquam propter litanias,
+          <lb ed="#P" n="11"/>cujusmodi istud est evangelium, quod ovi, piscis,
+          <lb ed="#P" n="12"/>ac panis mentionem facit. Nonnunquam denique
+          <lb ed="#P" n="13"/>causa loci, veluti hoc quod in Septuagesima 
+          lezi<lb break="no" ed="#P" n="14"/>ur : Eziit homo qui seminat , seminare semen
+          <lb ed="#P" n="15"/>ssum, etc. (Matth. xin). Dicitur autem homo hic
+          <lb ed="#P" n="16"/>luisse beatus Paulus, qui seminavit semen, id est
+          <lb ed="#P" n="17"/>verbum Dei. Atque ideo illo die recitatur collecta de
+          <lb ed="#P" n="18"/>sancto Pauto, sub cujus finem habetur : Doctoris
+          <lb ed="#P" n="19"/>gentium, etc. Eo namque die D. Papa in bcati Pauli
+          <lb ed="#P" n="20"/>ecclesia sacrum celebrat. Postremo evangelium
+          <lb ed="#P" n="21"/>aliquapde vero juxta historiam, ut in 
+          Circumci<lb break="no" ed="#P" n="22"/>sione, aliquando vero juxta suam allegoriam, 
+          quem<lb break="no" ed="#P" n="23"/>admodum hoc est quod in Assumptione Martae
+          <lb ed="#P" n="24"/>virginis de Maria Magdalena ac Martha legitur. Quod
+          <lb ed="#P" n="25"/>eryo hic istiusmodi legatur evangelium, indicat
+          <lb ed="#P" n="26"/>utramque vitam, et contenplativam et activam in
+          <lb ed="#P" n="27"/>una Maria virgine fuisse. Ipsa enim fuit Magdalena,
+          <lb ed="#P" n="28"/>boc est quae circa vitam contemplativam 
+          versaba<lb break="no" ed="#P" n="29"/>tur. Ipsa fuit Martha, id est quae circa activam 
+          vi<lb break="no" ed="#P" n="30"/>tan tota ctiam fuit occupata, quemadmodumn ex
+          <lb ed="#P" n="31"/>muitis locis liquido probari p.test. Nam et in 
+          con<lb break="no" ed="#P" n="32"/>templativa ipsam sedulo versatam fuisse, vel haec
+          <lb ed="#P" n="33"/>verba satis declarant : Maria autem conservabat 
+          om<lb break="no" ed="#P" n="34"/>nia terba hec, conferens in corde suo (Luc. n). 
+          lMa<lb break="no" ed="#P" n="35"/>bet autem festum hoc jejunium atque octavas 
+          prae<lb break="no" ed="#P" n="36"/>ter cetera Maria festa, cum et nullum ejus sit 
+          ma<lb break="no" ed="#P" n="37"/>jus aut celcbrius, quemadmodum de quolibet ctiam
+          <lb ed="#P" n="38"/>alio sancto censcndum est, utpo:e cujus transitas
+          <lb ed="#P" n="39"/>solemnior sit quam ejusdem festum aliud. Ab hoc
+          <lb ed="#P" n="40"/>tamen excipitur festum Joannis Baptistae, quippe
+          <lb ed="#P" n="41"/>quod ejus nativitas longe major sit quam passio,
+          <lb ed="#P" n="42"/>idque ob ejusdem significatur atque annuntiationem.
+          <lb ed="#P" n="43"/>Notemus vero hic quinque esse festa Marise 
+          Vir<lb break="no" ed="#P" n="44"/>ginis anthentica ac comprobata, quorum primum
+          <lb ed="#P" n="45"/>est Nativitas. Festum enim Conceptionis aliqui 
+          in<lb break="no" ed="#P" n="46"/>terdum celebrarunt (12), et adhuc fortassis celebrant,
+          <lb ed="#P" n="47"/>sed authenticum atque approbatuni non est : imo
+          <lb ed="#P" n="48"/>enimvero prohibendum potius esse videtur. In 
+          pec<lb break="no" ed="#P" n="49"/>cato namque concepta fuit (15). Alterum vero est
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="50"/>parientis, hoc est in Natali Domini. Sed quoniam
+          <lb ed="#P" n="51"/>tum et Filii festum agitur, quod plenum exigit 
+          offi<lb break="no" ed="#P" n="52"/>cium, nullam ejus servamus solemnitatem usque in
+          <lb ed="#P" n="53"/>octavas. Tum enim omnia responsoria de beata 
+          Ma<lb break="no" ed="#P" n="54"/>ria cantantur cum prima ejus diei missa, cujus 
+          in<lb break="no" ed="#P" n="55"/>troitus est : Vultum iuum. Missa autem secunda de
+          <lb ed="#P" n="56"/>puero est. Tertium festum Maria est Purificationis,
+          <lb ed="#P" n="57"/>et quartum Mariae ad Martyres, quod modo festum
+          <lb ed="#P" n="58"/>Onmnium Sanctorum appellatum est. Déenique 
+          quin<lb break="no" ed="#P" n="59"/>tum est Assumptionis, cujus gratia haec omnia 
+          tra<lb break="no" ed="#P" n="60"/>dimus.
+        </p>
+        <p xml:id="raWSwa-d1e1833-d1e304">
+          <lb ed="#P" n="61"/>Praeterea et illud hic animadvertere opera 
+          pre<lb break="no" ed="#P" n="62"/>tiun est, nempe quatuor in universum esse de beata
+          <lb ed="#P" n="63"/>Maria evangelia, quorum unum est, Missus est 
+          Ca<lb break="no" ed="#P" n="64"/>briel (Luc. ), tametsi quidem non nisi in Adventu
+          <lb ed="#P" n="65"/>el in cjus Annuntiatione usurpctur; alterum, 
+          Ex<lb break="no" ed="#P" n="66"/>tollens vocen quadam mulier; tertium, Exsurgens
+          <lb ed="#P" n="67"/>autem Haria in diebus illis, abiit in montana cum
+          <lb ed="#P" n="68"/>[cstinatione (Luc. x), ctc. (Luc. 1), ac quartum 
+          tan<lb break="no" ed="#P" n="69"/>dem, Stabat juxta crucem (Joan. xix). Atque liaec
+          <lb ed="#P" n="70"/>quidem tria postreina ejusmo-Ji sunt, ut 
+          quoticscun<lb break="no" ed="#P" n="71"/>que peculiaris missa dc ipsa celebratur, cani aut
+          <lb ed="#P" n="72"/>legi possint. Memincrimus interim fcstum 
+          Annun<lb break="no" ed="#P" n="73"/>tiationis non tam Mariae esse quam Domini, imo 
+          po<lb break="no" ed="#P" n="74"/>tius hujus quam illius, ut hic sint quod cadem 
+          ha<lb break="no" ed="#P" n="75"/>bcatur praefatio in Natali Domini quae in cjusdemn
+          <lb ed="#P" n="76"/>Annuntiatione. ÍIn hoc itaque Assumptionis festo
+          <lb ed="#P" n="77"/>psalmi :tque alia quae gencratim diei consueverunt
+          <lb ed="#P" n="78"/>in Dedicatione ecclesiae, speciatim de B. Maria 
+          can<lb break="no" ed="#P" n="79"/>tantur. Ut enim Ecclesia mater est omnium 
+          sancto<lb break="no" ed="#P" n="80"/>rnm, nomenque tenet virginitatis, videlicet mentis
+          <lb ed="#P" n="81"/>ac fidei, quae corporis praefertur virginitati, sponsa
+          <lb ed="#P" n="82"/>Christi dicta. Unde illud, Despondi vos uni viro 
+          vir<lb break="no" ed="#P" n="83"/>ginem castam exhibere Christo (I11 Cor. ix), sic 
+          pro<lb break="no" ed="#P" n="84"/>fecto B. Maria dicta et Virgo est, et sanctissima
+          <lb ed="#P" n="85"/>sanctorum. Recitantur autem lectioncs ex Cantico
+          <lb ed="#P" n="86"/>amoris, nempe, Osculetur me osculo oris sui (Cant. 1).
+          <lb ed="#P" n="87"/>Uude et responsoria atque antiphonae petuntur. lilud
+          <lb ed="#P" n="88"/>quoque diligenter observandum est, nimirum hoc
+          <lb ed="#P" n="89"/>tempore legi oportere li. ros Salomonis, primo 
+          qui<lb break="no" ed="#P" n="90"/>dem Parabolas, idque ab initio Augusti, deinde 
+          Ec<lb break="no" ed="#P" n="91"/>clesiasten, ac tandem etiam Canticum amoris cujus
+          <lb ed="#P" n="92"/>dimidium in hoc festo usque ad octavas legitur, 
+          re<lb break="no" ed="#P" n="93"/>servato altero dimidio usque in Nativitatem D. 
+          Ma<lb break="no" ed="#P" n="94"/>riae. Quarto vero recitatur Ecclcsiasticus, quinto
+          <lb ed="#P" n="95"/>liber Sirach, sexto denique liber Philonis, scilicet
+          <lb ed="#P" n="96"/>Sapientiae, qui appellatus est Salomonis, quod 
+          sen<lb break="no" ed="#P" n="97"/>tentias contincat Salomonis; Philonis autem, quod
+          <lb ed="#P" n="98"/>ille eas in librum redcgerit. Nec vero convenit ut
+          <pb ed="#P" n="76"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ipso dic Assumptionis sermo hic Hieronymi in 
+          ec<lb break="no" ed="#P" n="2"/>clesia legatur, sed in capitulo, utique, ad quod 
+          nimi<lb break="no" ed="#P" n="3"/>rum proprie compositus videri potest. Ad 
+          postre<lb break="no" ed="#P" n="4"/>mum ergo hic animadvertere quod paulo ante 
+          di<lb break="no" ed="#P" n="5"/>ctum est, virginitate videlicet mentis praevalere 
+          in<lb break="no" ed="#P" n="6"/>tcgritati corporis. Quod enim hoc verum sit facile
+          <lb ed="#P" n="7"/>ex verbis B. Mariae constare potest. Ait namque hoc
+          <lb ed="#P" n="8"/>modo : Respezit humilitatem ancille sue. (Luc. ).
+          <lb ed="#P" n="9"/>Non, inquit virginitatem, sed hunmilitatem, hoc est
+          <lb ed="#P" n="10"/>fidem et puritatem mentis. Atque haec de festo 
+          As<lb break="no" ed="#P" n="11"/>sumptionis dicta sufficiant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

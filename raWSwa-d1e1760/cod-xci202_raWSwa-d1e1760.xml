@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 140</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 140</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="72"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1760"><!-- raWSwa-c140 -->
+        <head xml:id="raWSwa-d1e1760-Hd1e101">Caput 140</head>
+        <head xml:id="raWSwa-d1e1760-Hd1e103" type="question-title">
+          De festo sancti Jacobi.
+        </head>
+        <p xml:id="raWSwa-d1e1760-d1e106">
+          <lb ed="#P" n="83"/>CAPUT CXL.
+          <lb ed="#P" n="84"/>De festo sancti Jacobi.
+        </p>
+        <p xml:id="raWSwa-d1e1760-d1e113">
+          <lb ed="#P" n="85"/>Festum hoc Jacobi est majoris, fratris Joannis
+          <lb ed="#P" n="86"/>evangelistae et filii Zebedaei. Hujus corpus quiescit
+          <lb ed="#P" n="87"/>in Compostella, quae llispaniae pars est. Missus enim
+          <lb ed="#P" n="88"/>fuit ut Hispanis verbum Dei concionaretur. Sed
+          <lb ed="#P" n="89"/>propter malitiam et duritiam principum extra unum
+          <lb ed="#P" n="90"/>ad fidem Christi neminem convertere potuit. Quod
+          <lb ed="#P" n="91"/>cian videret vir sanctus Jerosolvimam red:it, ut
+          <lb ed="#P" n="92"/>conspiceret an illi, quos isthic reliquerat, 
+          etiam<lb break="no" ed="#P" n="93"/>num satis essent in Christi fide confirinati, et 
+          inve<lb break="no" ed="#P" n="94"/>nit multos in ea errantes, imo qui jam fere omnino
+          <lb ed="#P" n="95"/>cam deseruerant, propter Hermogenem et Philaetum,
+          <lb ed="#P" n="96"/>qui magicis artibus quasi miracula faciebant , 
+          qui<lb break="no" ed="#P" n="97"/>bus homines misere decipiebant. Verum hos magos
+          <lb ed="#P" n="98"/>segred'ens apostolus ad fidem convertit, populuin -
+          <lb ed="#P" n="99"/>que ad cu'tum Dei reduxit. Deinde vero cum aa
+          <lb ed="#P" n="100"/>Herodem duceretur, in via paralyticum quemdam
+          <lb ed="#P" n="101"/>sanavit, et qui ipsum ducebat ad fidem convertit,
+          <lb ed="#P" n="102"/>ac baptizavit. Tandem ab ipso Herode fuit 
+          obtrun<lb break="no" ed="#P" n="103"/>catus. Tum magi illi, qui jam ejus facti erant 
+          disci<lb break="no" ed="#P" n="104"/>puli, cum aliis tribus eisdem discipulis cum corpore
+          <lb ed="#P" n="105"/>in navim ascenderunt, et sese sine rectore mari
+          <lb ed="#P" n="106"/>commiserunt, ut ei divina providentia sepulturae
+          <lb ed="#P" n="107"/>locum tribueret. Tandem navis illa Hispaniae 
+          appli<lb break="no" ed="#P" n="108"/>cuit ad regnum Lupa. Erat autem tum temporis 
+          re<lb break="no" ed="#P" n="109"/>gina quaedam in Hispania isthoc nomine, cujus vita
+          <lb ed="#P" n="110"/>et mores nomini plane conveniebant. Ad hanc ergo
+          <lb ed="#P" n="111"/>reginam discipuli aliqui exierunt, et illi dixerunt
+          <lb ed="#P" n="112"/>hoc pacto : « Dominus Jesus Christus misit ad vos
+          <lb ed="#P" n="113"/>corpus sui discipuli, ut quod recusastis vivum, 
+          sal<lb break="no" ed="#P" n="114"/>tem mortuum recipiatis. » Ac narravit illi totum
+          <lb ed="#P" n="115"/>istud miraculum, quo pacto illuc appulissent.
+          <lb ed="#P" n="116"/>Quod cum audiisset Lupa misit eos ad 
+          crudelissi<lb break="no" ed="#P" n="117"/>mum quemdam virum qui eos in carcerem detrusit.
+          <lb ed="#P" n="118"/>Sed cum hic pranderet, angelus Domini eos e car-
+          <pb ed="#P" n="73"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cere eduxit, qui civitatem exeuntes velut peregrini,
+          <lb ed="#P" n="2"/>populo vidente ac nemine impediente, ad suos 
+          re<lb break="no" ed="#P" n="3"/>dierunt socios
+        </p>
+        <p xml:id="raWSwa-d1e1760-d1e200">
+          <lb ed="#P" n="4"/>Absoluto prandio, tyrannus ille ad se captivos 
+          ad<lb break="no" ed="#P" n="5"/>duci jussit. Sed cum veuissent ad carcerem qui
+          <lb ed="#P" n="6"/>illuc missi erart, invenerunt carcerem apertum, nec
+          <lb ed="#P" n="7"/>in eo captivos, quod domino suo retulerunt. qui ita
+          <lb ed="#P" n="8"/>percitus extemplo famulis praecepit, ut cos 
+          inse<lb break="no" ed="#P" n="9"/>querentur. Yerum cum hi a civibus passimn duos
+          <lb ed="#P" n="10"/>tales viros sibi visos fuisse, et pontem civitatis
+          <lb ed="#P" n="11"/>wansiisse intellexissent, et ad eos impetu quodam
+          <lb ed="#P" n="12"/>escurrissent, pons fractus est, et in aqua submersi
+          <lb ed="#P" n="13"/>sunt. Quod quidem simul atque audivisset princeps,
+          <lb ed="#P" n="14"/>et sibi et suis timens, motus poenitentia, alios 
+          mi<lb break="no" ed="#P" n="15"/>sit, qui sanctos illos viros rogaret, ut ad sc securi
+          <lb ed="#P" n="16"/>redirent, promittens quodcunque eis placeret se
+          <lb ed="#P" n="17"/>facturum. lili autem redierunt, et populum civitatis
+          <lb ed="#P" n="18"/>ad fidem Christi converterunt. Quod factum Lupa
+          <lb ed="#P" n="19"/>regina sunmnopere doluit, et redeuntibus ad se 
+          dis<lb break="no" ed="#P" n="20"/>cipulis non ausa aperte eis nucere, fraudem verbis
+          <lb ed="#P" n="21"/>dissitmulans, ait: « Accipite boves quos babeo, et
+          <lb ed="#P" n="22"/>plaustro eos jungite, et quo placuerit corpus domini
+          <lb ed="#P" n="23"/>vestri abducite. » Dicebat autem istud animo plane
+          <lb ed="#P" n="24"/>malevolo. Nuverat enim boves csse indoniitos, ac
+          <lb ed="#P" n="25"/>feri uon posse ut vel jungerentur vel currui 
+          appli<lb break="no" ed="#P" n="26"/>carentur; aut certe si posset, ut currerent nunc
+          <lb ed="#P" n="27"/>borsum, nunc illorsum, atque eos ita dissiparent et
+          <lb ed="#P" n="28"/>occiderent, ac corpus ipsum caderet. Sed nulla est
+          <lb ed="#P" n="29"/>sapientia adversus Domirum. Discipuli enim 
+          postea<lb break="no" ed="#P" n="30"/>quam crucis signum feccrunt, statim boves 
+          man<lb break="no" ed="#P" n="31"/>sueti velut agni facti sunt, nec hominis 
+          contrecta<lb break="no" ed="#P" n="32"/>uonem veriti. lli ergo apostoli corpus in grandi
+          <lb ed="#P" n="33"/>s3x0 posuerunt, quod ita se corpori aptum 
+          reddi<lb break="no" ed="#P" n="34"/>dit, quasi humana opera ad id fuisset confectum,
+          <lb ed="#P" n="35"/>sepaterumque corpori praebuit. Quod cum ita simul
+          <lb ed="#P" n="36"/>cum corpore currui imposuissent, boves sine aliquo
+          <lb ed="#P" n="37"/>rectore recta ad palatium Lupae currum 
+          advexe<lb break="no" ed="#P" n="38"/>runt, nec quieverunt, donec ad ipsius palatii 
+          me<lb break="no" ed="#P" n="39"/>diumn pervenerunt. Qua re stupefacta regina, et tanto
+          <lb ed="#P" n="40"/>miraculo exterrita, ad fidem conversa est, et ex suo
+          <lb ed="#P" n="41"/>palatio sancto dedicavit ecclesiam , omniaque 
+          orna<lb break="no" ed="#P" n="42"/>menta, quae possidebat isthic ad cultum ecclesiae
+          <lb ed="#P" n="43"/>consecravit, ac felicissima tandem morte obiit. 
+          Co<lb break="no" ed="#P" n="44"/>litur autem festum B. Jacobi octaw Kalendas 
+          Au<lb break="no" ed="#P" n="45"/>gusti, non quod tunc obierit (passus enim est
+          <lb ed="#P" n="46"/>circa Pascba, ut liquido in hujus diei Epistola 
+          con<lb break="no" ed="#P" n="47"/>sat : Misit Herodes rex, etc. (Act. xu), sed quod boc
+          <lb ed="#P" n="48"/>die ei sit dedicata ecclesia in Compostella. Nec
+          <lb ed="#P" n="49"/>vero habet jejunium insututionis festum hoc, ea
+          <lb ed="#P" n="50"/>ratione qua supra ostensum est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

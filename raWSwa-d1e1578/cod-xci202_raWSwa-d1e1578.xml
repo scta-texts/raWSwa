@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 125</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 125</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="66"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1578"><!-- raWSwa-c125 -->
+        <head xml:id="raWSwa-d1e1578-Hd1e101">Caput 125</head>
+        <head xml:id="raWSwa-d1e1578-Hd1e103" type="question-title">De Inventione sancta crucis</head>
+        <p xml:id="raWSwa-d1e1578-d1e106">
+          <lb ed="#P" n="42"/>CAPUT CXXV.
+          <lb ed="#P" n="43"/>De Inventione sancta crucis.
+        </p>
+        <p xml:id="raWSwa-d1e1578-d1e113">
+          <lb ed="#P" n="44"/>Cruce Domini inventa ab Helena matre 
+          Constan<lb break="no" ed="#P" n="45"/>tini per Judam, ut narrat historia, festum ejus
+          <lb ed="#P" n="46"/>primo celebratum est Jerosolymae. Sed Eusebius
+          <lb ed="#P" n="47"/>papa trigesimus a B. Petro illud postea ubique 
+          ter<lb break="no" ed="#P" n="48"/>rarum celebrari »raecepit. Judas ille, per qucem crux
+          <lb ed="#P" n="49"/>inventa fuit, legitur postea ad finem fuisse 
+          conver<lb break="no" ed="#P" n="50"/>sus, et appellatus mutato nomine Quiriacus , 
+          crea<lb break="no" ed="#P" n="51"/>tusque tandem episcopus Jerosolymitanus. De quo
+          <lb ed="#P" n="52"/>quidem diabolus, cum alterum sibi amicum 
+          exspe<lb break="no" ed="#P" n="53"/>ctaret, sic dixisse fertur : « Per Judam Christus
+          <lb ed="#P" n="54"/>morti traditus est, et per hunc Judam Christus
+          <lb ed="#P" n="55"/>mortuus exaltatus, sed brevi Julianus amicus meus
+          <lb ed="#P" n="56"/>rex erit, qui me de illo egregie vindicabit. » Quod
+          <lb ed="#P" n="57"/>sane ita factum est, ut qui ipsum interfecit , 
+          que<lb break="no" ed="#P" n="58"/>madmodum dicitur. Ferunt Julianum hunc 
+          mona<lb break="no" ed="#P" n="59"/>chum fuisse, et magnum religionis simulatorem,
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>adeo ut quaedam mulier tres ollas auro onustas,
+          <lb ed="#P" n="61"/>ita ut in earum orificiis aurum cincre cooperiretur,
+          <lb ed="#P" n="62"/>ne facile inveniretur apud eum deposuerit, ejusque
+          <lb ed="#P" n="63"/>fidei concrediderit. Quando quidem virum illum
+          <lb ed="#P" n="64"/>sanctum esse credebat, nec tamen confessa est in
+          <lb ed="#P" n="65"/>iis aurum inesse. Sed co invento ab illo et furato
+          <lb ed="#P" n="66"/>ollas cinere implevit, et mulieri requirenti 
+          deposi<lb break="no" ed="#P" n="67"/>tum reddidit, Cum vero Paulo post mulier 
+          au<lb break="no" ed="#P" n="68"/>rum sibi quareret, nec inveniret, non potuit,
+          <lb ed="#P" n="69"/>quod ipse haberet, convincere, quod de auro
+          <lb ed="#P" n="70"/>nullos habebat testes. Nam alii monachi, ad 
+          quo<lb break="no" ed="#P" n="71"/>rum testimonium ollas tradiderat, nihil in eis 
+          prae<lb break="no" ed="#P" n="72"/>ter cineres viderant, atque ita aurum obtinuit. Quo
+          <lb ed="#P" n="73"/>cum Romam fugisset, et frequenti tempcre 
+          consu<lb break="no" ed="#P" n="74"/>latum obtinuisset, factus est imperator. Qui cum
+          <lb ed="#P" n="75"/>magicae artis a puero peritus esset, ac eam multum
+          <lb ed="#P" n="76"/>adamaret, plures sibi mayistros ascivit, Cum ergo
+          <lb ed="#P" n="77"/>quodam die absente suo, magistro solus domi
+          <lb ed="#P" n="78"/>mansisset, ac legere inciperet daemonum 
+          conjura<lb break="no" ed="#P" n="79"/>rationes, convenit ante ipsum magna multitudo 
+          de<lb break="no" ed="#P" n="80"/>menum, qui omnes erant nigri ut AEthiopes. Tunc
+          <lb ed="#P" n="81"/>ille prae timore fecit signum crucis, et omnes illico
+          <lb ed="#P" n="82"/>evanuerunt. Quod cumJulianus magistro suo referret
+          <lb ed="#P" n="83"/>quaerenti quid ipse vidisset, dixit ei magister, 
+          si<lb break="no" ed="#P" n="84"/>gnum illud daemones maxime odio habere. Electus
+          <lb ed="#P" n="85"/>ergo hic in imperatorem, et adhuc ejus]rei recordans,
+          <lb ed="#P" n="86"/>cum artem magicam exercere vellet, factus est
+          <lb ed="#P" n="87"/>apostata. Signa crucis ubique destruxit, et 
+          Christia<lb break="no" ed="#P" n="88"/>nos, quantum potuit, persecutus est credens, alitcr
+          <lb ed="#P" n="89"/>fieri non posse ut sibi damones obtemperarent.
+          <lb ed="#P" n="90"/>Quare etiam tunc Judam modo appellatum 
+          Quiria<lb break="no" ed="#P" n="91"/>cum interfecit, per quem crux fuerat inventa.
+          <lb ed="#P" n="92"/>Legimus praeterea militem quemdam similitcr
+          <lb ed="#P" n="93"/>Quiriacum vocatum hunc Julianum interfecisse. Namn
+          <lb ed="#P" n="94"/>cum hic per Epheson suum duceret exercitum alios
+          <lb ed="#P" n="95"/>gentiles expugnaturus, qui adversus ceum et 
+          Ro<lb break="no" ed="#P" n="96"/>manos insurrexerant, et videret isthic quamdam
+          <lb ed="#P" n="97"/>abbatiam, mandavit eis ut sibi prandia pararent.
+          <lb ed="#P" n="98"/>Sed hi plane ncgaverunt tum quia apostata esset,
+          <lb ed="#P" n="99"/>tum quia pauperes erant. Tunc ille ad haec ita 
+          ex<lb break="no" ed="#P" n="100"/>candescens, eis rursus nuntiavit se, priusquam
+          <lb ed="#P" n="101"/>annus finiretur, locum istum deleturum, eosque
+          <lb ed="#P" n="102"/>interfecturum, et omnino effecturum ut isthic
+          <lb ed="#P" n="103"/>segetes succrescerent. Quo sane audito timuerunt
+          <lb ed="#P" n="104"/>monachi, sed abbas eorum vir sanctissimus eos in
+          <lb ed="#P" n="105"/>Domino confortavit, et effecit ut sua confortatione
+          <lb ed="#P" n="106"/>jam ad martyrium essent parati. Quadam vero nocte,
+          <lb ed="#P" n="107"/>cum abbas in oratione persisteret, visa est ei beata
+          <lb ed="#P" n="108"/>Maria monasterium aperire, et ad tumulum 
+          cu<lb break="no" ed="#P" n="109"/>jusdam militis, qui dicebatur Quiriacus, quique
+          <lb ed="#P" n="110"/>mortuus erat nondum septem diebus et isthic
+          <lb ed="#P" n="111"/>sepultus, venire ac ei ut inde surgeret et se armaret
+          <lb ed="#P" n="112"/>ac de Juliano eam vindicaret praecepisse. Tum ille
+          <lb ed="#P" n="113"/>surgens, se armis suis, quae adhuc in templo affixa
+          <lb ed="#P" n="114"/>erant, induit, et equum suum, cui adbuc in stabulo
+          <lb ed="#P" n="115"/>erat, vidente abbate ascendit, et ad fines Juliani se
+          <lb ed="#P" n="116"/>contulit. Sequenti die quaecunque viderat abbas,
+          <lb ed="#P" n="117"/>svis monacbhis narrat ordine. Qui militis tumulum
+          <lb ed="#P" n="118"/>aperientes, ut rem probarent, nec invenerunt cor-
+          <pb ed="#P" n="67"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>pos, nec equum, nec arma. Tertia vero die 
+          con<lb break="no" ed="#P" n="2"/>figente Juliano cum suis hostibus, interfectus est
+          <lb ed="#P" n="3"/>a praedicto milite, et sequenti nocte miles, vidente
+          <lb ed="#P" n="4"/>abbate, ad sepulcrum suum rediit, equumque et
+          <lb ed="#P" n="5"/>armma in locis suis reposuit. Post hunc Julianum
+          <lb ed="#P" n="6"/>fuit Cyprianus homo gulae et luxui deditus, qui ad
+          <lb ed="#P" n="7"/>beatam Justinam virginem, cum ad suam luxuriam
+          <lb ed="#P" n="8"/>concitare vellet, misit quemdam dammonem, qui
+          <lb ed="#P" n="9"/>lujusmodi immunditiae praeerat, sed signo crucis
+          <lb ed="#P" n="10"/>rpulsus est. Misit rursus alium fortiorem, qui
+          <lb ed="#P" n="11"/>edem modo crucis signo se devictum fatebatur,
+          <lb ed="#P" n="12"/>ia ut hinc Cyprianus ad fidem convcrsus sit.
+          <lb ed="#P" n="13"/>Tsntae potestatis est crux Christi, per quam ille nos
+          <lb ed="#P" n="14"/>pane immeritos aeternac felicitati restituit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

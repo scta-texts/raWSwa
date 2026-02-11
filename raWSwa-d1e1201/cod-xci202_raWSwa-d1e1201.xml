@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 94</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 94</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="48"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1201"><!-- raWSwa-c94 -->
+        <head xml:id="raWSwa-d1e1201-Hd1e101">Caput 94</head>
+        <head xml:id="raWSwa-d1e1201-Hd1e103" type="question-title">De Dominica in Ramis palmarum</head>
+        <p xml:id="raWSwa-d1e1201-d1e106">
+          <pb ed="#P" n="48"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>CAPUT XCIV.
+          <lb ed="#P" n="2"/>De Dominica in Ramis palmarum.
+        </p>
+        <p xml:id="raWSwa-d1e1201-d1e117">
+          <lb ed="#P" n="3"/>Dominica in Ramis palmarum ob triplicem 
+          ratio<lb break="no" ed="#P" n="4"/>ncm meruit privilegium. Primo quod eudem die filii
+          <lb ed="#P" n="5"/>Israel terram promissionis ingressi sint, et siccis
+          <lb ed="#P" n="6"/>pedibus Jordanem transierint. Sic enim contigit,
+          <lb ed="#P" n="7"/>quod eo anno tot fuerunt dies usque ad Pascham,
+          <lb ed="#P" n="8"/>quot sunt ab hac die Dominica. Secundo autem
+          <lb ed="#P" n="9"/>ideo, quoniam hoc die veniens Jesus a Bethania in
+          <lb ed="#P" n="10"/>Jerosolymam maximo honore cxceptus sit, quo
+          <lb ed="#P" n="11"/>etiam die vendentes e templo potentissime ejecit,
+          <lb ed="#P" n="12"/>quod ejus diei privilegiis tertia est ratio. Hic dies
+          <lb ed="#P" n="13"/>tribus nuncupatur nominibus. Dicitur enim 
+          Domi<lb break="no" ed="#P" n="14"/>nica in Ramis palmarum, quod illo dic rami 
+          palma<lb break="no" ed="#P" n="15"/>rum in processionibus deportentur in 
+          significatio<lb break="no" ed="#P" n="16"/>nem illorum, quos filii Israel statuerunt|in via
+          <lb ed="#P" n="17"/>Christo jam veniente. Vel quos etiam deferimus in
+          <lb ed="#P" n="18"/>figuram ramorum et florum virtutum, quos portare
+          <lb ed="#P" n="19"/>debemus, si quando ad Christum ibimus. Cum 
+          au<lb break="no" ed="#P" n="20"/>tem palmas non habemus, laurum vel buxum, quod
+          <lb ed="#P" n="21"/>perpetuo suo virore virtutes connotent, deportanus;
+          <lb ed="#P" n="22"/>vel flores etiam, qui simili ratione virtutem 
+          signifi<lb break="no" ed="#P" n="23"/>cant. Hoc ergo die magnam et insignem exhibemus
+          <lb ed="#P" n="24"/>processionem, ad designandum, quod Dominus 
+          ve<lb break="no" ed="#P" n="25"/>niet ad nos, et ducet nos ad aeterna tabernacula.
+          <lb ed="#P" n="26"/>Post processionem oportet veniamus ante 
+          cruci<lb break="no" ed="#P" n="27"/>fixum, ac dicamus : Benedictus : nec ideo alia 
+          pro<lb break="no" ed="#P" n="28"/>cessio cessare debet, sed fieri ante tertiam. Obiter
+          <lb ed="#P" n="29"/>itaque hic considera uxorem Lot in salis effigiem
+          <lb ed="#P" n="30"/>fuisse mutatam et transformatam, quod retro 
+          respe<lb break="no" ed="#P" n="31"/>xisset,ut scilicet nos condiret atque instrueret, ne
+          <lb ed="#P" n="32"/>retro eamus. Nam, quemadinodum ait Scriptura,
+          <lb ed="#P" n="33"/>nullus qui ad aratrum manuin adjccerit, retro debet
+          <lb ed="#P" n="34"/>respectare (Luc. ix).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

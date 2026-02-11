@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prooemium</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prooemium</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="7"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e57"><!-- raWSwa-prooem -->
+        <head xml:id="raWSwa-d1e57-Hd1e101">Prooemium</head>
+        <p xml:id="raWSwa-d1e57-d1e103">
+          <pb ed="#P" n="7"/><!-- 7 -->
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>RATIONALE
+          <lb ed="#P" n="2"/>DIVINORUM OFFICIORUM.
+        </p>
+        <p xml:id="raWSwa-d1e57-d1e116">
+          <cb ed="#P" n="c"/>
+          <lb ed="#P" n="3"/>PROEMIUM
+          <lb ed="#P" n="4"/>AC BRETIS TOTIUS OPERIS PARTITIO. 
+        </p>
+        <p xml:id="raWSwa-d1e57-d1e125">
+          <lb ed="#P" n="5"/>In primitiva Ecclesia prohibitum erat ne quis 
+          lo<lb break="no" ed="#P" n="6"/>queretur, nisi esset qui interpretaretur. 
+          <lb ed="#P" n="7"/>obsecro, prodesset loqui, si non intelligeretur? 
+          <cb ed="#P" n="d"/>
+          <lb ed="#P" n="8"/>Certe nihil. Hinc illa laudabilis inolevit consuetudo
+          <lb ed="#P" n="9"/>in quibusdam Ecclesiae partibus, ut pronuntiato
+          <lb ed="#P" n="10"/>secundum litteram Evangelio, statim vulgari illud
+          <lb ed="#P" n="11"/>Quid enim, populo exponeretur. Quid vero de nostris 
+          tempori<lb break="no" ed="#P" n="12"/>bus dicemus, si vix ac ne vix quidem inveniatur
+          <pb ed="#P" n="8"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>qui quae legerit vel audierit intelligat, quique 
+          sa<lb break="no" ed="#P" n="2"/>tis animadvertat quae viderit, aut egerit ? Unde 
+          pro<lb break="no" ed="#P" n="3"/>ecto illud verc dicere possumus, quod olim 
+          pro<lb break="no" ed="#P" n="4"/>pheta conquestus est : Perit sacerdos qnuasi e 
+          po<lb break="no" ed="#P" n="5"/>pulo unxs. Videtur ergo tacendum potius esse
+          <lb ed="#P" n="6"/>quam psallendum, silendum omnino quam 
+          tripu<lb break="no" ed="#P" n="7"/>diandum, si in banc temporum infelicitatem 
+          inci<lb break="no" ed="#P" n="8"/>dimus. Verum enimvero ne aliquando ora 
+          canen<lb break="no" ed="#P" n="9"/>tium ad te, Domine Deus, turpiter claudantur, ad
+          <lb ed="#P" n="10"/>hoc damnum evitandum triplex adhibebimus 
+          reme<lb break="no" ed="#P" n="11"/>dium, si primo de ecclesiasticis institutionibus,
+          <lb ed="#P" n="12"/>deinde de expositionibus divinorum sermonum, ac
+          <lb ed="#P" n="13"/>tandem etiam de dierum ratiocinationibus, quam fleri
+          <lb ed="#P" n="14"/>potest brevissime, dixerimus. Ác primum quidem
+          <lb ed="#P" n="15"/>ad cos pertinere poterit qui modo incipiunt, 
+          se<lb break="no" ed="#P" n="16"/>cundum vero ad eos qui jam profectum aliquem
+          <lb ed="#P" n="17"/>sentiunt, tertium denique ad illos qui ad 
+          perfectie<lb break="no" ed="#P" n="18"/>nem quamdam pervenerunt. De his igitur breviter
+          <lb ed="#P" n="19"/>et compendiose deinceps dicamus ut per nos 
+          alh<lb break="no" ed="#P" n="20"/>qua ex parte eorum consulatur ignorantie, qui
+          <lb ed="#P" n="21"/>quemadmodum de his rebus sentiendum sit, vere
+          <lb ed="#P" n="22"/>nesciunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

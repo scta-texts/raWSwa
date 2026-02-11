@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 75</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 75</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="41"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e969"><!-- raWSwa-c75 -->
+        <head xml:id="raWSwa-d1e969-Hd1e101">Caput 75</head>
+        <head xml:id="raWSwa-d1e969-Hd1e103" type="question-title">
+          De festis sanctorum.
+        </head>
+        <p xml:id="raWSwa-d1e969-d1e106">
+          <lb ed="#P" n="4"/>CAPUT LXXV.
+          <lb ed="#P" n="5"/>De festis sanctorum.
+        </p>
+        <p xml:id="raWSwa-d1e969-d1e113">
+          <lb ed="#P" n="6"/>Nunc ergo ad festa prosime sequentia breviter
+          <lb ed="#P" n="7"/>transcurramus. AÁc de B. Agnete quidem, cujus
+          <lb ed="#P" n="8"/>Vitam composuisse dicitur Ambrosius, hoc solum
+          <lb ed="#P" n="9"/>scire sufficiat quod uctavas non habet institutionis.
+          <lb ed="#P" n="10"/>Caetero quin octavas habet alterius significationis
+          <lb ed="#P" n="11"/>causa. Ejus autem solemnitas celebrari coepta est
+          <lb ed="#P" n="12"/>propter quoddam miraculum, quod octavo die suia
+          <lb ed="#P" n="13"/>contigit parentipus, ad ejus tumulum lamentantibus.
+          <lb ed="#P" n="14"/>Ín festo B. Pauli cantantur quidam versus cum 
+          anti<lb break="no" ed="#P" n="15"/>phbonis, quemadmodum etiam fit in festo B. 
+          Lau<lb break="no" ed="#P" n="16"/>rentii et B. Stephani. Paulus enim plus omnibus
+          <lb ed="#P" n="17"/>laboravit in concionando et praedicando. Laurentius
+          <lb ed="#P" n="18"/>gravius caeteris passus est, et Stephanus pro fide
+          <lb ed="#P" n="19"/>Cbhristi primus martyr enxstitit. Idem etiam fieri
+          <lb ed="#P" n="20"/>oportet de B. Maria, quod privilegiata sit in 
+          virgini<lb break="no" ed="#P" n="21"/>tate, quia Virgo virginum et fuit et dicta est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

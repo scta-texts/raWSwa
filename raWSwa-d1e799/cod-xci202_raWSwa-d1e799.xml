@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 61</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 61</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="34"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e799"><!-- raWSwa-c61 -->
+        <head xml:id="raWSwa-d1e799-Hd1e101">Caput 61</head>
+        <head xml:id="raWSwa-d1e799-Hd1e103" type="question-title">
+          Quid legi debeat in Septuagesima.
+        </head>
+        <p xml:id="raWSwa-d1e799-d1e106">
+          <lb ed="#P" n="4"/>CAPUT LXI.
+          <lb ed="#P" n="5"/>Quid legi debeat in Septuagesima.
+        </p>
+        <p xml:id="raWSwa-d1e799-d1e113">
+          <lb ed="#P" n="6"/>In Septuagesima ergo legimus totum 
+          Pentateu<lb break="no" ed="#P" n="7"/>chum, quoad dies isti sint, videlicet quindecim ánte
+          <lb ed="#P" n="8"/>Pascha. Atque ita quatuor omnino cantantur 
+          histo<lb break="no" ed="#P" n="9"/>riz, nimirum ex libris Geneseos, et quartus de
+          <lb ed="#P" n="10"/>Exodo. Primus liber Mosis est Genesis, in quo 
+          agi<lb break="no" ed="#P" n="11"/>tur de origine mundi ; secundus Exodus, in quo de
+          <lb ed="#P" n="12"/>exitu agitur populi Israelitici ex 4Egypto; tertius
+          <lb ed="#P" n="13"/>Leviticus; Quartus est Numeri; quintus 
+          Deutero<lb break="no" ed="#P" n="14"/>nomius, hoc est lex altera, cujus velut quamdam
+          <lb ed="#P" n="15"/>tradit anacephaleosin, sive recapitulationem. Per 
+          il<lb break="no" ed="#P" n="16"/>los autem dies quindecim usque ad Pascha legitur
+          <lb ed="#P" n="17"/>Jeremias et liber Baruch notarii ejus, ut quidam
+          <lb ed="#P" n="18"/>testantur, sub eodem volumine. Et quidem Jeremiae
+          <lb ed="#P" n="19"/>Threni, sive Lamentationes, recitantur per triduum
+          <lb ed="#P" n="20"/>illud ante Pascha , quod appellamus Tenebras. 
+          Di<lb break="no" ed="#P" n="21"/>cuntur autem 7 breni, eo quod tripliciter 
+          exponan<lb break="no" ed="#P" n="22"/>tur a Paschasio, scilicet bistorice, allegorice et 
+          tro<lb break="no" ed="#P" n="23"/>pologice. Vel a monte Threnaro , ubi primo auditae
+          <lb ed="#P" n="24"/>sunt animarum lamentationes. Vel ideo etiam Threni
+          <lb ed="#P" n="25"/>appellati sunt quod in iis post tertium quemque
+          <lb ed="#P" n="26"/>versum littera sit alphabeti. Scriptum enim est
+          <lb ed="#P" n="27"/>opus illud quadruplici alphabeto, hoc est im eo
+          <lb ed="#P" n="28"/>quater ipsum alphabetum de integro repetitur. Vel
+          <lb ed="#P" n="29"/>denique , quod verius esse puto, hae lectiones 
+          pro<lb break="no" ed="#P" n="30"/>pterea dictae sunt Threni, quod lamentationes 
+          conti<lb break="no" ed="#P" n="31"/>neant. Apud Graecos namque6pivo; planctus est. Sic
+          <lb ed="#P" n="32"/>itaque historia, quae quindecim iliis diebus 
+          narra<lb break="no" ed="#P" n="33"/>tur, sumpta est partim ex libro Jeremiae, partim ex
+          <lb ed="#P" n="34"/>passione Domini in Evangclio. Nunc transeamus ad
+          <lb ed="#P" n="35"/>octavan Pentecostes, ut ordincm Veteris Testamenti
+          <lb ed="#P" n="36"/>simili ratione persequamur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

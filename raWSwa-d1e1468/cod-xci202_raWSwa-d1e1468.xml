@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 116</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 116</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="61"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1468"><!-- raWSwa-c116 -->
+        <head xml:id="raWSwa-d1e1468-Hd1e101">Caput 116</head>
+        <head xml:id="raWSwa-d1e1468-Hd1e103" type="question-title">
+          De reconciliatione proximi.
+        </head>
+        <p xml:id="raWSwa-d1e1468-d1e106">
+          <lb ed="#P" n="8"/>CAPUT CXVI.
+          <lb ed="#P" n="9"/>De reconciliatione proximi.
+        </p>
+        <p xml:id="raWSwa-d1e1468-d1e113">
+          <lb ed="#P" n="10"/>Sequitur de reconciliatione proximi : Cum enim
+          <lb ed="#P" n="11"/>illo die communicare omnes debemus, si cum 
+          ali<lb break="no" ed="#P" n="12"/>quo discordes fuerimus, necessario oportet ut ipsum
+          <lb ed="#P" n="13"/>nobis reconciliemus. Alioqui certe judicium nobis
+          <lb ed="#P" n="14"/>sumeremus, quod eleganter a minori probari 
+          po<lb break="no" ed="#P" n="15"/>test, juxta illud evangelicum : Si offers munus
+          <lb ed="#P" n="16"/>tuum, etc. (Matih. v). Unde est quod sacerdos 
+          die<lb break="no" ed="#P" n="17"/>bus Dominicis postquam concionem absolverit, 
+          te<lb break="no" ed="#P" n="18"/>neatur populo Orationem Dominicam, et fidei 
+          arti<lb break="no" ed="#P" n="19"/>culos vernacula lingua exponere. Ex qua etiam
+          <lb ed="#P" n="20"/>eausa fit, quod Oratio Dominica alta voce in missa
+          <lb ed="#P" n="21"/>cantetur, ut omnes eam addiscant, et hinc ad 
+          con<lb break="no" ed="#P" n="22"/>ciliationem proximi admoneantur. Tota hac 
+          pa<lb break="no" ed="#P" n="23"/>s^hali septimana aequum foret ut, nisi aliter modo
+          <lb ed="#P" n="24"/>usus obtineret, hoc pacto unumquemque 
+          salutare<lb break="no" ed="#P" n="25"/>mus, videlicet HResurrexit Dominus (Matth. xxvm),
+          <lb ed="#P" n="26"/>et qui ita salutatus esset responderet, Deo gratias,
+          <lb ed="#P" n="27"/>datis sibi mutuo osculis in signum dilectionis et
+          <lb ed="#P" n="28"/>charitatis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

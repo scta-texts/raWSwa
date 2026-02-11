@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 37</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 37</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="23"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e507"><!-- raWSwa-c37 -->
+        <head xml:id="raWSwa-d1e507-Hd1e101">Caput 37</head>
+        <head xml:id="raWSwa-d1e507-Hd1e103" type="question-title">
+          De oratione, et quoties se in missa vertat sacerdos.
+        </head>
+        <p xml:id="raWSwa-d1e507-d1e106">
+          <lb ed="#P" n="30"/>CAPUT XXXVII.
+          <lb ed="#P" n="31"/>De oratione, et quoties se in missa vertat sacerdos.
+        </p>
+        <p xml:id="raWSwa-d1e507-d1e113">
+          <lb ed="#P" n="32"/>Oratio sive collecta statim subsequitur, 
+          quan<lb break="no" ed="#P" n="33"/>tumvis collecta proprie vocetur oratio illa qua fit
+          <lb ed="#P" n="34"/>in processione, cum populus et universus clerus ab
+          <lb ed="#P" n="35"/>una ecclesia procedit ad alteram. Tum enim 
+          sa<lb break="no" ed="#P" n="36"/>cerdos aut episcopus, collecta omni multitudine,
+          <lb ed="#P" n="37"/>istiusmodi oratione super populum uti solebat quae
+          <lb ed="#P" n="38"/>proprie dicebatur collecta. Nunc autem oratione illa
+          <lb ed="#P" n="39"/>paeternissa tantum, ut diximus, Oremus 
+          retinui<lb break="no" ed="#P" n="40"/>mas. Notandum obiter hic est sacerdotem in 
+          qua<lb break="no" ed="#P" n="41"/>libet missa se quinquices convertere et septies 
+          po<lb break="no" ed="#P" n="42"/>pulum salutare. Primo in ipso exordio; secundo in
+          <lb ed="#P" n="43"/>evangelio , quod non in altari, sed in assere vel
+          <lb ed="#P" n="44"/>aliquo lectorio versus aquilonem legi oportet , 
+          pli<lb break="no" ed="#P" n="45"/>cata in humero casula , quod diaconi tum fungatur
+          <lb ed="#P" n="46"/>eliicio , tertio cum ad dextrum cornu altaris 
+          rever<lb break="no" ed="#P" n="47"/>ttur, unde venerat , dicto symbolo, si fuerit 
+          solem<lb break="no" ed="#P" n="48"/>nitas : tum enim se convertit ad populum; quarto
+          <lb ed="#P" n="49"/>post offertorium, cum inquit : Per omnia secula
+          <lb ed="#P" n="50"/>arculorum , et consequenter : Dominus vobiscum,
+          <lb ed="#P" n="51"/>sed non vertit se: nam, ut dici solet, nemo qui
+          <lb ed="#P" n="52"/>ad aratrum manum applicuerit, retrorsum 
+          respe<lb break="no" ed="#P" n="53"/>csre debet ( Luc. 1x); quinto cum ait: Paz 
+          Do<lb break="no" ed="#P" n="54"/>mini sit semper vobiscum, nec tum se convertit ;
+          <lb ed="#P" n="55"/>sexto post communionem , et u:timo in fine. Quod
+          <lb ed="#P" n="56"/>astesm ad orstionem attinet, sciendum est nunc
+          <lb ed="#P" n="57"/>ungea legi oportere, nunc tres, nunc quinque,
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>nunc septem , sed non ultra. Et unam quidemn 
+          pro<lb break="no" ed="#P" n="59"/>pterea quod una sit epistola atque unum 
+          evange<lb break="no" ed="#P" n="60"/>lium, vel propter Dei unitatem. Tres vero propter
+          <lb ed="#P" n="61"/>rinitatem ; nam et Deus numero gaudet impare,
+          <lb ed="#P" n="62"/>vel quia Dominus ter in passione oravit. Sic 
+          quin<lb break="no" ed="#P" n="63"/>que legi possunt propter quinquepartitam Chrisu
+          <lb ed="#P" n="64"/>passionem , vel quinque ejus vulnera. Verum 
+          sep<lb break="no" ed="#P" n="65"/>tem ideo, quod septem in Oratioue nostra 
+          Domi<lb break="no" ed="#P" n="66"/>nica habeamus petitiones, vel etiam propter 
+          sep<lb break="no" ed="#P" n="67"/>tem dona Spiritus sancti, quae apud lsaiam 
+          nu<lb break="no" ed="#P" n="68"/>merantur (1sa. xi). Septenarium enim numerum
+          <lb ed="#P" n="69"/>nullus excedere debet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

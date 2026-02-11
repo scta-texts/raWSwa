@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 83</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 83</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="44"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1067"><!-- raWSwa-c83 -->
+        <head xml:id="raWSwa-d1e1067-Hd1e101">Caput 83</head>
+        <head xml:id="raWSwa-d1e1067-Hd1e103" type="question-title">
+          De Cathedra sancti Petri.
+        </head>
+        <p xml:id="raWSwa-d1e1067-d1e106">
+          <lb ed="#P" n="30"/>CAPUT LXXXIII.
+          <lb ed="#P" n="31"/>De Cathedra sancti Petri.
+        </p>
+        <p xml:id="raWSwa-d1e1067-d1e113">
+          <lb ed="#P" n="32"/>Hoc item tempore celebrari solet Cathedra S. 
+          Pe<lb break="no" ed="#P" n="33"/>tri, tam quae Romae fuit, quaeque tempore posterior
+          <lb ed="#P" n="34"/>est quam illa quae fuit Antiochiae. (6) Verum illa
+          <lb ed="#P" n="35"/>quae fuit Antiochiae, solemnior profecto est alia, ut
+          <lb ed="#P" n="36"/>vel hujus diei collecta qua est de incathedratione
+          <lb ed="#P" n="37"/>Antiochiae facta, abunde testatur, diciturque festum
+          <lb ed="#P" n="38"/>B. Petri epularum. Fuit enim consuetudo veterum
+          <lb ed="#P" n="39"/>ethnicorum ut singulis annis mense Februarii certo
+          <lb ed="#P" n="40"/>quopiam die epulas ad parentum suorum tumulos
+          <lb ed="#P" n="41"/>apponerent, quas nocte daemones consumebant, cum
+          <lb ed="#P" n="42"/>inde non minus falso quam ridicule animae refici
+          <lb ed="#P" n="43"/>credebantur. Putabant enim hujusmodi epulas ab
+          <lb ed="#P" n="44"/>animabus circa tumulos crrantibus absumi. Hac
+          <lb ed="#P" n="45"/>autem consuetudo atque hujusmodi falsae opinionis 
+          <lb ed="#P" n="46"/>error a Christianis vix exstirpari potuit. Quod 
+          qui<lb break="no" ed="#P" n="47"/>dem cum viri sancti animadvertissent , ac penitus
+          <lb ed="#P" n="48"/>illam consuetudinem exstinguere voluissent, 
+          insti<lb break="no" ed="#P" n="49"/>tuerunt festumn de Cathedra S. Petri, tam de illa
+          <lb ed="#P" n="50"/>quae fuit Romae quam quae Antiochiae, idque illo 
+          eo<lb break="no" ed="#P" n="51"/>dem die quo abominanda illa ab etlinicis fiebant, ut
+          <lb ed="#P" n="52"/>solemni hoc festo parvae istius consuetudinis festum
+          <lb ed="#P" n="53"/>omnino exstingueretur. Unde etiam ab illis epulis
+          <lb ed="#P" n="54"/>festum hoc appcellatum est beati Petri epularum.
+          <lb ed="#P" n="55"/>Atque hic obiter intelligamus veteres dicere solitos
+          <lb ed="#P" n="56"/>fu.sse animas esse, quando etiamnum in humanis
+          <lb ed="#P" n="57"/>corporibus essent institutae ; manes appellari, si
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>quando forent apud inferos; spiritus vero cum ad
+          <lb ed="#P" n="59"/>coelos ascendissent , atque umbras, quando adhuc
+          <lb ed="#P" n="60"/>recens erat sepultura, sive quando circa tumulos
+          <lb ed="#P" n="61"/>errabant
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

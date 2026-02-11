@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 54</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 54</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="30"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e714"><!-- raWSwa-c54 -->
+        <head xml:id="raWSwa-d1e714-Hd1e101">Caput 54</head>
+        <head xml:id="raWSwa-d1e714-Hd1e103" type="question-title">
+          Quemodo finienda sint orationes.
+        </head>
+        <p xml:id="raWSwa-d1e714-d1e106">
+          <lb ed="#P" n="26"/>CAPUT LIV.
+          <lb ed="#P" n="27"/>Quemodo finienda sint orationes.
+        </p>
+        <p xml:id="raWSwa-d1e714-d1e113">
+          <lb ed="#P" n="28"/>Ut autem evidens habeatur et plena cognitio
+          <lb ed="#P" n="29"/>quemadmodum orationes, quas collectas vocamus,
+          <lb ed="#P" n="30"/>sint terminandae, prius nosse oportet quod in eis
+          <lb ed="#P" n="31"/>serio interdum ad Patrem dirigitur, interdum ad
+          <lb ed="#P" n="32"/>Filium, interdum ad Spiritum sanctum, et interdum
+          <lb ed="#P" n="33"/>etiam ad totam Trinitatem. Quando ad Patrem,
+          <lb ed="#P" n="34"/>russus considerandum est, num ita ad eum sermo
+          <lb ed="#P" n="35"/>sit institutus, ut fiat mentio ad Patrem de Filio, vel
+          <lb ed="#P" n="36"/>Spiritu sancto, an vero non. Et quidem si in 
+          ora<lb break="no" ed="#P" n="37"/>tione, quae dirigitur ad Patrem, fiat mentio Filii,
+          <lb ed="#P" n="38"/>multum interest scire illape fiant ante partem 
+          fina<lb break="no" ed="#P" n="39"/>lem, an ipso fine. Quae ideo diximus, quod secundum
+          <lb ed="#P" n="40"/>has diversitates, diversimode orationis finis existat.
+          <lb ed="#P" n="41"/>Si ergo dirigatur sermo omnino ad Patrem absque
+          <lb ed="#P" n="42"/>mentione Filii et Spiritus sancti, finietur boc modo:
+          <lb ed="#P" n="43"/>Per Dominum nostrum Jesum Christum Filium
+          <lb ed="#P" n="44"/>tuum, qui vivit et regnat in unitate Spiritus saucti,
+          <lb ed="#P" n="45"/>Deus, per omnia sacula seculorum, Amen. Si de
+          <lb ed="#P" n="46"/>Spiritu sancto mentio ibi fiat, dices : In unitate
+          <lb ed="#P" n="47"/>ejusdem Spiritus sancti, Deus, caeteris 
+          remanen<lb break="no" ed="#P" n="48"/>tibus. Si vero fiat mentio Filii, ante finalem partem
+          <lb ed="#P" n="49"/>dicetur : Per ceumdem Dominum, etc., ut supra. Si
+          <lb ed="#P" n="50"/>contra in ipso fine dicemus tantum: Qui tecum vivit
+          <lb ed="#P" n="51"/>et regnat, etc., quemadmodum videri potest in bac
+          <lb ed="#P" n="52"/>collecta B. Stephani : Omnipotens sempiterne Deus,
+          <lb ed="#P" n="53"/>qui primitias martyrum in beati levite Stephani
+          <lb ed="#P" n="54"/>sanguine dedicasti, tribue, quesumus, ut ipse pro
+          <lb ed="#P" n="55"/>nobis perpetuus intercessor existat, qui pro suis etiam
+          <lb ed="#P" n="56"/>persecutoribus exoravit Dominum nostrum Jesum
+          <lb ed="#P" n="57"/>Christum , qui tecum vivit et regnat in unitate 
+          Spi<lb break="no" ed="#P" n="58"/>vitus sancti, Deus, per omnia sacula seculurum.
+          <lb ed="#P" n="59"/>Amen. Si ad Filium oratie instituatur, ut in hac:
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>Excita, Domine, potentias tuam et veni; a« in aliis
+          <lb ed="#P" n="61"/>de Adventu Domini, finietur hoc pacto : (9ui vivis et
+          <lb ed="#P" n="62"/>regnas cum Dieo Patre, ctc. Si autem ad Spiritum
+          <lb ed="#P" n="63"/>sanctum, dicemus sic : Qui cum PatreetFilio civis
+          <lb ed="#P" n="64"/>et regnas unus Deus, etc.; et ad. Trinitatem ita: Qui
+          <lb ed="#P" n="65"/>in Trinitate per[ecta vivis et regnas, eic. ÀAt vero in
+          <lb ed="#P" n="66"/>exorcismis, et quae fiunt ad pueros efficiendos 
+          ca<lb break="no" ed="#P" n="67"/>techumenos, ac fontes consecrandos, quandoque
+          <lb ed="#P" n="68"/>fit aqua benedicta, et in id genus multis aliis, 
+          di<lb break="no" ed="#P" n="69"/>cetur sane hoc modo : Per eum qui venturus est 
+          juds<lb break="no" ed="#P" n="70"/>care vivos et mortuos, et seculum per ignem. Hoc
+          <lb ed="#P" n="71"/>autem ideo fit, quia nulla vox ita terret diabolum,
+          <lb ed="#P" n="72"/>atque liaec, qui venturus est, etc., usque adeo ut statim
+          <lb ed="#P" n="73"/>fugere cogatur simul atque vocem banc audierii.
+          <lb ed="#P" n="74"/>Maxime enim praeter caetera judicium ignis 
+          exti<lb break="no" ed="#P" n="75"/>mescit, quod certus sit se post diem judicii aeterno
+          <lb ed="#P" n="76"/>igne punitum iri. Quare ob eamdem causam voluit
+          <lb ed="#P" n="77"/>D. Gilbertus ut simili modo finirentur erationes in
+          <lb ed="#P" n="78"/>officio mortuorum. Verum ei contradicit vulgare
+          <lb ed="#P" n="79"/>nostrum Collectarium, affirmans dici oportere : 
+          Per<lb break="no" ed="#P" n="80"/>Dominum nostrum, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

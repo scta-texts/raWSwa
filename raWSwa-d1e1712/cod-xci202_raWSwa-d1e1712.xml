@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 136</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 136</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="70"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1712"><!-- raWSwa-c136 -->
+        <head xml:id="raWSwa-d1e1712-Hd1e101">Caput 136</head>
+        <head xml:id="raWSwa-d1e1712-Hd1e103" type="question-title">
+          De Nativitate sancti Joannis.
+        </head>
+        <p xml:id="raWSwa-d1e1712-d1e106">
+          <lb ed="#P" n="92"/>CAPUT CXXXVI.
+          <lb ed="#P" n="93"/>De Nativitate sancti Joannis.
+        </p>
+        <p xml:id="raWSwa-d1e1712-d1e113">
+          <lb ed="#P" n="94"/>Videamus igitur modo de ipsius S. Joaunis 
+          Nati<lb break="no" ed="#P" n="95"/>vitate, et primo quamobrem nativitas ejus 
+          celebre<lb break="no" ed="#P" n="96"/>tur cum in peccatis fuerit conceptus. Nullius enim
+          <lb ed="#P" n="97"/>conceptio facta in amplexu maris et feminae potest
+          <lb ed="#P" n="98"/>esse sine peccato. Quidam enim sunt sine patre et
+          <lb ed="#P" n="99"/>matre, ut Adamus, alii ex patre sine matre, 
+          cujus<lb break="no" ed="#P" n="100"/>modi fuit Eva ; alii vero ex patre et matre, quod est
+          <lb ed="#P" n="101"/>frequentius, ut Abelus; alii tandem ex matre sunt
+          <lb ed="#P" n="102"/>sine patre, qualis est Christus. Unde in persona 
+          il<lb break="no" ed="#P" n="103"/>lius dictum est : Ego sum vermis et non homo (Psal.
+          <lb ed="#P" n="104"/>xxi), hoc est secundum legem vermium natus, non
+          <lb ed="#P" n="105"/>autem hominum. Sed animadvertatur hic hominem
+          <lb ed="#P" n="106"/>prius, ut ita dixero, seminari, ac postea in vulva
+          <lb ed="#P" n="107"/>concipi, ibique carnem formari. Verum post 
+          quadra<lb break="no" ed="#P" n="108"/>ginta et sex dies creari animam, et corpori 
+          infun<lb break="no" ed="#P" n="109"/>di, secundum theologos , quibus magis credendum
+          <lb ed="#P" n="110"/>est quam physicis. Celebratur ergo hujus nativitas.
+          <lb ed="#P" n="111"/>secunda, quando nimirum primo eit in lucem. Nam
+          <lb ed="#P" n="112"/>prima est, quando ipsa anima corpori infunditur;
+          <lb ed="#P" n="113"/>secunda vero, cumprodit in lucem: quare juxta 
+          se<lb break="no" ed="#P" n="114"/>cundam, sine peccato fuit conceptus. Sanctificatus
+          <lb ed="#P" n="115"/>enim fuit in utero quemadmodum Jercmias, in 
+          cu<lb break="no" ed="#P" n="116"/>jus prophetia hoc ita continetur : Antequam exires
+          <pb ed="#P" n="71"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>de tulra sanctificaci te, etc. (Jer. 1.) Quod quidem
+          <lb ed="#P" n="2"/>in hujus figuram fortasse dictum fuit. Sed de quo
+          <lb ed="#P" n="3"/>genere sanctificationis hoc isthic dicatur Deus 
+          no<lb break="no" ed="#P" n="4"/>vit. Sunt qui putent de sanctificatione originali 
+          di<lb break="no" ed="#P" n="5"/>ctium fuisse, idque hoc pacto probare conantur,
+          <lb ed="#P" n="6"/>quod videlicet Spiritus sanctus puerum repleverit,
+          <lb ed="#P" n="7"/>aique adeo ut ex istiusmodi Spiritus sancti 
+          repie<lb break="no" ed="#P" n="8"/>ione, et repleta fuerit mater. Atqui si esset in 
+          ori<lb break="no" ed="#P" n="9"/>ginali. foret utique et in mortali. Ergo neque puer
+          <lb ed="#P" n="10"/>sancto Spiritu esset repletus, neque ejus mater.
+          <lb ed="#P" n="11"/>Nec vero refert, quod et mali quam plurimi 
+          prophe<lb break="no" ed="#P" n="12"/>urunt ut Caiphas et Balaam, et quod asina etiam
+          <lb ed="#P" n="13"/>locuta sit. Verum contra videtur, quod ei peccatum
+          <lb ed="#P" n="14"/>ind originale remissum non fuerit. Dixit enim
+          <lb ed="#P" n="15"/>hannes ad Christum : Ego a te debeo baptizari, et
+          <lb ed="#P" n="16"/>tx senis ad me baptizari (Matth. ). Ex quo 
+          intelli<lb break="no" ed="#P" n="17"/>giur ipsum voluisse ablui a peccato origiuali. Sed
+          <lb ed="#P" n="18"/>inelligendum plane est ipsum hoc dixisse in persona
+          <lb ed="#P" n="19"/>Ecesiae, in qua etiam opinione glossa est pervulgata.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 81</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 81</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="43"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1042"><!-- raWSwa-c81 -->
+        <head xml:id="raWSwa-d1e1042-Hd1e101">Caput 81</head>
+        <head xml:id="raWSwa-d1e1042-Hd1e103" type="question-title">
+          De festis qua sunt in principio Septuagesimae, et primo
+          de Purificatione B. Mariae.
+        </head>
+        <p xml:id="raWSwa-d1e1042-d1e106">
+          <lb ed="#P" n="79"/>CAPUT LXXI.
+          <lb ed="#P" n="80"/>De festis qua sunt in principio Septuagesimae, et primo
+          <lb ed="#P" n="81"/>de Purificatione B. Mariae.
+        </p>
+        <p xml:id="raWSwa-d1e1042-d1e115">
+          <lb ed="#P" n="82"/>Nunc dicendum est de duobus festis, quae ip
+          <lb ed="#P" n="83"/>principio Septuagesimae quandoque contingunt 
+          ce<lb break="no" ed="#P" n="84"/>lebrari, de festo videlicet B. Mariae et S. Blasii.
+          <lb ed="#P" n="85"/>Festum autem B. Maria tribus nuncupatur 
+          nomi<lb break="no" ed="#P" n="86"/>nibus. Dicitur enim vel Purificatio B. Mariae, vek
+          <lb ed="#P" n="87"/>Candelaria, vel 0n«vcen Domini. Purificatio B. 
+          Ma<lb break="no" ed="#P" n="88"/>ria appellatur, quoniam illo die, qui est quadra--
+          <lb ed="#P" n="89"/>gesimus a Natali Domini, venit ad templum 
+          virgo<lb break="no" ed="#P" n="90"/>Maria secundum consuetudinem legis, ut 
+          purifica<lb break="no" ed="#P" n="91"/>retur. Non quod immunda esset, sed propter 
+          par<lb break="no" ed="#P" n="92"/>tum, more aliarum mulierum. Non enim erat 
+          ob<lb break="no" ed="#P" n="93"/>noxia legi, quae hoc pacto praecipit : Mulier, si 
+          sus<lb break="no" ed="#P" n="94"/>cepto semine masculum pepererit, ab ingressu tem--
+          <lb ed="#P" n="95"/>pli immunda erit diebus triginta tribus ( Levit. xu),
+          <lb ed="#P" n="96"/>a consortio hominum septem. Beata autem virgo.
+          <lb ed="#P" n="97"/>Maria non pepererat ex suscepto semine, juxta 
+          il<lb break="no" ed="#P" n="98"/>lud, non ex viri semine, etc., voluit tamen legis.
+          <lb ed="#P" n="99"/>consuetudinem observare, quoniam non venit 
+          Chri<lb break="no" ed="#P" n="100"/>stus legem solvere, sed adimplere (Matth. v). Quare:
+          <lb ed="#P" n="101"/>autem Candelaria vocetur aliam auctoritatem non;
+          <lb ed="#P" n="102"/>habet, sed potius fluxum est ab antiqua 
+          consuetu<lb break="no" ed="#P" n="103"/>dine ethnicorum sive gentilium. Erat enim antiqui-.
+          <lb ed="#P" n="104"/>tus Romae consuetudo, ut circa hoc tempus in 
+          prin<lb break="no" ed="#P" n="105"/>cipio Februarii urbem lustrarent, eam 
+          ambiendo<lb break="no" ed="#P" n="106"/>cum suis processionibus gestantes singuli 
+          candelas<lb break="no" ed="#P" n="107"/>ardentes, et vocabatur illud; amburbale. Atque ita
+          <lb ed="#P" n="108"/>ab hujusmodi consuetudine illud. quod fiebat ab.
+          <lb ed="#P" n="109"/>ethnicis. in usus indiscretos circiter initium 
+          Fe<lb break="no" ed="#P" n="110"/>bruarii, a Christianis modo fit in festo beatae Mariae
+          <lb ed="#P" n="111"/>ad laudem et venerationem ipsius. Vel ideo 
+          cande<lb break="no" ed="#P" n="112"/>las portamus, ut per hoc imitemur sanctas 
+          virgi<lb break="no" ed="#P" n="113"/>nes, quarum beata Virge Maria caput est, ut 
+          nimi<lb break="no" ed="#P" n="114"/>rum aecensa nobis lampade castitatis, cum ea 
+          tem<lb break="no" ed="#P" n="115"/>plum gloriae ad verum sponsum ingredi niereamur..
+          <lb ed="#P" n="116"/>Vel etiam appellata estCandelaria, propter 
+          multitu<lb break="no" ed="#P" n="117"/>dinem candelarum, et significationem quae in eis
+          <lb ed="#P" n="118"/>est. In candela enim est cera, ignis et lignum. Cera
+          <pb ed="#P" n="44"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>connotat carnem Christi et virginitatem ; ignis, 
+          Spi<lb break="no" ed="#P" n="2"/>ritum sanctum; lignum, deitatem in carne latentem.
+          <lb ed="#P" n="3"/>Tavrà Domini ideo dicitur hoc festum, quod 
+          Si<lb break="no" ed="#P" n="4"/>meon atque Ánna prophetissa Christo venerint 
+          ob<lb break="no" ed="#P" n="5"/>viam, cum a suis parentibus afferretur in templum
+          <lb ed="#P" n="6"/>ut praesentaretur. T'raves enim oblatio sive 
+          prae<lb break="no" ed="#P" n="7"/>sentatio dicta est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

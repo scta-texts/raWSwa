@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 22</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 22</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="17"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e325"><!-- raWSwa-c22 -->
+        <head xml:id="raWSwa-d1e325-Hd1e101">Caput 22</head>
+        <head xml:id="raWSwa-d1e325-Hd1e103" type="question-title">
+          De repraesentatione trium temporum.
+        </head>
+        <p xml:id="raWSwa-d1e325-d1e106">
+          <lb ed="#P" n="44"/>CAPUT XXII.
+          <lb ed="#P" n="45"/>De repraesentatione trium temporum.
+        </p>
+        <p xml:id="raWSwa-d1e325-d1e113">
+          <lb ed="#P" n="46"/>Illud quoque notandum est quod in his trium 
+          no<lb break="no" ed="#P" n="47"/>cturnarum officiis, tria tempora repraesentamus,
+          <lb ed="#P" n="48"/>tempus scilicet ante legem, tempus sub lege, et
+          <lb ed="#P" n="49"/>tempus gratie, quorum quodlibet tribus variatur
+          <lb ed="#P" n="50"/>distinctionibus. Temporis ante legem prima fuit 
+          di<lb break="no" ed="#P" n="51"/>stinctio ab Adam usque ad Noe; secunda, a Noe
+          <lb ed="#P" n="52"/>usque ad Abraham; tertia, ab Abraham usque ad
+          <lb ed="#P" n="53"/>Mosen. Tempus vero sub lege has habuit 
+          distinctio<lb break="no" ed="#P" n="54"/>nes : a Mose usque ad Davidem, a David usque ad
+          <lb ed="#P" n="55"/>transmigrationem Babylonis, a transmigrationc
+          <lb ed="#P" n="56"/>nsque ad Christum. Denique prima distinctio 
+          tem<lb break="no" ed="#P" n="57"/>poris gratiae, fuit npus apostolicae et cvangelicae
+          <lb ed="#P" n="58"/>praedicationis ; sccunda, tenpus impugnationis, guo
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>omnes peperit haereses; tertia, tempus pacis, 
+          quan<lb break="no" ed="#P" n="60"/>do omnis est haeresis penitus exstincta. His 
+          distin<lb break="no" ed="#P" n="61"/>ctionibus ita semel connumeratis, inveniemus 
+          no<lb break="no" ed="#P" n="62"/>vem fuisse temporum diversitates , quas non 
+          ob<lb break="no" ed="#P" n="63"/>scure in numero psalmorum quos in officio nocturno
+          <lb ed="#P" n="64"/>cantamus, invenimus. Diebus enim fcstis 
+          usurpa<lb break="no" ed="#P" n="65"/>mus novem psalmos , novem lectiones, novem 
+          re<lb break="no" ed="#P" n="66"/>sponsiones, cum novem versibus. Ip unoquoque 
+          no<lb break="no" ed="#P" n="67"/>cturno tres sunt psalmi, tres lectiones, tres 
+          respon<lb break="no" ed="#P" n="68"/>siones, tres versus. Interim tamen sciendum est
+          <lb ed="#P" n="69"/>novenariumpsalmorum, novenarium lectionum, 
+          no<lb break="no" ed="#P" n="70"/>venarium responsorum , cum totidem versibus, pro
+          <lb ed="#P" n="71"/>uno-«odemque accipi , quantum ad mundi figuram
+          <lb ed="#P" n="72"/>auinet. In his temporum disersitatibus, quas modo
+          <lb ed="#P" n="73"/>enumeravimus, optime vigilarunt sancti Patres, 
+          bo<lb break="no" ed="#P" n="74"/>nis operibus sedulo incumbentes. Quod quidem nos,
+          <lb ed="#P" n="75"/>ax eorum meritis quadam ratione similes effciamur,
+          <lb ed="#P" n="76"/>in officio nocturno sub nuvenario numero 
+          psalmo<lb break="no" ed="#P" n="77"/>gum , lectionum, etc., in laudem Dbei exprimimus,
+          <lb ed="#P" n="78"/>excitando nos mutuo ab insidiis diaboli. Atque ideo
+          <lb ed="#P" n="79"/>sane in tribus nocturnis novem dicimus psalmos et
+          <lb ed="#P" n="80"/>lectiones cum caeteris, ut Trinitati in primis 
+          placea<lb break="no" ed="#P" n="81"/>mus ac novem ordinibus angelorum queamus 
+          asso<lb break="no" ed="#P" n="82"/>ciari. Nec vero ab re est quod haec nocte 
+          potissi<lb break="no" ed="#P" n="83"/>mum facimus, cum praesens haec nosira civitas, 
+          Ec<lb break="no" ed="#P" n="84"/>clesia nimirum, velut umbra quaedam sit coslestis
+          <lb ed="#P" n="85"/>istius Ecclesise ad quam divina gratia perveniemus.
+          <lb ed="#P" n="86"/>Celebratur ausem officium boc trium nocturnorum
+          <lb ed="#P" n="87"/>diebus maxime Dominicis, in solemnitatibus 
+          Trini<lb break="no" ed="#P" n="88"/>tatis et in festis sanctorum; ideo quoniam certo 
+          cre<lb break="no" ed="#P" n="89"/>d.mus illos Dominicae regurrectionis, quam dies 
+          Do<lb break="no" ed="#P" n="90"/>minica significat, gaudia jam eos esse consecutos.
+          <lb ed="#P" n="91"/>Simili ratione in eorum festis novem psalmos cum
+          <lb ed="#P" n="92"/>totidem lectiomibus ac responsoriis proferimus, quo
+          <lb ed="#P" n="93"/>eos novem ordinibus angelorum associatos esse 
+          os<lb break="no" ed="#P" n="94"/>tendamus. In noctibus vero istorum dierum qui 
+          so<lb break="no" ed="#P" n="95"/>leunes non sunt, psalmi duodecim , quos vulgus
+          <lb ed="#P" n="96"/>dietam vocat, cum sex antiphonis canuntur, ac tres
+          <lb ed="#P" n="97"/>lectiones totidemque responsiones recitantur ea 
+          ra<lb break="no" ed="#P" n="98"/>tione, quod horae duodecim diei ascribantur et 
+          tot<lb break="no" ed="#P" n="99"/>idem nocti. Quo quidem fit, ut pro unaquaque 
+          no<lb break="no" ed="#P" n="100"/>ctis hora psalmum Deo offeramus, quo a nocte 
+          er<lb break="no" ed="#P" n="101"/>roris et a mentis nostrae caecitate, ad quam nos per
+          <lb ed="#P" n="102"/>peccatum primi parepfjs detrusit diabolus, per 
+          innu<lb break="no" ed="#P" n="103"/>meram Dei misericordiam liberemur. Sex antiphonae
+          <lb ed="#P" n="104"/>designant sex opera misericordia, quae si recte 
+          ob<lb break="no" ed="#P" n="105"/>servaverimus, ab hujus noctis tenebris ad veram
+          <lb ed="#P" n="106"/>lucem, id est Christum, haud dubie perveniemusa
+          <lb ed="#P" n="107"/>Ob id autem hic duos psalmos conjungimus, ut per
+          <lb ed="#P" n="108"/>eos. ostendantur laudes et opera nostra sinc charitate
+          <lb ed="#P" n="109"/>nihil valere, quae consistit in dilectione Dei et 
+          proxi<lb break="no" ed="#P" n="110"/>mi, inter quos nullum est medium. VYerum duos
+          <lb ed="#P" n="111"/>psalmos ita connexos proptcerea una absolvinus
+          <lb ed="#P" n="112"/>Gloria, quia laudes nostrae tunc sunt Deo accepic,
+          <lb ed="#P" n="113"/>quando in charitate persistimus. Tres postremo 
+          le<lb break="no" ed="#P" n="114"/>ctiones tres connotant aetates, videlicet pueritiam,
+          <lb ed="#P" n="115"/>juventutem et senectutem. In his enim, ne a 
+          dia<lb break="no" ed="#P" n="116"/>bolo seducamur, optime vigilando Dominum laudare
+          <lb ed="#P" n="117"/>tcnemur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 25</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 25</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="19"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e361"><!-- raWSwa-c25 -->
+        <head xml:id="raWSwa-d1e361-Hd1e101">Caput 25</head>
+        <head xml:id="raWSwa-d1e361-Hd1e103" type="question-title">
+          De humano et de iis qua ad tertiam usque nocturnam
+          fiunt.
+        </head>
+        <p xml:id="raWSwa-d1e361-d1e106">
+          <lb ed="#P" n="5"/>CAPUT XXV.
+          <lb ed="#P" n="6"/>De humano et de iis qua ad tertiam usque nocturnam
+          <lb ed="#P" n="7"/>fiunt.
+        </p>
+        <p xml:id="raWSwa-d1e361-d1e115">
+          <lb ed="#P" n="8"/>Finita exhortatione, quae ob id appellatur 
+          invita<lb break="no" ed="#P" n="9"/>torium, quod caeteros ad laudem Dei invitet, 
+          sequi<lb break="no" ed="#P" n="10"/>tur ipsa laus, videlicet bymnus, qui ideo stando
+          <lb ed="#P" n="11"/>canitur, ut in erectione corporum ostendamus quam
+          <lb ed="#P" n="12"/>in laudando Dominum corda suzsum erigere 
+          de<lb break="no" ed="#P" n="13"/>beamus.
+        </p>
+        <p xml:id="raWSwa-d1e361-d1e131">
+          <lb ed="#P" n="14"/>Quia nisi mens lingue consonet, certum est 
+          vo<lb break="no" ed="#P" n="15"/>cem, quantumvis clamosam, Deo non placcre. 
+          An<lb break="no" ed="#P" n="16"/>tiphona, quae sequitur, quaeque suaviter modulando
+          <lb ed="#P" n="17"/>canitur, mentis devotionem, quam in laudando 
+          Do<lb break="no" ed="#P" n="18"/>minum babemus, designat. Verum ideo illa primo
+          <lb ed="#P" n="19"/>ncipitur, et finito psalmo, qui ei modeste accinitur,
+          <lb ed="#P" n="20"/>4ota cantatur, quia tunc recte laudem nostram 
+          mo<lb break="no" ed="#P" n="21"/>dulamur, si ex bona mentis devotione incaepta, simili
+          <lb ed="#P" n="22"/>devotione absolvatur. Antiphonae autem sunt quasi
+          <lb ed="#P" n="23"/>quaedam cantilenae ad aninorum recreationem 
+          di<lb break="no" ed="#P" n="24"/>vinis laudibus insertae. Versiculus, qui postea 
+          can<lb break="no" ed="#P" n="25"/>taur , signicat quod tunc ab officio psalmorum
+          <lb ed="#P" n="26"/>nos ad officium lectionum vertimus. A pueris hic
+          <lb ed="#P" n="27"/>canitur, ut tum demum intelligamus nostrum Deo
+          <lb ed="#P" n="28"/>placere servitium, si cum innocentia hoc agamus.
+          <lb ed="#P" n="29"/>Postea dicitur Dominica Oratio, quae inter alias
+          <lb ed="#P" n="30"/>vrationes babetur maxima auctoritatis privilegio.
+          <lb ed="#P" n="31"/>Atque baec ideo dicitur, ut per eam tentationes 
+          dia<lb break="no" ed="#P" n="32"/>boli reprimantur. Cum enim diabolus sentit nos
+          <lb ed="#P" n="33"/>velle legere lectiones, in quibus sanctorum victoriase
+          <lb ed="#P" n="34"/>ab iüs contra ipsum obtentae recitantur, vel quae ad
+          <lb ed="#P" n="35"/>morum instructionem et virtutum informationem
+          <lb ed="#P" n="36"/>anaxune leguntur, tunc acrius impugnat nos. Quare
+          <lb ed="#P" n="37"/>ne ab ipsius impugnatione devincamur, orationi 
+          ma<lb break="no" ed="#P" n="38"/>gis quam «oci incumbimus. Ultima autem pars
+          <lb ed="#P" n="39"/>orationis aperta voce recitatur, scilicet : Et ne nos
+          <lb ed="#P" n="40"/>indncas in tentationem, ut pateat ad quid illa 
+          dica<lb break="no" ed="#P" n="41"/>tur oratio, ne videlicet qui lecturus est, id elationis
+          <lb ed="#P" n="42"/>gloria faciat, atque ita per diabolum seducatur et
+          <lb ed="#P" n="43"/>auditorum mentes lectionis irtellectu ac profectu
+          <lb ed="#P" n="44"/>per ipsius phantasticas tentationes defraudentur.
+          <lb ed="#P" n="45"/>Tunc itaque lector ad librum accedit, ac, priusquam
+          <lb ed="#P" n="46"/>legere incipiat, bencdictionem tanquam legendi 
+          li<lb break="no" ed="#P" n="47"/>centiam petit a sacerdote, inquiens : Jube, domue,
+          <lb ed="#P" n="48"/>benedicere. Per quod innuitur neminem debere in
+          <lb ed="#P" n="49"/>ecclesia legere, uisi petita venia, ut jussus sit, vel
+          <lb ed="#P" n="50"/>ad hoc antce concessus. Scd animadvertendumn est,
+          <lb ed="#P" n="51"/>eum, qui leciurus est, hic domne dicere, non 
+          Do<lb break="no" ed="#P" n="52"/>mine, quoniam ad homincm loquitur, qui ut est
+          <lb ed="#P" n="53"/>semiplenus et imperfectus respectu nostri Domini,
+          <lb ed="#P" n="54"/>ita syncopato utitur vocabulc. In finc vero lectionis
+          <lb ed="#P" n="55"/>plene inquit Domine, hoc modo : Tu autem, 
+          Do<lb break="no" ed="#P" n="56"/>mine. Quod practer caetcres maxime observant 
+          mo<lb break="no" ed="#P" n="57"/>nachi, cum dicuut domnus abbas, non dominus
+          <lb ed="#P" n="58"/>obbas. Hinc etiam est, quod famnuli dominis suis
+          <lb ed="#P" n="59"/>inservientes, si quando illis pocula porrigunt, non
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>debeant utrumque genu flectere, sed duntaxat 
+          alte<lb break="no" ed="#P" n="61"/>rum, nempe sinistrum, per quam partem 
+          significa<lb break="no" ed="#P" n="62"/>tur corporalis servitus, quae tantum debetur 
+          bomi<lb break="no" ed="#P" n="63"/>nibus, et non spiritualis. Nec est acclinandum 
+          prin<lb break="no" ed="#P" n="64"/>cipi saeculari recta facie, sed ab aure sinistra capite
+          <lb ed="#P" n="65"/>fleso. Finita igitur lectione adjungit lector : Tu 
+          au<lb break="no" ed="#P" n="66"/>tem, Domine, non domne, ut qui perfectum 
+          alloqui<lb break="no" ed="#P" n="67"/>tur dominum, et omnino talem qui perfecto et pleno
+          <lb ed="#P" n="68"/>vocabulo dignus est. Nec illud sanc ad lectionem
+          <lb ed="#P" n="69"/>pertinet, aut praemissae lectioni continuatur, sed
+          <lb ed="#P" n="70"/>lector absoluta lectione dirigens sermonem ad 
+          Domi<lb break="no" ed="#P" n="71"/>num ect sesc excusans inquit : Tu, Domine, miserere
+          <lb ed="#P" n="72"/>nostri. Quorum verborum sentcntia haec est: 
+          Do<lb break="no" ed="#P" n="73"/>mine, forsitan ego peccavi in legendo modulate
+          <lb ed="#P" n="74"/>pronuntians humanae laudis cupiditate, et fortassis
+          <lb ed="#P" n="75"/>etium peccaverunt auditores, quod variis 
+          cogitatio<lb break="no" ed="#P" n="76"/>nibus fuerint intenti et lectioni debitum non 
+          tri<lb break="no" ed="#P" n="77"/>buerint auditum, sed, o tu Domine, miserere nostri.
+          <lb ed="#P" n="78"/>Quod autem a cunctis generaliter respondetur : Deo
+          <lb ed="#P" n="79"/>gratias. pertinet ad lectionem, et vox est Ecclesiae
+          <lb ed="#P" n="80"/>geatias Deo persolventis. Ac si dicerent : Deus 
+          pe<lb break="no" ed="#P" n="81"/>vit nos verbis salutis, quae sunt animae cibus, de
+          <lb ed="#P" n="82"/>quo beneficio vicissim nos Deo agimus gratias.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 100</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 100</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="53"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1274"><!-- raWSwa-c100 -->
+        <head xml:id="raWSwa-d1e1274-Hd1e101">Caput 100</head>
+        <head xml:id="raWSwa-d1e1274-Hd1e103" type="question-title">
+          De officio tenebrarum.
+        </head>
+        <p xml:id="raWSwa-d1e1274-d1e106">
+          <lb ed="#P" n="10"/>CAPUT C.
+          <lb ed="#P" n="11"/>De officio tenebrarum.
+        </p>
+        <p xml:id="raWSwa-d1e1274-d1e113">
+          <lb ed="#P" n="12"/>Tunc vero considerandum est quamobrem tribus
+          <lb ed="#P" n="13"/>soctibus continuis officium quod tenebrae 
+          appella<lb break="no" ed="#P" n="14"/>tur celebremus, quemadmodum ad illud ofticium
+          <lb ed="#P" n="15"/>pulsandum sit, quare et quot candelae accendantur,
+          <lb ed="#P" n="16"/>e quomodo eae exstinguantur, et deinde etiam de
+          <lb ed="#P" n="17"/>eflcii qualitate. Posito itaque Christo in cruce 
+          tri<lb break="no" ed="#P" n="18"/>bus horis fuerunt tenebrae, a sexta usque ad nonam,
+          <lb ed="#P" n="19"/>ita ut complectamur sextam et nonam, dum sol 
+          pa<lb break="no" ed="#P" n="20"/>tiebatur eclipsim, non quidem naturalem, sed 
+          mira<lb break="no" ed="#P" n="21"/>culosam, quanquam eam infideles juxia naturam
+          <lb ed="#P" n="22"/>ita accidisse mentiebantur. Quamobrem sane 
+          prop<lb break="no" ed="#P" n="23"/>ter tanti illius miraculi memoriam, per noctes tres
+          <lb ed="#P" n="24"/>illas boras repraesentamus. Ad officium tenebrarum
+          <lb ed="#P" n="25"/>non campanis pulsandum est, sed ligneis tabulis.
+          <lb ed="#P" n="26"/>Campanae enim significant, ut dictum est, 
+          conciona<lb break="no" ed="#P" n="27"/>tores. Atque ideu campanis non pulsatur, quia 
+          con<lb break="no" ed="#P" n="28"/>cionatores, hoc est discipuli Domini, non solum
+          <lb ed="#P" n="29"/>nomen ejus non praedicarunt, sed et negaverunt, ut
+          <lb ed="#P" n="30"/>Petrus et fugerunt. Scriptum est enim : Percutiam
+          <lb ed="#P" n="31"/>pastorem, et dispergeniur oves gregis (Matth. xxvi).
+          <lb ed="#P" n="32"/>Unde Dominus videns eos ad fugam paratos ait:
+          <lb ed="#P" n="33"/>Quem quaritis ? (Joan. xvm). Quasi diceret : Si me
+          <lb ed="#P" n="34"/>quaritis, sinite cos abirc (ibid.). Magnus tamen ex
+          <lb ed="#P" n="35"/>ligno editur sonus. Tabula lignea Christum 
+          signifi<lb break="no" ed="#P" n="36"/>cat qui in ligno clamabat, praedicabat et orabat,
+          <lb ed="#P" n="37"/>dicens : Pater, dimitte cis, quia nesciunt quid faciunt
+          <lb ed="#P" n="38"/>(Luc. xxun). Pulsatur igitur ligno, quod tum solus
+          <lb ed="#P" n="39"/>Christus exstitit concionator.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

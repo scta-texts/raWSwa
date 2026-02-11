@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 113</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 113</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="59"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1432"><!-- raWSwa-c113 -->
+        <head xml:id="raWSwa-d1e1432-Hd1e101">Caput 113</head>
+        <head xml:id="raWSwa-d1e1432-Hd1e103" type="question-title">De officio hujus temporis</head>
+        <p xml:id="raWSwa-d1e1432-d1e106">
+          <lb ed="#P" n="33"/>CAPUT CXIII.
+          <lb ed="#P" n="34"/>De officio hujus temporis.
+        </p>
+        <p xml:id="raWSwa-d1e1432-d1e113">
+          <lb ed="#P" n="35"/>Ut ergo temporis hujus officium commode 
+          trada<lb break="no" ed="#P" n="36"/>mus et a primo die incipiamus, necesse est 
+          videa<lb break="no" ed="#P" n="37"/>mus primo de ipso nomine ejusque ratione et causa,
+          <lb ed="#P" n="38"/>ac deinde de ipsius diei offició. Vocatur dies hic 
+          Pa<lb break="no" ed="#P" n="39"/>scba saive Resurrectio Domini. Est autem Pascha
+          <lb ed="#P" n="40"/>Graca vox, diciturque nobis transitus, non passio
+          <lb ed="#P" n="41"/>ut plerique arbitrantur. Hebraice vero dicitur phase.
+          <lb ed="#P" n="42"/>Sed ideo diem hunc Graeco nomine, et non Hebraico
+          <lb ed="#P" n="43"/>appellamus, licet Hebraica lingua dignior sit, ut non
+          <lb ed="#P" n="44"/>solum in aliis, verum etiam ne in nomine quidem
+          <lb ed="#P" n="45"/>videamur judaizare. Propter hanc eamdem causam
+          <lb ed="#P" n="46"/>et Pascha et Pentecostes, quas ipsi celebrant, in 
+          no<lb break="no" ed="#P" n="47"/>stris kalendariis certo die non annotantur, nec 
+          un<lb break="no" ed="#P" n="48"/>quam eas illo tempore celebramus quando illi , ne
+          <lb ed="#P" n="49"/>eos in aliquo imitemur, neve hic rursus quosdam
+          <lb ed="#P" n="50"/>sequamur haereticos, qui dicebant Evangelium non
+          <lb ed="#P" n="51"/>posse sufficere ad salutem sine caeremoniis 
+          legali<lb break="no" ed="#P" n="52"/>bus. Vocamus autem diem hunc Graeco potius 
+          voca<lb break="no" ed="#P" n="53"/>bulo quam Latino, quod Graeca lingua olim apud
+          <lb ed="#P" n="54"/>Romanos tantae fuerit auctoritatis, ut dies solemnes,
+          <lb ed="#P" n="55"/>ac dignitates suas Graecis nominibus vocarent, ut
+          <lb ed="#P" n="56"/>Pascha, Pentecoste , onavrn Epiphania , Apostolus,
+          <lb ed="#P" n="57"/>Episcopus, Archeepiscopus, etc. Veldici potest juxta
+          <lb ed="#P" n="58"/>Augustinum nomen hoc Paschae divina constitutione
+          <lb ed="#P" n="59"/>compositum fuisse a Graeco verbo voo nacysw, quod
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>pati interpretatur , et hoc nomine Hebraeo Phase,
+          <lb ed="#P" n="61"/>quod si Latine reddatur sonat transitum. Recte enim
+          <lb ed="#P" n="62"/>duo haec nomina nacy et Phase, conveniunt in
+          <lb ed="#P" n="63"/>hoc nomine Paschae, tam secundum significationem,
+          <lb ed="#P" n="64"/>quam secundum voces. Secundum quidem 
+          signifi<lb break="no" ed="#P" n="65"/>cationes quoniam in passione Christi fuit transitus.
+          <lb ed="#P" n="66"/>Per passionem enim Christus transivit a morte ad
+          <lb ed="#P" n="67"/>vitam, et fecit nobis viam credentibus in 
+          resurre<lb break="no" ed="#P" n="68"/>ctione ejus, ut transeamus et nos de morte ad vitam.
+          <lb ed="#P" n="69"/>Quare non immerito nomen hoc utriusque nomiuis
+          <lb ed="#P" n="70"/>habet significationem, atque ita artificiose etiam in
+          <lb ed="#P" n="71"/>re complectitur significationem ejus vocabuli 
+          Lati<lb break="no" ed="#P" n="72"/>nam, ut ex duabus linguis fiat tertia, nempe Latina.
+          <lb ed="#P" n="73"/>Appellatur enim Pascha ipsa dies resurrectionis.
+          <lb ed="#P" n="74"/>Yerum tempus paschale dicitur a Dominica in 
+          Ra<lb break="no" ed="#P" n="75"/>mis palmarum usque ad octavam Paschae, ita tamen,
+          <lb ed="#P" n="76"/>ut Dominica in Ramis palmarum appelletur minus
+          <lb ed="#P" n="77"/>Pascha, quia tunc inducebatur agnus qui sexta 
+          fe<lb break="no" ed="#P" n="78"/>ria debebat immolari. Proprie vero dicebatur Pascha
+          <lb ed="#P" n="79"/>dies quo agnus immolabatur.
+        </p>
+        <p xml:id="raWSwa-d1e1432-d1e215">
+          <lb ed="#P" n="80"/>Modo de causa nominis dicendum est. Vocatur
+          <lb ed="#P" n="81"/>autem tempus hoc Pascha secundum historiam, 
+          tro<lb break="no" ed="#P" n="82"/>pologiam, allegoriam, et anagogcn. Et quidem sccu.-
+          <lb ed="#P" n="83"/>dum historiam, quoniatn populus Israeliticus quando
+          <lb ed="#P" n="84"/>primum celebratum est Pascha, transivit per mare
+          <lb ed="#P" n="85"/>Rubrum, cum ex Agypto egrederetur. Ve) quando
+          <lb ed="#P" n="86"/>angelus ille exterminator per AEgyptum transivit,
+          <lb ed="#P" n="87"/>interfecitque totius AEgypti primogenita ab homine
+          <lb ed="#P" n="88"/>usque ad pecus (Psal. cxxxiv), ad illas doimnos 
+          per<lb break="no" ed="#P" n="89"/>transiens in quarum foribus non inveniebat 
+          sangui<lb break="no" ed="#P" n="90"/>nem agni in formam litterae hujusmodi T. Secundum
+          <lb ed="#P" n="91"/>allegoriam, quandoquidem hoc temporc per 
+          baptis<lb break="no" ed="#P" n="92"/>mum Ecclesia ab infidelitate transiit ad fidelitatem.
+          <lb ed="#P" n="93"/>Dicitur enim allegoria alieniloquium, vel potius 
+          in<lb break="no" ed="#P" n="94"/>versio, cum aliud verbis, aliud sensu ostendimus.
+          <lb ed="#P" n="95"/>Secundum vero tropologiam, quoniam, hoc tempore
+          <lb ed="#P" n="96"/>per confessionem transimus a vitiis ad virtutes, 
+          di<lb break="no" ed="#P" n="97"/>citurque tropologia, quasi sermonis ad mores 
+          con<lb break="no" ed="#P" n="98"/>versio. Denique secundum anagogen, quia Christus
+          <lb ed="#P" n="99"/>nunc a mortalitate ad immortalitatem transivit, 
+          fc<lb break="no" ed="#P" n="100"/>citque ut quemadmodum jam resurrexit, nos in 
+          ulti<lb break="no" ed="#P" n="101"/>ma et universali resurrectione ex hac mundi 
+          mise<lb break="no" ed="#P" n="102"/>ria ad aeternam beatitudinem transiremus. Nam et
+          <lb ed="#P" n="103"/>illi qui in inferno erant tunc transierunt, idque ab
+          <lb ed="#P" n="104"/>ipferno ad portam paradisi. Dicta est autem anagoge
+          <lb ed="#P" n="105"/>ab áva sursum et a qey id est ductio, quasi sursum
+          <lb ed="#P" n="106"/>ductio. Volente enim Deo a mortalitate transibimus
+          <lb ed="#P" n="107"/>ad immortalitatem : qui transitus subtilis et 
+          excei<lb break="no" ed="#P" n="108"/>sus est. Sic enim in hoc nomine Jerosolymae 
+          qua<lb break="no" ed="#P" n="109"/>tuor ista possunt inveniri : historia, quemadmodum
+          <lb ed="#P" n="110"/>deea civitate ad quam pergunt hospites et peregrini ;
+          <lb ed="#P" n="111"/>allegoria, ut est Ecclesia militans.; tropologia, ut
+          <lb ed="#P" n="112"/>quaevis anima delis ; anagoge denique, ut 
+          Jeroso<lb break="no" ed="#P" n="113"/>lyma coelestis. Intellige tamen Christi transitum 
+          ana<lb break="no" ed="#P" n="114"/>gogice non allegorice in praedictis. scilicet Pascha,
+          <lb ed="#P" n="115"/>et caeteris.
+        </p>
+        <p xml:id="raWSwa-d1e1432-d1e297">
+          <lb ed="#P" n="116"/>De officio autem hujus primae septimanageneratum
+          <lb ed="#P" n="117"/>dicimus ad nocturnos nocte tres duntaxat psalmos.
+          <lb ed="#P" n="118"/>cum tribus antiphonis, tres item lcctiones cum tri-
+          <pb ed="#P" n="60"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>bus responsoriis, idque ex homiliis tantum dici 
+          de<lb break="no" ed="#P" n="2"/>bere. Catterum in quibusdam Ecclesiis ad unum
+          <lb ed="#P" n="3"/>quodque responsum annectunt Gloria Patri. Fit
+          <lb ed="#P" n="4"/>etiam in plerisque Ecclesiis ut cantato ultimo 
+          re<lb break="no" ed="#P" n="5"/>sponso, cum candelis cereis et solemni processione
+          <lb ed="#P" n="6"/>eant ex choro ad locum quemdam, ubi imaginarium
+          <lb ed="#P" n="7"/>scpulcrum compositum est, in quod introducuntur
+          <lb ed="#P" n="8"/>aliquot in personis mulierum et discipulorum 
+          Joan<lb break="no" ed="#P" n="9"/>nis et Petri, quorum alter altero citius revertitur,
+          <lb ed="#P" n="10"/>sicut Joannes velocius cucurrit Petro, atque item
+          <lb ed="#P" n="11"/>alii quidam in personis angclorum qui Christum 
+          re<lb break="no" ed="#P" n="12"/>surrexisse dixerunt a mnortuis. Quo quidem facto
+          <lb ed="#P" n="13"/>personae eae redeunt ad chorum, referuntque ea quae
+          <lb ed="#P" n="14"/>viderint et audierint. Tunc chorus, audita Christi
+          <lb ed="#P" n="15"/>resurrectione, prorumpit in altam vocem, inquiens:
+          <lb ed="#P" n="16"/>Te Deum laudamus. Ad primam vero nonnulli 
+          di<lb break="no" ed="#P" n="17"/>cunt tota hac septimana psalmum hunc, Confitemini
+          <lb ed="#P" n="18"/>Domino quoniam bonus (Psal. cv); quod praecipue
+          <lb ed="#P" n="19"/>de Christi resurrectione agit. Symbolum autem 
+          Atha<lb break="no" ed="#P" n="20"/>nasii , Quicunque vult, etc., toto illo tempore non
+          <lb ed="#P" n="21"/>cantatur , quoniam maxime pertinet ad fidem. Sed
+          <lb ed="#P" n="22"/>hoc tempus indicat octavam aetatem, ubi non fides
+          <lb ed="#P" n="23"/>erit, sed res; ubi non figura erit, sed veritas. Paulo
+          <lb ed="#P" n="24"/>tamen aliter in quibusdam Ecclesiis solet fieri, ut
+          <lb ed="#P" n="25"/>in nostra Parisiensi. Sed animadvertere quod cum
+          <lb ed="#P" n="26"/>Credo in unum Deum perinde fidei sit symbolum, ad
+          <lb ed="#P" n="27"/>missam tamen legatur, et quod illud quidem fiat ad
+          <lb ed="#P" n="28"/>instructionem neophytorum in articulis fidei. Aliud
+          <lb ed="#P" n="29"/>vero symbolum quod minus^appellatum est, ad 
+          pri<lb break="no" ed="#P" n="30"/>mam plane subticetur ob suam significationem. Nam
+          <lb ed="#P" n="31"/>cum venerit quod. perfectum est, tum perimetur id
+          <lb ed="#P" n="32"/>quod ex parte constat (I Cor. xiu). Praeterea 
+          animad<lb break="no" ed="#P" n="33"/>verte hanc solemnitatem usque adeo esse magnam,
+          <lb ed="#P" n="34"/>ut per antonomasiam atque excellentiam vocetur
+          <lb ed="#P" n="35"/>Solemnitas solemnitatum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

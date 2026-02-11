@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 124</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 124</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="66"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1566"><!-- raWSwa-c124 -->
+        <head xml:id="raWSwa-d1e1566-Hd1e101">Caput 124</head>
+        <head xml:id="raWSwa-d1e1566-Hd1e103" type="question-title">De festo apostolorum Philippi et Jacobi</head>
+        <p xml:id="raWSwa-d1e1566-d1e106">
+          <pb ed="#P" n="66"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>CAPUT CXXIV.
+          <lb ed="#P" n="2"/>De festo apostolorum Philippi et Jacobi.
+        </p>
+        <p xml:id="raWSwa-d1e1566-d1e117">
+          <lb ed="#P" n="3"/>Nunc dicendum est de quibusdam solemnitatibus ,
+          <lb ed="#P" n="4"/>quae hoc tempore in Ecclesiis celebrantur, videlicet
+          <lb ed="#P" n="5"/>de festo S. Philippi et Jacobi, et omnium 
+          aposto<lb break="no" ed="#P" n="6"/>lorum (sic enim est in magnis et plenis kalendariis)
+          <lb ed="#P" n="7"/>de Inventione S. crucis, de festo Joannis ante 
+          Por<lb break="no" ed="#P" n="8"/>tam Latinam, et B. Mariae ad Martyres, et de 
+          com<lb break="no" ed="#P" n="9"/>memoratione sancti Michaelis. Hoc ergo tempus, ut
+          <lb ed="#P" n="10"/>praedictum est, significat octavam aetatem, ubi 
+          bo<lb break="no" ed="#P" n="11"/>num quod erit in dispari claritate singulorum,
+          <lb ed="#P" n="12"/>et futurum est omnium. Unusquisque enim 
+          gaude<lb break="no" ed="#P" n="13"/>bit perinde ob alterius bonum ac propter suum,
+          <lb ed="#P" n="14"/>bonum omnium erit singulorum. Quare cum 
+          tem<lb break="no" ed="#P" n="15"/>pus hoc maxime solemnitatibus conveniat, cumque
+          <lb ed="#P" n="16"/>in primitiva Ecclesia apostoli non haberent 
+          parti<lb break="no" ed="#P" n="17"/>culares solemnitates , statutum fuit ut ipsis 
+          Kalen<lb break="no" ed="#P" n="18"/>dis Maii celebraretur solemnitas in honorem 
+          om<lb break="no" ed="#P" n="19"/>nium apostolorum. Hoc etiam die festum est 
+          Phi<lb break="no" ed="#P" n="20"/>lippi et Jacohi, idque adeo quia fortce illo die passi
+          <lb ed="#P" n="21"/>sunt. Hic Jacobus Minor appellatus est, non utique
+          <lb ed="#P" n="22"/>etate, sed vocatione, sicut fit inter monachos; ut
+          <lb ed="#P" n="23"/>qui ante factus est monachus etiamsi vel puer sit,
+          <lb ed="#P" n="24"/>tamen praecedat eum, qui quantus sit postea 
+          coe<lb break="no" ed="#P" n="25"/>nobium ingressus est. Dictus est praeterea 
+          fra<lb break="no" ed="#P" n="26"/>ter Domini, vel quia similis erat ei faciei, ut 
+          di<lb break="no" ed="#P" n="27"/>citur, vel ideo, quia erat filius Alphaei, fratris 
+          Jo<lb break="no" ed="#P" n="28"/>sephi viri beatae Mariae, et Mariae sororis ejus. Ft
+          <lb ed="#P" n="29"/>qui ita ex utraque parte sanguinis sesc 
+          continge<lb break="no" ed="#P" n="30"/>bant, apud Judeos fratres vocabantur. Jesus autem
+          <lb ed="#P" n="31"/>putabatur esse Josephi filius. Hic Jacobus dictus est
+          <lb ed="#P" n="32"/>primus post passionem Christi Jerosolymae missam
+          <lb ed="#P" n="33"/>celebrasse , et Petrus Antiochiae. Idein hic Jacobus
+          <lb ed="#P" n="34"/>factus est episcopus Jerosolymitanus, qui cum 
+          no<lb break="no" ed="#P" n="35"/>men Christi praedicaret, et publice fateretur, 
+          prae<lb break="no" ed="#P" n="36"/>cipita:us est a Judaeis e pinnaculo templi, et pertica
+          <lb ed="#P" n="37"/>fullonis interfectus. Alter vero Jacobus Major, 
+          ap<lb break="no" ed="#P" n="38"/>pellatus est, et vocatione et dignitate, quia 
+          lamilia<lb break="no" ed="#P" n="39"/>rior fuit Christo. Ad secreta enim sui operis eum
+          <lb ed="#P" n="40"/>vocabat, ut quando transfiguratus est, et quando
+          <lb ed="#P" n="41"/>mortuum suscitavit in domo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

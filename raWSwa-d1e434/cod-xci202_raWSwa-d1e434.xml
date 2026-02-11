@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 31</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 31</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="21"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e434"><!-- raWSwa-c31 -->
+        <head xml:id="raWSwa-d1e434-Hd1e101">Caput 31</head>
+        <head xml:id="raWSwa-d1e434-Hd1e103" type="question-title">
+          De hymno et aliis sequentibus.
+        </head>
+        <p xml:id="raWSwa-d1e434-d1e106">
+          <lb ed="#P" n="63"/>CAPUT XXXI.
+          <lb ed="#P" n="64"/>De hymno et aliis sequentibus.
+        </p>
+        <p xml:id="raWSwa-d1e434-d1e113">
+          <lb ed="#P" n="65"/>Deinde canitur hymnus, per quem latitia quam
+          <lb ed="#P" n="66"/>ob assecutam habemus libertatem, exprimitur. Sed
+          <lb ed="#P" n="67"/>quia Christus nobis hanc laetitiam acquisivit, nc 
+          in<lb break="no" ed="#P" n="68"/>grati de beneficio accepto videamur, in laudem illius
+          <lb ed="#P" n="69"/>finito hymno prorumpimus, et quia nos liberavit,
+          <lb ed="#P" n="70"/>gratias ci referimus alta voce cantando, Benedictus
+          <lb ed="#P" n="71"/>Dominus Deus Israel (Luc. 1). Et quare, obsecro:
+          <lb ed="#P" n="72"/>Quia nos risitatit existentes in miseria, et fecit 
+          re<lb break="no" ed="#P" n="73"/>demptionem plebis sua (ibid.). Hoc absoluto cantico
+          <lb ed="#P" n="74"/>cum antiphona, quae notat dilcectionem quam in 
+          lau<lb break="no" ed="#P" n="75"/>dando Dominum habemus, ait ad populum sacerdos :
+          <lb ed="#P" n="76"/>Dominus tobiscum. Quod sane sumptum est ex libre
+          <lb ed="#P" n="77"/>Ruth ; sic cnim legitur Boos et Obed suos salutasse
+          <lb ed="#P" n="78"/>messores (Ruth. ). ^c statim a populo 
+          responde<lb break="no" ed="#P" n="79"/>tur : Et cum spiritu tuo. Quod ex Epistolis Pauli
+          <lb ed="#P" n="80"/>suimnptum est (Gal. vi; Philipp. iv). Ac si sacerdos
+          <lb ed="#P" n="81"/>diceret : Laus nostra sit acceptabilis Deo, et 
+          gra<lb break="no" ed="#P" n="82"/>tam sibi accipiat, ac nos prienmio vitae remunerct.
+          <lb ed="#P" n="83"/>Cum autem populus rcspondet, Et cum spiritu tuo.
+          <lb ed="#P" n="84"/>idem est ac si diceret: Tu pro nobis preces ad 
+          Do<lb break="no" ed="#P" n="85"/>minum cffundes, sed quia illas prcces tantum 
+          appro<lb break="no" ed="#P" n="86"/>bat Deus et exaudit, quae ex bono animo procedunt,
+          <lb ed="#P" n="87"/>ipse, sine quo nullum bonum est, sit et cum spiritu
+          <lb ed="#P" n="88"/>tuo. Tum sacerdos quasi suae honitati diffidens, 
+          in<lb break="no" ed="#P" n="89"/>quit ad populum : Oremus. Quod humilitatis et 
+          evi<lb break="no" ed="#P" n="90"/>tandae arrogantiae gratia dicitur , quasi dicat: Orate
+          <lb ed="#P" n="91"/>simul mecum, ut quod postulamus citius 
+          impetre<lb break="no" ed="#P" n="92"/>mus. Tunc dicit orationem, eaque dicta respondcet
+          <lb ed="#P" n="93"/>chorus : Amen; quasi dicat : Ita nobis fiat, 
+          quemad<lb break="no" ed="#P" n="94"/>modum orasti ; vel, feliciter tua sit oratio peracta
+          <lb ed="#P" n="95"/>Sumptum autem est Ámen ex Apocalypsi Joannis
+          <lb ed="#P" n="96"/>(Apoc. , v, vu, etc.). Atque ad eumdem modum
+          <lb ed="#P" n="97"/>rursus populum salutat sacerdos, rcpctitque quod
+          <lb ed="#P" n="98"/>antea dixerat : Dominus vobiscum ; quasi dicat: Si
+          <lb ed="#P" n="99"/>gratiam Dei impetrastis, in ea perseverate. Et 
+          ite<lb break="no" ed="#P" n="100"/>rum respondet populus : Et cum spiritu tuo; quasi
+          <lb ed="#P" n="101"/>polliccatur : Orasti pro nobis, et nos vicissim pro
+          <lb ed="#P" n="102"/>te oramus. Tum pueri canunt: Benedicamus Domino.
+          <lb ed="#P" n="103"/>Quod cx psalmo tertio acceptum habemus. Quibus
+          <lb ed="#P" n="104"/>rursum chorus respondet : Deo gratias, quod 
+          Apo<lb break="no" ed="#P" n="105"/>stolo acceptum referimus (Rom. vi). Eo autcm 
+          si<lb break="no" ed="#P" n="106"/>gnificatur, quod usque ad fincm vitae in innocentia
+          <lb ed="#P" n="107"/>Deo inservire debeamus, ac illi benedicere, 
+          probene<lb break="no" ed="#P" n="108"/>ficiis gratias persolvendo. Ultimo sequuntur 
+          suffra<lb break="no" ed="#P" n="109"/>gia sanctorum. Nam quandiu quidem vivimus, 
+          tan<lb break="no" ed="#P" n="110"/>quam in luhrico solo et fragili glacie sumus 
+          consti<lb break="no" ed="#P" n="111"/>tuti, in dicesque cum daemonibus vehementissime
+          <lb ed="#P" n="112"/>confligimus, ita ut sanctorum suffragiis non possi«
+          <lb ed="#P" n="113"/>mus non indigerc. Post suffragia repctitur : 
+          Benedi<lb break="no" ed="#P" n="114"/>camus Domino, non a pueris, sed a sacerdote, 
+          qucm<lb break="no" ed="#P" n="115"/>admodum ctiam in completorio et magnis 
+          solem<lb break="no" ed="#P" n="116"/>nitatibus in quibusdam ecclesiis a majoribus. Qua
+          <lb ed="#P" n="117"/>quidem significatur nos fore in aeterna beatitudine
+          <pb ed="#P" n="22"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cum Domino perfectos laudatores. In hac enim vita
+          <lb ed="#P" n="2"/>perfecti essc non possumus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

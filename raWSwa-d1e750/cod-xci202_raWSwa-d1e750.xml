@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 57</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 57</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="32"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e750"><!-- raWSwa-c57 -->
+        <head xml:id="raWSwa-d1e750-Hd1e101">Caput 57</head>
+        <head xml:id="raWSwa-d1e750-Hd1e103" type="question-title">
+          Quis ordinaverit officia ecclesiastica de quibusdam
+          diebus.
+        </head>
+        <p xml:id="raWSwa-d1e750-d1e106">
+          <lb ed="#P" n="44"/>CAPUT LVII.
+          <lb ed="#P" n="45"/>Quis ordinaverit officia ecclesiastica de quibusdam
+          <lb ed="#P" n="46"/>diebus.
+        </p>
+        <p xml:id="raWSwa-d1e750-d1e115">
+          <lb ed="#P" n="47"/>Haec autem ecclesiastica officia, ut dictun est,
+          <lb ed="#P" n="48"/>instituit B. Hieronymus rogatu Damasi papae, et
+          <lb ed="#P" n="49"/>quaecunque etiam alia ex Veteri et Novo 
+          Testa<lb break="no" ed="#P" n="50"/>wento leguntur in Ecclcsia. Gregorius tamen 
+          quos<lb break="no" ed="#P" n="51"/>dam cantus appusuit, Gelasius quosdam bymnos,
+          <lb ed="#P" n="52"/>et alii alia. Tempore siquidem Theodosii 
+          impera<lb break="no" ed="#P" n="53"/>teris inordinate psallebant, qui rogavit Damasum
+          <lb ed="#P" n="54"/>pspam, ut curaret sapienter ordinare oflicium 
+          ec<lb break="no" ed="#P" n="55"/>clesiasticum. Quod diligenter ille cffecit, ut supra
+          <lb ed="#P" n="56"/>diximus. Sunt autem in praedictis temporibus dies
+          <lb ed="#P" n="57"/>quidam duplices, ut pote si quando simul festa 
+          con<lb break="no" ed="#P" n="58"/>currant, in quibus illud obscrvandum est quod in
+          <lb ed="#P" n="59"/>morali philosophia dici solet: « Ccde majori, ct
+          <lb ed="#P" n="60"/>locum da melioribus. » Hoc est, ut excellentius
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>celebretur oflicium, ac duataxat de minori fiat 
+          com<lb break="no" ed="#P" n="62"/>memoratio ipso die, et suum officium reservetur in
+          <lb ed="#P" n="63"/>crastinum; ut de Petro et Paulo in quibusdam 
+          Eccle<lb break="no" ed="#P" n="64"/>siis diebus Dominicis. Nam primo quidem celebratur
+          <lb ed="#P" n="65"/>de Petro, quod princeps fuerit apostolorum ; 
+          se<lb break="no" ed="#P" n="66"/>quenti vero die de Paulo. Sic de quibusdam aliis
+          <lb ed="#P" n="67"/>in diebus Dominicis , ita ut Dominica debeat 
+          quie<lb break="no" ed="#P" n="68"/>sccre, ac postea in hebdomada peragi. 
+          Quemadmo<lb break="no" ed="#P" n="69"/>dum sane factum videmus in Testamento Veteri.
+          <lb ed="#P" n="70"/>Cum enim Salomon templum dedicasset duodecimo
+          <lb ed="#P" n="71"/>die mensi , quo occurrebat scenopegia, celebravit
+          <lb ed="#P" n="72"/>dedicationem templi septem diebus continuis, et post
+          <lb ed="#P" n="73"/>dedicationem distulit scenopegiam. Sunt propterea
+          <lb ed="#P" n="74"/>in supra di«ts temporibus quaedan principales
+          <lb ed="#P" n="75"/>Dominicae, quibus caetera cedunt festa praeter Pascha
+          <lb ed="#P" n="76"/>et Pentecosten, quae praeter resurrectioncm et S.
+          <lb ed="#P" n="77"/>Spiritus missionem sunt aliis longe superiores. 
+          At<lb break="no" ed="#P" n="78"/>que earum quidem aliquae ut sunt praestantiores et
+          <lb ed="#P" n="79"/>sulcmniores, ita in iis mutantur officia, cujusmodi
+          <lb ed="#P" n="80"/>sunt Dominica in principio Adventus et 
+          Septuage<lb break="no" ed="#P" n="81"/>sima, ac illa qua: est in octava Paschae. Aliquae
+          <lb ed="#P" n="82"/>vero non sunt ita praestantes, quales duae hae sunt,
+          <lb ed="#P" n="83"/>videlicet quam vulgari nomine appellamus: Letare,
+          <lb ed="#P" n="84"/>Jerusalem, et Dominica in Ramis palmarumn. Nam
+          <lb ed="#P" n="85"/>si contingat dies Annuntiationis in Ramis 
+          palma<lb break="no" ed="#P" n="86"/>rum, aut ipso dic Resurrcctionis, de eo penitus 
+          ta<lb break="no" ed="#P" n="87"/>cebitur, ac die sabbato, qui praecedit Dominicam,
+          <lb ed="#P" n="88"/>quam in Ramis palmarum vocatam diximus, 
+          uni<lb break="no" ed="#P" n="89"/>versum Annuntiationis fiet mystcrium. lpsum enin
+          <lb ed="#P" n="90"/>sabbatum jus suum majori facile cedit. Ad cumdeza
+          <lb ed="#P" n="91"/>sane modum si cveniat ut ipsa Domini passione fit
+          <lb ed="#P" n="92"/>fegtum dedicationis, certe omni jure ejus mysterium
+          <lb ed="#P" n="93"/>eelebratur in bebdomada sequenti, ut inÁscensionc,
+          <lb ed="#P" n="94"/>si idem festum fuerit. Necesse enim est ut in aliud
+          <lb ed="#P" n="95"/>tempus differatur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

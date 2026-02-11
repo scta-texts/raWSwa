@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 89</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 89</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="46"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1140"><!-- raWSwa-c89 -->
+        <head xml:id="raWSwa-d1e1140-Hd1e101">Caput 89</head>
+        <head xml:id="raWSwa-d1e1140-Hd1e103" type="question-title">
+          De prima quarta feria.
+        </head>
+        <p xml:id="raWSwa-d1e1140-d1e106">
+          <lb ed="#P" n="39"/>CAPUT LXXXIX.
+          <lb ed="#P" n="40"/>De prima quarta feria.
+        </p>
+        <p xml:id="raWSwa-d1e1140-d1e113">
+          <lb ed="#P" n="41"/>Prima quarta feria quatuor insignitur privilegiis.
+          <lb ed="#P" n="42"/>Primum est quod tunc incipiamus jejunare, idque
+          <lb ed="#P" n="43"/>ideo facimus, quia Christus quarta feria, ut lcgitur,
+          <lb ed="#P" n="44"/>suum auspicatus est jejunium, quod diligenter 
+          per<lb break="no" ed="#P" n="45"/>gcrutanti verum cesse satis aperte constabit. Natus
+          <lb ed="#P" n="46"/>enim est die Dominico, ita ut si quis diligenter
+          <lb ed="#P" n="47"/>exindc computet annos usque ad trigesimum, juxta
+          <lb ed="#P" n="48"/>rationes computi, facile inveniet eum tertia feria
+          <lb ed="#P" n="49"/>fuisse baptizatum, ac sequenti die desertum intrans
+          <lb ed="#P" n="50"/>jejunium inchoasse. Secundum privilegium ejusdem
+          <lb ed="#P" n="51"/>diei est quod confessiones illo die in ecclesia 
+          au<lb break="no" ed="#P" n="52"/>diantur, et judicia confitentibus imponantur; 
+          ter<lb break="no" ed="#P" n="53"/>tiuin autem, quia tunc cineres in signum 
+          humilita<lb break="no" ed="#P" n="54"/>tis capitibus imprimuntur; quartum denique est
+          <lb ed="#P" n="55"/>quod illa die ejusmodi fit processio, qualem per
+          <lb ed="#P" n="56"/>universum annum amplius fieri non contingit. 
+          Pae<lb break="no" ed="#P" n="57"/>nitentes enim tunc ab ecclesia cum processione et
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>cruce ejiciuntur, ut ipso die Coena in eamdem 
+          reci<lb break="no" ed="#P" n="59"/>piantur. Nam tunc poenitentes ab ecclesia ideo
+          <lb ed="#P" n="60"/>ejiciuntur et repelluntur, quo Adami et Evae 
+          exsula<lb break="no" ed="#P" n="61"/>tus propter esum pomi repraesentetur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

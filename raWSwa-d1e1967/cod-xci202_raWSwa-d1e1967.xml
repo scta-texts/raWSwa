@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 157</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 157</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="78"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1967"><!-- raWSwa-c157 -->
+        <head xml:id="raWSwa-d1e1967-Hd1e101">Caput 157</head>
+        <head xml:id="raWSwa-d1e1967-Hd1e103" type="question-title">
+          De Simone et Juda.
+        </head>
+        <p xml:id="raWSwa-d1e1967-d1e106">
+          <lb ed="#P" n="33"/>CAPUT CLVII.
+          <lb ed="#P" n="34"/>De Simone et Juda.
+        </p>
+        <p xml:id="raWSwa-d1e1967-d1e113">
+          <lb ed="#P" n="35"/>Jacobus, Simon, Judas, qui et Thadaeus, Joseph
+          <lb ed="#P" n="36"/>Barsabas, qui et Justus cognominatus est, ne 
+          pro<lb break="no" ed="#P" n="37"/>pter injustitiam ab apostolatu fuisse repulsus 
+          cre<lb break="no" ed="#P" n="38"/>datur, fratres fuerunt, inter hos scilicet Joseph 
+          Bar<lb break="no" ed="#P" n="39"/>sabam, et Matthiam facta est sortitio. Atque. ille
+          <lb ed="#P" n="40"/>quidem Jacobus frater Domini dictus est, quoniam
+          <lb ed="#P" n="41"/>omnes cognati Hebraeo idiomate fratres vocabantur,
+          <lb ed="#P" n="42"/>vel quia ipsi erat quam simillimus. Joseph vero 
+          co<lb break="no" ed="#P" n="43"/>gnatus dicitur Domini, vel quia pater putativus
+          <lb ed="#P" n="44"/>erat, vel quia cognatus esset ex parte matris, 
+          nimi<lb break="no" ed="#P" n="45"/>rum B. Mariae. De Simone fertur quod sit crucifixus.
+          <lb ed="#P" n="46"/>Sed prius tamen in Agypto praedicavit, ac postea
+          <lb ed="#P" n="47"/>venit Jerosolyman, atque isthic post beatum 
+          Jaco<lb break="no" ed="#P" n="48"/>bum minorem, qui dictus est frater Domini, creatus
+          <lb ed="#P" n="49"/>est episcopus. Vixit autem centum et viginti annis.
+          <lb ed="#P" n="50"/>suscitavitue antequam moreretur triginta mortuos,
+          <lb ed="#P" n="51"/>filium nempe sui hospitis submersum fluctibus, et
+          <lb ed="#P" n="52"/>ejus gratia caeteros. Obiit vero annorum centum et
+          <lb ed="#P" n="53"/>viginti in Bosphoro, non in Pastophorio, ut quidam
+          <lb ed="#P" n="54"/>censent. Est autem Pastophorium, ut nonnulli 
+          vo<lb break="no" ed="#P" n="55"/>lunt, porticus templi, in qua jacebant custodes
+          <lb ed="#P" n="56"/>templi. Judas vero praedicavit apud Persas et Medos,
+          <lb ed="#P" n="57"/>atque isthic mortuus est apud llermenios.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

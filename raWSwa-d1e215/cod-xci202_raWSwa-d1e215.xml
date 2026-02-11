@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 13</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 13</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="14"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e215"><!-- raWSwa-c13 -->
+        <head xml:id="raWSwa-d1e215-Hd1e101">Caput 13</head>
+        <head xml:id="raWSwa-d1e215-Hd1e103" type="question-title">
+          De personis ecclesiasticis.
+        </head>
+        <p xml:id="raWSwa-d1e215-d1e106">
+          <lb ed="#P" n="8"/>CAPUT XIII.
+          <lb ed="#P" n="9"/>De personis ecclesiasticis.
+        </p>
+        <p xml:id="raWSwa-d1e215-d1e113">
+          <lb ed="#P" n="10"/>Ecclesiasticarum personarum genera duo sunt.
+          <lb ed="#P" n="11"/>Aliae namque sunt dignitatis, aliae ordinis. 
+          Dignita<lb break="no" ed="#P" n="12"/>tis sunt, ut papa, patriarcha, cardinalis, primas,
+          <lb ed="#P" n="13"/>archiepiscopus sive metropolitanus,quod ejusdem est
+          <lb ed="#P" n="14"/>signiflcationis , episcopus, archidiaconus, 
+          archiprc<lb break="no" ed="#P" n="15"/>sbyter. in choro sunt decanus, hypodecanus, 
+          can<lb break="no" ed="#P" n="16"/>tor, subcantor, thesaurarius, scholaster. Ordinis
+          <lb ed="#P" n="17"/>personae sunt sacerdos, diaconus, hypodiaconus,
+          <lb ed="#P" n="18"/>acolythus, exorcista, lector, ostiarius. Sunt autem
+          <lb ed="#P" n="19"/>in ordine septem gradus, ad designandam 
+          septifor<lb break="no" ed="#P" n="20"/>mem gratiam Spiritus sancti, cujus munere itlorum
+          <lb ed="#P" n="21"/>ordinum officia exsequuntur. Sed quoniam de 
+          ec<lb break="no" ed="#P" n="22"/>clesiasticis personis juxta nostrum tempus tractare
+          <lb ed="#P" n="23"/>proposuimus, videamus quemadmodum a veteri
+          <lb ed="#P" n="24"/>consuetudine tam ethnicorum quam Judaeorum ad
+          <lb ed="#P" n="25"/>prasentis Ecclesie cultum facta sit personarum
+          <lb ed="#P" n="26"/>wanslatio, tum secundum ordinem, tum secundum
+          <lb ed="#P" n="27"/>d:gnitatem. Ác primo quidem scecundum ordinem,
+          <lb ed="#P" n="28"/>in veteri testamento crant sacerdotes, quales 
+          fuc<lb break="no" ed="#P" n="29"/>runt filii Aaron, qui pro populo sarrifleia offerebant.
+          <lb ed="#P" n="30"/>Erant pratterea aliqui in populo magistri, ut fuit
+          <lb ed="#P" n="31"/>Nicodemus. In horum locum nostri successerunt
+          <lb ed="#P" n="32"/>sacerdotes, qui sacrificium altaris Deo pre nobis
+          <lb ed="#P" n="33"/>offcrunt, quique ad hoc obtigati sunt, ut verbum
+          <lb ed="#P" n="34"/>Dei populum sibi commissum doceant. Vocantur
+          <lb ed="#P" n="35"/>autem sacerdotes, quasi sacra dantcs, et presbyteri,
+          <lb ed="#P" n="36"/>quasi seniores, non quidem aetatc, scd eruditione et
+          <lb ed="#P" n="37"/>moribus. Ordo diaconorum, id est ministrorum
+          <lb ed="#P" n="38"/>(tantum enim sonat) vicem explent levitarum. Ut
+          <lb ed="#P" n="39"/>enim in veteri lege levitae in sacrificiis inserviebant
+          <lb ed="#P" n="40"/>sacerdotibus tcstamenti veteris, ita hi in sacramento
+          <lb ed="#P" n="41"/>altaris ministrant sacerdotibus novi testamenti. 
+          Hy<lb break="no" ed="#P" n="42"/>podiaconi in locum nathinaeorum sunt substituti, qui
+          <lb ed="#P" n="43"/>sic dicebantur, quod in humilitate serviehant. 
+          Quem<lb break="no" ed="#P" n="44"/>admodum enim hi sub levitis sacra administrabant,
+          <lb ed="#P" n="45"/>sic illi sub diaconis, unde et hypodiaconi sunut 
+          ap<lb break="no" ed="#P" n="46"/>pellati. In templo erant emunctores luminum, qui
+          <lb ed="#P" n="47"/>candelas et accendebant et exstinguchbant. Ii sunt
+          <lb ed="#P" n="48"/>in nostra Ecclesia quos acolytos et ccroferarios 
+          di<lb break="no" ed="#P" n="49"/>cimus, qui cereas candelas, thuribulum portant ac
+          <lb ed="#P" n="50"/>praeparant. In tempore veteris legis exorcistae, id est
+          <lb ed="#P" n="51"/>adjuratores, ex doctrina Salomonis damones ab
+          <lb ed="#P" n="52"/>hominibus abigebant : sed et nos similiter 
+          exorci<lb break="no" ed="#P" n="53"/>stas habemus qui illos exorcizant qui efliciendi sunt
+          <lb ed="#P" n="54"/>catechumeni, nimirum cum ab iis adjurando 
+          expel<lb break="no" ed="#P" n="55"/>lunt daemones. In templo erant cantores; apud nos
+          <lb ed="#P" n="56"/>sunt lectores sive anagnostes. Ostiarii in nostra
+          <lb ed="#P" n="57"/>Ecclesia vicem supplent templi janitorum. Officium
+          <lb ed="#P" n="58"/>cnim janitorum erat templum claudere et aperire,
+          <lb ed="#P" n="59"/>mundosrecipere, immundos excludcrce. Ostiariorum
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>autem officium est catechumenos baptizandos, et
+          <lb ed="#P" n="61"/>ponitentes per cpiscopos jam reconciliatos in 
+          ec<lb break="no" ed="#P" n="62"/>elesiam introducere
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

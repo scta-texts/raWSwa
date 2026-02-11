@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 132</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 132</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="69"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1663"><!-- raWSwa-c132 -->
+        <head xml:id="raWSwa-d1e1663-Hd1e101">Caput 132</head>
+        <head xml:id="raWSwa-d1e1663-Hd1e103" type="question-title">
+          De officio sabbati Pentecostes.
+        </head>
+        <p xml:id="raWSwa-d1e1663-d1e106">
+          <lb ed="#P" n="12"/>CAPUT CXXXII.
+          <lb ed="#P" n="13"/>De officio sabbati Pentecostes.
+        </p>
+        <p xml:id="raWSwa-d1e1663-d1e113">
+          <lb ed="#P" n="14"/>Officium hujus diei nihil discrepat ab officio 
+          sab<lb break="no" ed="#P" n="15"/>baii Paschae, excepto quod in eo prima lectio sit de
+          <lb ed="#P" n="16"/>Adamo. id est de mundi creatione. Hic vero prima
+          <lb ed="#P" n="17"/>tsi de Abrabamo. Et huic quidem lectioni de 
+          Abra<lb break="no" ed="#P" n="18"/>hamo, canticum subjungitur, illi vero de Adamo,
+          <lb ed="#P" n="19"/>pop utique. Duae hae lectiones illos duos parentes
+          <lb ed="#P" n="20"/>siguificant , quorum unus fuit pater erroris et 
+          de<lb break="no" ed="#P" n="21"/>valionis, scilicet Adamus; alter fuit pater fidei et
+          <lb ed="#P" n="22"/>rerocationis, videlicet Abrahamus. Lectioni de
+          <lb ed="#P" n="23"/>Adamo non subjungimus canticum, quod ille non
+          <lb ed="#P" n="24"/>bene nobis cecinerit, quoniam transgressus est Dei
+          <lb ed="#P" n="25"/>mandatum. Unde non respondemus ei, quasi nobis
+          <lb ed="#P" n="26"/>maie cantanti. Quod autem male cantaverit ex eo
+          <lb ed="#P" n="27"/>patet, quod ei dictum est : Maledicta terra in opere
+          <lb ed="#P" n="28"/>tuo (Gen. in). Lectioni de Abrabamo canticum 
+          sub<lb break="no" ed="#P" n="29"/>jungimus, ut qui bene nobis cecinerit, unde ei dictum
+          <lb ed="#P" n="30"/>est : In semine tuo benedicentur omnes gentes (Gen.
+          <lb ed="#P" n="31"/>ximn). Tacentur autem hac dietituli, propter parvulos
+          <lb ed="#P" n="32"/>qui necdum cognoscunt auctores Novi et Veteris 
+          Te<lb break="no" ed="#P" n="33"/>samenti. Missa hoc sabbato ita incipit, 
+          quemadmo<lb break="no" ed="#P" n="34"/>eum sabbato Paschae videlicet per Kyrie eleison. 
+          Pro<lb break="no" ed="#P" n="35"/>inde Cloria in escelsis tam hoc,quam illosabbato 
+          cani<lb break="no" ed="#P" n="36"/>ur, atque etiam die Coenae, sed non nisi in illa 
+          eccle<lb break="no" ed="#P" n="37"/>sis, in qua consecratur chrisma. Alibi enim cantari
+          <lb ed="#P" n="38"/>non debet. In vesperis denique hi dicuntur Psalmi :
+          <lb ed="#P" n="39"/>Lesdate , pueri, Dominum (Psal. cxu); Laudate 
+          Do<lb break="no" ed="#P" n="40"/>niuum, omnes genies (Psal. cxvi); Luuda, anima
+          <lb ed="#P" n="41"/>mes, Dominum (Psal. cxv); Laudate Dominum 
+          quo<lb break="no" ed="#P" n="42"/>niem bonus (Dsal. cxvvr); et Lauda, Jerusalem,
+          <lb ed="#P" n="43"/>Dominum (Psal. cxtvn).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

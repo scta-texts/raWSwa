@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 47</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 47</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="27"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e629"><!-- raWSwa-c47 -->
+        <head xml:id="raWSwa-d1e629-Hd1e101">Caput 47</head>
+        <head xml:id="raWSwa-d1e629-Hd1e103" type="question-title">
+          De Oratione Dominica.
+        </head>
+        <p xml:id="raWSwa-d1e629-d1e106">
+          <lb ed="#P" n="82"/>CAPUT XXLVII.
+          <lb ed="#P" n="83"/>De Oratione Dominica.
+        </p>
+        <p xml:id="raWSwa-d1e629-d1e113">
+          <lb ed="#P" n="84"/>Nunc dicendum est de Oratione Dominica, in qua
+          <lb ed="#P" n="85"/>continentur septem petitiones. Quod autem praemit
+          <lb ed="#P" n="86"/>titur, est quasi benevolentiae captatio. Tres priores
+          <lb ed="#P" n="87"/>ad futuram vitam pertinent ; quatuor posteriores
+          <lb ed="#P" n="88"/>quae sequuntur, ad praesentem. Media autem, ut
+          <lb ed="#P" n="89"/>nonnulli volunt, a communi sumi potest, ita ut ad
+          <lb ed="#P" n="90"/>utramque referatur, quam videlicet dicimus : Panem
+          <lb ed="#P" n="91"/>nostrum quotidianum, quem krtooctos Graci, segola.
+          <lb ed="#P" n="92"/>Hebrai, nos appellamus aut superesscntialem , aut
+          <lb ed="#P" n="93"/>egregium, aut eliam familiarem. Sed animadvertere
+          <lb ed="#P" n="94"/>oportet, cum sacerdos ait : Oremus, Pra-ceptis, etc.
+          <lb ed="#P" n="95"/>nos debere prostratos orare usquce ad finem 
+          Oratio<lb break="no" ed="#P" n="96"/>nis Dominicae, si dies fucrint profesti. Si vero festum
+          <lb ed="#P" n="97"/>sit, aut dies paschalis, certe non prostrati, sed
+          <lb ed="#P" n="98"/>stantes orare debemus, ac respondere : Sed libera
+          <lb ed="#P" n="99"/>nos a malo. Amen. Quod autem Dominicam lanc
+          <lb ed="#P" n="100"/>Orationem non tacite aut sub silentio dicat 
+          sacer<lb break="no" ed="#P" n="101"/>dos, ratio est quoniam ex Evangelio petitum est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

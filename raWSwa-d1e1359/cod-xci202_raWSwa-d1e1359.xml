@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 107</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 107</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="56"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1359"><!-- raWSwa-c107 -->
+        <head xml:id="raWSwa-d1e1359-Hd1e101">Caput 107</head>
+        <head xml:id="raWSwa-d1e1359-Hd1e103" type="question-title">
+          Quare hac omnia fiant.
+        </head>
+        <p xml:id="raWSwa-d1e1359-d1e106">
+          <lb ed="#P" n="9"/>CAPUT CVII.
+          <lb ed="#P" n="10"/>Quare hac omnia fiant.
+        </p>
+        <p xml:id="raWSwa-d1e1359-d1e113">
+          <lb ed="#P" n="11"/>His itaque sic breviter, et quasi historice 
+          enarra<lb break="no" ed="#P" n="12"/>tis, rationes quare haec omnia flant prose.juamur,
+          <lb ed="#P" n="13"/>et quid significent suo ordine videamus. Ignis, qui
+          <lb ed="#P" n="14"/>antequam novus excuteretur erat in Ecclesia, 
+          vete<lb break="no" ed="#P" n="15"/>rem connotat legem. Quod ergo vetus ignis 
+          exstin<lb break="no" ed="#P" n="16"/>guitur, significat omnia legalia Veteris Testamenti
+          <lb ed="#P" n="17"/>Christi passione fuisse completa, et exinde debere
+          <lb ed="#P" n="18"/>illa cessare. Saxum, ex quo ignis excitatur, Christus
+          <lb ed="#P" n="19"/>est, super quem tanquam solidam ac firmam petram
+          <lb ed="#P" n="20"/>ecclesia est aedificata, a qua Spiritus sancti ignis
+          <lb ed="#P" n="21"/>procedit. Elicitur tamen aliquando ignis ex 
+          cry<lb break="no" ed="#P" n="22"/>stallo. Nam si crystallus supponatur orificio phialae
+          <lb ed="#P" n="23"/>aqua plenae ad solem, sine mora ignis e crystallo
+          <lb ed="#P" n="24"/>illico excutietur, si igni fomentum, quod apponi 
+          so<lb break="no" ed="#P" n="25"/>Ict, adjunctum fuerit. Crystallus significat puram et
+          <lb ed="#P" n="26"/>pellucidam Christi carnem, quae sine labe fuit. 
+          Cc<lb break="no" ed="#P" n="27"/>reus et renovatus et illuminatus significat quod
+          <lb ed="#P" n="28"/>Christus resurgens a inortuis, in carne gloriosa 
+          vc<lb break="no" ed="#P" n="29"/>rus Deus apparuerit. Atque ita cereus illuminatus
+          <lb ed="#P" n="30"/>cxprimit Christum, divinitatis splendore 
+          illumina<lb break="no" ed="#P" n="31"/>tum. Quod autem ex igne maximi cerei duo 
+          mino<lb break="no" ed="#P" n="32"/>res ac caetera Ecclesiae lumina incenduntur, 
+          decla<lb break="no" ed="#P" n="33"/>rat non solum prophetas et apostolos, qui per 
+          mi<lb break="no" ed="#P" n="34"/>nores duos cereos, ut paulo ante dictuin est, 
+          intel<lb break="no" ed="#P" n="35"/>licuntur, igne sancti Spiritus illuminatos, sed quod
+          <lb ed="#P" n="36"/>omnes etiam FEcclesiae fideles eodem igne 
+          illustren<lb break="no" ed="#P" n="37"/>tur. Simili ratione declaratur divinitatis 
+          plenitudi<lb break="no" ed="#P" n="38"/>nem in Christo fuisse, quod a quibusdam in 
+          princi<lb break="no" ed="#P" n="39"/>pio benedictionis cereus accendatur, quanquam 
+          pro<lb break="no" ed="#P" n="40"/>fecto mclius et commodius tum primum accendi
+          <lb ed="#P" n="41"/>debere videatur, cum in benedictione agitur de
+          <lb ed="#P" n="42"/>igne. Crux ex thure cereo imprimitur, quod 
+          nimi<lb break="no" ed="#P" n="43"/>rum significat holocaustum, id est totum incensum,
+          <lb ed="#P" n="44"/>et totum combustum, sine igne assumptum. In veteri
+          <lb ed="#P" n="45"/>namque testamento duo solebant facere sacrificia,
+          <lb ed="#P" n="46"/>matutinum quod totum incendebatur, et dicebatur
+          <lb ed="#P" n="47"/>holocaustum. Crux de incenso designat sacrificium
+          <lb ed="#P" n="48"/>legis vespertinum, quod immolationem Christi in
+          <lb ed="#P" n="49"/>ara crucis factam, idque in ipso mundi vespere 
+          prae<lb break="no" ed="#P" n="50"/>figurabat, quodaue in ejus passione completum
+          <lb ed="#P" n="51"/>fuit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

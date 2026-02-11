@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 111</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 111</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="58"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1407"><!-- raWSwa-c111 -->
+        <head xml:id="raWSwa-d1e1407-Hd1e101">Caput 111</head>
+        <head xml:id="raWSwa-d1e1407-Hd1e103" type="question-title">De reliquo officio in vigilia Paschatis</head>
+        <p xml:id="raWSwa-d1e1407-d1e106">
+          <lb ed="#P" n="70"/>CAPUT CXI
+          <lb ed="#P" n="71"/>De reliquo officio in vigilia Paschatis,
+        </p>
+        <p xml:id="raWSwa-d1e1407-d1e113">
+          <lb ed="#P" n="72"/>Nunc ad propositum redcamus. Celebrato 
+          ba<lb break="no" ed="#P" n="73"/>ptismo reditur ad chorum cum litania, eaque 
+          can<lb break="no" ed="#P" n="74"/>tata, ipsum sacrum sive missa sine introitu 
+          in<lb break="no" ed="#P" n="75"/>choatur a Kyrie eleison. Sed introitus propterea
+          <lb ed="#P" n="76"/>subticetur , quod caput nostrum videlicet Christus
+          <lb ed="#P" n="77"/>necdum nobis sit restitutus. À Kyrie eleison ideo
+          <lb ed="#P" n="78"/>incipitur, ut vetus inchoandarum missarum 
+          con<lb break="no" ed="#P" n="79"/>suctudo, qiae fuit ante Caclestinum summum 
+          pon<lb break="no" ed="#P" n="80"/>tificem , repraesentetur. Canitur autem ideo Cloria
+          <lb ed="#P" n="81"/>in excelsis, quia angeli ob renatos baptismate et
+          <lb ed="#P" n="82"/>neophytos in coelis gloriantur, qui Dominc jam
+          <lb ed="#P" n="83"/>nato hunc hymnum dccantarunt, Epistola vero
+          <lb ed="#P" n="84"/>Pauli tonu ac voce communi lcgi debet, quoniam
+          <lb ed="#P" n="85"/>doctrinam significat apostolorum, quae iodo 
+          bapti<lb break="no" ed="#P" n="86"/>zatis est praedicanda et apericnda. Sed lectiones
+          <lb ed="#P" n="87"/>praecedentes nocturno tono pronuntiantur, quod
+          <lb ed="#P" n="88"/>prophetas connotent. Graduale propterea non 
+          ca<lb break="no" ed="#P" n="89"/>nitur, quia baptizati nulla adhuc opera. nullumque
+          <lb ed="#P" n="90"/>gradum in virtutibus fecerunt. Alleluia , quae vox
+          <lb ed="#P" n="91"/>est. plane angelica, vel op id maxime cantatur,
+          <lb ed="#P" n="92"/>quod angeli letentur baptizatos ex servitute diaboli
+          <lb ed="#P" n="93"/>ereptos, et ad fidem conversos esse. Sced quonmiam
+          <lb ed="#P" n="94"/>adhuc eis sit laborandum quandiu quidem in hac
+          <lb ed="#P" n="95"/>vita fuerint, idcirco tractus, scilicet, Laudate 
+          Do<lb break="no" ed="#P" n="96"/>minum, omnes gentes , confestim subjungitur. 
+          Sub<lb break="no" ed="#P" n="97"/>ticetur porro offoztorium, ut per hoc expressce 
+          indi<lb break="no" ed="#P" n="98"/>cemus mulieres tacite ad monumentum venissc.
+          <lb ed="#P" n="99"/>Tres enim Mariae stabant juxta scpulcrum cum
+          <lb ed="#P" n="100"/>silentio et voce compressa (Matth. xxvi). Nec 
+          pa<lb break="no" ed="#P" n="101"/>cem ad hanc missam dare debemus , qued Christus
+          <lb ed="#P" n="102"/>necdum resurrexit', qui nostra pax est, scd Agnus
+          <lb ed="#P" n="103"/>Dei ter dicitur cum Miserere nobis. Quod tamcn
+          <lb ed="#P" n="104"/>nunc de resurrcctione canitur sciendum est hoc
+          <lb ed="#P" n="105"/>ficri in gratiam renatorum, hoc est eorum qui sunt
+          <lb ed="#P" n="106"/>modo baptizati. Tacetur praetcrea et communio,
+          <lb ed="#P" n="107"/>quoniam baptizati nondum communicavcrunt. Nam
+          <lb ed="#P" n="108"/>ipso die Paschatis debent communicarc. Facta 
+          igi<lb break="no" ed="#P" n="109"/>tur communione statim antc collectam sivc 
+          oratio<lb break="no" ed="#P" n="110"/>nen cantantur vesperae cum uno psalmo duorum
+          <lb ed="#P" n="111"/>versuum , scilicet Laudate Dominum, omnes gentes,
+          <lb ed="#P" n="112"/>et cum hymno, vidclicet Magnificat , dicunturque
+          <lb ed="#P" n="113"/>ambo sine Gloria Patri. Breviores ideo sunt 
+          ve<lb break="no" ed="#P" n="114"/>sperae, ne ncophyti qui divinis nondum assueve-
+          <pb ed="#P" n="59"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>runt , aliquo officii taedio afficiantur. Gloria Patri,
+          <lb ed="#P" n="2"/>ob eam causam non dicitur, quod Filius qui tertia
+          <lb ed="#P" n="3"/>in Trinitate persona est, nondum nobis sit 
+          reddi<lb break="no" ed="#P" n="4"/>tss. Sed ideo quoque vesperae ante orationem missae
+          <lb ed="#P" n="5"/>decantanuur , ne finita missa populus videatur 
+          ha<lb break="no" ed="#P" n="6"/>bere redeundi facultatem, quasi amplius nihil 
+          de<lb break="no" ed="#P" n="7"/>beat exspectare. Vel sane idcirco una oratione 
+          to<lb break="no" ed="#P" n="8"/>tum absolvitur officium, quoniam baptismi 
+          sacra<lb break="no" ed="#P" n="9"/>mentum universum in Christi passione 
+          consumma<lb break="no" ed="#P" n="10"/>tur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

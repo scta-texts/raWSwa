@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 84</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 84</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="44"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1079"><!-- raWSwa-c84 -->
+        <head xml:id="raWSwa-d1e1079-Hd1e101">Caput 84</head>
+        <head xml:id="raWSwa-d1e1079-Hd1e103" type="question-title">
+          De festis generaliter qua tempore fiunt 
+          Septuagesima.
+        </head>
+        <p xml:id="raWSwa-d1e1079-d1e106">
+          <lb ed="#P" n="62"/>CAPUT LXXXIV.
+          <lb ed="#P" n="63"/>De festis generaliter qua tempore fiunt 
+          Septua<lb break="no" ed="#P" n="64"/>gesima.
+        </p>
+        <p xml:id="raWSwa-d1e1079-d1e115">
+          <lb ed="#P" n="65"/>Ut autem de omnibus magnis solemnitatibus,
+          <lb ed="#P" n="66"/>qu:ie infro Septuagesimam celebrantur, sive ipso
+          <lb ed="#P" n="67"/>passionis tempore, siveante, nos simul expediamus,
+          <lb ed="#P" n="68"/>ut sunt tria illa festa praedicta beatae Agathae, S.
+          <lb ed="#P" n="69"/>Mauhia, Annuntiationis Domini, S. Gregorii , et si
+          <lb ed="#P" n="70"/>forte contingat festum ipsius patroni Ecclesiae vel
+          <lb ed="#P" n="71"/>ejus annjversarium vel Pascha alicujus annotinum,
+          <lb ed="#P" n="72"/>dicimus generaliter quod cantica laudis, scilicet Te
+          <lb ed="#P" n="73"/>Deum laudamus, CGloria in excelsis, et lIte, missa
+          <lb ed="#P" n="74"/>est, et alia, quae si aliis temporibus contingerent,
+          <lb ed="#P" n="75"/>cantarentur, in iis cani debent, preeter Alleluia.
+          <lb ed="#P" n="76"/>Nam hujusmodi festa ad paschale tempus generatim
+          <lb ed="#P" n="77"/>videntur pertinere. Si vero hic objiciatur quod in
+          <lb ed="#P" n="78"/>Annuntiatione Domini, Gloria in excelsis, quod 
+          can<lb break="no" ed="#P" n="79"/>ticum est proprium Natalis Domini, et Ite, missa
+          <lb ed="#P" n="80"/>est, quod proprium est resurrectionis , et Te Deum
+          <lb ed="#P" n="81"/>luudamus, quod gaudium drachmae inventae 
+          desi<lb break="no" ed="#P" n="82"/>gnat, cantari non debeant, quoniam haec in 
+          Annun<lb break="no" ed="#P" n="83"/>tiatione Domini illa tempora non habebant, 
+          dici<lb break="no" ed="#P" n="84"/>mus breviter quod, etiam si Natalis Domini, vel
+          <lb ed="#P" n="85"/>passie, vel drachmae inventio, necdum revera erant,
+          <lb ed="#P" n="86"/>tamen jam certo fore sperabantur. Nam hoc festum
+          <lb ed="#P" n="87"/>est quasi fons et initium festorum Christi. Vocatur
+          <lb ed="#P" n="88"/>autem Pascha annotinum, quando aliquis diem,
+          <lb ed="#P" n="89"/>quo baptisma suscepit, annuatim celebrat , atque
+          <lb ed="#P" n="90"/>eorum ipsius diei Paschae officium integre cantari
+          <lb ed="#P" n="91"/>dehet, praeter Alleluia, si accidat tempore 
+          Quadra<lb break="no" ed="#P" n="92"/>gesimae. Sed certus interim sis Ecclesiam 
+          Lugdu<lb break="no" ed="#P" n="93"/>nensem et Mediolanensem ubi Anbrosius 
+          archiprae<lb break="no" ed="#P" n="94"/>sulatum obtinuit, tempore passionis nullam 
+          cele<lb break="no" ed="#P" n="95"/>brare solemnitatem, verum duntaxat facere 
+          com<lb break="no" ed="#P" n="96"/>memorationem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

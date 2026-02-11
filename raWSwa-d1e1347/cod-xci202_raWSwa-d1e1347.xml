@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 106</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 106</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="55"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1347"><!-- raWSwa-c106 -->
+        <head xml:id="raWSwa-d1e1347-Hd1e101">Caput 106</head>
+        <head xml:id="raWSwa-d1e1347-Hd1e103" type="question-title">
+          De officio Sabbati.
+        </head>
+        <p xml:id="raWSwa-d1e1347-d1e106">
+          <lb ed="#P" n="81"/>CAPUT CVI.
+          <lb ed="#P" n="82"/>De officio Sabbati.
+        </p>
+        <p xml:id="raWSwa-d1e1347-d1e113">
+          <lb ed="#P" n="83"/>Nunc de ejusdem diei officio videndum est; et in
+          <lb ed="#P" n="84"/>principio quidem officii omnis ignis in ecclesia 
+          ex<lb break="no" ed="#P" n="85"/>stingui debet, posteaque e saxo calibe aut ferro
+          <lb ed="#P" n="86"/>alterum excuti : quod ficeri debet ex sarmento, 
+          que<lb break="no" ed="#P" n="87"/>niam Christus de se dixit: Ego sum titis vera (Joaon.
+          <lb ed="#P" n="88"/>xv); deinde debet benedici cum cruce et aqua
+          <lb ed="#P" n="89"/>lustrali. Quo quidem facto cereus paschalis, ut 
+          ve<lb break="no" ed="#P" n="90"/>cant, benedicetur, atque incenditur cum duobus
+          <lb ed="#P" n="91"/>parvis aliis cereis, qui ab illo accenduntur. Unus
+          <lb ed="#P" n="92"/>enim ab una parte consistit, alter ab alia; inter
+          <lb ed="#P" n="93"/>quos maxitnus statuitur cereus. Duo igitur minores
+          <lb ed="#P" n="94"/>cerei declarant sanctos veteris et novi testamenti.
+          <lb ed="#P" n="95"/>qui, tam videlicet hi quam illi, omnes per Christum
+          <lb ed="#P" n="96"/>sunt illuminati. Vel duo cerei significant doctrinam
+          <lb ed="#P" n="97"/>apostolorum et prophetarum, qui eum Christo in
+          <lb ed="#P" n="98"/>doctrina concordant et conveniunt. Tandem vero 
+          vi<lb break="no" ed="#P" n="99"/>ginti quatuor in quibusdam Ecclesiis leguntur 
+          lectio<lb break="no" ed="#P" n="100"/>nes. Ac Roma quidem hoc pacto fieri solet, ut 
+          duo<lb break="no" ed="#P" n="101"/>decim recitentur Graece, et tutidem Latinc. In 
+          non<lb break="no" ed="#P" n="102"/>nullis autem Ecclesiis legunt tantum duodecim, et
+          <lb ed="#P" n="103"/>in nonnullis duntaxat septem. Atqui viginti quatuor
+          <lb ed="#P" n="104"/>legunt, duodecim ob id Graece recitant propter 
+          23<lb break="no" ed="#P" n="105"/>ctoritatem septuaginta Interpretum, quorum 
+          aucto<lb break="no" ed="#P" n="106"/>ritas quondam in Graecia maxime floruit, atque etiam
+          <lb ed="#P" n="107"/>in illa parte Ttaliae, quae magna olim dicebatur 
+          Grae<lb break="no" ed="#P" n="108"/>cia. Verum duodecim ideo dicuntur Latine, propter
+          <lb ed="#P" n="109"/>auctoritatem translationis Hieronymi. In minimis
+          <lb ed="#P" n="110"/>tamen Ecclesiis non habent, nisi sex ob senarium
+          <lb ed="#P" n="111"/>numerum qui quodammodo perfectus est. Qui vero
+          <lb ed="#P" n="112"/>duodecim servant, illud faciunt propter numerum
+          <lb ed="#P" n="113"/>apostolorum. Lectis ergo lectionibus itur ad fontem
+          <lb ed="#P" n="114"/>cum litania, atque aqua benedicitur et consecratur.
+          <lb ed="#P" n="115"/>Sed peracto eorum baptismo qui fuerant baptizandi,
+          <lb ed="#P" n="116"/>reditur pari ratione cum litania. Qua quidem finita
+          <lb ed="#P" n="117"/>ipsam missam auspicamur a Kyrie eleison. Nam in
+          <lb ed="#P" n="118"/>ea missa introitus, graduale, offertorium et commu-
+          <pb ed="#P" n="56"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nio praeter solitum subticentur. Eodem modo et
+          <lb ed="#P" n="2"/>Agnus Dei a quibusdam -quidem dicitur, a 
+          qui<lb break="no" ed="#P" n="3"/>pusdam vero non. Suscepta hostia, statim vesperae
+          <lb ed="#P" n="4"/>cantantur, idque cum duobus tantum psalmis, 
+          nimi<lb break="no" ed="#P" n="5"/>rum: Laudate Dominum, omnes gentes, etc. (Psal.
+          <lb ed="#P" n="6"/>cxvi), cum Magnificat (Luc. 1). Atque ad eum 
+          mo<lb break="no" ed="#P" n="7"/>dum una adjecta oratione totum ejus diei officium
+          <lb ed="#P" n="8"/>absolvitur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

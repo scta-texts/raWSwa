@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 144</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 144</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="74"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1809"><!-- raWSwa-c144 -->
+        <head xml:id="raWSwa-d1e1809-Hd1e101">Caput 144</head>
+        <head xml:id="raWSwa-d1e1809-Hd1e103" type="question-title">
+          De festo beati Sixti et Transfiguratione Domini.
+        </head>
+        <p xml:id="raWSwa-d1e1809-d1e106">
+          <lb ed="#P" n="28"/>CAPUT CXLIV.
+          <lb ed="#P" n="29"/>De festo beati Sixti et Transfiguratione Domini.
+        </p>
+        <p xml:id="raWSwa-d1e1809-d1e113">
+          <lb ed="#P" n="30"/>Post haec ordine dicendum esset de festo D. Sixti;
+          <lb ed="#P" n="31"/>sed quia ejus passio manifesta satis et nota 
+          omni<lb break="no" ed="#P" n="32"/>bus est, ad alia transeamus. lIloc ipso die festum
+          <lb ed="#P" n="33"/>fit de Transtiguratione Domini. Non quod tali die
+          <lb ed="#P" n="34"/>transfiguratio facta sit, sed quod tunc temporis ab
+          <lb ed="#P" n="35"/>iis qui secum fuerant in monte, primo manifestata
+          <lb ed="#P" n="36"/>et publicata fuerit. Praeceperat enim Dominus, ne
+          <lb ed="#P" n="37"/>cuiquam dicerent, donec a mortuis resurrexisset
+          <lb ed="#P" n="38"/>(Matth. xvn). lHlii autem usque in hanc diem 
+          tacue<lb break="no" ed="#P" n="39"/>runt. Enimvero sane transfigurationem hanc certo
+          <lb ed="#P" n="40"/>constat factam fuisse sub finem hiemis et circa
+          <lb ed="#P" n="41"/>principium veris, cum videlicet de illa legitur 
+          Evan<lb break="no" ed="#P" n="42"/>gelium. Et notemus quidem Christi sanguinem 
+          ea<lb break="no" ed="#P" n="43"/>dem hac die confici ex novo vino, si inveniri 
+          pos<lb break="no" ed="#P" n="44"/>sit, aut aliquantulum ex matura uva in calicem 
+          ex<lb break="no" ed="#P" n="45"/>pressa, et quod racemi benedicantur, indeque 
+          ho<lb break="no" ed="#P" n="46"/>mines communicent. Quare autem hoc fiat, haec est
+          <lb ed="#P" n="47"/>ratio : Quia ipso die cana dixit Dominus Jesus
+          <lb ed="#P" n="48"/>apostolis et aliis qui cum illo coenabant : Amen dico
+          <lb ed="#P" n="49"/>vobis, posthac non bibam de hoc genimine vitis, 
+          do<lb break="no" ed="#P" n="50"/>nec bibam illud novum in regno Patris mci. (Matth.
+          <lb ed="#P" n="51"/>xxvi). Quoniam ergo tum dixerit novum, et 
+          Transfi<lb break="no" ed="#P" n="52"/>guratio Domini pertineat ad illum habitum quem
+          <lb ed="#P" n="53"/>nactus est post resurrectionem, ideo quaeritur hoc
+          <lb ed="#P" n="54"/>fes:o vinum novum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

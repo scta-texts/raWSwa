@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 96</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 96</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="49"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1225"><!-- raWSwa-c96 -->
+        <head xml:id="raWSwa-d1e1225-Hd1e101">Caput 96</head>
+        <head xml:id="raWSwa-d1e1225-Hd1e103" type="question-title">
+          De sexta feria privilegiata.
+        </head>
+        <p xml:id="raWSwa-d1e1225-d1e106">
+          <lb ed="#P" n="24"/>CAPUT XCVI.
+          <lb ed="#P" n="25"/>De sexta feria privilegiata.
+        </p>
+        <p xml:id="raWSwa-d1e1225-d1e113">
+          <lb ed="#P" n="26"/>Sexta deinceps feria, quae et Parasceve appellata
+          <lb ed="#P" n="27"/>est, in eo gaudet privilegio, quod hoc die Christus
+          <lb ed="#P" n="28"/>passus sit. Quare etiam ab hac sexta feria omnes
+          <lb ed="#P" n="29"/>alis sextae feriae suum habent privilegium, sicut a
+          <lb ed="#P" n="30"/>sequenti Dominica omnes aliae Dominicae. Parasceve
+          <lb ed="#P" n="31"/>astem interpretatur preparatio, quod tum Judaai
+          <lb ed="#P" n="32"/>cibos suos soliti sint praeparare, quibus vescebantuz
+          <lb ed="#P" n="33"/>Sabbato, cum eis Sabbato quidquam praeparare 
+          in<lb break="no" ed="#P" n="34"/>terdictum sit. Porro autem ipso die Parasceves
+          <lb ed="#P" n="35"/>uno duntaxat ferculo vescimur, quoniam Christus
+          <lb ed="#P" n="36"/>illo die unum sibi solummodo comparavit, videlicet
+          <lb ed="#P" n="37"/>ltronem. Unde ipse- dixit : Singulariter sum ego
+          <lb ed="#P" n="38"/>donec transeam (Psal. cxxx). At quaeritur cur istum
+          <lb ed="#P" n="39"/>diem celebremus in moerore, tristitia atque 
+          absti<lb break="no" ed="#P" n="40"/>nentis, cum soleamus sanctorum passiones in 
+          gau<lb break="no" ed="#P" n="41"/>dio celebrare. Yerum hoc ideo fieri respondemus,
+          <lb ed="#P" n="42"/>quod sancti statim, simul atque perpessi sint 
+          mar<lb break="no" ed="#P" n="43"/>tyrium, ad coelos ascenderint : Christus vero 
+          descen<lb break="no" ed="#P" n="44"/>derit ad inferos. Sed cum jam tartara fregit, et
+          <lb ed="#P" n="45"/>sanctorum animas inde reduxit dieque tertio 
+          resur<lb break="no" ed="#P" n="46"/>resxit, ideo tum maxime latamur. Hinc etiam est
+          <lb ed="#P" n="47"/>qucd sanctorum Patrum passiones, qui ad inferos
+          <lb ed="#P" n="48"/>descenderunt, non celebramus. Solet hic etiam a
+          <lb ed="#P" n="49"/>nonnullis quaeri, cum asinae insidens Christus 
+          ho<lb break="no" ed="#P" n="50"/>porifice suscepturus sit, et in cruce videatur 
+          deho<lb break="no" ed="#P" n="51"/>nestatus, car potius adoremus crucem quam asinam.
+          <lb ed="#P" n="52"/>Yerum facile illud discuti potest, cum honor iste
+          <lb ed="#P" n="53"/>quem in asina accepit, terrenus fuerit , nec 
+          curan<lb break="no" ed="#P" n="54"/>dum sit de terrenis, ita ut nec hmc quidquam de
+          <lb ed="#P" n="55"/>ssina curandum sit. Per crucem vero ruptus fuit ac
+          <lb ed="#P" n="56"/>destructus murus ille peccatorum, qui erat inter
+          <lb ed="#P" n="57"/>nas et Dominum interjectus; Christus enim 
+          satisfe<lb break="no" ed="#P" n="58"/>ci pro nobis. Unde certe nullus recenter 
+          haptiza<lb break="no" ed="#P" n="59"/>tas, etiam adultus, $i vel maxima commiscrit pec-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>cata, ullo eorum tenebitur, neque secundum pacnam,
+          <lb ed="#P" n="61"/>neque secundum culpam; tenetur tamen habere
+          <lb ed="#P" n="62"/>contritionem. Quemadmodum ergo gladius Davidis,
+          <lb ed="#P" n="63"/>quo Goliam obtruncavit, multo temporc servatus
+          <lb ed="#P" n="64"/>fuerit et in honore habitus, ita etiam crux Domini,
+          <lb ed="#P" n="65"/>quae per illum gladium quodammodo figuratur.
+        </p>
+        <p xml:id="raWSwa-d1e1225-d1e204">
+          <lb ed="#P" n="66"/>Tandem quoque consideremus hujus diei officium
+          <lb ed="#P" n="67"/>carere capite, quod Christus caput nostrum tume
+          <lb ed="#P" n="68"/>nobis sublatus fuerit. Caret enim invitatorio, ut non
+          <lb ed="#P" n="69"/>imitemur perversam illam imitationem quam 
+          fece<lb break="no" ed="#P" n="70"/>runt Judai, quando consilium inierunt , quomodo
+          <lb ed="#P" n="71"/>Jesum caperent in sermone, eumque morti 
+          trade<lb break="no" ed="#P" n="72"/>rent. Inde etiam est quod non damus osculum pacis
+          <lb ed="#P" n="73"/>alicui , propter osculum Juda, nec aliquem 
+          saluta<lb break="no" ed="#P" n="74"/>mus, quia cum quadam salutatione Judas Christum
+          <lb ed="#P" n="75"/>tradidit, inquiens : Ave, Rabbi (Marc. xw). Verum
+          <lb ed="#P" n="76"/>ideo signa dedit illis Judas, qui Christum ceperunt,
+          <lb ed="#P" n="77"/>ne Jacobum pro eo caperent, qui illi admodum erat
+          <lb ed="#P" n="78"/>similis, ut hinc etiam frater Domini dictus sit. Nota
+          <lb ed="#P" n="79"/>ergo Judàm dixisse : Tenete eum (ibid.), quasi 
+          dixe<lb break="no" ed="#P" n="80"/>rit : Fortiter eum ligate, et tenete, quia alioquin 
+          po<lb break="no" ed="#P" n="81"/>terit manus vestras facile evadere. Credebat enim
+          <lb ed="#P" n="82"/>eum esse fortem propter illud quod ipse viderat,
+          <lb ed="#P" n="83"/>cum vendentes et ementes e templo ejecisset. 
+          Prae<lb break="no" ed="#P" n="84"/>terea viderat, quemadmodum illorum manus 
+          eva<lb break="no" ed="#P" n="85"/>sisset qui ipsum volebant apprehendere, unde 
+          dici<lb break="no" ed="#P" n="86"/>tur : Et transiens per medium illorum ibat (Luc. w).
+          <lb ed="#P" n="87"/>Causa autem quamobrem Judas vendidit Christum
+          <lb ed="#P" n="88"/>et tradidit, fuit hujusmodi : Odium recens 
+          susccpc<lb break="no" ed="#P" n="89"/>rat in Jesum propter unguentum quod Magdalena in
+          <lb ed="#P" n="90"/>caput ejus fuderat. lpse enim erat Domino a 
+          locu<lb break="no" ed="#P" n="91"/>lis, quos portabat. Cum autem mortis esset apud
+          <lb ed="#P" n="92"/>veteres, ut qui bujusmodi fungeretur officio, pro
+          <lb ed="#P" n="93"/>mercede sua decimam partem haberet corum, quae
+          <lb ed="#P" n="94"/>in dominorum loculos ponebantur, aestimavit Judas
+          <lb ed="#P" n="95"/>unguentum quod beata Maria Magdalena fuderat,
+          <lb ed="#P" n="96"/>trecentos valere denarios. Unde est quod ipse 
+          dixe<lb break="no" ed="#P" n="97"/>rit: Utquid perditio haec? potuit enim istud, etc.
+          <lb ed="#P" n="98"/>(Matth. xxvi). Coepit ergo secum cogitare, quo pacta
+          <lb ed="#P" n="99"/>in Christo recuperaret quod amiserat in unguento,
+          <lb ed="#P" n="100"/>ita ut, cum trecentorum denariorum decima sint
+          <lb ed="#P" n="101"/>triginta denarii, ea summa ipsum vendiderit ac 
+          tra<lb break="no" ed="#P" n="102"/>diderit. Non debet quoque officium mortuorum 
+          ha<lb break="no" ed="#P" n="103"/>bere invitatorium, nisi corpore praesente, nec in
+          <lb ed="#P" n="104"/>missa dici, Dona nobis pacem, neque per universum
+          <lb ed="#P" n="105"/>officium , Gloria Patri, quia sequitur et imitatur
+          <lb ed="#P" n="106"/>exsequias sui Salvatoris.
+        </p>
+        <p xml:id="raWSwa-d1e1225-d1e296">
+          <lb ed="#P" n="107"/>Sex itaque hujus diei sunt privilegia : Christi 
+          im<lb break="no" ed="#P" n="108"/>molatio, inferni exspoliatio, mortis conculcatio, 
+          hu<lb break="no" ed="#P" n="109"/>mani generis redemptio, paradisi apertio, et 
+          Scri<lb break="no" ed="#P" n="110"/>pturarum nanifestatio. Ubi animadvertendum est
+          <lb ed="#P" n="111"/>quod Christus sua passione non tantum illos 
+          rede<lb break="no" ed="#P" n="112"/>mit, qui tum erant in lymbo inferni, qui locus 
+          di<lb break="no" ed="#P" n="113"/>cebatur sinus Abralie, verum etiam omnes 
+          homi<lb break="no" ed="#P" n="114"/>nes futuros, qui sancta morte titam erant finituri.
+          <lb ed="#P" n="115"/>Nec sane omnes bomines, qui in inferno erant 
+          ex<lb break="no" ed="#P" n="116"/>traxit. Unde Osee propheta : O mors, ero mors tuos
+          <lb ed="#P" n="117"/>morsus tuus ero, inferne (Ose. xm). Scripturarum
+          <lb ed="#P" n="118"/>hodie facta est manifestatio , quia scripturae Vete-
+          <pb ed="#P" n="50"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ris Testamenti, quae prius erant obscurae, hodie
+          <lb ed="#P" n="2"/>sunt declaratae. Unde Dominus : Consummatum est
+          <lb ed="#P" n="3"/>Joan. xix), inquit, quasi dicat : Omnia quae de me
+          <lb ed="#P" n="4"/>hucusque scripta sunt, modo sunt impleta, quod
+          <lb ed="#P" n="5"/>scandalum est Judais, stultitia gentibus. Crux 
+          igi<lb break="no" ed="#P" n="6"/>tur Domini multis modis in Veteri Testamento fuit
+          <lb ed="#P" n="7"/>praefigurata. Dictum est enim angelo percutienti 
+          4<lb break="no" ed="#P" n="8"/>gyptum : Quamcunque domum iniraveris , in ea 
+          oc<lb break="no" ed="#P" n="9"/>cide omnes primogenitos, tam parvulos quam senes;
+          <lb ed="#P" n="10"/>tam viros, quam mulieres. Sed sic ubi scriptum 
+          fue<lb break="no" ed="#P" n="11"/>rit Thau, non intrabis (Ezech. ix). Thau vero 
+          si<lb break="no" ed="#P" n="12"/>gnum est crucis, ita ut oinnes damnenurr, nisi per
+          <lb ed="#P" n="13"/>signum crucis salvantur. Sic Moses in deserto 
+          ser<lb break="no" ed="#P" n="14"/>pentem aeneum erexit, et omnes qui eum 
+          intueban<lb break="no" ed="#P" n="15"/>tur statim a morsu serpentum sanabantur (Num.
+          <lb ed="#P" n="16"/>xxii). Serpens aeneus similitudinem habet serpentis
+          <lb ed="#P" n="17"/>nec est verus serpens. Similiter Christus habuit 
+          si<lb break="no" ed="#P" n="18"/>nilitudiwein carnis peccatricis, sed non verae 
+          pecca<lb break="no" ed="#P" n="19"/>tricis, utpotc qui nunquam peccaverit. Dictum est
+          <lb ed="#P" n="20"/>item Danieli ab angelo: Dua erunt septimana, et
+          <lb ed="#P" n="21"/>post septuaginta septem occidetur Christus dux noster
+          <lb ed="#P" n="22"/>(Daniel ix). lta aperte Moses : Die, inquit, ac nocte
+          <lb ed="#P" n="23"/>erit vita nostra pendens, et videbitis et non 
+          cognesce<lb break="no" ed="#P" n="24"/>tis (Deut. xxvi). Verum profecto est quod nocte
+          <lb ed="#P" n="25"/>pependerit, quia tenebrae factae sunt a sexta hora,
+          <lb ed="#P" n="26"/>cic. (Matth. xxvi). Quod autem die, certum est.
+          <lb ed="#P" n="27"/>Item Jeremias ait: Ponens filiam pharetra in 
+          reni<lb break="no" ed="#P" n="28"/>bus meis (Thren. n). Filiam, inquam, pharetrae, id
+          <lb ed="#P" n="29"/>est, lanceam. ltemque : Congregabo omnes gentes, et
+          <lb ed="#P" n="30"/>erit signum eis, Thau T.(lsa. Lxvi), quod crux est
+          <lb ed="#P" n="31"/>Domini. Sic rursus: Ezechias convertit [faciem suam
+          <lb ed="#P" n="32"/>ad parieiem (IV Reg. xx). Et David: Scribantur hec
+          <lb ed="#P" n="33"/>in generatione altera, et populus qui creabitur 
+          lau<lb break="no" ed="#P" n="34"/>dabit Dominum (Psal. c1); hoc est, novus populus,
+          <lb ed="#P" n="35"/>nimirum gentilis. Atque in alio loco alius: 
+          Plan<lb break="no" ed="#P" n="36"/>tai, ait, vineam meam electam, et versa est in 
+          ama<lb break="no" ed="#P" n="37"/>ritudinem (Jer. 1). Et quare, quaeso? Quia dederunt
+          <lb ed="#P" n="38"/>in escam meam fel, et in siti mea potaverunt me
+          <lb ed="#P" n="39"/>aceto (Psal. Lxviu). Quemadmodum etiam alibi 
+          in<lb break="no" ed="#P" n="40"/>quit Davidi : Partiti sunt sibi vestimenta mea et 
+          su<lb break="no" ed="#P" n="41"/>per vestem meam miserunt sortem (Psal. xxi). 
+          Quam<lb break="no" ed="#P" n="42"/>quam hoc de tunica Domini inconsutili dictum 
+          vi<lb break="no" ed="#P" n="43"/>deri potest. Sed eodem in loco idem expressius:
+          <lb ed="#P" n="44"/>Dinumeraverunt omnia ossa mea (ibid.), quoniam
+          <lb ed="#P" n="45"/>usque adeo eum in cruce extenderunt, ut omnia
+          <lb ed="#P" n="46"/>cjus ussa facile dinumerari potuissent. Sic postremo
+          <lb ed="#P" n="47"/>et Isaias ait : Et erit principatus ejus super 
+          hume<lb break="no" ed="#P" n="48"/>rum ejus (Isa. ix). Nam Christus portavit crucem,
+          <lb ed="#P" n="49"/>in qua triumpbavit, ita ut vulgo dici consuetum sit
+          <lb ed="#P" n="50"/>Cyrenaum quidem crucem portasse, sed non sicut
+          <lb ed="#P" n="51"/>homo et Deus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

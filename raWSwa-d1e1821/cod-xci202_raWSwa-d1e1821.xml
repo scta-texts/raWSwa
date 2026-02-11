@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 145</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 145</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="74"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1821"><!-- raWSwa-c145 -->
+        <head xml:id="raWSwa-d1e1821-Hd1e101">Caput 145</head>
+        <head xml:id="raWSwa-d1e1821-Hd1e103" type="question-title">De sancto Laurentio</head>
+        <p xml:id="raWSwa-d1e1821-d1e106">
+          <lb ed="#P" n="55"/>CAPUT CXLV.
+          <lb ed="#P" n="56"/>De sancto Laurentio.
+        </p>
+        <p xml:id="raWSwa-d1e1821-d1e113">
+          <lb ed="#P" n="57"/>Nunc de festo B. Laurentii breviter est dicendum.
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>Beatus Sixtus, cujus paulo ante mentionem fecie
+          <lb ed="#P" n="59"/>mus, in Hispaniam profectus, inde sccum duos 
+          ju<lb break="no" ed="#P" n="60"/>venes, videlicet Laurentium et Vincentium ejus
+          <lb ed="#P" n="61"/>cognatum adduxit Romam. liorum alter Laurentius
+          <lb ed="#P" n="62"/>nimirum cum eo mansit Roinae, ac gravissima 
+          per<lb break="no" ed="#P" n="63"/>pessus est tormenta, quemadmodum satis copiose
+          <lb ed="#P" n="64"/>tradit ipsius historia. Cognatus vero ejus 
+          Vincen<lb break="no" ed="#P" n="65"/>tius reversus est in Hispaniam, vitamque ibi 
+          glo<lb break="no" ed="#P" n="66"/>rioso fini.t martvrio. Hoc autem festum tria habet
+          <lb ed="#P" n="67"/>praecipue, cujusmodi habere solent magnae 
+          solemni<lb break="no" ed="#P" n="68"/>tates, nempe jejunium, ipsius dici solemnitatem
+          <lb ed="#P" n="69"/>et octavas. In tribus enim potissimum sanctus hic
+          <lb ed="#P" n="70"/>babet privilegium. In jejunio quidem primum quod
+          <lb ed="#P" n="71"/>solus inter martvyres habeat jejunium, utpote 
+          insti<lb break="no" ed="#P" n="72"/>tutionis. Alterum vero in octavis, quoniam hic 
+          dun<lb break="no" ed="#P" n="73"/>taxat et B. Stephanus octavas habent inter 
+          marty<lb break="no" ed="#P" n="74"/>res ; beatus vero Martinus inter confessores, ut 
+          di<lb break="no" ed="#P" n="75"/>cetur postea ubi dc ipsius festo agemus. Pos:remum
+          <lb ed="#P" n="76"/>ejus privilcgium quod habet, consistit in 
+          regressi<lb break="no" ed="#P" n="77"/>bus antiphonarum, veluti habet B. Paulus. Sed ille
+          <lb ed="#P" n="78"/>habet propter supremam poenam martyrii, hic ob
+          <lb ed="#P" n="79"/>excellentiam praedicationis. Tria autem sunt in 
+          sa<lb break="no" ed="#P" n="80"/>crosancta Ecclesia privilegia, baptismus videlicet,
+          <lb ed="#P" n="81"/>praedicatio et martyrium, verum Laurentius 
+          privi<lb break="no" ed="#P" n="82"/>legium obtinet martyrii. Nam quamlibet multi alii
+          <lb ed="#P" n="83"/>aeque gravia sustinuerunt tormenta, ut D. 
+          Vincen<lb break="no" ed="#P" n="84"/>tius et Georgius et forsitan etiam majora ac plura,
+          <lb ed="#P" n="85"/>non tamen ista universa observat Ecclesia, quae ce
+          <lb ed="#P" n="86"/>illorum tormentis feruntur. Vel ctiam propter loci
+          <lb ed="#P" n="87"/>eignitatem eo gaudet prac caeteris privilegio, quod
+          <lb ed="#P" n="88"/>Romae passus sit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

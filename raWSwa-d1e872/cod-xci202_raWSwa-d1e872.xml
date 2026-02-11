@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 67</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 67</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="38"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e872"><!-- raWSwa-c67 -->
+        <head xml:id="raWSwa-d1e872-Hd1e101">Caput 67</head>
+        <head xml:id="raWSwa-d1e872-Hd1e103" type="question-title">De anniversariis mortuorum, et vigiliis sanctorum</head>
+        <p xml:id="raWSwa-d1e872-d1e106">
+          <pb ed="#P" n="38"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>CAPUT LXVII
+          <lb ed="#P" n="2"/>De anniversariis mortuorum, et vigiliis sanctorum.
+        </p>
+        <p xml:id="raWSwa-d1e872-d1e117">
+          <lb ed="#P" n="3"/>De anniversariis vero mortuorum dicemus, quod
+          <lb ed="#P" n="4"/>si contigerit Dominica die, vel alia quamvis celebri
+          <lb ed="#P" n="5"/>solemnitate, non debeant mutari, et in sequentem
+          <lb ed="#P" n="6"/>diem differri, quemadmodum de fcstis sanctorum
+          <lb ed="#P" n="7"/>diximus, sed potius fiant die praecedenti, ut citius
+          <lb ed="#P" n="8"/>succurratur eorum poenis, quas igne purgatorio
+          <lb ed="#P" n="9"/>sufferunt. Ut enim sancti non indigent nostro 
+          auxi<lb break="no" ed="#P" n="10"/>lio et beneficio, ita caeteris defunctis omnino est
+          <lb ed="#P" n="11"/>necessarium. Omni tempore potest celebrari missa
+          <lb ed="#P" n="12"/>pro defunctis praesente cadavere, nisi Parasceve.
+          <lb ed="#P" n="13"/>Tunc enim non debet corpus Christi immolari, nec
+          <lb ed="#P" n="14"/>missa cantari, scd die crastino, id est Sabbato 
+          po<lb break="no" ed="#P" n="15"/>terit mgjissa pro eo cani, et corpus sepeliri. Pari
+          <lb ed="#P" n="16"/>anodo etiam faciendum est ipso die Paschae. Si enim
+          <lb ed="#P" n="17"/>quis tunc moriatur, postero die missa est celebranda,
+          <lb ed="#P" n="18"/>servato corpore tantisper super terram.- Nam ficri
+          <lb ed="#P" n="19"/>non debet ut sepeliatur absque missa. Porro autem
+          <lb ed="#P" n="20"/>de vigiliis sanctorum generaliter dicimus, quod si
+          <lb ed="#P" n="21"/>propriam habeant collectam in missa, eamn debere
+          <lb ed="#P" n="22"/>dici ad vesperas. Et si Downinica sit in vigilia, 
+          di<lb break="no" ed="#P" n="23"/>cemus vesperas de Dominica, et post alias de 
+          san<lb break="no" ed="#P" n="24"/>cto, vel cum Magnificat legimus duntaxat collectam,
+          <lb ed="#P" n="25"/>ut Moguntina facit Ecclesia, et monachi; vel cum
+          <lb ed="#P" n="26"/>$la antiphona dicemus orationem sive collectam de
+          <lb ed="#P" n="27"/>festo, si propriam et peculiarem non habeat 
+          vigi<lb break="no" ed="#P" n="28"/>liam, cui ad postremum subjungemus : 
+          Benedica<lb break="no" ed="#P" n="29"/>mus Domino.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

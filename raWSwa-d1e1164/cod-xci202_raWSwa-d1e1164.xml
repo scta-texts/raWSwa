@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 91</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 91</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="47"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1164"><!-- raWSwa-c91 -->
+        <head xml:id="raWSwa-d1e1164-Hd1e101">Caput 91</head>
+        <head xml:id="raWSwa-d1e1164-Hd1e103" type="question-title">
+          De quarta feria.
+        </head>
+        <p xml:id="raWSwa-d1e1164-d1e106">
+          <lb ed="#P" n="9"/>CAPUT XCI.
+          <lb ed="#P" n="10"/>De quarta feria.
+        </p>
+        <p xml:id="raWSwa-d1e1164-d1e113">
+          <lb ed="#P" n="11"/>Illa autem quarta feria, quae est post Dominicam,
+          <lb ed="#P" n="12"/>lastare, Jerusalem, in eo est privilegiata, quod tunc
+          <lb ed="#P" n="13"/>divae legantur lectiones, quoniam Sabbato sequenti
+          <lb ed="#P" n="14"/>celebi antur ordines. Sic quarta feria ultimae 
+          septi<lb break="no" ed="#P" n="15"/>manz, nimirum ea quae est ante Coenam, 
+          privile<lb break="no" ed="#P" n="16"/>gium obtinet, quia duae item lectiones tunc leguntur,
+          <lb ed="#P" n="17"/>idque ob eam causam quod illo die Christus triginta
+          <lb ed="#P" n="18"/>denariis fuerat divenditus, quemadmodum Joseph
+          <lb ed="#P" n="19"/>triginta argenteis. Non enim servus major Domino
+          <lb ed="#P" n="20"/>est, nec discipulus suo magistro (Matth. x). Ab
+          <lb ed="#P" n="21"/>hac ergo quarta feria sumptum est quod omni
+          <lb ed="#P" n="22"/>quarta feria jejunare et abstinere a carnalibus
+          <lb ed="#P" n="23"/>semper debeamus. Ex quo quidem fit ut post 
+          sex<lb break="no" ed="#P" n="24"/>tam feriam hic dies poenitentibus in abstinentiam
+          <lb ed="#P" n="25"/>semper injungatur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

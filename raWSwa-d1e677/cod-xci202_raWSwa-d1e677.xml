@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 51</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 51</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="29"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e677"><!-- raWSwa-c51 -->
+        <head xml:id="raWSwa-d1e677-Hd1e101">Caput 51</head>
+        <head xml:id="raWSwa-d1e677-Hd1e103" type="question-title">
+          Qua misse quibus diebus debeant celebrari.
+        </head>
+        <p xml:id="raWSwa-d1e677-d1e106">
+          <lb ed="#P" n="10"/>CAPUT LI.
+          <lb ed="#P" n="11"/>Qua misse quibus diebus debeant celebrari.
+        </p>
+        <p xml:id="raWSwa-d1e677-d1e113">
+          <lb ed="#P" n="12"/>Nunc dicendum est quae missa, quibus dicbus
+          <lb ed="#P" n="13"/>debcant celebrari. Fuit enim quoddam tempus quo
+          <lb ed="#P" n="14"/>Dominicum officium necdum erat ordinatum, ac
+          <lb ed="#P" n="15"/>rarix passim hsaereses pullulabant. Quo quidem
+          <lb ed="#P" n="16"/>fartum est ut prima feria, ne divinum officium
+          <lb ed="#P" n="17"/>periret, de Trinitate, secunda de Charitate, tertia
+          <lb ed="#P" n="18"/>de Sapientia, quarta de Spiritu sancto, quinta de
+          <lb ed="#P" n="19"/>Angelis, sexta de Cruce, septima de B. Maria 
+          Vir<lb break="no" ed="#P" n="20"/>gine cantaretur. Sed postea sancitum est ut cessante
+          <lb ed="#P" n="21"/>causa et illud cessaret quod urgente necessitate
+          <lb ed="#P" n="22"/>factum fuerat. Quapropter sane Dominico officio 
+          or<lb break="no" ed="#P" n="23"/>dinato statutum est ut prima feria suum pceculiare
+          <lb ed="#P" n="24"/>baberet officium de Trinitate, et secunda de 
+          An<lb break="no" ed="#P" n="25"/>pelis. quod tum creati in bonis gratuitis fucrint, ac
+          <lb ed="#P" n="26"/>lux divisa a tenebris, hoc est boni angeli a malis.
+          <lb ed="#P" n="27"/>Nam eo tempore mali cecidere, et boni fuerunt
+          <lb ed="#P" n="28"/>confirmati ; sed prima feria fuerunt angeli creati et
+          <lb ed="#P" n="29"/>in bonis naturalibus constituti. Cantatur autem alia
+          <lb ed="#P" n="30"/>de causa pro defunctis, ut nimirum iis adhibeamus
+          <lb ed="#P" n="31"/>sufragium angelorum; eodem quoque die missa
+          <lb ed="#P" n="32"/>pro defunctis celebratur, quoniam, ut plerique
+          <lb ed="#P" n="33"/>aiunt, feria prima refrigerium habent ii qui sunt in
+          <lb ed="#P" n="34"/>pergatorio, statimque altero dic post ad poenas
+          <lb ed="#P" n="35"/>soltas et ad laborem rcdeunt, ita ut eo die, quo eorum
+          <lb ed="#P" n="36"/>laboribus aliquo modo subveniatur, missa pro illis
+          <lb ed="#P" n="37"/>cantetue. Tertia autem feria oportet repeti introitum
+          <lb ed="#P" n="38"/>missae diei Dominici, Praeterea institutum quoque
+          <lb ed="#P" n="39"/>fuit ut quarta feria jejunaretur, ideoque Dominici
+          <lb ed="#P" n="40"/>diei missa tum caneretur. Sed et quinta feria 
+          simi<lb break="no" ed="#P" n="41"/>liter dicere convenit oflicium dici Dominicae, 
+          vide<lb break="no" ed="#P" n="42"/>licet introitum, epistolam atque evangelium, quod
+          <lb ed="#P" n="43"/>dies Jovis maxime cognata sit diei Dominicae. 
+          Ejus<lb break="no" ed="#P" n="44"/>modi enim die fieri solebat processio in mcmoriam D
+          <lb ed="#P" n="45"/>ascensionis Domini,quae postca in diem Dominicam,
+          <lb ed="#P" n="46"/>ut supra dictum est, fuit translata. Porro antem
+          <lb ed="#P" n="47"/>sexta feria agitur de Cruce, et septima de D. Maria
+          <lb ed="#P" n="48"/>Virgine, quod nop temere ita constitutum accepimus;
+          <lb ed="#P" n="49"/>miraculosum enim habet initium. Nam cum olim
+          <lb ed="#P" n="50"/>Constantinopoli in quadam ecclesia imago B. 
+          Vir<lb break="no" ed="#P" n="51"/>ginis habebatur, ante quam velum quoddam 
+          depen<lb break="no" ed="#P" n="52"/>Gebat quo tota ea cooperiebatur, contigit ut sexta
+          <lb ed="#P" n="53"/>semper feria velum hoc a vesperis ab imagine nullo
+          <lb ed="#P" n="54"/>movente decideret, et divino miraculo quasi 
+          defer<lb break="no" ed="#P" n="55"/>reur in coelum, ita ut jam plene ac perfectc ab
+          <lb ed="#P" n="56"/>omnibus conspici posset, ac deinde rursus in
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="57"/>Sabbato vesperis absolutis aa eamdem imaginem
+          <lb ed="#P" n="58"/>descenderet, ibique permancret usque in prosimum
+          <lb ed="#P" n="59"/>diem Vencris. Hoc ergo miraculo saepius viso, 
+          san<lb break="no" ed="#P" n="60"/>citum est ut semper illo die de B. Maria in ecclesia
+          <lb ed="#P" n="61"/>canerctur. Potest tamen et aliam babere rationem,
+          <lb ed="#P" n="62"/>cur Sabbato die officium cantetur de B. Maria. Nam
+          <lb ed="#P" n="63"/>cum ipsa nobis sit porta regni coelorum, quod per
+          <lb ed="#P" n="64"/>diem Dominicam commodissime figuratur, certe
+          <lb ed="#P" n="65"/>ideo de illa solemnizamus eo die qui Dominicem
+          <lb ed="#P" n="66"/>proxime praecedit. Hactenus igitur officium missse
+          <lb ed="#P" n="67"/>explicuisse satis sit, si intellexerimus neminem 
+          de<lb break="no" ed="#P" n="68"/>bcre uno codemque die duas celebrare missas cum
+          <lb ed="#P" n="69"/>uno sacrificio, vel cum duobus, sed unam cum 
+          sacri<lb break="no" ed="#P" n="70"/>ficio, et aliam siccam. Quare huic rei finem 
+          impo<lb break="no" ed="#P" n="71"/>nemus (A) si duas adhuc quaestiones paucis 
+          enoda<lb break="no" ed="#P" n="72"/>verim, quarum una est, ansi sacerdos ante vesperas
+          <lb ed="#P" n="73"/>comedat, nec postea possit dormire, die postero
+          <lb ed="#P" n="74"/>debeat aut possit missam celebrare?* Nam ipsum
+          <lb ed="#P" n="75"/>non debere aperte respondemus. Sic altera est, 
+          pos<lb break="no" ed="#P" n="76"/>sitne celebrare secundam missam in eo casu quo
+          <lb ed="#P" n="77"/>iu praeccdenti, dum manus ablueret, aliquantulum
+          <lb ed="#P" n="78"/>aquae degustavit? Certeenim et illud vetitum esse
+          <lb ed="#P" n="79"/>sciendum est. Nunc ergo ad alia.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

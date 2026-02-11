@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 148</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 148</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="76"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1858"><!-- raWSwa-c148 -->
+        <head xml:id="raWSwa-d1e1858-Hd1e101">Caput 148</head>
+        <head xml:id="raWSwa-d1e1858-Hd1e103" type="question-title">
+          De sancti Augustini festo.
+        </head>
+        <p xml:id="raWSwa-d1e1858-d1e106">
+          <lb ed="#P" n="53"/>CAPUT CXLVIII.
+          <lb ed="#P" n="54"/>De sancti Augustini festo.
+        </p>
+        <p xml:id="raWSwa-d1e1858-d1e113">
+          <lb ed="#P" n="55"/>Circa festum Augustini hoc tantum inquisitione
+          <lb ed="#P" n="56"/>dignum esse videtur, ut cum eodem die plura 
+          con<lb break="no" ed="#P" n="57"/>currant festa, veluti Augustini, Hermetis, et Juliani,
+          <lb ed="#P" n="58"/>cujusnam potius officium celebrari illo die debeat
+          <lb ed="#P" n="59"/>consideremus. Nau in eam rem hujusmodi tradi po-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>tcst responsio, et in alia his amnilia : Si omnes 
+          mar<lb break="no" ed="#P" n="61"/>tyrcs essent illius, qui inter eos majoris esset 
+          no<lb break="no" ed="#P" n="62"/>minis officium celebraretur. Si vero alius 
+          confes<lb break="no" ed="#P" n="63"/>sor, alius martyr, vel plures (uerint martyres, et si
+          <lb ed="#P" n="64"/>confessor majoris sit nominis, quam martyr, aut
+          <lb ed="#P" n="65"/>privilegium aliquod habeat, ut B. Martinus, et ejus
+          <lb ed="#P" n="66"/>officium generatim in Ecclesia Dei sit institutum,
+          <lb ed="#P" n="67"/>dicendum profecto est officium de confessore, et
+          <lb ed="#P" n="68"/>mentio sive memoria facienda est de martyre. Si 
+          au<lb break="no" ed="#P" n="69"/>tem non, celebrandum est de martjre.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

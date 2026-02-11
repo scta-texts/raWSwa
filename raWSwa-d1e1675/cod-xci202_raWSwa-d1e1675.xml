@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 133</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 133</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="69"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1675"><!-- raWSwa-c133 -->
+        <head xml:id="raWSwa-d1e1675-Hd1e101">Caput 133</head>
+        <head xml:id="raWSwa-d1e1675-Hd1e103" type="question-title">
+          De jejuniis Quatuor Temporum.
+        </head>
+        <p xml:id="raWSwa-d1e1675-d1e106">
+          <lb ed="#P" n="44"/>CAPUT CXXXII.
+          <lb ed="#P" n="45"/>De jejuniis Quatuor Temporum.
+        </p>
+        <p xml:id="raWSwa-d1e1675-d1e113">
+          <lb ed="#P" n="46"/>Dicendum modo est de jejuniis primitiarum, quae
+          <lb ed="#P" n="47"/>in septimana Pentecostes solent contingere. Et 
+          pri<lb break="no" ed="#P" n="48"/>mo quidem de origine, secundo de institutione,
+          <lb ed="#P" n="49"/>tertio de nomine et ejus ratione, deinde de officio,
+          <lb ed="#P" n="50"/>et uktimo de ordinibus qua in iis celebrantur,
+          <lb ed="#P" n="51"/>epertet dispiciamus. Origo istorum jejuniorum 
+          sum<lb break="no" ed="#P" n="52"/>pa est ex Veteri Testamento. Sicut enim populus
+          <lb ed="#P" n="53"/>ille Deo ex omnibus rebus suis dabat primitias, sic
+          <lb ed="#P" n="54"/>nos ex temporibus primitias, et non solum ex
+          <lb ed="#P" n="55"/>temporibus, sed etiam ex omnibus quae possidemus
+          <lb ed="#P" n="56"/>éare debemas. Nunc sequitur de institutione.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

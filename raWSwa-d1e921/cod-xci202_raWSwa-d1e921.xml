@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 71</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 71</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="39"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e921"><!-- raWSwa-c71 -->
+        <head xml:id="raWSwa-d1e921-Hd1e101">Caput 71</head>
+        <head xml:id="raWSwa-d1e921-Hd1e103" type="question-title">
+          De Circumcisione.
+        </head>
+        <p xml:id="raWSwa-d1e921-d1e106">
+          <lb ed="#P" n="85"/>CAPUT LXXI.
+          <lb ed="#P" n="86"/>De Circumcisione.
+        </p>
+        <p xml:id="raWSwa-d1e921-d1e113">
+          <lb ed="#P" n="87"/>In Circumcisione duo simul facta concurrunt, 
+          pa<lb break="no" ed="#P" n="88"/>rientis scilicet et partus, propter octavas. Unde sane
+          <lb ed="#P" n="89"/>est quod eo die duas missas celebrare débeamus:
+          <lb ed="#P" n="90"/>prima de Beata Virgine, scilicet, Vultum tuum;
+          <lb ed="#P" n="91"/>aliam de Octavis, nimirum Puer natus est nobis, et
+          <lb ed="#P" n="92"/>dicitur illo die evangelium Lucae : Postquam impleti
+          <lb ed="#P" n="93"/>sunt dies octo (Luc. u), etc. Sunt nonnulli alii, qui
+          <lb ed="#P" n="94"/>tria huc festa concurrere arbitrentur, de B. Virgine,
+          <lb ed="#P" n="95"/>de octavis, et de Circumcisione. Nam etiamsi tum
+          <lb ed="#P" n="96"/>circumcisus non fuisset, nihilominus tamen flerent
+          <lb ed="#P" n="97"/>octavae. Sed quoniam modo de octavis mentionem
+          <lb ed="#P" n="98"/>fecimus non incommodum erit, si eas paulo plenius
+          <lb ed="#P" n="99"/>persequamur. Sunt enim nonnulla octava 
+          institu<lb break="no" ed="#P" n="100"/>tionis, ut sunt eorum qui habent vigilias, nonnullae
+          <lb ed="#P" n="101"/>devotionis, cujusmodi fieri possunt in honorem 
+          cu<lb break="no" ed="#P" n="102"/>juslibet sancti; nonnullae etiam venerationis, ut sunt
+          <lb ed="#P" n="103"/>ese quae solius Dei esse dicuntur. Nam octavae 
+          Na<lb break="no" ed="#P" n="104"/>tivitatis , Paschae et Pentecostes sunt venerationis
+          <lb ed="#P" n="105"/>Christi. Sunt item et octavae significationis, ut 
+          In<lb break="no" ed="#P" n="106"/>nocentium, per quas nostra significatur resurrectio,
+          <lb ed="#P" n="107"/>quo quidem fit ut tunc laetitiae sive laudis canantur
+          <lb ed="#P" n="108"/>cantica. Nam tametsi quidem ad inferos 
+          descende<lb break="no" ed="#P" n="109"/>rint, resurgent tamen nobiscum in gloria. 
+          Quan<lb break="no" ed="#P" n="110"/>quam nihilominus et de quibusvis aliis sanctis 
+          octa<lb break="no" ed="#P" n="111"/>vae significationis dici possunt. Totum interim 
+          tem<lb break="no" ed="#P" n="112"/>pus, quod est ad purificationem usque tractat 
+          in<lb break="no" ed="#P" n="113"/>fantiam Salvatoris, ita ut hinc aliorum sanctorum
+          <lb ed="#P" n="114"/>commemorationes fieri non debeant, et quidem
+          <lb ed="#P" n="115"/>maxime sanctae crucis, juxta illud vulgare dictum;
+          <lb ed="#P" n="116"/>Non coques hadum in lacte matris ( Exod. xxxiw).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

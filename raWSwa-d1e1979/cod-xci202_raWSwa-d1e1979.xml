@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 158</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 158</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="78"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1979"><!-- raWSwa-c158 -->
+        <head xml:id="raWSwa-d1e1979-Hd1e101">Caput 158</head>
+        <p xml:id="raWSwa-d1e1979-d1e103">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>CAPUT CLVIII
+          <lb ed="#P" n="59"/>De festo Omnium Sanctorum.
+        </p>
+        <p xml:id="raWSwa-d1e1979-d1e112">
+          <lb ed="#P" n="60"/>Posteaquam haec de sanctis hucusque prosecuti
+          <lb ed="#P" n="61"/>simus , necessarium plane est ut ad maximum illud
+          <lb ed="#P" n="62"/>et generale festum veniamus, videlicet Omnium
+          <lb ed="#P" n="63"/>Sanctorum. Sed quamobrem istud fuerit institutum
+          <lb ed="#P" n="64"/>et quare loc praesertim tempore fiat, satis, ut cgo
+          <lb ed="#P" n="65"/>quidem arbitror, supra ostensum est. Pauca tamen
+          <lb ed="#P" n="66"/>adhuc de eo dicenda restant, nimirum de jejunio et
+          <lb ed="#P" n="67"/>ordine ipsius oflicii. Festum ergo hoc jejunium 
+          ha<lb break="no" ed="#P" n="68"/>bet institutionis, nec debet profecto aliquis 
+          come<lb break="no" ed="#P" n="69"/>dere nisi a vesperis, nec jejunium oportet mutari,
+          <lb ed="#P" n="70"/>ut quidam faciunt propter festum S. Quintini. Ait
+          <lb ed="#P" n="71"/>enim ille : « Putasne sancti gaudeant cibis, qui 
+          me<lb break="no" ed="#P" n="72"/>ruerunt vitam jejuniis? » Quoniam autem festum
+          <lb ed="#P" n="73"/>hoc Omnnium est Sanctorum, ideo variatur illius 
+          ofli<lb break="no" ed="#P" n="74"/>cium, prout habetur varietas sanctorum. Prima enim
+          <lb ed="#P" n="75"/>antiphona, prima lectio, et primum responsum 
+          can<lb break="no" ed="#P" n="76"/>tatur de Trinitate, quod festum est Trinitatis. 
+          Se<lb break="no" ed="#P" n="77"/>cuudo loco canitur de B. Maria, tertio de Augelis,
+          <lb ed="#P" n="78"/>quarto de Prophetis , quinto de Apostolis, sexto de
+          <lb ed="#P" n="79"/>Martyribus, septimo de Confessoribus, octavo de
+          <lb ed="#P" n="80"/>Virginibus, nono de Omnibus Sanctis. Atque in 
+          ho<lb break="no" ed="#P" n="81"/>rum quidem ofliciorum lectionibus observatur 
+          au<lb break="no" ed="#P" n="82"/>ctoritas. Nam praestantior in ecclesia, si episcopus
+          <lb ed="#P" n="83"/>praesens fuerit , recitabit lectionem de Trinitate, vel
+          <lb ed="#P" n="84"/>decanus, vel saltem sacerdos, et sic fiet descensus
+          <lb ed="#P" n="85"/>in legendo peraonarum usque ad pueros. Octavam
+          <lb ed="#P" n="86"/>namque lectioncm leget unus ex pueris. Nonam enim
+          <lb ed="#P" n="87"/>lectionem majoris est recitare.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

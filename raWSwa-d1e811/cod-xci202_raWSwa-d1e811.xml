@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 62</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 62</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="34"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e811"><!-- raWSwa-c62 -->
+        <head xml:id="raWSwa-d1e811-Hd1e101">Caput 62</head>
+        <head xml:id="raWSwa-d1e811-Hd1e103" type="question-title">
+          Quid legi debeat ab octava Pentecostes usaue ad Natale
+          Domini.
+        </head>
+        <p xml:id="raWSwa-d1e811-d1e106">
+          <lb ed="#P" n="37"/>CAPUT LXII.
+          <lb ed="#P" n="38"/>Quid legi debeat ab octava Pentecostes usaue ad Natale
+          <lb ed="#P" n="39"/>Domini.
+        </p>
+        <p xml:id="raWSwa-d1e811-d1e115">
+          <lb ed="#P" n="40"/>Tunc ergo usque ad Kalendas Augusti legitur 
+          Sa<lb break="no" ed="#P" n="41"/>muel, Malachim, id est Liber Regum et 
+          Paralipo<lb break="no" ed="#P" n="42"/>menon cum historia : Deus omnium. Solet tamen
+          <lb ed="#P" n="43"/>in octava Pentecostes cantari et legi de Trinitate,
+          <lb ed="#P" n="44"/>quantumvis Alexander papa interrogatus an etiam
+          <lb ed="#P" n="45"/>fieri debeat , dixerit se nescire diem peculiarem de
+          <lb ed="#P" n="46"/>Trinitate, nec de unitate. Sed officium ejus 
+          praeci<lb break="no" ed="#P" n="47"/>pue propter haereticos institutum fuisse credimus.
+          <lb ed="#P" n="48"/>Quare hic usque ad Kalendas Augusti meminerimus,
+          <lb ed="#P" n="49"/>quod paulo ante cavendum esse praecepimus. Si
+          <lb ed="#P" n="50"/>enim festum erit die Dominica, secure mutabimus
+          <lb ed="#P" n="51"/>bistoriam. Similiter si secunda feria, si tertia, si
+          <lb ed="#P" n="52"/>quarta Kalendae fuerint mensis Augusti, praecedenti
+          <lb ed="#P" n="53"/>Dominica historiam libere mutabimus. Si vero
+          <lb ed="#P" n="54"/>quinta, sexta aut septima, idem facere poterimus
+          <lb ed="#P" n="55"/>Dominica sequenti. Atque hanc tanquam generalem
+          <lb ed="#P" n="56"/>habemus regulam. Quod si denique mensis Kalendae
+          <lb ed="#P" n="57"/>fuerint die profesto , illa Dominica mutabimus 
+          hi<lb break="no" ed="#P" n="58"/>storiam, quae Kalendis sit proximior, sive ea 
+          prae<lb break="no" ed="#P" n="59"/>ceda , sive subsequatur. A Kalendis igitur Auguati
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>usque ad Septembrem leguntur tres libri Satomonis
+          <lb ed="#P" n="61"/>et duo Sapientiae, qui sunt apocryphi, ut ita media
+          <lb ed="#P" n="62"/>pars Cantici canticorum reservetur usque ad 
+          Nativita<lb break="no" ed="#P" n="63"/>tem B. Mariae in Septembri, atque altera legatur in
+          <lb ed="#P" n="64"/>ejusdem Assumptione. Nam sermones qui ibi sunt,
+          <lb ed="#P" n="65"/>ut : Cogitis me, o Paula et Eustochium, et : 
+          Appro<lb break="no" ed="#P" n="66"/>bata consuetudinis est, etc., potius in triclinio, seu
+          <lb ed="#P" n="67"/>refectorio legi debent. Tunc cantatur historia : In
+          <lb ed="#P" n="68"/>principio Deue (Gen. 1), antequam terra, etc., quod
+          <lb ed="#P" n="69"/>ad creationem pertinet. Nam istud aliud in 
+          prin<lb break="no" ed="#P" n="70"/>cipio, quod est in Sexagesima spectat ad creationen..
+          <lb ed="#P" n="71"/>Proinde a Kalendis Septembris legitur Jobus per
+          <lb ed="#P" n="72"/>quindecim dies, et per quindecim alios dies Tobias,
+          <lb ed="#P" n="73"/>Esdras , Judith et Esther cum historia, Peto, 
+          Do<lb break="no" ed="#P" n="74"/>mine. In Octobri legitur liber Machabaeorum cum
+          <lb ed="#P" n="75"/>historia : O Adonai, Domine Deus, et : Adaperiat 
+          Do<lb break="no" ed="#P" n="76"/>minus. In Novembri Ezechiel, Daniel, duodecim
+          <lb ed="#P" n="77"/>prophetae, cum historia, Vidi Dominum. Den:que in
+          <lb ed="#P" n="78"/>Decembri lsaias totus usque ad Natalem Domini, nisi
+          <lb ed="#P" n="79"/>quod transire debeat ídem lector id quod ipso 
+          Na<lb break="no" ed="#P" n="80"/>tali legitur, ut : Populus gentium, Consolamini, 
+          Con<lb break="no" ed="#P" n="81"/>surge, et quod recitatur in Epipbania, ut : Sarge,
+          <lb ed="#P" n="82"/>illuminare, Jerusalem. Haec namque pertinent ad
+          <lb ed="#P" n="83"/>Christum jam natum ; caetera vero quae in Adventu
+          <lb ed="#P" n="84"/>leguntur, ad Christum nasciturum. Atque hinc est
+          <lb ed="#P" n="85"/>quod illa oporteat praetermitti usque ad Natale,
+          <lb ed="#P" n="86"/>quoniam tunc nova audiri debent. In jejuniis tamen
+          <lb ed="#P" n="87"/>Quatuor Temporum, quae sunt in Adventu, et in 
+          vi<lb break="no" ed="#P" n="88"/>gilia Nativitatis Domini nihil lsaiae legitur, quoniam
+          <lb ed="#P" n="89"/>proprias habent lectiones , et propria officia. Unde
+          <lb ed="#P" n="90"/>et alia jejunia ab his tanquam magis solemnibus
+          <lb ed="#P" n="91"/>officia petere soleant.
+        </p>
+        <p xml:id="raWSwa-d1e811-d1e232">
+          <lb ed="#P" n="92"/>Quare autem haec habent et non illa, ratio est
+          <lb ed="#P" n="93"/>quod olim pontifex Romanus hisce jejuniis 
+          ordi<lb break="no" ed="#P" n="94"/>nes conferre consuevit. Sed si festum Thomse 
+          eve<lb break="no" ed="#P" n="95"/>nerit in ipsis jejuniis, dicet Ecclesia lectiones d*
+          <lb ed="#P" n="96"/>sancto et non de jejunio. Ita enim usus inolevit.
+          <lb ed="#P" n="97"/>Hoc ipsum tamen Romana Ecclesia non observat,
+          <lb ed="#P" n="98"/>ut quae sex reciet lectiones de jejunio, el tres 
+          ulti<lb break="no" ed="#P" n="99"/>mas de homilia Evangelii ipsius festi. In Adventu
+          <lb ed="#P" n="100"/>aliquando tres sunt historiae, aliquando quatuor si
+          <lb ed="#P" n="101"/>ipse fuerit quatuor hebdomadarum, quod raro fit.
+          <lb ed="#P" n="102"/>Et tantum quidem habemus de Veteri Testamento,
+          <lb ed="#P" n="103"/>modo videamvs de Novo. Aboctava Paschae usque
+          <lb ed="#P" n="104"/>ad Pentecosten legitur Joannis Apocalypsis tribus
+          <lb ed="#P" n="105"/>septimanis, et Epistolae canonicae duabus 
+          sequenti<lb break="no" ed="#P" n="106"/>bus usque ad Áscensionem, quae numero sunt 
+          sep<lb break="no" ed="#P" n="107"/>tem. Prinia est Jacobi Alphai, tres sequentes Joannis
+          <lb ed="#P" n="108"/>evangelistae, quinta et sexta Petri principis 
+          aposto<lb break="no" ed="#P" n="109"/>lorum, septima denique Tbadasi, qui et Judas 
+          ap<lb break="no" ed="#P" n="110"/>pellatus est, frater Simonis. Ab Ascensione Domini
+          <lb ed="#P" n="111"/>usque ad Pentecosten leguntur Áctus apostolorum :
+          <lb ed="#P" n="112"/>Primum quidem, etc. Higtoria est, Dignus est, 
+          Do<lb break="no" ed="#P" n="113"/>mine, ad omnia praemissa. Ab octava Epiphanise,
+          <lb ed="#P" n="114"/>usquc ad Septuagesimam leguntur quatuordecim
+          <lb ed="#P" n="115"/>Epistolae Pauli, tam quae sunt missae ad personas
+          <lb ed="#P" n="116"/>quatuor, quam quae ad decem Ecclesias, ut ad
+          <lb ed="#P" n="117"/>Titum jCorinthios. De Evangeliis et Psalmis dicer
+          <lb ed="#P" n="118"/>suo loco. Ad hunc ergo modum de utroque Tegta-
+          <pb ed="#P" n="35"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>mento dispositum ab Ecclesia habemus. Notandum
+          <lb ed="#P" n="2"/>interim obiter Hic est, quatuor modis finiri lectiones,
+          <lb ed="#P" n="3"/>videlicet per : Tu auiem, Domine ; Haec dicit 
+          Domi<lb break="no" ed="#P" n="4"/>nus: Convertimini ad me et salvi eritis; et in Threnis
+          <lb ed="#P" n="5"/>Jeremiae per Jerusalem, Jerusalem, convertere ad
+          <lb ed="#P" n="6"/>Dominum Denum tuum : etque ultimo in lectionibus
+          <lb ed="#P" n="7"/>mortuorum, per Beati mortui, qui in Domino 
+          moriun<lb break="no" ed="#P" n="8"/>tur. Cujus tamen rei usus in Ecclesia admodum
+          <lb ed="#P" n="9"/>rarus est. Sed nos dicimus non quid fiat, sed quid
+          <lb ed="#P" n="10"/>feri debeat. Caeterum homiliarius , quem quartum
+          <lb ed="#P" n="11"/>librum esse diximus, legitur in natali et in festis
+          <lb ed="#P" n="12"/>eorum, qui propria habent evangelia, ut in festo
+          <lb ed="#P" n="13"/>B. Thbomae, in Paschate, Pentecoste cum suis feriis,
+          <lb ed="#P" n="14"/>ac tandem etiam recitatur diebus Dominicis. Octo
+          <lb ed="#P" n="15"/>vero dies Paschae computantur cum Septuagesima,
+          <lb ed="#P" n="16"/>quod illa septima sit septimana a Quadragesima,
+          <lb ed="#P" n="17"/>per quam idem designatur, quod per Septuagesimam
+          <lb ed="#P" n="18"/>in cujus sepuma decade fllii Israel acceperunt 
+          re<lb break="no" ed="#P" n="19"/>deundi licentiam, et jam quasi liberi erant, ideoque
+          <lb ed="#P" n="20"/>viebus Hlis cantica laetitiae inclamantur. In sabbato
+          <lb ed="#P" n="21"/>autem in Albis, geminatur Alleluia, quoniam finitur
+          <lb ed="#P" n="22"/>Septuagesima. Quo quidem significatur absotuto
+          <lb ed="#P" n="23"/>pasentis hujus vitae cursu nos duplicem accepturos
+          <lb ed="#P" n="24"/>stolam, cum ad nostram illam Jerosolymam 
+          perve<lb break="no" ed="#P" n="25"/>nerimus. Vocatar autem Sabbatum istud in Albis,
+          <lb ed="#P" n="26"/>quod in paschali Sabbato baptizati tunc albas 
+          ves<lb break="no" ed="#P" n="27"/>tes deponebant, quas octavo die sumpserant.
+          <lb ed="#P" n="28"/>Proinde vero libri passionarii leguntur in ipsis
+          <lb ed="#P" n="29"/>diebus martyrum. Sed horum aliqui, teste Gelasio,
+          <lb ed="#P" n="30"/>apocryphi sunt, ut de D. Gregorio, de Quirico et
+          <lb ed="#P" n="31"/>julita martyribus, ac qui omnino ejusmodi sunt,
+          <lb ed="#P" n="32"/>ut eos composuisse ferantur haeretici, ob quorum
+          <lb ed="#P" n="33"/>iufamiaem ab Ecclesia interdicuntur. Quod autem
+          <lb ed="#P" n="34"/>sint canonizati, suoloco dicetur. Nec quidem omnes
+          <lb ed="#P" n="35"/>bomiliae sunt approbatae, ut quaedam sunt Origenis,
+          <lb ed="#P" n="36"/>qui ad haeresin declinavit. Quadam tamen ejus
+          <lb ed="#P" n="37"/>leguntur ab Hieronymo castigatae, sed in iis 
+          subsi<lb break="no" ed="#P" n="38"/>cetur nomen auctoris propter infamiam haeresis.
+          <lb ed="#P" n="39"/>(uemadmodum etiam Salomonis nomen in 
+          lectio<lb break="no" ed="#P" n="40"/>nibus supprimitur ob notam idololatriae, et Moysis
+          <lb ed="#P" n="41"/>propter haesitationem, quam babuit ad Aquas 
+          Con<lb break="no" ed="#P" n="42"/>tradictionis, quia Dominum exacerbavit. Non enim
+          <lb ed="#P" n="43"/>dicitur. Lectio libri Genesis Mosis legislatoris,
+          <lb ed="#P" n="44"/>sicut dicimus : Lectio libri Apocalypsis Joannis
+          <lb ed="#P" n="45"/>apostoli. Nounulli tamen hoc pacto in principio 
+          ho<lb break="no" ed="#P" n="46"/>miliarum dicendum esse exietimant : Homilia
+          <lb ed="#P" n="47"/>Origenis ab Hieronymo castigata. Atque in 
+          sequen<lb break="no" ed="#P" n="48"/>übus quasi hoc modo: Homilia ejusdem. Sunt
+          <lb ed="#P" n="49"/>autem fere hi qui Homilias posteris reliquerunt :
+          <lb ed="#P" n="50"/>Augustinus, Gregorius, Beda et Origenes.
+        </p>
+        <p xml:id="raWSwa-d1e811-d1e407">
+          <lb ed="#P" n="51"/>Breviter ergo passiones legi debent in festis
+          <lb ed="#P" n="52"/>martyrum : legendse in festis qui propria habent
+          <lb ed="#P" n="53"/>cvangelis, ut in B. Thbomse, tres ultimae lectiones ex
+          <lb ed="#P" n="54"/>bomiliis sint oportet, atque alise ex passionibus. At
+          <lb ed="#P" n="55"/>vero legendarius appellatur liber, qui vitae et obitus
+          <lb ed="#P" n="56"/>tradit confessorum, cujusmodi sunt Hilarii, Martini
+          <lb ed="#P" n="57"/>et aliorum quos sacrosancta Ecclesia confirmavit,
+          <lb ed="#P" n="58"/>ita ut in eoram festis istiusmodi liber necessario
+          <lb ed="#P" n="59"/>legatur, ultimo tandem liber sermonum, qui etger-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>mologus nominatur, legi convenit sb Natali usque
+          <lb ed="#P" n="61"/>ad octavam Epiphanise, quos Leo papa et compiures
+          <lb ed="#P" n="62"/>alii composuerunt. Sed idem liber legitur in 
+          Puri<lb break="no" ed="#P" n="63"/>ficatione B. Mariae Virginis, et praeter fcsta alia,
+          <lb ed="#P" n="64"/>etiam ipso die Omnium Sanctorum. Proinde 
+          pre<lb break="no" ed="#P" n="65"/>cipuas bomilias composuerunt Gregorius et Beda,
+          <lb ed="#P" n="66"/>qui tamen nullas, praeterquam eas, quas ante 
+          Au<lb break="no" ed="#P" n="67"/>gustinus ediderat, composuit. Namque ille hoc unum
+          <lb ed="#P" n="68"/>de suo addidit, quod eas suis verbis quodammodo
+          <lb ed="#P" n="69"/>vestivit, usque adeo, ut cum in Augustino verba
+          <lb ed="#P" n="70"/>duntaxat essent disputationis , in Beda sint verba
+          <lb ed="#P" n="71"/>scrmonis et lectionis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

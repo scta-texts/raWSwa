@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 74</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 74</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="40"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e957"><!-- raWSwa-c74 -->
+        <head xml:id="raWSwa-d1e957-Hd1e101">Caput 74</head>
+        <head xml:id="raWSwa-d1e957-Hd1e103" type="question-title">
+          De evangeliis Apparitionis.
+        </head>
+        <p xml:id="raWSwa-d1e957-d1e106">
+          <lb ed="#P" n="94"/>CAPUT LXXIV.
+          <lb ed="#P" n="95"/>De evangeliis Apparitionis.
+        </p>
+        <p xml:id="raWSwa-d1e957-d1e113">
+          <lb ed="#P" n="96"/>Sunt autem tria Evangelia hujus festivitatis,
+          <lb ed="#P" n="97"/>unum de baptismo, scilicet Factum est, cum 
+          bapti<lb break="no" ed="#P" n="98"/>zaretur (Luc. u), secundum de magis, nempe Cum
+          <lb ed="#P" n="99"/>natus esset Jesus (Matth. 1); tertium de nuptiis
+          <lb ed="#P" n="100"/>(Joan. n), atque hoc quidem legitur Dominica 
+          se<lb break="no" ed="#P" n="101"/>quenti. Caeterum illud nos latere non debet duo
+          <lb ed="#P" n="102"/>evangelia de Christi generatione legi nocte, alterum
+          <lb ed="#P" n="103"/>videlicet in Nativitate , alterum vero in Epiphania.
+          <lb ed="#P" n="104"/>Quoniam utraque Christi generatio erat nocte, hoz
+          <lb ed="#P" n="105"/>est, obscura et quae primurum Patrum sensibus
+          <lb ed="#P" n="106"/>percipi non poterat. Una generatio fit descendendo,
+          <lb ed="#P" n="107"/>altera ascendendo, quod una sit carnalis, altera 
+          spi<lb break="no" ed="#P" n="108"/>ritualis. In una ponitur , Genuit (Matth. 1), ut 
+          car<lb break="no" ed="#P" n="109"/>nalis et temporalis generationis exprimatur 
+          succes<lb break="no" ed="#P" n="110"/>sio : in altera ponitur, Qui fuit (Luc. m): ut 
+          done<lb break="no" ed="#P" n="111"/>tur spiritualis generationis adoptio. Prima terminata
+          <lb ed="#P" n="112"/>est in Virginis partu, secunda inchoata est per
+          <lb ed="#P" n="113"/>baptismum. Inter octavas Epiphaniae et 
+          Septuage<lb break="no" ed="#P" n="114"/>simam, legunt quidam responsoria de psalmis quae
+          <pb ed="#P" n="41"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sic dicuntur, quoniam lectionibus debent 
+          respon<lb break="no" ed="#P" n="2"/>dere et convenire, cum tamen psalmi noa debeant
+          <lb ed="#P" n="3"/>legi nisi illo triduo ante Pascha.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 92</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 92</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="47"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1176"><!-- raWSwa-c92 -->
+        <head xml:id="raWSwa-d1e1176-Hd1e101">Caput 92</head>
+        <head xml:id="raWSwa-d1e1176-Hd1e103" type="question-title">
+          De Sabbatis privilegiatis.
+        </head>
+        <p xml:id="raWSwa-d1e1176-d1e106">
+          <lb ed="#P" n="26"/>CAPUT XCII.
+          <lb ed="#P" n="27"/>De Sabbatis privilegiatis.
+        </p>
+        <p xml:id="raWSwa-d1e1176-d1e113">
+          <lb ed="#P" n="28"/>Sabbatum primae septimanae et quartae, ideo 
+          gau<lb break="no" ed="#P" n="29"/>dent privilegio, quod in iis celebrentur ordines,
+          <lb ed="#P" n="30"/>Verum hic scias in omnibus festis apostolorum et
+          <lb ed="#P" n="31"/>Dominicis diebus fieri posse ordines, videlicet 
+          mi<lb break="no" ed="#P" n="32"/>pores; majores vero non utique, nisi in sex 
+          tan<lb break="no" ed="#P" n="33"/>ummodo Sabbatis. Et quidem in illorum primo
+          <lb ed="#P" n="34"/>plures leguntue lectiones, inter quas una est, quae
+          <lb ed="#P" n="35"/>quandiu canatur, nullus sedere debet. Hec 
+          nimi<lb break="no" ed="#P" n="36"/>rum est hymnus ille trium pucrorum, qui pro fide
+          <lb ed="#P" n="37"/>Trinitatis ab eis jam in fornace constitutis 
+          canta<lb break="no" ed="#P" n="38"/>batur. Ad hunc ergo hymnum genua flectere non
+          <lb ed="#P" n="39"/>decet, quod isti sua flectere noluerunt coram 
+          Nabu<lb break="no" ed="#P" n="40"/>chodonosoris statua, sicut multi fecerant principes
+          <lb ed="#P" n="41"/>ahli. Similiter in Parasceve genua non flectimus ad
+          <lb ed="#P" n="42"/>orationem quae fit pro Judaeis, ob derisionem eorum,
+          <lb ed="#P" n="43"/>qui, dum Christum deridebant, inquiebant : 
+          Pro<lb break="no" ed="#P" n="44"/>phetiza nobis, Christe, quis est qui te percussit (Matth.
+          <lb ed="#P" n="45"/>xxv1). In Sabbato ante Latare Jerusalem, recitatur
+          <lb ed="#P" n="46"/>epistola Susannae. Nam tum fit statio Romae in 
+          mo<lb break="no" ed="#P" n="47"/>nasterio Beate Susannae virginis. Atque ita etiam
+          <lb ed="#P" n="48"/>ob similitudinem quamdam Evangelium est de 
+          mu<lb break="no" ed="#P" n="49"/>here deprehensa in adulterio, quam Dominus 
+          libe<lb break="no" ed="#P" n="50"/>ravit (Joan. vin). Ecce quomodo concordant 
+          Evan<lb break="no" ed="#P" n="51"/>gelium et Epistola, ut conveniunt et multa alia.
+          <lb ed="#P" n="52"/>Sabbatum vero, quod est ante Ramos palmarum,
+          <lb ed="#P" n="53"/>hinc suum accipit privilegium, quod eo tempore
+          <lb ed="#P" n="54"/>Dominus papa eleemosynas largiatur, hoc est suum
+          <lb ed="#P" n="55"/>fariat mandatum, quod deberet facere ipso die
+          <lb ed="#P" n="56"/>Coena. Sed quia tuuc non posset propter prolixum
+          <lb ed="#P" n="57"/>ejus diei officium, ideo illud hoc Sahbato commode
+          <lb ed="#P" n="58"/>facit. Aut certe hinc maxime privilegium habere
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>videtur, quoniam eo die Dominus in domo Simonis
+          <lb ed="#P" n="60"/>leprosi prausus est Martha ministrante, et quo
+          <lb ed="#P" n="61"/>Maria pedes ejus lacrymis suis lavit, ac propriis
+          <lb ed="#P" n="62"/>tersit capillis, unguentumque in capite cjus fudit
+          <lb ed="#P" n="63"/>(Luc. vi). Meminerimus tamen ex omnibus 
+          manda<lb break="no" ed="#P" n="64"/>tis Dei boc solum antonomastice dici mandatum
+          <lb ed="#P" n="65"/>quod Christus majori exhibitiune illud obscrvari
+          <lb ed="#P" n="66"/>atque obsequii praeceperit, cum suis discipulis pedes
+          <lb ed="#P" n="67"/>lavaret, inquiens : Si ego lavi vobis pedes Dominus
+          <lb ed="#P" n="68"/>ei Magister, et vos debetis alter alterius lavare pedes
+          <lb ed="#P" n="69"/>(Joan. xi). Et cum quadam interminatione, qua
+          <lb ed="#P" n="70"/>Petro interminatur : Sinon, inquit, lavero tibi pedes,
+          <lb ed="#P" n="71"/>non habebis partem mecum Ubid.). Quare propter 
+          hu<lb break="no" ed="#P" n="72"/>jusmodi praeceptum vacat Sabbatum illud ab officio.
+          <lb ed="#P" n="73"/>Hinc nata est illa auctoritas, quod si quis fuerit
+          <lb ed="#P" n="74"/>adeo negotiis intricatus atque oppressus, ut 
+          diffi<lb break="no" ed="#P" n="75"/>culter possit vacare orationi et eleemosynge simul,
+          <lb ed="#P" n="76"/>saltem mutet cum oratione eleemosynam, et contra.
+          <lb ed="#P" n="77"/>Sabbatum denique ante Pascha inde privilegiatum
+          <lb ed="#P" n="78"/>est, quod tum celebrentur ordines, catechumeni
+          <lb ed="#P" n="79"/>baptizentur, et candela illa cerea paschalis 
+          conse<lb break="no" ed="#P" n="80"/>cretur. Verum eadem missa commun:s esse 
+          opor<lb break="no" ed="#P" n="81"/>tet diei et ordinibus, pluresque tum recitantur
+          <lb ed="#P" n="82"/>lectiones.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

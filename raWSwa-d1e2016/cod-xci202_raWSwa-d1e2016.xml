@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 161</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 161</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="81"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e2016"><!-- raWSwa-c161 -->
+        <head xml:id="raWSwa-d1e2016-Hd1e101">Caput 161</head>
+        <head xml:id="raWSwa-d1e2016-Hd1e103" type="question-title">
+          De celebratione Mortuorum officii.
+        </head>
+        <p xml:id="raWSwa-d1e2016-d1e106">
+          <lb ed="#P" n="14"/>CAPUT CLXI
+          <lb ed="#P" n="15"/>De celebratione Mortuorum officii.
+        </p>
+        <p xml:id="raWSwa-d1e2016-d1e113">
+          <lb ed="#P" n="16"/>Praeterea modo videamus de ipsius officii 
+          celebra<lb break="no" ed="#P" n="17"/>tione. Àc primo quidem, ut sciamus, quae sint 
+          ta<lb break="no" ed="#P" n="18"/>cenda, et secundo quae sint dicenda , quoniam 
+          offi<lb break="no" ed="#P" n="19"/>cium mortuorum imitatur triduanam Christi 
+          sepul<lb break="no" ed="#P" n="20"/>turamn, et illius omnino vestigia sequitur. Sicut
+          <lb ed="#P" n="21"/>eryo tribus illis diebus, ita et in hoc officio omnia
+          <lb ed="#P" n="22"/>cantica latitiae subticemus. Inde etiam est quod,
+          <lb ed="#P" n="23"/>Domine, labia mea aperies, ad matutinas, vel vigilias
+          <lb ed="#P" n="24"/>mortuorum et Deus in adjutorium, non dicatur in
+          <lb ed="#P" n="25"/>principiis borarum, neque Venite exsultemus (Psal.
+          <lb ed="#P" n="26"/>xciv), neque Gloria Patri ad responsorium, aut sub
+          <lb ed="#P" n="27"/>finem psalmorum. Pari modo ad lectiones neque
+          <lb ed="#P" n="28"/>benedictiones petimus neque damus, nec Tu autem,
+          <lb ed="#P" n="29"/>Domine, nec Deo gratias unquam dicimus, usque
+          <lb ed="#P" n="30"/>adeo ut ne ad missam quidem. Posset tamen e
+          <lb ed="#P" n="31"/>alia ratio reddi, quamobrem in officio mortuorum
+          <lb ed="#P" n="32"/>bac taceantur : cum enim mortuorum exsequias
+          <lb ed="#P" n="33"/>celebramus, ad plangendum venimus, et 
+          lacryman<lb break="no" ed="#P" n="34"/>dum, non ad solemnizandum : Ob quam rem sane
+          <lb ed="#P" n="35"/>besitiae cantica subticemus. Nam non bene convenit
+          <lb ed="#P" n="36"/>huic officio Venite, exsultemus, nec, Domine, labia
+          <lb ed="#P" n="37"/>mea, sed potius cum eo videntur repugnare. 
+          Offi<lb break="no" ed="#P" n="38"/>cium autem mortuorum a vesperis incipit, quas in
+          <lb ed="#P" n="39"/>bunc modum auspicamur : Placebo Demino (Psal.
+          <lb ed="#P" n="40"/>cxw). Quibus absolutis sequitur completorium, ac
+          <lb ed="#P" n="41"/>postea vigiliae, quarum tria sunt genera. In 
+          qui<lb break="no" ed="#P" n="42"/>busdam enim Ecclesiis novem leguntur lectiones ex
+          <lb ed="#P" n="43"/>Job : in aliis vero totidem sed ex lib. Sapientiae.
+          <lb ed="#P" n="44"/>Incipiunt autem hae hoc pacto : Melius est ire ad
+          <lb ed="#P" n="45"/>domum iuctus quam ad domum convivii (Eccle. vn).
+          <lb ed="#P" n="46"/>Sunt rursus ali Ecclesix, in quihus itidem novem
+          <lb ed="#P" n="47"/>recitantur lectiones, verum ex sermone quodam
+          <lb ed="#P" n="48"/>beati Augustini , quem ille composuit de mortuis,
+          <lb ed="#P" n="49"/>et quem finivit in hunc modum. Beati mortui qui in
+          <lb ed="#P" n="50"/>Domino moriuntur (Apoc. xwj, quoda quibusdam
+          <lb ed="#P" n="51"/>dicitur sub finem lectionum loco. Tu autem, 
+          Do<lb break="no" ed="#P" n="52"/>mine : quemadmodum in adventu Domini, in 
+          Nati<lb break="no" ed="#P" n="53"/>vitate, et in Epiphania lectiones Isaiae finiuntur hoc
+          <lb ed="#P" n="54"/>pacto : Convertimini ad me et salvi eritis, et 
+          lamen<lb break="no" ed="#P" n="55"/>tationes Jeremiae ad tenebras hac ratione : 
+          Jerusa<lb break="no" ed="#P" n="56"/>lem, Jerusalem, convertere ad Dominum Deum tuum.
+          <lb ed="#P" n="57"/>Verum aliis diebus hoc modo : Tu autem, Domine,
+          <lb ed="#P" n="58"/>etc. Aique ita sunt quatuor mcdi finiendi lectiones.
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>Ad missam proinde thus offerri fion. dettet, 
+          quam<lb break="no" ed="#P" n="60"/>libet hoc tempore ita usu receptum sit. Nam in
+          <lb ed="#P" n="61"/>veteri lege prohibitum fuit ne pro peccato offerretur
+          <lb ed="#P" n="62"/>oleum laetitiae nec thus suavitatis; ubi enim 
+          pecca<lb break="no" ed="#P" n="63"/>tum, ibhi tenebrae, atque isthic non debet esse laetitia,
+          <lb ed="#P" n="64"/>nec suavitas, sed luctus et contritio cordis. 
+          Quo<lb break="no" ed="#P" n="65"/>circa et exscquiae , quas nos facimus ob mortuorum
+          <lb ed="#P" n="66"/>commissa, celebrantur.
+        </p>
+        <p xml:id="raWSwa-d1e2016-d1e228">
+          <lb ed="#P" n="67"/>Animadverte interim in lege Movsi probibitum
+          <lb ed="#P" n="68"/>fuisse a Domino, ne thimyama boni odoris, vel thus
+          <lb ed="#P" n="69"/>sibi sacrificium aliquis adoleret in usus suos, ut
+          <lb ed="#P" n="70"/>odore ejus frueretur, quod si quis faceret, periret e
+          <lb ed="#P" n="71"/>populo suo. Atque ideo moris est in Ecclesia, ut ad
+          <lb ed="#P" n="72"/>altare benedictum ac consecratum thus offeratur;
+          <lb ed="#P" n="73"/>cum vero descendit thuribulnn vel ad clericos, vel
+          <lb ed="#P" n="74"/>ad laicos, ut tum aliud thus sine benedictione 
+          usur<lb break="no" ed="#P" n="75"/>petur, atque hominihus offeratur. Consuetum est
+          <lb ed="#P" n="76"/>hic quaeri, cur ad missam mortuorum pax non 
+          de<lb break="no" ed="#P" n="77"/>tur : et sane triplex assignatur ratio. Prima est,
+          <lb ed="#P" n="78"/>quia officium hoc uti dictum est triduanam Chrissi
+          <lb ed="#P" n="79"/>significat sepulturam, quando pax non datur propter
+          <lb ed="#P" n="80"/>osculum Judae. Secunda, quoniam non 
+          communica<lb break="no" ed="#P" n="81"/>mus mortuis, quod nobis minime respondeant
+          <lb ed="#P" n="82"/>Unde profecto etiamest, quod corpus sive cadaverin
+          <lb ed="#P" n="83"/>ecclesia esse non debeat quandiu missa dedie 
+          cele<lb break="no" ed="#P" n="84"/>bratur, atque adeo si adsit, quod isthinc oporteat
+          <lb ed="#P" n="85"/>asportari, dum de mortuis missa canatur. Tertia
+          <lb ed="#P" n="86"/>est, quia sicut ex multis granis sunul collectis, unus
+          <lb ed="#P" n="87"/>efficitur panis, et ex multis racemis vinum 
+          expri<lb break="no" ed="#P" n="88"/>mitur : ita quoque ex multis fidelihus quorum 
+          qui<lb break="no" ed="#P" n="89"/>dam sunt boni, et quidam mali, una constituitur
+          <lb ed="#P" n="90"/>Ecclesia. Quoniam ergo mottuo homine nescitur
+          <lb ed="#P" n="91"/>utrum sit ex conformitate Ecclesiae, et pacem 
+          ha<lb break="no" ed="#P" n="92"/>beat cum suo Creatore, ideo ad missam pacem non
+          <lb ed="#P" n="93"/>damus. Non autem dicimus Benedicamus Domino,
+          <lb ed="#P" n="94"/>nec Deo gratias, nec laudes aliquas referimus, quia
+          <lb ed="#P" n="95"/>non est unde sint agendae, cum nec dum appareat
+          <lb ed="#P" n="96"/>eorum requies.
+        </p>
+        <p xml:id="raWSwa-d1e2016-d1e297">
+          <lb ed="#P" n="97"/>Illud praeterea animadvertendum est officium
+          <lb ed="#P" n="98"/>mortuorum finiri nona hora, et non habere secundas
+          <lb ed="#P" n="99"/>vesperas, quo significatur quod hoc officium fincm
+          <lb ed="#P" n="100"/>habebit, quaudoquidem animae salvandorum ab omni
+          <lb ed="#P" n="101"/>poena liberatae sempiterna laetitia perfruentur, 
+          nimi<lb break="no" ed="#P" n="102"/>rum sancti, de quorum glorificatione in anima certa
+          <lb ed="#P" n="103"/>est Ecclesia. Primas et secundas vesperas habent, si
+          <lb ed="#P" n="104"/>in eorum officio novem lectiones decantentur. Et 
+          qui<lb break="no" ed="#P" n="105"/>dem primas, propter glorificationem animae, 
+          secun<lb break="no" ed="#P" n="106"/>das vero propter glorificationem corporis quam 
+          habe<lb break="no" ed="#P" n="107"/>bunt, quaeque nunquam finem sit habitura. Si 
+          au<lb break="no" ed="#P" n="108"/>tem non nisi tres lectiones canantur, primas 
+          tan<lb break="no" ed="#P" n="109"/>tum vesperas habebunt. Nunc porro dicendum est,
+          <lb ed="#P" n="110"/>quemadmodum corpus sit sepeliendum, et 
+          quo<lb break="no" ed="#P" n="111"/>modo tumulandum, et ad ecclesiam deportandum,
+          <lb ed="#P" n="112"/>a quibus, et quando. Quando ergo jam aliquis 
+          ani<lb break="no" ed="#P" n="113"/>mam agere videtur, humi collocari oportet super
+          <lb ed="#P" n="114"/>cineres, vel paleas, quo innuitur quod cinis est, et
+          <lb ed="#P" n="115"/>in cinerem rcvertetur, quod ut aliis de se 
+          exem<lb break="no" ed="#P" n="116"/>plum praeberet, B. Martinus fecisse legitur. Debet
+          <lb ed="#P" n="117"/>praeterca recitari passio Domini, vel ejus pars ali-
+          <pb ed="#P" n="82"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>qua ante morrentem si sit litteratus et doctus, ut.
+          <lb ed="#P" n="2"/>moveatur ad majorem compunctionem. Sic quoque
+          <lb ed="#P" n="3"/>et crux ante pedcs ejus esse oportet, ut jam 
+          mo<lb break="no" ed="#P" n="4"/>riens eam intueatur, quo vel inde magis 
+          contera<lb break="no" ed="#P" n="5"/>tur. Debet recta jacere facie, ut coelum aspiciat.
+          <lb ed="#P" n="6"/>Priusquam vero expiraverit, necessarium est ut
+          <lb ed="#P" n="7"/>campanae pulsentur, idque ideo ut populus audiens
+          <lb ed="#P" n="8"/>oret pro eo. Pro mulieribus quidem bis, quoniam
+          <lb ed="#P" n="9"/>mulier invenit alienationem. lpsa namque primo
+          <lb ed="#P" n="10"/>fecit quo homo alienaretur a Deo. Quare secundus
+          <lb ed="#P" n="11"/>dies non habuit bencdictioncm. pro viro autem ter
+          <lb ed="#P" n="12"/>pulsatur, quod ab ipso Trinitatis quoddam in 
+          ho<lb break="no" ed="#P" n="13"/>mine apparuerit exemplum. Primo enim Adamus
+          <lb ed="#P" n="14"/>formatus est e terra, deiunde mulier ex Adamo, ac
+          <lb ed="#P" n="15"/>postea ex utroque creatus est homo, ut ad eum
+          <lb ed="#P" n="16"/>modum hinc nata sit Trinitas quaedam. Ad 
+          postre<lb break="no" ed="#P" n="17"/>mumn pro ecclcesiastico tot vicibus debet 
+          compul<lb break="no" ed="#P" n="18"/>sari, quot habeat ordines, ut sciat populus pro quo
+          <lb ed="#P" n="19"/>sit orandum. Pari ratione pulsari oportet quando
+          <lb ed="#P" n="20"/>portatur ad ecclesiam, et quando rursus ex ea ad
+          <lb ed="#P" n="21"/>tumulum. Priusquam autem corpus sepeliatur
+          <lb ed="#P" n="22"/>pannus sublevetur, debet sacerdos vel ejus 
+          vica<lb break="no" ed="#P" n="23"/>rius illuc venire cum aqua lustrali seu benedicta
+          <lb ed="#P" n="24"/>ac orationes pro eo ad Dominum effundens, 
+          san<lb break="no" ed="#P" n="25"/>ctos invocare, et rogare ut ejus animam suscipiant,
+          <lb ed="#P" n="26"/>atoue in locum gaudii deferant. Sunt enim quaedam
+          <lb ed="#P" n="27"/>animae, quae sunt perfectae, ut quam cito exeunt e
+          <lb ed="#P" n="28"/>corporibus, «d coelos evolent. Sunt et alie prorsus
+          <lb ed="#P" n="29"/>malae, quae illico ad inferos cadunt.
+        </p>
+        <p xml:id="raWSwa-d1e2016-d1e412">
+          <lb ed="#P" n="30"/>Verum praeter has sunt et aliae mediae pro 
+          qui<lb break="no" ed="#P" n="31"/>bus hujusmodi fit commendatio, idque tantum
+          <lb ed="#P" n="32"/>propter incertitudinem. Proinde abluto corpore et
+          <lb ed="#P" n="33"/>velato oportet portari ad ecclesiam, ac tunc debet
+          <lb ed="#P" n="34"/>missa cantari, ubi profecto animadvertas in 
+          qui<lb break="no" ed="#P" n="35"/>busdam ecclesiis unicuique dari candelam in choro
+          <lb ed="#P" n="36"/>in altera manu et in altera quod offeratur, ac sic
+          <lb ed="#P" n="37"/>lecto evangelio ea offeruntur saceruoti pro mortuo,
+          <lb ed="#P" n="38"/>atque tum hujusmodi cantari solet versus, hostias
+          <lb ed="#P" n="39"/>et preces. Missa celebrata, ante cadaver praecantat
+          <lb ed="#P" n="40"/>sacerdos, et si plures sint sacerdotes omnes debent
+          <lb ed="#P" n="41"/>habere stolas, ac cum co orationes dicere. Peracto
+          <lb ed="#P" n="42"/>autem officio praecantationis, portatur ad 
+          sepul<lb break="no" ed="#P" n="43"/>crum cum hujusmodi psalmnis in exitu. 
+          Confite<lb break="no" ed="#P" n="44"/>mini, et aliis, quid ad hoc peculiariter sunt 
+          insti<lb break="no" ed="#P" n="45"/>tuti. Verum portari debet a similibus, ut si 
+          diaco<lb break="no" ed="#P" n="46"/>nus fuerit a diaconis , si sacerdos a sacerdotibus.
+          <lb ed="#P" n="47"/>si isthic praesto sint. Sin vero non, minime : cum
+          <lb ed="#P" n="48"/>necessitas legi non subjiciatur. Sic clericus a 
+          cle<lb break="no" ed="#P" n="49"/>ricis, Catholicus a Catbolicis. Si vero fuerit ex 
+          fra<lb break="no" ed="#P" n="50"/>ternitate (et quam ita vocant, et saepe faciunt inter
+          <lb ed="#P" n="51"/>bomines), ab eis debet portari. Sed mulieribus non
+          <lb ed="#P" n="52"/>est permissum aliquorum cadavcera deportare, ne
+          <lb ed="#P" n="53"/>earum corpora nuda videantur, quod fortassis 
+          ali<lb break="no" ed="#P" n="54"/>quando contingeret quemadinodum ncec licitum est
+          <lb ed="#P" n="55"/>eis pacem dare ad evitandam lasciviam. Deinde
+          <lb ed="#P" n="56"/>vero ponitur in sepulcrum, et isthic aqua 
+          apponi<lb break="no" ed="#P" n="57"/>tur benedicta, ac prunae cum thurc. FEt profecto
+          <lb ed="#P" n="58"/>aqua benedicta ideo ne ad corpus daemones 
+          acce<lb break="no" ed="#P" n="59"/>dant, quos hujusmodi aqua abigit ac propellit. So-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>lent enim diaboli saepenumero in mortuorum 
+          de<lb break="no" ed="#P" n="61"/>saevire corpora, et quod non potuerunt in vita, id
+          <lb ed="#P" n="62"/>faciunt saltem post mortem. Thus autem apponitur
+          <lb ed="#P" n="63"/>propter corporis fetorem removendum, et prunae ad
+          <lb ed="#P" n="64"/>designandum quod terra illa in usus communes
+          <lb ed="#P" n="65"/>amplius redigi nequcat. Diutius enim carbo sub
+          <lb ed="#P" n="66"/>terra conservatur, quam iliud quidp:am, quod 
+          pos<lb break="no" ed="#P" n="67"/>sit isthic, in testimonium relinqui. Hedera vel 
+          lau<lb break="no" ed="#P" n="68"/>rus, quae in perpetuum frondium servant, virorem
+          <lb ed="#P" n="69"/>in sarcophago prope corpora ponuntur, ad 
+          decla<lb break="no" ed="#P" n="70"/>randum, quod illi qui moriuntur, in illo vivere non
+          <lb ed="#P" n="71"/>desistunt, quia quantumvis corpore moriuntur,
+          <lb ed="#P" n="72"/>anima tamen vivunt. Alia sane ratione in funeribus
+          <lb ed="#P" n="73"/>habebatur cupressus. Nam quemadmodum haec
+          <lb ed="#P" n="74"/>caesa non iterum revifescit, sed tota moritur : ita
+          <lb ed="#P" n="75"/>hoino ex eo quod moritur, non rursum reviviscit.
+          <lb ed="#P" n="76"/>llaec de mortuis dicta sufliciant, ac de festis 
+          Qua<lb break="no" ed="#P" n="77"/>tuor Coronatorum deinceps agamus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 122</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 122</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="64"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1541"><!-- raWSwa-c122 -->
+        <head xml:id="raWSwa-d1e1541-Hd1e101">Caput 122</head>
+        <head xml:id="raWSwa-d1e1541-Hd1e103" type="question-title">
+          De litaniis.
+        </head>
+        <p xml:id="raWSwa-d1e1541-d1e106">
+          <lb ed="#P" n="80"/>CAPUT CXXII
+          <lb ed="#P" n="81"/>De litaniis.
+        </p>
+        <p xml:id="raWSwa-d1e1541-d1e113">
+          <lb ed="#P" n="82"/>Primo ergo videndum est quid sit litania, 
+          secun<lb break="no" ed="#P" n="83"/>do cum sint dme litanie, quare una dicatur major;
+          <lb ed="#P" n="84"/>altera minor, tertio quamobrem fuerint institutae,
+          <lb ed="#P" n="85"/>quarto quemadmodum in his jejunandum sit et 
+          ve<lb break="no" ed="#P" n="86"/>stiendum, quinto et ultimo quid populus in litania
+          <lb ed="#P" n="87"/>debeat cantare. Litania interpretatur Latine 
+          supplica<lb break="no" ed="#P" n="88"/>tio sive rogatio. Supplicatio dicitur, quia tunc Deo
+          <lb ed="#P" n="89"/>supplicamus ut a morte subitanca et ab omni 
+          ad<lb break="no" ed="#P" n="90"/>versitate nos defendat. Rogatio appellatur, quia
+          <lb ed="#P" n="91"/>tunc sanctos rogamus, ut pro nobis ad Dominum
+          <lb ed="#P" n="92"/>intercedant. Duae sunt litaniae, major et minor.
+          <lb ed="#P" n="93"/>Major fit in festo B. Marci evangelistae. Dicitur 
+          au<lb break="no" ed="#P" n="94"/>tem major, tum auctoritate institutionis, quod eam
+          <lb ed="#P" n="95"/>instituit Gregorius papa ejus nominis primus, qui
+          <lb ed="#P" n="96"/>et magnus Gregorius dictus est, tum anctoritate
+          <lb ed="#P" n="97"/>loci. Fuit enim instituta Romae, et publico decreto
+          <lb ed="#P" n="98"/>sancitum ut ubique celebraretur. Alia litania 
+          nomi<lb break="no" ed="#P" n="99"/>natur minor, quia a minori instituta fuit, scilicet a
+          <lb ed="#P" n="100"/>B. Mamerto episcopo, idque Viennae. Atque haec non
+          <lb ed="#P" n="101"/>celebratur nisi in Ecclesia Cisalpina. Quare autem
+          <lb ed="#P" n="102"/>fuerit instituta prior litapia, hanc reddit causam
+          <lb ed="#P" n="103"/>Paulus Montiscasinii monachus, Longobardorum
+          <lb ed="#P" n="104"/>historiographus. « Nam, » ut inquit ille, « tempore
+          <lb ed="#P" n="105"/>Pelagii papae tanta fuit aquarum inundatio in 
+          uni<lb break="no" ed="#P" n="106"/>versa Italia, ut aqua ascenderet ad superiores usque
+          <lb ed="#P" n="107"/>fenestras templi B. Zenonis, quod erat Veronae, nec
+          <lb ed="#P" n="108"/>tamen miraculose aqua templum influit. Ex qua
+          <lb ed="#P" n="109"/>inundatione per Tyberim affluxit in agros multitudo
+          <lb ed="#P" n="110"/>serpentum, inter quos exstitit maximus draco, et
+          <lb ed="#P" n="111"/>omnes per duo ostia Tyberis intrarunt mare. Ex
+          <lb ed="#P" n="112"/>borum serpentum venenato aflatu et maxime istius
+          <lb ed="#P" n="113"/>draconis, corruptus est aer et infectus usque adeo
+          <lb ed="#P" n="114"/>ut inde gravissima pestis inguinaria nata sit, qua
+          <lb ed="#P" n="115"/>homines passim moriebantur. Tum Pelagius papa
+          <lb ed="#P" n="116"/>indixit jejunium, et praecepit ut processionem 
+          insti<lb break="no" ed="#P" n="117"/>tuerent ; quod ita factum est. Sed in ipsa processione
+          <lb ed="#P" n="118"/>ipsemct cum septuaginta aliis exspiravit In ejus
+          <pb ed="#P" n="65"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>autem jocum institutus est Gregorius magnus, qui .
+          <lb ed="#P" n="2"/>hujusmodi litaniam ubique terrarum observari 
+          prae<lb break="no" ed="#P" n="3"/>cepit
+        </p>
+        <p xml:id="raWSwa-d1e1541-d1e207">
+          <lb ed="#P" n="4"/>De secunda litania quae per triduum 
+          celebra<lb break="no" ed="#P" n="5"/>mr, ait Gregorius episcopus Turonensis, « quod
+          <lb ed="#P" n="6"/>empore Beati Mamerti Viennae et circa Viennam
+          <lb ed="#P" n="7"/>febant crebro terraemotus et tanti etiaun, ut vel 
+          ma<lb break="no" ed="#P" n="8"/>inz domus et multae ecclesiae inde collapsae sint
+          <lb ed="#P" n="9"/>e corruerint ; quae tempestas toto anno duravit.
+          <lb ed="#P" n="10"/>Sic etiam Sabbato pascbali, dum ipse Mamertus
+          <lb ed="#P" n="11"/>divinum celebraret officium, igne coelitus demisso,
+          <lb ed="#P" n="12"/>conbustum est civitatis palatium. Praeterea bestiae,
+          <lb ed="#P" n="13"/>ut lupi et apri ex silvis in civitatem exibant, atque
+          <lb ed="#P" n="14"/>bomines devorabant. Pro his ergo incommodis
+          <lb ed="#P" n="15"/>Beatus Mamertus triduanum indixit jejunium, 
+          adsi<lb break="no" ed="#P" n="16"/>nilitudinem Ninivitarum. praecepitque ut 
+          processio<lb break="no" ed="#P" n="17"/>pem facerent, ut quemadmodum illi per triduanum
+          <lb ed="#P" n="18"/>jjuniuum urbis evagerunt subversionem, ita hi 
+          li<lb break="no" ed="#P" n="19"/>lerarentur ab istiusmodi adversitatibus: quod ita
+          <lb ed="#P" n="20"/>fatum est. » Gregorius autem ille, cujus paulo
+          <lb ed="#P" n="21"/>nte mentionem fecimus, legitur statura fuisse 
+          ad<lb break="no" ed="#P" n="22"/>podum exigua, usque adeo ut cum forte Romam
+          <lb ed="#P" n="23"/>veuiret, omnes ipsum parvipenderent, atque ipse
+          <lb ed="#P" n="24"/>diam papa miratus fucrit quod tam parvus 
+          homun<lb break="no" ed="#P" n="25"/>do factus esset episcopus, ad quem ille honcste
+          <lb ed="#P" n="26"/>respondit : Ipse Deus fecit nos, et non ipsi nos (Psal.
+          <lb ed="#P" n="27"/>ixxiv). Simile quidpiam dixit beatus Hilarius cuie
+          <lb ed="#P" n="28"/>dam ipsum vocanti gallum : « Non sum, inquit, 
+          ua<lb break="no" ed="#P" n="29"/>tus Gallus, sed ex Gallia; et tu es Leo, sed uon ex
+          <lb ed="#P" n="30"/>vibu Juda; sic enim vocabatur
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

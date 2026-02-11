@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 123</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 123</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="65"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1553"><!-- raWSwa-c123 -->
+        <head xml:id="raWSwa-d1e1553-Hd1e101">Caput 123</head>
+        <head xml:id="raWSwa-d1e1553-Hd1e103" type="question-title">
+          De institutione et modo litamarum.
+        </head>
+        <p xml:id="raWSwa-d1e1553-d1e106">
+          <lb ed="#P" n="31"/>CAPUT CXXIII
+          <lb ed="#P" n="32"/>De institutione et modo litamarum.
+        </p>
+        <p xml:id="raWSwa-d1e1553-d1e113">
+          <lb ed="#P" n="33"/>Instiwuit igitur B. Mamertus, ut singulis ann.s
+          <lb ed="#P" n="34"/>baec litania tribus diebus continuis in Ecclesia 
+          Ci<lb break="no" ed="#P" n="35"/>salpina celebraretur, quod ita Romae fuit 
+          canonica<lb break="no" ed="#P" n="36"/>tum. Papa etiam Liberius instituit ut pro fame,
+          <lb ed="#P" n="37"/>pro peste, pro clade, et hujusmodi adversitatibus
+          <lb ed="#P" n="38"/>imminentibus semper litanias faceremus, ut sic illa
+          <lb ed="#P" n="39"/>per supplicationes, orationes et jejunia evitaremus.
+          <lb ed="#P" n="40"/>Vocantur autem he processiones litaniae, Graeco 
+          vo<lb break="no" ed="#P" n="41"/>cabulo propter auctoritatem Graeci sermonis, sicut
+          <lb ed="#P" n="42"/>Pascba et Pentecoste. In his litaniis jejunandum
+          <lb ed="#P" n="43"/>est cibo quadragesunali, in vestibus 
+          poenitentiali<lb break="no" ed="#P" n="44"/>bus. Nam et omnes illo die a mundanis operibus
+          <lb ed="#P" n="45"/>prorsus abstinere debent, etiam et servi et ancillae,
+          <lb ed="#P" n="46"/>ac interesse tantisper processioni, donec ipsa 
+          ccle<lb break="no" ed="#P" n="47"/>bretur : ut quemadmodum omnes peccaverunt, ita
+          <lb ed="#P" n="48"/>ctiam omnes pro vcnia supplicent. In hujusmodi
+          <lb ed="#P" n="49"/>autem processionibus itur in magnis ecclesiis 
+          se<lb break="no" ed="#P" n="50"/>pteno ordine , unde septiformes dictae sunt. In pruno
+          <lb ed="#P" n="51"/>ordine sunt clerici, in secundo monachi et 
+          cano<lb break="no" ed="#P" n="52"/>nici, in tertio ioniales, in quarto pueri, in quinto
+          <lb ed="#P" n="53"/>laici provectae aetatis, in sexto viduae, et in septimo
+          <lb ed="#P" n="54"/>conjugati. Sed quod nos non possumus in 
+          nu<lb break="no" ed="#P" n="55"/>mero personarum , id supplemus in numero 
+          lita<lb break="no" ed="#P" n="56"/>oiarum. Septies enim litaniam dicere debemus.
+          <lb ed="#P" n="57"/>Ubi obiter animadvertemus quod Rupertus 
+          Tuitien<lb break="no" ed="#P" n="58"/>sis abbas dixerit ultimam litaniam multis annis in-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>coepisse ante primam. Nos autem has Itanias ideo
+          <lb ed="#P" n="60"/>maxime hoc tempore facimus, quonian tum 
+          pracci<lb break="no" ed="#P" n="61"/>pue bella exoriri soleant, et terrae fructus, qui 
+          ad<lb break="no" ed="#P" n="62"/>huc sunt teneri, vcl in flore, corrumpi injuria 
+          nebu<lb break="no" ed="#P" n="63"/>larum, vel pluribus aliis fmodis possint. Ut ergo
+          <lb ed="#P" n="64"/>Deus haec omnia avertat, instituimus litanias, 
+          con<lb break="no" ed="#P" n="65"/>Linuantes ultimam Ascensioni, ut per jejunium et
+          <lb ed="#P" n="66"/>orationes Christum sequi, et ad coelos ascendere
+          <lb ed="#P" n="67"/>mereamur. Draco qui triduo illo deportatur inflata
+          <lb ed="#P" n="68"/>et longa cauda duobus quidem diebus ante cruccm
+          <lb ed="#P" n="69"/>et vexilla, postca ultimo retro, significat diabolum,
+          <lb ed="#P" n="70"/>qui tribus te mporibus ante legem, sub lcge et 
+          tem<lb break="no" ed="#P" n="71"/>pore gatiae, quae per hos tres dies indicantur, 
+          ho<lb break="no" ed="#P" n="72"/>mines fefellit, aut fallere conatur.
+        </p>
+        <p xml:id="raWSwa-d1e1553-d1e204">
+          <lb ed="#P" n="73"/>Primis duobus temporibus quasi erat domins
+          <lb ed="#P" n="74"/>orhis, unde Christus eum vocat principem mundi
+          <lb ed="#P" n="75"/>(Joan. xwv). Tempore vero gratiae per Christum
+          <lb ed="#P" n="76"/>fuit devictus nec audet ita aperte regnare, ut prius,
+          <lb ed="#P" n="77"/>sed per sggestiones homines latenter seducit, quos
+          <lb ed="#P" n="78"/>pigros, et remissos videt in bonis operibus, nec
+          <lb ed="#P" n="79"/>viam vitae sectantes, sicut in deserto debiles et 
+          in<lb break="no" ed="#P" n="80"/>firmos, et eos, qui remanebant ultiui, hostes a tergo
+          <lb ed="#P" n="81"/>venientes, quasi aberrantes interficiebant. Inde 
+          pro<lb break="no" ed="#P" n="82"/>fecto est quod primis duobus diebus praecedit, et
+          <lb ed="#P" n="83"/>ultimo sequatur. Ipse est draco et leo. Draco modo
+          <lb ed="#P" n="84"/>est, quia homines non ita aperte, sed latenter 
+          deci<lb break="no" ed="#P" n="85"/>pit. Leo erit tempore Antechristi, quoniam tunc
+          <lb ed="#P" n="86"/>manifeste saeviet in nomen Christi. Draco fuit,
+          <lb ed="#P" n="87"/>quando Christum super pinnaculum templi ubi
+          <lb ed="#P" n="88"/>multos ante per vanam glori:un seduxerat, latenter
+          <lb ed="#P" n="89"/>fallere voluit, et tentavit inquiens : Si Filius Dei es,
+          <lb ed="#P" n="90"/>mitte te deorsum (Matth. 1v). Et quasi hoc facere
+          <lb ed="#P" n="91"/>posset sccure addidit : (uoniam angelis suis 
+          mon<lb break="no" ed="#P" n="92"/>davit , etc. (Psal. Lxxxix.) Bene cnim intelligebat
+          <lb ed="#P" n="93"/>Scripturas; sed quod sibi malo erat subticuit, 
+          vide<lb break="no" ed="#P" n="94"/>licet, Super aspidem et basiliscum ambulabis, etc.
+          <lb ed="#P" n="95"/>Leo autem fuit in passione Domini, cui ipsum 
+          cru<lb break="no" ed="#P" n="96"/>cifigere etiam curavit, de illo ait Joannes in 
+          Apoca<lb break="no" ed="#P" n="97"/>ypsi : Ecce draco magnus rufus habens capita 
+          se<lb break="no" ed="#P" n="98"/>ptem et cornua decem, et in capitibus suis diademata
+          <lb ed="#P" n="99"/>septem et cauda ejus trahebat secum tertiam partem
+          <lb ed="#P" n="100"/>stellarum. (Apoc. xn.) Per stellas hic significantur 
+          ho<lb break="no" ed="#P" n="101"/>mines qui tripartito dividuntur : in perfectos, 
+          inper<lb break="no" ed="#P" n="102"/>fectos et reprobos. Tertiam ergo partem ste:larum
+          <lb ed="#P" n="103"/>trahit secum diabolus, nimirum reprobos ; nam hi
+          <lb ed="#P" n="104"/>sunt cauda illius. Alibi vocat eum Christus 
+          Sata<lb break="no" ed="#P" n="105"/>nam : Videbam Satanam tanquam fulgur de colo
+          <lb ed="#P" n="106"/>cadentem (Luc. x). Et ad Petrum inquiens : Vade
+          <lb ed="#P" n="107"/>retro me, Satana (Marc. x). Non est autem 
+          intelli<lb break="no" ed="#P" n="108"/>gendum quod vocet eum diabolum, sed adversarium,
+          <lb ed="#P" n="109"/>quod interpretatur Satanas. Haec enim ejus loci
+          <lb ed="#P" n="110"/>mens et sententia est : Vade retro me, Satanas, id
+          <lb ed="#P" n="111"/>est, sequere me per imitationem passionis : Noli
+          <lb ed="#P" n="112"/>disturbare passionem meam. Vel certe haec 
+          vide<lb break="no" ed="#P" n="113"/>bat enim Christus, ut ait D. Hilarius, daemonem
+          <lb ed="#P" n="114"/>in aurem Petri suggerentem, ut impediret suam
+          <lb ed="#P" n="115"/>passionem et ait ei : Satan, satan. Ac si diceret :
+          <lb ed="#P" n="116"/>Nequidquam et frustra laboras. Et conversus ad
+          <lb ed="#P" n="117"/>Petrum dixit : Vade retro me, id est, sequere, 
+          imi<lb break="no" ed="#P" n="118"/>tando meam passionem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

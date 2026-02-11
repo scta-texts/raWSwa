@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 69</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 69</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="38"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e896"><!-- raWSwa-c69 -->
+        <head xml:id="raWSwa-d1e896-Hd1e101">Caput 69</head>
+        <head xml:id="raWSwa-d1e896-Hd1e103" type="question-title">
+          De Nativitate Domini.
+        </head>
+        <p xml:id="raWSwa-d1e896-d1e106">
+          <lb ed="#P" n="45"/>CAPUT LXIX
+          <lb ed="#P" n="46"/>De Nativitate Domini.
+        </p>
+        <p xml:id="raWSwa-d1e896-d1e113">
+          <lb ed="#P" n="47"/>Nunc de ipso die Nativitatis agamus, quo ante
+          <lb ed="#P" n="48"/>primos nocturnos tres pannos super altare poni
+          <lb ed="#P" n="49"/>consuctum est, ad declarationem trium temporum
+          <lb ed="#P" n="50"/>singulisque nocturnis unum auferri. Et primus 
+          qui<lb break="no" ed="#P" n="51"/>dem niger erat, pro tempore ante legem ; secundus
+          <lb ed="#P" n="52"/>subcandidus, pro tempore revelationis; et tertius
+          <lb ed="#P" n="53"/>ruber, pro tempore gratia : propter dilectum 
+          spon<lb break="no" ed="#P" n="54"/>sum candidum et rubicundum. Poteris alibi facile
+          <lb ed="#P" n="55"/>invenire quemadmodum veteres interpolate cet 
+          di<lb break="no" ed="#P" n="56"/>versis vicibus ad nocturnos surgere solebant, 
+          vidc<lb break="no" ed="#P" n="57"/>licet iu conticinio, nocte media, et in antelucano.
+          <lb ed="#P" n="58"/>Post tertium nocturnum incenduntur lumina 
+          eccle<lb break="no" ed="#P" n="59"/>5ize, et recitato Evangelio, Liber generationis (Matth.
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>1), cantatur Te Deum lauaamus, ad consignandam
+          <lb ed="#P" n="61"/>congratulationem, quae facta fuit ob inventam 
+          dra<lb break="no" ed="#P" n="62"/>chmam quam mulier perdiderat, in cujus inveniendae
+          <lb ed="#P" n="63"/>gratiam ea lucernam incendit totamque domum
+          <lb ed="#P" n="64"/>evertit, hoc est, Ecclesia triumphans ex inferno per
+          <lb ed="#P" n="65"/>Christum'omnino extrabitur. Quatuor autem illo die
+          <lb ed="#P" n="66"/>leguntur Evangelia, unum Matthai, alterum et 
+          ter<lb break="no" ed="#P" n="67"/>tium Lucae, quartum Joannis, ut de Nativitate 
+          Chri<lb break="no" ed="#P" n="68"/>sti quatuor testes perhibeant testimonium. 
+          Quan<lb break="no" ed="#P" n="69"/>quam sane duo, vel ad summum tres sufficere 
+          pos<lb break="no" ed="#P" n="70"/>sunt, cum in ore duurum vel trium testium stet
+          <lb ed="#P" n="71"/>omne verbum (Deut. xvi). Quamobrem vero Isaias
+          <lb ed="#P" n="72"/>legatur in primo nocturno, supra a nobis ostensum
+          <lb ed="#P" n="73"/>est. Verum diligenter hic animadvertere debemus,
+          <lb ed="#P" n="74"/>trium praecipue Scripturas hoc tempore in Ecclesia
+          <lb ed="#P" n="75"/>frequentari magis, quam aliorum. In primis 
+          nimi<lb break="no" ed="#P" n="76"/>rum Davidis prophetae qui fuit homicida, proditor et
+          <lb ed="#P" n="77"/>adulter ; deinde Matthaei apostoli, qui et publicanus
+          <lb ed="#P" n="78"/>dictus est, et hoc ipso nomine infamis , postremo
+          <lb ed="#P" n="79"/>Pauli apostoli, qui persecutus est Ecclesiam. Quod
+          <lb ed="#P" n="80"/>quidem non abs re ita institutum fuit, ne videlicet
+          <lb ed="#P" n="81"/>desperent alii, quantumlibet peccatores, propter
+          <lb ed="#P" n="82"/>facta praecedentia, eleemosynas vel orationes Deo
+          <lb ed="#P" n="83"/>displicere, quin si poeniteant, certo sciant se 
+          ve<lb break="no" ed="#P" n="84"/>niatn facile consequi posse, quantumvis gravi noxa
+          <lb ed="#P" n="85"/>perplexi sint. Post Te Deum laudamus, dici oportet
+          <lb ed="#P" n="86"/>a sacerdote jam e vestiario egresso, Confiteor, 
+          at<lb break="no" ed="#P" n="87"/>que inchoari prima missa, ubi de aeterna Christi
+          <lb ed="#P" n="88"/>generatione obscura et ignota agitur. Quo quidem
+          <lb ed="#P" n="89"/>fit ut illa etiam nocte cani debeat. Absoluta vero
+          <lb ed="#P" n="90"/>illa dicuntur laudes, et finiuntur eadem oratione
+          <lb ed="#P" n="91"/>cum missa, ut banc atque illas idem plane officium
+          <lb ed="#P" n="92"/>innuere exprimamus. Apparente aurora, statim 
+          in<lb break="no" ed="#P" n="93"/>cipitur secunda missa, in qua agitur de completione
+          <lb ed="#P" n="94"/>sive impletione promissorum de Christo nascituro.
+          <lb ed="#P" n="95"/>Unde profecto sic illam auspicamur : Lua fulgebit,
+          <lb ed="#P" n="96"/>cum illucente die, ac matutino apparente 
+          inchoe<lb break="no" ed="#P" n="97"/>tur. Át dixerit hic semidoctus aliquis 
+          grammati<lb break="no" ed="#P" n="98"/>cus : Ergo deberet ibi esse lux fulgens ; quod verum
+          <lb ed="#P" n="99"/>non est, quia tunc rubet. Sed intelligendum est, ut
+          <lb ed="#P" n="100"/>diximus, dc impletione promissorum, quasi 
+          dica<lb break="no" ed="#P" n="101"/>mus tum, lux fulgebit , cum Christus advenerit, qui
+          <lb ed="#P" n="102"/>vera et aeterna lux est, cumque omnia quae de ejus
+          <lb ed="#P" n="103"/>adventu jam multo tempore dicta sunt, 
+          complebun<lb break="no" ed="#P" n="104"/>tur. Proiude haec missa, ut et ante dictum est, 
+          fini<lb break="no" ed="#P" n="105"/>tur hoc modo: Ecce completa sunt, etc. Prima ergo
+          <lb ed="#P" n="106"/>pertinet ad generationem ex Patre sine matre, 
+          vi<lb break="no" ed="#P" n="107"/>delicet aeternam.; secunda ad eam quae,fuit ex 
+          ma<lb break="no" ed="#P" n="108"/>tre sine patre, ut temporalcm ; tertia autem quasi
+          <lb ed="#P" n="109"/>compacta et conjuncta est, tradit cnim utramque.
+          <lb ed="#P" n="110"/>Nam quod in ejus exordio dicitur : Puer natus est
+          <lb ed="#P" n="111"/>nobis (Isa.1x), ad temporalcm spectat generationem;
+          <lb ed="#P" n="112"/>ad aeternam vero Evangelium Joannis : In 
+          princi<lb break="no" ed="#P" n="113"/>pio erat Verbum (Joan. 1). Pars tamen illius 
+          Evange<lb break="no" ed="#P" n="114"/>lii, postrema nimirum : Verbum caro factum est,
+          <lb ed="#P" n="115"/>etc., ad temporalem nativitatem refcrenda est. 
+          Di<lb break="no" ed="#P" n="116"/>citur autem hujusmodi duplex nativitas, ut nos
+          <lb ed="#P" n="117"/>haud obscure intelligamus nativitatem Christi ter
+          <lb ed="#P" n="118"/>restrem nobis procul dubio contulisse nativitatem
+          <pb ed="#P" n="39"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>coelestem. Unde illud est quod in festo B. Stephani
+          <lb ed="#P" n="2"/>dicitur : Heri natus est Christus in terris, ut hodie
+          <lb ed="#P" n="3"/>Stephanus nasceretur in calis. Denique neumae quae
+          <lb ed="#P" n="4"/>Éiunt in missa, gaudium repraesentant, quae potius
+          <lb ed="#P" n="5"/>per e, ut hRyrie, vel per a, ut alleluia fieri solent,
+          <lb ed="#P" n="6"/>quam per alias vocales. ut per has significemus 
+          gau<lb break="no" ed="#P" n="7"/>dium spirituale quod restitutum est nobis in partu
+          <lb ed="#P" n="8"/>Virginis, cum facta est immutatio hujus vocabuli
+          <lb ed="#P" n="9"/>Eva, salutante angelo et dicente : Ave, Maria(Luc. 1).
+          <lb ed="#P" n="10"/>Fjus enim nominis , scilicet Evae significatio 
+          man<lb break="no" ed="#P" n="11"/>serat usque ad salutationem angeli. Hanc autem 
+          si<lb break="no" ed="#P" n="12"/>guificationem, nempe luctus Adae et Evae, nascentes
+          <lb ed="#P" n="13"/>exprimunt pueri, si nimirum puella nascatur 
+          pro<lb break="no" ed="#P" n="14"/>fert, ut vulgus quidem existimat e, cum mascvlus a.
+          <lb ed="#P" n="15"/>lie igitur neuma repraesentant dolorem, quem 
+          no<lb break="no" ed="#P" n="16"/>bis contulit transgressio Adami et Evae. Sed 
+          gau<lb break="no" ed="#P" n="17"/>dium plane restitutum est in B. Virgine cui non
+          <lb ed="#P" n="18"/>Gictum est Eva. sed Avc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

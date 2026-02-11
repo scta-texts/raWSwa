@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 11</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 11</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="11"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e191"><!-- raWSwa-c11 -->
+        <head xml:id="raWSwa-d1e191-Hd1e101">Caput 11</head>
+        <head xml:id="raWSwa-d1e191-Hd1e103" type="question-title">
+          De institutione Quadragesima, et reliquis jejunandi
+          formis.
+        </head>
+        <p xml:id="raWSwa-d1e191-d1e106">
+          <lb ed="#P" n="87"/>CAPUT XI.
+          <lb ed="#P" n="88"/>De institutione Quadragesima, et reliquis jejunandi
+          <lb ed="#P" n="89"/>formis.
+        </p>
+        <p xml:id="raWSwa-d1e191-d1e115">
+          <lb ed="#P" n="90"/>Instituta igitur fuit Quadragesima , pro dierum
+          <lb ed="#P" n="91"/>decimna. Sed cur potius quadragenario numero,
+          <lb ed="#P" n="92"/>quam alio appelletur, evidens ratio est; cum 
+          qua<lb break="no" ed="#P" n="93"/>draginta dies in anno pro decima liquido possimus
+          <lb ed="#P" n="94"/>invenire. Sicut Levitae ex decimis quae eis 
+          offere<lb break="no" ed="#P" n="95"/>bantur, supumno sacerdoti partem reddebant 
+          deci<lb break="no" ed="#P" n="96"/>mam ; ita et nos decimam damus Chbrisse vero 
+          pon<lb break="no" ed="#P" n="97"/>tifici ex triginta sex diebus, qui sunt in decima 
+          tre<lb break="no" ed="#P" n="98"/>centorum et quadraginta dierum, et ex sex horis
+          <lb ed="#P" n="99"/>cum quadrante , quae sunt ultra dies trecentos et
+          <lb ed="#P" n="100"/>quadraginta. Cum ergo summatim sint dies 
+          qua<lb break="no" ed="#P" n="101"/>draginta unus et quadrans, ex quadraginta 
+          babe<lb break="no" ed="#P" n="102"/>mus pro decima quatuor, quibus cum aliis triginta
+          <lb ed="#P" n="103"/>et sex computatis, exsurgunt quadraginta. hestat
+          <lb ed="#P" n="104"/>adhuc unus dies et quadrans, quae sunt horae tri.
+          <lb ed="#P" n="105"/>ginta, quarum pars decima tres sunt bora, pro
+          <lb ed="#P" n="106"/>quibus in Sabbato Paschae jejunamus usquc ad
+          <lb ed="#P" n="107"/>noctem. Sunt autem in anno dies trecenti et 
+          qua<lb break="no" ed="#P" n="108"/>draginta sex, quorum decima pars triginta sex dies
+          <lb ed="#P" n="109"/>sunt, accepta decima quadrantis, pro qua voluit
+          <lb ed="#P" n="110"/>Augustimus ut in vigilia Paschae, ejus dici missa nocte
+          <lb ed="#P" n="111"/>celebraretur. Unde est, quod in oratione, quam 
+          col<lb break="no" ed="#P" n="112"/>lectam- dicimus, illo die lcgimus : Deus qui hauc
+          <lb ed="#P" n="113"/>sacratissimam noctom,. etc. Dicitur ergo 
+          Quadrage<lb break="no" ed="#P" n="114"/>sima, quasi cum decima quatuur. Dicbus cnim 
+          tri<lb break="no" ed="#P" n="115"/>ginta et sex adduntur quatuor, qui sunt ex decima.
+          <lb ed="#P" n="116"/>Primus est sanctificationis, hoc est mundificatsionis,
+          <lb ed="#P" n="117"/>si sic dicere liceat. Quia tunc homo mundatur et
+          <lb ed="#P" n="118"/>layatur, tam anima quam corpore. Religui trca
+          <pb ed="#P" n="12"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sunt primitiarum. Primus dierum quadraginta est
+          <lb ed="#P" n="2"/>quarta Quadragesima. Tres ali sunt, ut dictum est,
+          <lb ed="#P" n="3"/>primitiarum. Et certe ignorandum non est tres dies
+          <lb ed="#P" n="4"/>jejuniorum in unoquoque tempore celebrari, qui
+          <lb ed="#P" n="5"/>appellantur primitiae, quod ita de iis sit 
+          dispensa<lb break="no" ed="#P" n="6"/>tum. Proinde jejunium dispensationis est, quod in
+          <lb ed="#P" n="7"/>magnarum solemnitatum vigiliis fieri dicitur. 
+          Sole<lb break="no" ed="#P" n="8"/>bant enim majores nostri ilia nocte, quae proxime
+          <lb ed="#P" n="9"/>festum praecedebat, vigilare, unde et vigiliag 
+          appel<lb break="no" ed="#P" n="10"/>labant dies festa proxime praecedentes , ad quas
+          <lb ed="#P" n="11"/>conveniebant juvenes et puelke, cantores et lusores,
+          <lb ed="#P" n="12"/>sicut adhuc lit in plerisque regionibus, ut in 
+          Picta<lb break="no" ed="#P" n="13"/>via, praecipue its festis patronorum ecclesiarum.
+          <lb ed="#P" n="14"/>Sed quoniam multa inde naseebantur incommoda,
+          <lb ed="#P" n="15"/>institutum fuit us in locum vigiliarum succederent
+          <lb ed="#P" n="16"/>jejunia, ut eo demum modo comessationes superfuae
+          <lb ed="#P" n="17"/>et ebrietates quae crebro contingebant , tollerentur
+          <lb ed="#P" n="18"/>e medio. Quod in ea forma ab Ecclesia ita 
+          dispen<lb break="no" ed="#P" n="19"/>satum accepimus. Si quis tamen jejunaret et 
+          vigila<lb break="no" ed="#P" n="20"/>tet, his utique baud male faceret. Nihil enim vetat
+          <lb ed="#P" n="21"/>bonum dupticare. Dicitur autem hujusmodi 
+          institu<lb break="no" ed="#P" n="22"/>tio, dispensatio , quasi in diversis, ut sic loquar,
+          <lb ed="#P" n="23"/>pensatio. Nam jejunium hoc fuit introductum in
+          <lb ed="#P" n="24"/>compensationem vigiliarum , quse idcirco fuerunt
+          <lb ed="#P" n="25"/>abrugatae, ne crebra illae comessationes atque 
+          ebri<lb break="no" ed="#P" n="26"/>etates posthac fierent. Aliquaando tamen et canonici
+          <lb ed="#P" n="27"/>rigoris est dispensatio justa de causa ab eo cujus
+          <lb ed="#P" n="28"/>interest facta relaxatio, quemadmodum etiam in
+          <lb ed="#P" n="29"/>hoc loco. Viderunt enim quod melius erat jejunare
+          <lb ed="#P" n="30"/>quam vigilare. Jejunium porro devotionis est, si,
+          <lb ed="#P" n="31"/>quando quis sua sponte jejunat, ut in vigilia B.
+          <lb ed="#P" n="32"/>Martini, et B. Nieolai. Jejunium paritatis est, cum
+          <lb ed="#P" n="33"/>in vigilia S. Jacobi, Bartholomsei , et aliorum 
+          apo<lb break="no" ed="#P" n="34"/>stolorum jejunamus, quibus ut jejunaretur , 
+          statu<lb break="no" ed="#P" n="35"/>tum non est. Facimus tamen cx eo, quod omnes
+          <lb ed="#P" n="36"/>apostoll in meritis ac praemiis pores sint. Quorum
+          <lb ed="#P" n="37"/>enim mer:ta sequalia sunt, necessarium plane est
+          <lb ed="#P" n="38"/>ut eorum animae in coelis sint aequales.
+        </p>
+        <p xml:id="raWSwa-d1e191-d1e267">
+          <lb ed="#P" n="39"/>Ob quam sane causam Ecclesia considceravit 
+          di<lb break="no" ed="#P" n="40"/>guum esse ut pariter omnes jejunia haberent. Ex
+          <lb ed="#P" n="41"/>apostolis autem sex tantum jejunium habent 
+          insti<lb break="no" ed="#P" n="42"/>tutionis, quorum item quatuor cum conjunctim 
+          je<lb break="no" ed="#P" n="43"/>junamus, quatuor durntaxat in universum existunt
+          <lb ed="#P" n="44"/>apostolorum jejunia. Nam Petrus et Paulus unum
+          <lb ed="#P" n="45"/>communiter obtinent , quoniam eodem die passi
+          <lb ed="#P" n="46"/>sunt. Sic Simon et Judas, qui ita simul duo 
+          jeju<lb break="no" ed="#P" n="47"/>nia efficiunt; tertium habet Matthaeus, et quartum
+          <lb ed="#P" n="48"/>Andreas.
+        </p>
+        <p xml:id="raWSwa-d1e191-d1e292">
+          <lb ed="#P" n="49"/>Cur vero his, et non etiam aliis jejunamus, ratio
+          <lb ed="#P" n="50"/>in promptu est. Ut hoc enim fleret in eorum 
+          vigi<lb break="no" ed="#P" n="51"/>liis, ideo sancta Ecclesia statuit, quo sicut illi pro
+          <lb ed="#P" n="52"/>Christi nomine passi sunt, et nos quoque aliquo
+          <lb ed="#P" n="53"/>salteni modo cum eis patiamur, si beate cum eis
+          <lb ed="#P" n="54"/>vivere optemus. Eadem ratione etiam de aliis 
+          apo<lb break="no" ed="#P" n="55"/>stolis instituisset, nisi aliud quidpiam impedimento
+          <lb ed="#P" n="56"/>fuisset. Impedimenta autem sunt haec : Festum
+          <lb ed="#P" n="57"/>Philippi et Jacobi quod ipsis Kalcn. Maii habemus,
+          <lb ed="#P" n="58"/>quae semper sunt inter Pascha et Pentecosten,
+          <lb ed="#P" n="59"/>quod sit tempus laetitiae, et gaudii, jcjunandum non
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>est. Nec obstant jejunia, quae in diebus 
+          Litania<lb break="no" ed="#P" n="61"/>rum sive Rogationum occurrunt, eum ca ob aliam
+          <lb ed="#P" n="62"/>fiant necessitatem, ut patebit dilecidius in 
+          sequen<lb break="no" ed="#P" n="63"/>tibus. Nam et tum jejunatur ab aliquibus propter
+          <lb ed="#P" n="64"/>Spiritus sancti exspectationem. Jacobus Zebedaei ab
+          <lb ed="#P" n="65"/>llerode oburuncatus est in diebus azymorum, ita
+          <lb ed="#P" n="66"/>ut neque jejunium labeat, neque illi festum 
+          cele<lb break="no" ed="#P" n="67"/>brari possit. Festum nanque ejus, quod septimo
+          <lb ed="#P" n="68"/>kalendas Augusti observatur, non fit respectui illius
+          <lb ed="#P" n="69"/>passionis aut mortis, sed translationis. Tunc enim
+          <lb ed="#P" n="70"/>illi primo dedicata est ecclesia in Hispania, ut 
+          plc<lb break="no" ed="#P" n="71"/>nius ostendetur eo in loco quo ejus fesium 
+          attin<lb break="no" ed="#P" n="72"/>genus. Quod autem non jejunatur Bartholomaeo,
+          <lb ed="#P" n="73"/>cujus festum est octavo Kalend. Septembris, aliud
+          <lb ed="#P" n="74"/>est impedimentum. Fertur enim uno die fuisse 
+          exco<lb break="no" ed="#P" n="75"/>riatus, et altero obiisse, quanquam in legenda scu
+          <lb ed="#P" n="76"/>Vita ejus illud minime habeatur. Quod si ergo ita
+          <lb ed="#P" n="77"/>sit, necessarium foret, ut ejus vigilia secundo die
+          <lb ed="#P" n="78"/>ante festum coleretur, quod essct centra normam
+          <lb ed="#P" n="79"/>aliorum jejunierum festivorum. Ut de beato Themae
+          <lb ed="#P" n="80"/>jejunetur, non oportet, quia festum ejus est in 
+          Ad<lb break="no" ed="#P" n="81"/>ventu Domini, in quo quasi continuum jejunium
+          <lb ed="#P" n="82"/>debemus observare. Barnabas propterea noa habet
+          <lb ed="#P" n="83"/>jejunium, quod non sit ex numero apostolorum.
+          <lb ed="#P" n="84"/>Nec profecto dicitur apostolus, nisi quod, vum erat
+          <lb ed="#P" n="85"/>Pauli socius, ut cateri ad praedicandum missus sit.
+          <lb ed="#P" n="86"/>Unde illud : Segregate Barnabam et Paulum (Act.
+          <lb ed="#P" n="87"/>xin). Mathiae ideo non est institutum jejunium, quia
+          <lb ed="#P" n="88"/>festum ejus in Quadragesima freguentius solet 
+          con<lb break="no" ed="#P" n="89"/>tingere, quando alioqui semper jejunatur. Yel etiam
+          <lb ed="#P" n="90"/>ob eam rem, quod ex priwitivis apostolis non fuerit,
+          <lb ed="#P" n="91"/>sed post Christi passionem per aliorum electionem
+          <lb ed="#P" n="92"/>loco Judae substitutus (Act. 1). De quo dicitur : Et
+          <lb ed="#P" n="93"/>episcopatum ejus accipiat alter (Psal. cvm). Festuin
+          <lb ed="#P" n="94"/>denique B. Joannis evangelistae semper celebratur
+          <lb ed="#P" n="95"/>tertio die post Nativitatem Christi, quo jejunare
+          <lb ed="#P" n="96"/>non licet propter dies festos. Nihil interim vetat,
+          <lb ed="#P" n="97"/>quominus omnium apostolorum jejunia possint
+          <lb ed="#P" n="98"/>celebrari. Optime enim fecerit, qui jejunaverit. 
+          si<lb break="no" ed="#P" n="99"/>cut in vigilia beati Jacobi septimo Kalend. Augusti
+          <lb ed="#P" n="100"/>jejunant hi, qui ipsum colunt. Sed istiusmedi 
+          jeju<lb break="no" ed="#P" n="101"/>nium vocatur paritatis, quod securidum merita 
+          su<lb break="no" ed="#P" n="102"/>scipitur, non institutionis.
+        </p>
+        <p xml:id="raWSwa-d1e191-d1e414">
+          <lb ed="#P" n="103"/>Et rursus jejunium aliud inspirationis , alind
+          <lb ed="#P" n="104"/>circumspectionis. Inspirationis jejunium est, quale
+          <lb ed="#P" n="105"/>fuit in B. Nicolao, qui etiamnum infans in 
+          cunabu<lb break="no" ed="#P" n="106"/>lis bis in hebdomada ab uberibus matris abstinuit,
+          <lb ed="#P" n="107"/>ac tantum semel papillas quarta et sexta feria suxit.
+          <lb ed="#P" n="108"/>Jejunium circumspectionis est , quando prae 
+          inumni<lb break="no" ed="#P" n="109"/>nente aliqua tempestate, vel hostium periculo, vcl
+          <lb ed="#P" n="110"/>simili aliquo infortunio jejunamus. Deinceps vcro
+          <lb ed="#P" n="111"/>jejunium aliud est rationabile, aliud irrationabilc.
+          <lb ed="#P" n="112"/>Rationabile appellatur qued ipsa ratio facile 
+          admit<lb break="no" ed="#P" n="113"/>tit, cum moderate cibum et potum sumimus, ne
+          <lb ed="#P" n="114"/>inde corpus debilitetur. Unde isquit Apostolus :
+          <lb ed="#P" n="115"/>Rationabile sit obsequium vestrum (Rom. xu): Non
+          <lb ed="#P" n="116"/>in commessationibus et ebrietatibus, ctc. (Rom. xu).
+          <lb ed="#P" n="117"/>Irrationabile est, si quis velit jejunare duobus aut
+          <lb ed="#P" n="118"/>tribus dicbus continuis, aut integra etiam scpti-
+          <pb ed="#P" n="13"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>mana : cuiusmodi Deus non approbat, qui ut vitia
+          <lb ed="#P" n="2"/>mori cogantur, non autem ug natura dissolvatur
+          <lb ed="#P" n="3"/>rait esse jejunandum. Hinc illud jejunium posse
+          <lb ed="#P" n="4"/>prohiberi, quod nonnulli continuant a Coena Domini
+          <lb ed="#P" n="5"/>usque ad Pascha, satis manifestum est.
+        </p>
+        <p xml:id="raWSwa-d1e191-d1e466">
+          <lb ed="#P" n="6"/>Sunt item alia jejuniorum formae, quas eadem
+          <lb ed="#P" n="7"/>brevitate perstringemus. Nam aliud reperitur 
+          quali<lb break="no" ed="#P" n="8"/>tatis, aliud quantitatis, aliud numeri, aliud summsee
+          <lb ed="#P" n="9"/>exactionis, aliud alteritatis, ut sic dicam, aliud 
+          xe<lb break="no" ed="#P" n="10"/>rophagiae. Qualitatis jejunium vocamus, cum carn.s
+          <lb ed="#P" n="11"/>esum nobis in posterum indicimus ; quantitatis,
+          <lb ed="#P" n="12"/>cum quis ad certam mensuram sibi victum 
+          subtra<lb break="no" ed="#P" n="13"/>b:t, e omnino quantum quoque die comedat, quasi
+          <lb ed="#P" n="14"/>ponderatum bhabet. Jejunium numeri est, si quande
+          <lb ed="#P" n="15"/>quis ita secum siatuat, ut quolibet die non nisi 
+          se<lb break="no" ed="#P" n="16"/>mel posthac cibum caperet, vel bis, idque ex eo
+          <lb ed="#P" n="17"/>quod qui idem saepius faciunt, sic ipsi se abjiciant
+          <lb ed="#P" n="18"/>ac prosternant ut nihil inter eos atque ipnter bruta
+          <lb ed="#P" n="19"/>anmantia plane intersit. Haec enim ut ad pastum
+          <lb ed="#P" n="20"/>nata sunt potissimum, ita sepius unoquoque die
+          <lb ed="#P" n="21"/>ventrem saturant. llis sese reticere humanum est,
+          <lb ed="#P" n="22"/>semel autem, ut fertur, angelorum. Quare cum sint,
+          <lb ed="#P" n="23"/>quibus semel duntaxat cum angelis quoque die vesci
+          <lb ed="#P" n="24"/>decretum est, hujusmodi jejunium habere putantur.
+          <lb ed="#P" n="25"/>Sed tolerabilius hoc est, illud vero strictius, quod
+          <lb ed="#P" n="26"/>summsae dicitur exactionis , cujuamodi habent hi,
+          <lb ed="#P" n="27"/>qui radicibus et herbis vescuntur, ut in deserto
+          <lb ed="#P" n="28"/>Joannes Baptista, et in eremo Maria JEgyptiaca, quae
+          <lb ed="#P" n="29"/>cum doobus tantum panibus trajecit Jordanem, 
+          vi<lb break="no" ed="#P" n="30"/>tamque austeram et solitariam egit annis quinque.
+          <lb ed="#P" n="31"/>Alternationis esse dicitur jejunium, cum quis 
+          alter<lb break="no" ed="#P" n="32"/>patim jejunat, nimirum si cum hoc die abstinucrit,
+          <lb ed="#P" n="33"/>sequenti comedat Xeropbagia adeo jejunium, et si
+          <lb ed="#P" n="34"/>quando qnis cibum comedit aridum. Dicitur enim
+          <lb ed="#P" n="35"/>xerophagia a Enpóg siccus, et eccyo, quod est comedo,
+          <lb ed="#P" n="36"/>quasi dicamus siccam comestionem, quale esse 
+          po<lb break="no" ed="#P" n="37"/>test in pomis, piris, castaneis, prunis , et id genus
+          <lb ed="#P" n="38"/>aliis. Quidam tamen siccam comestionem essc 
+          ar<lb break="no" ed="#P" n="39"/>bürantur legumina cruda sive cocta, si modoabsque
+          <lb ed="#P" n="40"/>jure conedantur. Postremo invenitur quoddam 
+          je<lb break="no" ed="#P" n="41"/>junium vanitatis seu simulationis, ut in hypocritis,
+          <lb ed="#P" n="42"/>qui ob fictam sanctimoniam jcjunant , ut ab 
+          omni<lb break="no" ed="#P" n="43"/>bus suspiciantur ; quoddam necessitatis, ut in 
+          men<lb break="no" ed="#P" n="44"/>dicis, et quoddam virtutis, ut in iis qui veram 
+          cor<lb break="no" ed="#P" n="45"/>pori inducunt abstinentiam, cum a culpa animis
+          <lb ed="#P" n="46"/>abstinent, cum sesc victu defraudantes, cibum 
+          ege<lb break="no" ed="#P" n="47"/>nis benigne partiuntur, quem suis ventribus 
+          detra<lb break="no" ed="#P" n="48"/>hbunt, cum denique scsc esurientibus velint alios
+          <lb ed="#P" n="49"/>suis satiari epulis. De jejunio igitur ejusque 
+          multi<lb break="no" ed="#P" n="50"/>plici distinctione hactenus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

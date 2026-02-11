@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 43</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 43</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="26"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e580"><!-- raWSwa-c43 -->
+        <head xml:id="raWSwa-d1e580-Hd1e101">Caput 43</head>
+        <head xml:id="raWSwa-d1e580-Hd1e103" type="question-title">
+          De secunda parte missa.
+        </head>
+        <p xml:id="raWSwa-d1e580-d1e106">
+          <lb ed="#P" n="31"/>CAPUT XLIII.
+          <lb ed="#P" n="32"/>De secunda parte missa.
+        </p>
+        <p xml:id="raWSwa-d1e580-d1e113">
+          <lb ed="#P" n="33"/>Jam vero secunda pars missae quae proprie missa
+          <lb ed="#P" n="34"/>appellata est, proxime sequitur, nimirum quam 
+          ora<lb break="no" ed="#P" n="35"/>tionis esse diximus. Nam prima pars, de qua 
+          hacte<lb break="no" ed="#P" n="36"/>nus dictum est, vocatur obsecrationis. Haec ergo
+          <lb ed="#P" n="37"/>pars missae, ut missam appellemus totum officium
+          <lb ed="#P" n="38"/>ab introitu usque ad I:e, missa est, si strictim 
+          acci<lb break="no" ed="#P" n="39"/>piatur, proprio nomine missa appellata est. Habet
+          <lb ed="#P" n="40"/>autem ea quatuor distinctiones. Prima dicitur 
+          se<lb break="no" ed="#P" n="41"/>creta, altera praefatio, tertia canon, quarta oratio
+          <lb ed="#P" n="42"/>Dominica cum sua praefatione. Atque haec quidem
+          <lb ed="#P" n="43"/>pars extenditur usque ad Dominicae orationpis finem,
+          <lb ed="#P" n="44"/>Sed libera nos a malo, Amen, quod tacite a sacerdote
+          <lb ed="#P" n="45"/>proferri debet. Hic itaque considerandum est tot
+          <lb ed="#P" n="46"/>dehere dici collectas, eodemque ordine, ac de 
+          eis<lb break="no" ed="#P" n="47"/>dem in secreta post communionem, quot 
+          praecesse<lb break="no" ed="#P" n="48"/>runt in obsecratione ante epistolam in exordio
+          <lb ed="#P" n="49"/>missae, nec plures, nec etiam pauciores, hoc 
+          sem<lb break="no" ed="#P" n="50"/>per observato, ne ultra septenarium numerum 
+          pro<lb break="no" ed="#P" n="51"/>grediatur. Summopere item cavendum est quod si
+          <lb ed="#P" n="52"/>forte collecta pro defunctis intermisceatur, ne 
+          fina<lb break="no" ed="#P" n="53"/>lis, sed penultima vel antepenultima dicatur. 
+          Quo<lb break="no" ed="#P" n="54"/>niam finis ad suum debet retorqueri principium. Ad
+          <lb ed="#P" n="55"/>postremum generaliter cognoscendum est quod in
+          <lb ed="#P" n="56"/>missa pro defunctis nulla debeat pro vivis oratio
+          <lb ed="#P" n="57"/>intermisceri, hac tamen communi excepta, Dewus,
+          <lb ed="#P" n="58"/>qui vivorum dominaris simul et mortuorum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

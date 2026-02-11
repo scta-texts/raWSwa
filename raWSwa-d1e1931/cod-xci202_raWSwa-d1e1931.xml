@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 154</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 154</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="77"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1931"><!-- raWSwa-c154 -->
+        <head xml:id="raWSwa-d1e1931-Hd1e101">Caput 154</head>
+        <head xml:id="raWSwa-d1e1931-Hd1e103" type="question-title">
+          De festo angelorum sive Michaelis.
+        </head>
+        <p xml:id="raWSwa-d1e1931-d1e106">
+          <lb ed="#P" n="76"/>CAPUT CLIV.
+          <lb ed="#P" n="77"/>De festo angelorum sive Michaelis.
+        </p>
+        <p xml:id="raWSwa-d1e1931-d1e113">
+          <lb ed="#P" n="78"/>Festum angelorum, quod hoc tenpore colitur est
+          <lb ed="#P" n="79"/>Dedicationis, quando cis basilicae dedicatae sunt,
+          <lb ed="#P" n="80"/>quoniam hoc festum omnium angelorum dicitur. De
+          <lb ed="#P" n="81"/>barbarorum autem fuga et tauro agitur inter Pascha
+          <lb ed="#P" n="82"/>et festum Ascensionis, quando de festo angelorum
+          <lb ed="#P" n="83"/>agitur. Proinde vero de nominibus angelorum 
+          dici<lb break="no" ed="#P" n="84"/>mus, quod nec sibi nomina imposuerunt, nec eis a
+          <lb ed="#P" n="85"/>Deo data sunt, sed ab hominibus : a quibus autem,
+          <lb ed="#P" n="86"/>nescimus. Caeterum in feato S. Michaelis cum de
+          <lb ed="#P" n="87"/>angelis omnibus agatur, Michaei nominatur, quia
+          <lb ed="#P" n="88"/>ipse praeest paradiso, et ad suscipiendas animas
+          <lb ed="#P" n="89"/>princeps est constitutus. Hic quoniam in Gargano
+          <lb ed="#P" n="90"/>monte visus sit, ac ipse locum sibi in alto elcgerit,
+          <lb ed="#P" n="91"/>ideo ei ubique fere terrarum in edicto loco basilica
+          <lb ed="#P" n="92"/>constituitur. Sanctis vero quasi hominibus et 
+          terre<lb break="no" ed="#P" n="93"/>nis in imo templa dedicantur. Dicunt autem 
+          non<lb break="no" ed="#P" n="94"/>nulli tot esse in quolibet angelorum ordine 
+          legio<lb break="no" ed="#P" n="95"/>nes, quot sunt legionis unitates, scilicet sex mille
+          <lb ed="#P" n="96"/>sexcentae et sexaginta scx. Certum est tamen plures
+          <lb ed="#P" n="97"/>cesse legiones quam ordines, unde Dominus inquit
+          <lb ed="#P" n="98"/>Petro : Nescis, quod si rogavero Patrem meum, 
+          mit<lb break="no" ed="#P" n="99"/>tet mihiplusquam duodecim legiones angeloru (Matth.
+          <lb ed="#P" n="100"/>xxvi). Ait Haymo tertius episcopus llalherstatensis,
+          <lb ed="#P" n="101"/>quod si quis posset videre spiritualee creaturas, ita
+          <lb ed="#P" n="102"/>eas videret ebullire in aere, tanquam minimas 
+          ato<lb break="no" ed="#P" n="103"/>mos in splendore solis. Constantinus etiam 
+          impera<lb break="no" ed="#P" n="104"/>tor, cum ad oras transmarinas proficiscerctur, 
+          in<lb break="no" ed="#P" n="105"/>venit Eusebium virum sanctissimum, cui dixit.
+          <lb ed="#P" n="106"/>« Yir sancte, pete a me quo tua Ecclesia ditetur. »
+          <lb ed="#P" n="107"/>llle -vero respondit, Ecclesiam suam satis divitiis
+          <lb ed="#P" n="108"/>abundare, sed se rogare, ut in omnibus mundi 
+          pla<lb break="no" ed="#P" n="109"/>gis scrutentur nomina sanctorum, et eorum 
+          paasio<lb break="no" ed="#P" n="110"/>num tempora, ac sub quibus et quemadmodum passi
+          <lb ed="#P" n="111"/>sunt, rescribat. Quo quidem facto refert Eusebius,
+          <lb ed="#P" n="112"/>quolibet anni die plusquam quinque millia 
+          aancto<lb break="no" ed="#P" n="113"/>rum festa concurrere. Unde fertur Gregorius 
+          di<lb break="no" ed="#P" n="114"/>xisse : « Totus mundus sanctis plenus est. » Quod
+          <lb ed="#P" n="115"/>autcm Michael dicitur pugnasse contra draconem,
+          <lb ed="#P" n="116"/>allegorice quidamm intelligi volunt, videlicet Michacel,
+          <lb ed="#P" n="117"/>id est Christus. Dicunt tamen olii historice esse in-
+          <pb ed="#P" n="78"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>telligendum, quoniam scilicet ministerio 
+          Michae<lb break="no" ed="#P" n="2"/>lis et angelorum ejus depulsus est diabolus. 
+          Quamo<lb break="no" ed="#P" n="3"/>brem ita etiam depingitur in Ecclesia propter laicos.
+          <lb ed="#P" n="4"/>Quaeritur praeterea utrum Michael sit nomen unius
+          <lb ed="#P" n="5"/>angeli, an vero plurium? Dicunt aliqui unius esse.
+          <lb ed="#P" n="6"/>Sed putant alii, quod quando unus angelorum 
+          uit<lb break="no" ed="#P" n="7"/>titur ad aliquod magnum et mirabile faciendum, is
+          <lb ed="#P" n="8"/>Kichael nuncupetur. Certum est autem Michaelem
+          <lb ed="#P" n="9"/>fuisse, qui missus est in Agyptum, et celebres 
+          il<lb break="no" ed="#P" n="10"/>las ac famosas plagas fecerit, et mare Rubrum 
+          di<lb break="no" ed="#P" n="11"/>viserit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 19</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 19</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="16"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e288"><!-- raWSwa-c19 -->
+        <head xml:id="raWSwa-d1e288-Hd1e101">Caput 19</head>
+        <head xml:id="raWSwa-d1e288-Hd1e103" type="question-title">
+          De officio generali.
+        </head>
+        <p xml:id="raWSwa-d1e288-d1e106">
+          <lb ed="#P" n="11"/>CAPUT XIX.
+          <lb ed="#P" n="12"/>De officio generali.
+        </p>
+        <p xml:id="raWSwa-d1e288-d1e113">
+          <lb ed="#P" n="13"/>De generali officio primo dicendum est, idque
+          <lb ed="#P" n="14"/>hoc ordine, ut primo quid canendum et psallendum
+          <lb ed="#P" n="15"/>sit videamus; deinde a quo fuerit institutum 
+          offl<lb break="no" ed="#P" n="16"/>cium ecclesiasticum; tertio ad quid conducat,
+          <lb ed="#P" n="17"/>quamobrem et quando sit ordinatum; quarto 
+          de<lb break="no" ed="#P" n="18"/>Lique a quo fuerit canonizatum et confirmatum. Et
+          <lb ed="#P" n="19"/>in primis quidem dicimus generaliter nibil esse
+          <lb ed="#P" n="20"/>cantandum aut psallendum, aut etiam legendum
+          <lb ed="#P" n="21"/>quod a summo pontifice non fuerit approbatum.
+          <lb ed="#P" n="22"/>In primitiva Ecclesia diversi diversa cantabant,
+          <lb ed="#P" n="23"/>quisque pro suo libitu, ita tamen si illud quod
+          <lb ed="#P" n="24"/>capebaut ad divinam laudem pertineret. Pleraque
+          <lb ed="#P" n="25"/>tamen officia observabant quae ab initio erant 
+          con<lb break="no" ed="#P" n="26"/>stituta, vel a Christo, ut Oratio Dominica, vel ab
+          <lb ed="#P" n="27"/>apostolis, ut Symbolum. Postea Ecclesia velut
+          <lb ed="#P" n="28"/>acissa est per varias haereses et schismata. Quod
+          <lb ed="#P" n="29"/>quidem cum vidisset Theodosius imperator, qui suo
+          <lb ed="#P" n="30"/>tempore omnes haereses exstirpavit, negotium dedit
+          <lb ed="#P" n="31"/>Danaso pontiflci, ut aliquem sapientem et 
+          Catho<lb break="no" ed="#P" n="32"/>licum ad se accerseret, qui ecclesiasticum officium
+          <lb ed="#P" n="33"/>ordinaret. Pracepit igitur Damasus Hieronymo,
+          <lb ed="#P" n="34"/>viro trium linguarum peritissimo, ut gui Ad eag
+          <lb ed="#P" n="35"/>rem tum erat idoneus, ut qudan. ofüaia. cbetesia-"
+          <lb ed="#P" n="36"/>stica in certum ordinehg te fyereHedfitabat autem
+          <lb ed="#P" n="37"/>um temporis Hieronymus Beethlemiae cum: Palá
+          <lb ed="#P" n="38"/>et Eustochio atque aliis virginibui rélfyiosit 
+          past<lb break="no" ed="#P" n="39"/>eaquam jam antea fphae sub septeht apostolicis
+          <lb ed="#P" n="40"/>viris habitaverat. Qtdinavii ergo hic quantum ad
+          <lb ed="#P" n="41"/>psalmos attinet, qui quibus diebus canerentur. Sed
+          <lb ed="#P" n="42"/>et evangelia et epistolas atque alia officia in 
+          ordi<lb break="no" ed="#P" n="43"/>nem quemdam redegit, ut quid quoque die 
+          cantan<lb break="no" ed="#P" n="44"/>dum esset, semel constaret. Nam omnes fere 
+          can<lb break="no" ed="#P" n="45"/>tus composuit , iis exceptis quos alii Ecclesiae 
+          do<lb break="no" ed="#P" n="46"/>ctores postea adjecerunt. Hieronymus itaque cum
+          <lb ed="#P" n="47"/>opus istiusmodi absolvisset, misit Romam, ubi a
+          <lb ed="#P" n="48"/>Dawmaso papa fuit approbatum, et in communi
+          <lb ed="#P" n="49"/>concilio canonizatum. Postremo papa Damasus eam
+          <lb ed="#P" n="50"/>dedit operi auctoritatem , ut postea semper in 
+          om<lb break="no" ed="#P" n="51"/>nibus Ecclesiis observaretur, quemadmodum in
+          <lb ed="#P" n="52"/>eo erat ordinatum. Quare ostensum modo est a
+          <lb ed="#P" n="53"/>quo offlcia ecclesiastica fuerint instituta, qua de
+          <lb ed="#P" n="54"/>causa, quando, in quem finem et quis ea 
+          canoni<lb break="no" ed="#P" n="55"/>zaverit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

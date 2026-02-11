@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 90</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 90</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="46"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1152"><!-- raWSwa-c90 -->
+        <head xml:id="raWSwa-d1e1152-Hd1e101">Caput 90</head>
+        <head xml:id="raWSwa-d1e1152-Hd1e103" type="question-title">
+          De secunda quarta feria et tertia.
+        </head>
+        <p xml:id="raWSwa-d1e1152-d1e106">
+          <lb ed="#P" n="62"/>CAPUT XC.
+          <lb ed="#P" n="63"/>De secunda quarta feria et tertia.
+        </p>
+        <p xml:id="raWSwa-d1e1152-d1e113">
+          <lb ed="#P" n="64"/>Quarta feria sequens ob id privilcgiata est quod
+          <lb ed="#P" n="65"/>tum ii qui Sabbato sequenti ordinandi sint, ex 
+          sa<lb break="no" ed="#P" n="66"/>cris litteris interrogentur atque examinentur, 
+          pro<lb break="no" ed="#P" n="67"/>benturque num idonei ctiam satis sint ad 
+          suscipien<lb break="no" ed="#P" n="68"/>dos ordines. Inde profecto est quod duae lectiones
+          <lb ed="#P" n="69"/>ad missam leguntur, una voce naturali vel 
+          noctur<lb break="no" ed="#P" n="70"/>nali, hoc est gravi ac pressa, altera vero communi.
+          <lb ed="#P" n="71"/>Prior Vetus Testamentum significat, posterior 
+          No<lb break="no" ed="#P" n="72"/>vum, ut per hoc declaretur eos qui suscepturi sunt
+          <lb ed="#P" n="73"/>ordines, utriusque Testamenti peritos esse debere.
+          <lb ed="#P" n="74"/>Atque illud quidem tanquam generalem regulam
+          <lb ed="#P" n="75"/>babemus, quotiescunque quarta feria duae lectiones
+          <lb ed="#P" n="76"/>ad missam leguntur, scquenti Sabbato possint 
+          ordi<lb break="no" ed="#P" n="77"/>nes celebrari. Caeterum tertia quarta feria in eo
+          <lb ed="#P" n="78"/>habet privilegium, quod illo die in ecclesia 
+          instru<lb break="no" ed="#P" n="79"/>ctio et examen fiat corum qui in Sabbato ante 
+          Pa<lb break="no" ed="#P" n="80"/>scha sint baptizandi. Fit autem instructio illa in
+          <lb ed="#P" n="81"/>bunc modum : Qui baptizari volunt conveniunt ad
+          <lb ed="#P" n="82"/>portas ecclesie, feminae a sinistris, mares a dextris;
+          <lb ed="#P" n="83"/>atque a diacono, vel sacerdote interrogantur an
+          <lb ed="#P" n="84"/>vclint baptizari ; aut idcem percontatur a 
+          susceptori<lb break="no" ed="#P" n="85"/>bus. Exorcista tamen debet prius interrogare num
+          <lb ed="#P" n="86"/>etiam abrenuntient Satanae, et omnibus ejus 
+          pom<lb break="no" ed="#P" n="87"/>pis, ita ut puer, si sit adultus, respondeat se 
+          ab<lb break="no" ed="#P" n="88"/>renuntiare ; si non adultus, pro eo susceptor. 
+          Ve<lb break="no" ed="#P" n="89"/>rum nullus in susceptorem admitti debct, nisi 
+          Ora<lb break="no" ed="#P" n="90"/>tionem sciat Dominicam, et minus symbolum calleat,
+          <lb ed="#P" n="91"/>quod tenetur suos docere filios. Nec vero 
+          Christia<lb break="no" ed="#P" n="92"/>nus censeri debet, nec ad testimonium aliquod
+          <lb ed="#P" n="93"/>admitti secundum decreta qui horum ignarus est.
+          <lb ed="#P" n="94"/>Quare omnino necesse est ut illud ex susceptoribus
+          <lb ed="#P" n="95"/>sacerdos inquirat. Alioqui cnim si nesciant, recipi
+          <lb ed="#P" n="96"/>non debent, nisi forte promittant, quod quam fieri
+          <lb ed="#P" n="97"/>potest citissime illa addiscent (T). Tunc demum
+          <lb ed="#P" n="98"/>acolythus scribit eorum nomina, qui volunt 
+          bapti<lb break="no" ed="#P" n="99"/>zari : unde etiam hic notarius est appellatus, quod
+          <lb ed="#P" n="100"/>baptizandorum scribat nomina. Postquam igitur a
+          <lb ed="#P" n="101"/>sacerdote satis in fide sint instructi, atque 
+          exorci<lb break="no" ed="#P" n="102"/>stae super eos fecerint adjurationes, ab ostiario in
+          <lb ed="#P" n="103"/>ecclesiam introducuntur, et in navi ecclesiee 
+          consti<lb break="no" ed="#P" n="104"/>tuuntur, masculi quidem a dextris, feminae vero a
+          <lb ed="#P" n="105"/>sinistris. Duo tamen intra sancta sanctorum 
+          dedu<lb break="no" ed="#P" n="106"/>cuntur, masculus videlicet et femina, quo 
+          signiflca<lb break="no" ed="#P" n="107"/>tur aliquos ex baptizandis fore salvos. Atque tum
+          <lb ed="#P" n="108"/>denique leguntur Oratio Dominica, et minus 
+          symbo<lb break="no" ed="#P" n="109"/>lum, Graece et Latine, propter earum linguarum 
+          di<lb break="no" ed="#P" n="110"/>gnitatem. Sunt enim caeteris digniores : Graeca
+          <lb ed="#P" n="111"/>utique propter sapientiam, Latina autem proptet
+          <lb ed="#P" n="112"/>potentiam Romanorum. Postea vero quatuor 
+          reci<lb break="no" ed="#P" n="113"/>tantur lectiones et quatuor Evangeliorum initia,
+          <lb ed="#P" n="114"/>tandemque inchoatur missa, cujus cantato offerto-
+          <pb ed="#P" n="47"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>rio, archidiaconus vel diaconus pulpitum ascendit,
+          <lb ed="#P" n="2"/>et clamat alta voce : Si quis, inquiens, est hic
+          <lb ed="#P" n="3"/>cathechumenus, exeat foras. Isti enim connotant, ut
+          <lb ed="#P" n="4"/>supra expositum est illos de quibus dictum est :
+          <lb ed="#P" n="5"/>Jesus autem non credebat se illis. Ipse enim sciebat
+          <lb ed="#P" n="6"/>quidquid esset in homine (Joan. n). Atque ita tum
+          <lb ed="#P" n="7"/>omnes catechumeni exeunt foras, quod septies
+          <lb ed="#P" n="8"/>eodem modo de illis agitur, antequam baptizentur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

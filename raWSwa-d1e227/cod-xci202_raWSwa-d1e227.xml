@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 14</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 14</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="14"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e227"><!-- raWSwa-c14 -->
+        <head xml:id="raWSwa-d1e227-Hd1e101">Caput 14</head>
+        <head xml:id="raWSwa-d1e227-Hd1e103" type="question-title">Quomodo personae dignitatis a veteribus ad nos
+          fluxerunt</head>
+        <p xml:id="raWSwa-d1e227-d1e106">
+          <lb ed="#P" n="63"/>CAPUT XIV.
+          <lb ed="#P" n="64"/>Quomodo personae dignitatis a veteribus ad nos
+          <lb ed="#P" n="65"/>fluxerunt.
+        </p>
+        <p xml:id="raWSwa-d1e227-d1e115">
+          <lb ed="#P" n="66"/>Videndum modo est quemadmodum dignitatum
+          <lb ed="#P" n="67"/>persona a veteribus ad nostram Ecclesiam 
+          perve<lb break="no" ed="#P" n="68"/>nerint. Ft dominus quidem papa, id est Pater 
+          pa<lb break="no" ed="#P" n="69"/>trum vel custos patrum, summi pontificis qui in lege
+          <lb ed="#P" n="70"/>fuit personam gerit, veluti Romanus imperator,
+          <lb ed="#P" n="71"/>monarchse, senatoria potestas, et patriciorum 
+          digni<lb break="no" ed="#P" n="72"/>tas, quae forsitan apud Judaeos observabantur, 
+          etiam<lb break="no" ed="#P" n="73"/>num in nostra Ecclesia permanet in tribus 
+          patriar<lb break="no" ed="#P" n="74"/>chis, sciticet Antiocheno, Alexandrino et 
+          Constan<lb break="no" ed="#P" n="75"/>tinopolitano. Primates, qui tribus archiepiscopia
+          <lb ed="#P" n="76"/>praesunt, vel praeesse possunt, regem exprimunt,
+          <lb ed="#P" n="77"/>cujus potestas ad tres se extendit ducatus. 
+          Metro<lb break="no" ed="#P" n="78"/>politani sive archiepiscopi comparantur ducibus, qui
+          <lb ed="#P" n="79"/>pluribus praesunt comitibus.. Nam et archiepiscopi
+          <lb ed="#P" n="80"/>pluribus episcopis praeesse dicuntur. Episcopi 
+          ba<lb break="no" ed="#P" n="81"/>bent similitudinem comitum. Coepiscopi, quorum
+          <lb ed="#P" n="82"/>jam abolita est dignitas, praefectis adaequantur. 
+          Ab<lb break="no" ed="#P" n="83"/>bates imitantur tribunos militum, cancellarii 
+          prae<lb break="no" ed="#P" n="84"/>tores, archidiaconi ecenturiones, decani 
+          decurio<lb break="no" ed="#P" n="85"/>nes. Archipresbyteri loco sunt advocatorum, 
+          presby<lb break="no" ed="#P" n="86"/>teri aedilium, diaconi quaternionum, hvpodiaconi
+          <lb ed="#P" n="87"/>tribunorum. Denique exorcistae quarstores 
+          repraa<lb break="no" ed="#P" n="88"/>sentant; ostiarii, aule janitores; lectorcs, carminum
+          <lb ed="#P" n="89"/>recitatores; acolythi, carminum scriptores.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

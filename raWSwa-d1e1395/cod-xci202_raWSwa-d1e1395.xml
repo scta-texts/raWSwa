@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 110</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 110</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="56"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1395"><!-- raWSwa-c110 -->
+        <head xml:id="raWSwa-d1e1395-Hd1e101">Caput 110</head>
+        <head xml:id="raWSwa-d1e1395-Hd1e103" type="question-title">
+          Cur tituli hic taceantur, et de baptismo.
+        </head>
+        <p xml:id="raWSwa-d1e1395-d1e106">
+          <lb ed="#P" n="107"/>CAPUT CX.
+          <lb ed="#P" n="108"/>Cur tituli hic taceantur, et de baptismo.
+        </p>
+        <p xml:id="raWSwa-d1e1395-d1e113">
+          <lb ed="#P" n="109"/>Duabus de causis tituli lectionum non 
+          praecinun<lb break="no" ed="#P" n="110"/>ur, quarum prima est, quoniam Christus caput
+          <lb ed="#P" n="111"/>nostrum necdum nobis sit restitutum. Secunda
+          <lb ed="#P" n="112"/>vero, quia qui sunt baptizandi, ad quos totum illius
+          <lb ed="#P" n="113"/>diei officium pertinet, adhuc in ima ignorantiae
+          <lb ed="#P" n="114"/>Scripturarum profunditate immersi detinentur. Cum
+          <lb ed="#P" n="115"/>ergo Scripturas non intelligant, non expedit earum
+          <lb ed="#P" n="116"/>nominare auctores. Inde quoque est quod tum
+          <lb ed="#P" n="117"/>lectiones recitentur ex Veteri Testamento, cujus 
+          co<lb break="no" ed="#P" n="118"/>gnitio non nisi spiritu renatis perfecte manifestatur.
+          <pb ed="#P" n="57"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Absolutis lectionibus in magnis quibusdam 
+          Ecclc<lb break="no" ed="#P" n="2"/>siis litania juxta numerum religiosoruu, qui isthuc
+          <lb ed="#P" n="3"/>conveniunt decantatur. In quibusdam vero Ecclesiis
+          <lb ed="#P" n="4"/>ter dicitur ; ut fides Trinitatis repraesentetur. Quod
+          <lb ed="#P" n="5"/>autem eundo ad fontem ac redeundo litania 
+          cante<lb break="no" ed="#P" n="6"/>tur, declarat sanctos orare pro baptizandis, ut 
+          ba<lb break="no" ed="#P" n="7"/>pusmi sacramentum vera fide percipiant, et jam
+          <lb ed="#P" n="8"/>baptizati deinceps in veritate fidei et sacramento
+          <lb ed="#P" n="9"/>confirmentur. Sciamus ergo quod in baptismo 
+          tem<lb break="no" ed="#P" n="10"/>pore apostolorum aliud nihil dicebatur, nisi hoc
+          <lb ed="#P" n="11"/>tantummodo : Ego baptizo te in nomine Patris et 
+          Fi<lb break="no" ed="#P" n="12"/>lii et Spiritus sancti. Sed B. Clcmens ex doctrina B.
+          <lb ed="#P" n="13"/>P.tri inunctionem chrismatis et olei addidit. Postea
+          <lb ed="#P" n="14"/>Leo et Damasus, summi pontifices, ac beatus 
+          Am<lb break="no" ed="#P" n="15"/>brosius reliqua adjecerunt, priusquam baptizabant
+          <lb ed="#P" n="16"/>in fluvis et stagnis. Quod vero sacerdos in aquis
+          <lb ed="#P" n="17"/>suaviter anbelat, significat fidelem facile diabolum
+          <lb ed="#P" n="18"/>posse abigere. Anhelat igitur isthic, ut diabolus inde
+          <lb ed="#P" n="19"/>cxpellatur : levi enim flatu potest repelli ab illo qui
+          <lb ed="#P" n="20"/>in Domino confidit. Cereus in aquis ponitur, quod
+          <lb ed="#P" n="21"/>contactus corporis Christi in baptismate aquas
+          <lb ed="#P" n="22"/>sanctificaverit et vim regenerandi ills contulerit.
+          <lb ed="#P" n="23"/>hepraesentat autem cereus super columnam positus
+          <lb ed="#P" n="24"/>ct accensus columnam ignis, quae nocte praecedebat
+          <lb ed="#P" n="25"/>faiios lsrael, quando JEgypto exeuntes intrarunt
+          <lb ed="#P" n="26"/>iare Rubrum, in quo praefigurabatur baptismus, ut
+          <lb ed="#P" n="27"/>per desertum venirent in terram promissionis. 
+          Ex<lb break="no" ed="#P" n="28"/>stinctus vero ostendit columnam nubis, quae item
+          <lb ed="#P" n="29"/>cosdem praibat interdiu. Columna enim tria 
+          prae<lb break="no" ed="#P" n="30"/>stabat : protegebat namque illos a sole, ab 
+          hosti<lb break="no" ed="#P" n="31"/>bvs, et nocte eis lucem praebebat. Pari ratione
+          <lb ed="#P" n="32"/>Christus precedens baptizatos, obumbrat eos contra
+          <lb ed="#P" n="33"/>inct amenta vitiorum et protegit ab hostibus, 
+          scili<lb break="no" ed="#P" n="34"/>cet a daemonibus et mundanis cupiditatibus, atque
+          <lb ed="#P" n="35"/>illuminat per charitatem. Unde dicitur : Ignis 
+          con<lb break="no" ed="#P" n="36"/>sumens in nobis vitia.
+        </p>
+        <p xml:id="raWSwa-d1e1395-d1e220">
+          <lb ed="#P" n="37"/>Proinde quod cnrisma in aquas funditur , 
+          signi<lb break="no" ed="#P" n="38"/>ficat coelestia terrenis per fidem baptismatis 
+          con<lb break="no" ed="#P" n="39"/>jungi. Ob quam etiam causam fieri dicimus quod
+          <lb ed="#P" n="40"/>sacerdos vocem mutet, et quandoque utatur voce
+          <lb ed="#P" n="41"/>alta, quandoque demissa. Eo enim nobis innuitur
+          <lb ed="#P" n="42"/>quod ima, id est terrestria per baptismum 
+          jungan<lb break="no" ed="#P" n="43"/>tur coelestibus. Consecrata igitur aqua veniunt
+          <lb ed="#P" n="44"/>baptizandi, vel a susceptoribus afferuntur, et 
+          bapti<lb break="no" ed="#P" n="45"/>zantur , sed prius tamen defide interrogantur. Postea
+          <lb ed="#P" n="46"/>vero oleo inunguntur in pectorc et in scapulis. In
+          <lb ed="#P" n="47"/>pectore quidem, ut capaces sint intellectus 
+          manda<lb break="no" ed="#P" n="48"/>torum Dei; in humeris vero, ut sint robusti ad
+          <lb ed="#P" n="49"/>portandum jugum et onus legis. Deinde ter 
+          mergun<lb break="no" ed="#P" n="50"/>tur, quod in fide Trinitatis baptizentur. Primo recta
+          <lb ed="#P" n="51"/>facie versus aquam, et capite versus orientem 
+          de<lb break="no" ed="#P" n="52"/>bent immergi, secundo ad aquilonem capite verso*,
+          <lb ed="#P" n="53"/>tertio capite verso ad meridiem. Ac primo quidem
+          <lb ed="#P" n="54"/>dicere debet : In uomine Patris , mergendo puerum
+          <lb ed="#P" n="55"/>in aquam facie versa ad orientem, postea 
+          paulu<lb break="no" ed="#P" n="56"/>lum lavare et dicere, et Filii, mergendo eum versus
+          <lb ed="#P" n="57"/>sinistram partem, et iterum paululum lavare, ac
+          <lb ed="#P" n="58"/>dicere, et Spiritus sancti, eumdem mergendo versus
+          <lb ed="#P" n="59"/>dexteram partem. Atquc ita tandem ipsum in altum
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>sublevare, ac susceptoribus committere debet 
+          sa<lb break="no" ed="#P" n="61"/>cetdos, a cujus mana puerum ut hi suscipiant
+          <lb ed="#P" n="62"/>oportet ; unde et susceptores sunt appellati. Non
+          <lb ed="#P" n="63"/>enim debet sacerdos ipsum in aquis relinquere,
+          <lb ed="#P" n="64"/>sed susceptoribus tradere. Tunc baptizatus in 
+          ver<lb break="no" ed="#P" n="65"/>tice capitis inungitur, in ejus significationem, quod
+          <lb ed="#P" n="66"/>Spiritus sanctus ei datur. Bis autem datus est 
+          Spi<lb break="no" ed="#P" n="67"/>ritus sanctus. Primo, Christo adhuc degente in
+          <lb ed="#P" n="68"/>terra, quando discipulis discumbentibus inspiravit,
+          <lb ed="#P" n="69"/>inquiens : Accipite Spiritum sanctum, quorum 
+          remi<lb break="no" ed="#P" n="70"/>seritis peccata, etc. (Joan. xx). Sccundo e coeio,
+          <lb ed="#P" n="71"/>atque ideo bis quilibet homo inungitur chrismate:
+          <lb ed="#P" n="72"/>Primo in baptismate, et in vertice, postea in 
+          con<lb break="no" ed="#P" n="73"/>firmatione ab episcopo in fronte. Datur enim nobis
+          <lb ed="#P" n="74"/>bis Spiritus sanctus : In baptismate quidem datur,
+          <lb ed="#P" n="75"/>ad emundationem et collationem virtutum ; in
+          <lb ed="#P" n="76"/>confirmatione vero ad corroborationem. Inuncto
+          <lb ed="#P" n="77"/>chrismate baptizato, imponitur capiti ejus 
+          chri<lb break="no" ed="#P" n="78"/>smale, rotunda quaedam mitra quae coronam vitae
+          <lb ed="#P" n="79"/>significat; vel candida induitur vestis, quae au 
+          si<lb break="no" ed="#P" n="80"/>militudinem cuculli ex albissimo panno conficitur
+          <lb ed="#P" n="81"/>filo rubro supertexto. Candida illa vestis 
+          innocen<lb break="no" ed="#P" n="82"/>tia stolam designat, quae nobis redditur in 
+          ba<lb break="no" ed="#P" n="83"/>ptismo. Et notandum est quod hujusmodi albam
+          <lb ed="#P" n="84"/>vestem gestare debeant aeptem integris diebus, nec
+          <lb ed="#P" n="85"/>confirmari nisi illis septera plene absolutis, 
+          pro<lb break="no" ed="#P" n="86"/>pter septiformem Spiritum qui datur in baptismo.
+          <lb ed="#P" n="87"/>Sed rubra illa fimbria, quae vesti isti assuitur et
+          <lb ed="#P" n="88"/>supertexitur, significat passionem Christi, per
+          <lb ed="#P" n="89"/>quam baptismi sacramentum impletur. Aut sane
+          <lb ed="#P" n="90"/>rubra illa fimbrio exprimit funem, quem Raab in
+          <lb ed="#P" n="91"/>Jericho per fenestram dimisit, propter hospitium
+          <lb ed="#P" n="92"/>quod ipsa praestiterat exploratoribus missis 'ab 
+          Jo<lb break="no" ed="#P" n="93"/>sue, ad cujus signum salvata est domus ejus cum
+          <lb ed="#P" n="94"/>tota sua familia (Josue n).
+        </p>
+        <p xml:id="raWSwa-d1e1395-d1e351">
+          <lb ed="#P" n="95"/>Caeterum rursus hic animadverte quod supra
+          <lb ed="#P" n="96"/>dictum est, neminem debere in susceptorem accipi,
+          <lb ed="#P" n="97"/>nisi Orationem sciat Dominicam, et duodecim suae
+          <lb ed="#P" n="98"/>fidei articulos. Haec enim duo omnes susceptores
+          <lb ed="#P" n="99"/>ut filios suos doceant obligantur, eum illorum fidei
+          <lb ed="#P" n="100"/>sint quasi fideijussores. Quocirca eos observare
+          <lb ed="#P" n="101"/>quam fieri potest studiosissime debent, ne unquam
+          <lb ed="#P" n="102"/>fide et justitia excidant, utpote responsuri in die
+          <lb ed="#P" n="103"/>judicii de omnibus illis quae enormiter isti 
+          perpe<lb break="no" ed="#P" n="104"/>waverint. Sacerdos quoque pater el susceptor 
+          illo<lb break="no" ed="#P" n="105"/>rum est quos baptizat, ita ut eos instruere etiam
+          <lb ed="#P" n="106"/>teneatur. Sed quia propter multitudinem omnibus
+          <lb ed="#P" n="107"/>vacare non posset, totum illud curae susceptorum
+          <lb ed="#P" n="108"/>committitur. Itemque et spiritualis pater esse 
+          dici<lb break="no" ed="#P" n="109"/>tur sacerdos illorum , nempe quibus verbum vitae
+          <lb ed="#P" n="110"/>concionatur , et quorum audit confessiones. Unde
+          <lb ed="#P" n="111"/>sane gravius ille peccare dicitur, qui ei mulieri
+          <lb ed="#P" n="112"/>concumbit, quae suae est paroeciae quam mulieri quae
+          <lb ed="#P" n="113"/>est alterius, cum ejusmodi mulier spiritualis sua
+          <lb ed="#P" n="114"/>appelletur filia. Solet apud nonnullos quaestio 
+          exo<lb break="no" ed="#P" n="115"/>riri de numero susceptorum, et quot debeant esse
+          <lb ed="#P" n="116"/>necessario ad puerum e sacro fonte suscipiendum.
+          <lb ed="#P" n="117"/>Verum non dicimus quod unus facile posset 
+          suffi<lb break="no" ed="#P" n="118"/>cerc. Sed cum in orc duorum vel trium testium
+          <pb ed="#P" n="58"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>consistat omne verbum (Deut. xix), ideo ad minus
+          <lb ed="#P" n="2"/>tres necessario requiruntur, quorum unus vir sit
+          <lb ed="#P" n="3"/>oportet , et duae mulieres, nec etiam plures, ne
+          <lb ed="#P" n="4"/>carnalis copula per spiritualem conjunctionem 
+          im<lb break="no" ed="#P" n="5"/>pediatur. Quatuor autem sunt genera personarum,
+          <lb ed="#P" n="6"/>quas Ecclesia in susceptores non recipit , ut sunt
+          <lb ed="#P" n="7"/>abbates , monachi, abbatissae cum suis monialibus,
+          <lb ed="#P" n="8"/>qui sunt unum genus. Ad alterum referimus 
+          infi<lb break="no" ed="#P" n="9"/>deles ; et ad tertium illos qui necdum sunt 
+          confir<lb break="no" ed="#P" n="10"/>mati. Hi enim fideles vere appellari non debent,
+          <lb ed="#P" n="11"/>ita ut nec hinc veri testes esse possint. Ad 
+          postre<lb break="no" ed="#P" n="12"/>mum genus referendus est vic cum sua juxore, nisi
+          <lb ed="#P" n="13"/>prius castitatis ambo fecerint votum. Nam si 
+          per<lb break="no" ed="#P" n="14"/>mitteretur , ut ambo eumdem puerum e fonte 
+          susci<lb break="no" ed="#P" n="15"/>perent , jam ejusdem fierent patres spirituales, ita
+          <lb ed="#P" n="16"/>ut inde in posterum sese mutuo carnaliter 
+          cogno<lb break="no" ed="#P" n="17"/>scere non liceret, quemadmodum in decretis 
+          prohi<lb break="no" ed="#P" n="18"/>bitum est (8) . Sed et hoc egregie admittendum est
+          <lb ed="#P" n="19"/>ut aliqui eum puerum e fonte susciperent, qui cum
+          <lb ed="#P" n="20"/>illis jus est cognationis. Nam dilectio charitatis,
+          <lb ed="#P" n="21"/>quantum fieri potest, per baptismum extendi debet.
+          <lb ed="#P" n="22"/>Proinde vero quanquam pagani sive gentiles templa
+          <lb ed="#P" n="23"/>sua circa fontes conficere soliti sint, atque aquam
+          <lb ed="#P" n="24"/>isthic semper in promptu habere, per cujus 
+          asper<lb break="no" ed="#P" n="25"/>sionem se purificari credebant, ita ut illos fontes
+          <lb ed="#P" n="26"/>delubra nominaverint a diluendo, atque sic 
+          natura<lb break="no" ed="#P" n="27"/>liter ad baptismum accesserint, nos tamen ab 
+          eo<lb break="no" ed="#P" n="28"/>rum consuetudine baptismorum non sumpsimus.
+          <lb ed="#P" n="29"/>llabemus enim illud a tribus potissimum , quae in
+          <lb ed="#P" n="30"/>Veteri Testamento fuerunt, nimirum a cataclismo,
+          <lb ed="#P" n="31"/>id est a diluvio, a mari Rubro et ab Jordane, qua
+          <lb ed="#P" n="32"/>nobis velut figuram baptismi praebuerunt.
+        </p>
+        <p xml:id="raWSwa-d1e1395-d1e479">
+          <lb ed="#P" n="33"/>At roget aliquis num etiam liceat in cocta aqua,
+          <lb ed="#P" n="34"/>ut in cervisia vel mulso, vel in vino, vel in oleo,
+          <lb ed="#P" n="35"/>vel in alio liquore aliquem baptizare ? Verum enim
+          <lb ed="#P" n="36"/>vero nulla in alia re istud facere permissum est,
+          <lb ed="#P" n="37"/>nisi tantummodo in pura aqua, sive illa ex nive et
+          <lb ed="#P" n="38"/>glacie sit resoluta, sive marina, sive fluvialis. Sed
+          <lb ed="#P" n="39"/>hoc animadvertendum est quod non debeat celebrari
+          <lb ed="#P" n="40"/>baptismus, nisi in Sabbato paschali et Pentecostes.
+          <lb ed="#P" n="41"/>Fieri tamen potest causa necessitatis , quae uiplex
+          <lb ed="#P" n="42"/>est : prima est causa munitionis, ut si rex 
+          civita<lb break="no" ed="#P" n="43"/>tem aliquam vellet obsidere, tunc loci ejus pueri
+          <lb ed="#P" n="44"/>licite baptizantur, ne contingat eos aliquo periculo
+          <lb ed="#P" n="45"/>mori nedum baptizatos; altera est segritudo : 
+          acci<lb break="no" ed="#P" n="46"/>pitur autem hic late aegritudo pro quavis naturae
+          <lb ed="#P" n="47"/>intirmitate , quae facilc potest dissolvi, ita ut 
+          ne<lb break="no" ed="#P" n="48"/>sciamus diem neque horam, et ideo frequenter sit
+          <lb ed="#P" n="49"/>baptismus non solemnis, nec tempestivus, hoc est,
+          <lb ed="#P" n="50"/>non congruo et convenienti tempore factus; tertia
+          <lb ed="#P" n="51"/>est, quae fit causa persecutionis gentilium. Solebant
+          <lb ed="#P" n="52"/>tamen Graeci baptismum celebrare in Epiphania,
+          <lb ed="#P" n="53"/>quod tum Dominus esset baptizatus, atque ita
+          <lb ed="#P" n="54"/>baptizabant tribus diebus continuis. Consideremus
+          <lb ed="#P" n="55"/>interim quatuor esse genera aqua benedicta:
+          <lb ed="#P" n="56"/>aqua videlicet, in qua fit judicium purgationis, quae
+          <lb ed="#P" n="57"/>in Ecclesiae dedicatione sanctificatur et qua diebus
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>Dominicis aspergimur, atque aqua baptismi qua
+          <lb ed="#P" n="59"/>aspergi solebamus priusquam chrismate ungeremur,
+          <lb ed="#P" n="60"/>quod in quibusdam locis etiamnum observatur.
+          <lb ed="#P" n="61"/>Sed postea interdictum est, ne stultulus quispiam
+          <lb ed="#P" n="62"/>atque rcrum imperitus hujus aquae aspersione se
+          <lb ed="#P" n="63"/>iterum a peceatis mundari putet, cum evidenter
+          <lb ed="#P" n="64"/>satis manifestum sit neminem posse bis baptizari.
+          <lb ed="#P" n="65"/>His ergo duobus Sabbatis ideo celebratur baptismus,
+          <lb ed="#P" n="66"/>quia in primo per Christi passionem redimimur ;
+          <lb ed="#P" n="67"/>in altero, quoniam ipso die Pentecostes datur 
+          no<lb break="no" ed="#P" n="68"/>bis Spiritus sanctus , per quem facta est remissio
+          <lb ed="#P" n="69"/>peccatorum
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

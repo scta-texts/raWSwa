@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 97</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 97</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="50"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1237"><!-- raWSwa-c97 -->
+        <head xml:id="raWSwa-d1e1237-Hd1e101">Caput 97</head>
+        <head xml:id="raWSwa-d1e1237-Hd1e103" type="question-title">
+          Cur non conficiatur corpus Christi in Parasceve et
+          de ordine ejus officii.
+        </head>
+        <p xml:id="raWSwa-d1e1237-d1e106">
+          <lb ed="#P" n="52"/>CAPUT XCVII.
+          <lb ed="#P" n="53"/>Cur non conficiatur corpus Christi in Parasceve et
+          <lb ed="#P" n="54"/>de ordine ejus officii.
+        </p>
+        <p xml:id="raWSwa-d1e1237-d1e115">
+          <lb ed="#P" n="55"/>Corpus Christi non conficitur hoc die quatuor de
+          <lb ed="#P" n="56"/>causis : prima est quia Christus hoc die pro nobis
+          <lb ed="#P" n="57"/>revera immolatus est et, veritate veniente, debet
+          <lb ed="#P" n="58"/>cessare figura, ac ei dare locum; secunda, quod
+          <lb ed="#P" n="59"/>istiusmodi die reipsa Ecclesia Sponsus sublatus
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>sit, descendit enim ad inferos; tertia est quoniam
+          <lb ed="#P" n="61"/>tum temporis velum templi disruptum est, et cornua
+          <lb ed="#P" n="62"/>altaris sunt transversa, ita ut nobis non esset ubi
+          <lb ed="#P" n="63"/>corpus Christi conficeretur; quarta, quia Moyses
+          <lb ed="#P" n="64"/>dixit in Exodo : Alius pugnabit pro vobis, et vos 
+          tu<lb break="no" ed="#P" n="65"/>cebitis (Exod. xiv); alius, id est Christus. Sequitur
+          <lb ed="#P" n="66"/>ut de ordine officii hujus diei dispiciamus. Nam
+          <lb ed="#P" n="67"/>primo leguntur dua lectiones ex Veteri Testamento,
+          <lb ed="#P" n="68"/>una ex rege, altera ex prophetis, scilicet ex Osee
+          <lb ed="#P" n="69"/>idque sine titulis. Deinde verotractus quem vocant,
+          <lb ed="#P" n="70"/>canitur unus quatuor versuum; alius plurium, post
+          <lb ed="#P" n="71"/>quem legitur passio etiam sine titulo. Qua quidem
+          <lb ed="#P" n="72"/>absoluta flunt orationes pro omni gradu Ecclesiae,
+          <lb ed="#P" n="73"/>hoc est pro gentilibus sive etbnicis, pro Judais,
+          <lb ed="#P" n="74"/>pro haereticis et pro schismaticis. Atque ita 
+          dein<lb break="no" ed="#P" n="75"/>ceps crux extrahitur, ac cum ca ter in genua 
+          pro<lb break="no" ed="#P" n="76"/>cedimus, cantando ter Graece awog, et Latine sanctus
+          <lb ed="#P" n="77"/>Deus, etc., cum tribus versibus. Postea vero 
+          Domi<lb break="no" ed="#P" n="78"/>nicum corpus, quod reservatum fuit ipso die Coenae,
+          <lb ed="#P" n="79"/>altari imponitur, et cantata Dominica Oratione cum
+          <lb ed="#P" n="80"/>prafatione praeposita, scilicet : Oremus, pracceptis
+          <lb ed="#P" n="81"/>salutaribus moniti, etc., communicatur, ac deinde
+          <lb ed="#P" n="82"/>vero psalmi vesperarum cantantur cum oratione :
+          <lb ed="#P" n="83"/>Respice, Domine. Atque ita tandem officium 
+          termi<lb break="no" ed="#P" n="84"/>natur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

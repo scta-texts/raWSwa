@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 5</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 5</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="9"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e118"><!-- raWSwa-c5 -->
+        <head xml:id="raWSwa-d1e118-Hd1e101">Caput 5</head>
+        <head xml:id="raWSwa-d1e118-Hd1e103" type="question-title">
+          De festis.
+        </head>
+        <p xml:id="raWSwa-d1e118-d1e106">
+          <lb ed="#P" n="77"/>CAPUT V.
+          <lb ed="#P" n="78"/>De festis.
+        </p>
+        <p xml:id="raWSwa-d1e118-d1e113">
+          <lb ed="#P" n="79"/>Festorum quaedam sunt generalia, quaedam 
+          per<lb break="no" ed="#P" n="80"/>ticularia. Generalia sunt quae generatim ab omnibus
+          <lb ed="#P" n="81"/>celehrantur, ut festa Trinitatis, B. Mariae, 
+          Nativita<lb break="no" ed="#P" n="82"/>tis Domini, Pascha,, Pentecostes, sanctae crucis,
+          <lb ed="#P" n="83"/>apostolorum , evangelistarum, S. Joannis Baptistae
+          <lb ed="#P" n="84"/>et evangelistae, Laurentii, Nicolai, Sylvesiri, 
+          Mar<lb break="no" ed="#P" n="85"/>tini, eic. Festa autem particularia sunt, quae tantum
+          <lb ed="#P" n="86"/>in una coluntur provincia, ut festum B. Hilarii,
+          <lb ed="#P" n="87"/>quod in Aquitania duntaxat observatur. Yel etiam
+          <lb ed="#P" n="88"/>quae in uno fiunt episcopatu, vel in una villa aut
+          <lb ed="#P" n="89"/>parochia, dicuntur festa particularia. Notandum
+          <lb ed="#P" n="90"/>interim obiter hic est, in colendis festis dignitatem
+          <lb ed="#P" n="91"/>quamdam et ordinem esse attendendum. Festa 
+          et<lb break="no" ed="#P" n="92"/>enim Trinitatis digniori cultu sunt cclebranda,
+          <lb ed="#P" n="93"/>deiude festa B. Mariae, praecipue tamen 
+          Assumptio<lb break="no" ed="#P" n="94"/>nis, ac tandem quoque festa S. crucis, quae duo
+          <lb ed="#P" n="95"/>sunt. De aliis ante intelligenti facile est judicare.
+          <lb ed="#P" n="96"/>Quot sunt festa Trinitatis, tot B. Mariae csse 
+          scien<lb break="no" ed="#P" n="97"/>dum est. Causse vero festorum quae sint, et cur
+          <lb ed="#P" n="98"/>quaedam non suo tempore, sed alieno celcbrentur,
+          <lb ed="#P" n="99"/>sequentia commodius declarabunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 58</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 58</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="32"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e763"><!-- raWSwa-c58 -->
+        <head xml:id="raWSwa-d1e763-Hd1e101">Caput 58</head>
+        <head xml:id="raWSwa-d1e763-Hd1e103" type="question-title">Quomodo officia ecclesiastica fieri debeant, et qui sint eorum libri</head>
+        <p xml:id="raWSwa-d1e763-d1e106">
+          <lb ed="#P" n="96"/>CAPUT LVII.
+          <lb ed="#P" n="97"/>Quomodo officia ecclesiastica fieri debeant, et qui sint
+          <lb ed="#P" n="98"/>eorum libri.
+        </p>
+        <p xml:id="raWSwa-d1e763-d1e115">
+          <lb ed="#P" n="99"/>Ut igitur ab Adventu incipiamus, atque ita de 
+          ec<lb break="no" ed="#P" n="100"/>clesiasticis officiis per totius anni circulum tractare
+          <lb ed="#P" n="101"/>pergamus , duo in universum nobis sunt diligenter
+          <lb ed="#P" n="102"/>in iis praecavenda, ne videlicet coacte fiant et 
+          indi<lb break="no" ed="#P" n="103"/>screte. Coacta esse non dcbent, juxta Prophetam qui
+          <lb ed="#P" n="104"/>ait : Voluntarie sacrificabo tibi, esc. (Psal. Ln.) Sic
+          <lb ed="#P" n="105"/>Obal qui et Derseleel appellatus est, dicitur 
+          spon<lb break="no" ed="#P" n="106"/>tanee edificasse templum Pomino. Quanquam vero
+          <lb ed="#P" n="107"/>sint qui putant duos fuisse Obal et Berscleel, et 
+          utrum<lb break="no" ed="#P" n="108"/>que spontaneum in tempuore indiscrete prohibentur
+          <lb ed="#P" n="109"/>esse, quia immundum est pecus quod ruminat et non
+          <lb ed="#P" n="110"/>findit ungulam. Fissio autem ungulae accipitur pro
+          <lb ed="#P" n="111"/>discretjone. Qui ergo spontanea sacrificia facii et
+          <lb ed="#P" n="112"/>discreta , eum diligit Dominus. Hinc statutum est a
+          <lb ed="#P" n="113"/>sancus majoribus quemadmodum Deo serviremus
+          <lb ed="#P" n="114"/>discrete. Statuerunt enim in unaquaquc hora 
+          lectio<lb break="no" ed="#P" n="115"/>nem, verbi gratia, in matutinis et in missa 
+          insti<lb break="no" ed="#P" n="116"/>tuerunt epistolas et evangelia, in aliis horis parvas
+          <lb ed="#P" n="117"/>lectiones , quae dicuntur capitula. Sed quoniam in
+          <lb ed="#P" n="118"/>lectione et cantu universum fere versetur oflicium
+          <lb ed="#P" n="119"/>eccicsiasticum, operae prctium est scire quinque esse
+          <lb ed="#P" n="120"/>libros lectionum in Ecclesia, ac tres cantus, scilicet
+        </p>
+        <p xml:id="raWSwa-d1e763-d1e165">
+          <pb ed="#P" n="33"/>
+          <cb ed="#P" n="a"/>
+          <!-- column order error in coords -->
+          <lb ed="#P" n="1"/>Graduarrum , Antiphonsrium et Trophonarium :4
+          <lb ed="#P" n="2"/>Antipbonarius a digniori nomen sumpsit, hoc cest
+          <lb ed="#P" n="3"/>ab ant pbonis, cum in codem libro contincanture
+          <lb ed="#P" n="4"/>responsa et versus. Legitur enim in Tripartita 
+          hi<lb break="no" ed="#P" n="5"/>storia lgnatium patriarcham Antiochenum audivisse
+          <lb ed="#P" n="6"/>augelos cantantes antiphonas in monte, qui exinde
+          <lb ed="#P" n="7"/>quasdam antiplonas in Ecclesia cantari instituit, et
+          <lb ed="#P" n="8"/>psalmos juxta antiphonas tonizari. Unde etiam 
+          an<lb break="no" ed="#P" n="9"/>tiphonae sunt appellatae, respectu psalmodiae sicut
+          <lb ed="#P" n="10"/>responsum, historiae. Et cum antea confuse et quasi
+          <lb ed="#P" n="11"/>cborea cantarentur psalmi et antiphonae, statutum
+          <lb ed="#P" n="12"/>est a majoribus , ut seorsum chorus sederet, et 
+          al<lb break="no" ed="#P" n="13"/>ternatim caneret, id est ut una pars chori unum
+          <lb ed="#P" n="14"/>psalmi versum caneret, atque alia alium. Incipit crgo
+          <lb ed="#P" n="15"/>antiphonarius hoc modo : Aspiciens a longe. Tawetsi
+          <lb ed="#P" n="16"/>vero non sit Gregorianum, hoc est, a Gregorio 
+          com<lb break="no" ed="#P" n="17"/>positum , sed solummodo ab alio quodam mona ho
+          <lb ed="#P" n="18"/>appositum : quamohrem quidem non deberet merito
+          <lb ed="#P" n="19"/>procedere ea quae Gregorius composuit. Usu tamen
+          <lb ed="#P" n="20"/>receptum est ut ab omni Ecclesia diceretur. Nec 
+          fa<lb break="no" ed="#P" n="21"/>cile profecto est quae longo usu inolcvcrint 
+          emcn<lb break="no" ed="#P" n="22"/>dare aut inutare. Caetera vero sunt S. Gregorii.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

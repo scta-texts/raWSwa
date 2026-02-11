@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 55</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 55</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="30"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e726"><!-- raWSwa-c55 -->
+        <head xml:id="raWSwa-d1e726-Hd1e101">Caput 55</head>
+        <head xml:id="raWSwa-d1e726-Hd1e103" type="question-title">
+          De diversitatibus officiorum.
+        </head>
+        <p xml:id="raWSwa-d1e726-d1e106">
+          <lb ed="#P" n="81"/>CAPUT LV
+          <lb ed="#P" n="82"/>De diversitatibus officiorum.
+        </p>
+        <p xml:id="raWSwa-d1e726-d1e113">
+          <lb ed="#P" n="83"/>Jam ergo dictum est hactenus de ecclesiasticis
+          <lb ed="#P" n="84"/>ofliciis generaliter, ita reliquum modo sit eorumdem
+          <lb ed="#P" n="85"/>explicationem latius per totius anni saculwun 
+          ag<lb break="no" ed="#P" n="86"/>gredi. Nam pro temporum varietate ipsa variantup
+          <lb ed="#P" n="87"/>officia. Sed operae pretium me facturum existimo,
+          <lb ed="#P" n="88"/>si priusquam ad ipsam expositioncm vcniam, 
+          dis<lb break="no" ed="#P" n="89"/>tinctio quatuor temporum praemittatur. Ut erge
+          <lb ed="#P" n="90"/>solaris noster annus quatuor tcmporum 
+          potissi<lb break="no" ed="#P" n="91"/>mum successione dilabitur, scilicet hiemis, in qua
+          <lb ed="#P" n="92"/>semina jaciuntur; veris, iu quo semina prodceunt ;
+          <lb ed="#P" n="93"/>sestatis, in qua ad messem albescunt, et falce 
+          suc<lb break="no" ed="#P" n="94"/>ciduntur ; autumni, in quo per ventilationem grana
+          <lb ed="#P" n="95"/>a se mutuo separantur, et in lorrea reponuntur,
+          <lb ed="#P" n="96"/>palea autem comburuntur : ita quoque magnus vitaa
+          <lb ed="#P" n="97"/>praesentis annus durans ab initio usque ad fincin
+          <lb ed="#P" n="98"/>saeculi, quatuor temporum varietate mensuraptur.
+          <lb ed="#P" n="99"/>Fuit enim tempus quoddam deviationis in humana
+          <lb ed="#P" n="100"/>genere, ab Adamo videlicet usque ad Mosen, quo
+          <lb ed="#P" n="101"/>declinaverunt homines a cultu divino ad 
+          idolola<lb break="no" ed="#P" n="102"/>triam. Tunc enim homo reliquit Dominum suum
+          <lb ed="#P" n="103"/>Creatorem, ac lapidibus et manuum suarum 
+          ope<lb break="no" ed="#P" n="104"/>ribus dixit : Tu es Deus meus. Hoc tempus haud
+          <lb ed="#P" n="105"/>male convenit nocti et hiemi. Quia sicut nox aut
+          <lb ed="#P" n="106"/>biems nihil lucis habet, nisi contingenter et ex
+          <lb ed="#P" n="107"/>accidenti, ut ex igne vel candela, sic tempus istud
+          <lb ed="#P" n="108"/>plane erat caecitatis et ignorantiae. Alterum item
+          <lb ed="#P" n="109"/>tempus fuit revocationis, nimirum a Mose usquc ad
+          <lb ed="#P" n="110"/>nativitatem Christi, quo edocti fuere homines per
+          <lb ed="#P" n="111"/>leges et propbetas de adventu Christi, de evitatione.
+          <lb ed="#P" n="112"/>peccati, et unius Dei dilectione. Tum dixit Deus
+          <lb ed="#P" n="113"/>Israeli : Audi, Israel : Deus tuus, Deus wunus est,
+          <lb ed="#P" n="114"/>illum solum adorabis, et illi soli servies (Deut. u, vi.)
+          <lb ed="#P" n="115"/>Tertium vero tempus fuit regressionis, sive 
+          recon<lb break="no" ed="#P" n="116"/>ciliationis, vel justificationis, quod fuit a uativitate
+          <lb ed="#P" n="117"/>Domini usquce ad ascensioncm ejusdem, per quem
+          <lb ed="#P" n="118"/>facta est gratia hominibus, et praedicatio Evargelii.
+          <pb ed="#P" n="31"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Quartum denique tempus est peregrinationis, quod
+          <lb ed="#P" n="2"/>ab ascensione Domini fuit, et duraturum est usque
+          <lb ed="#P" n="3"/>ad finem judicii, ubi erit consummatio saeculi. Haec
+          <lb ed="#P" n="4"/>eadem tempora solent aliis nominibus appellari.
+          <lb ed="#P" n="5"/>Tempus enim deviationis dictum est tempus culpae
+          <lb ed="#P" n="6"/>et paenae. Nam propter deviationem homo subjectus
+          <lb ed="#P" n="7"/>est culpae, et propter culpam poenae. Tempus 
+          revo<lb break="no" ed="#P" n="8"/>cafionis nuncupatum est tempus doctrinae et 
+          pro<lb break="no" ed="#P" n="9"/>phetiz. Et quidem doctrinae propter Decalogum,
+          <lb ed="#P" n="10"/>per quem Deus humanum genus docuit, inquiens :
+          <lb ed="#P" n="11"/>Audi, Israel : Deus tuus, Deus unus est. Prophetiae
+          <lb ed="#P" n="12"/>vere, quoniam tum hujusmodi salutare accepimus
+          <lb ed="#P" n="13"/>vaticinium : Ecce tirgo concipiet (Isa. vi). Tempus
+          <lb ed="#P" n="14"/>proinde reconciliationis appellatur gaudii et laetitiae,
+          <lb ed="#P" n="15"/>ac denique peregrinationis, tempus luctus et pugnae.
+          <lb ed="#P" n="16"/>Unde profecto necessarium est ut pugncmus 
+          ad<lb break="no" ed="#P" n="17"/>versus carnem nostram, mundum atque aereas
+          <lb ed="#P" n="18"/>potestates. Maxime vero contra carnem, utpote quod
+          <lb ed="#P" n="19"/>multa cum nebis sit familiaritas, ae nulla sit pestis
+          <lb ed="#P" n="20"/>sevior quam hostem habere domesticum.
+        </p>
+        <p xml:id="raWSwa-d1e726-d1e241">
+          <lb ed="#P" n="21"/>Praeterea tempora haec possunt considerari 
+          secun<lb break="no" ed="#P" n="22"/>dum principales partes diei, ut sunt, nox quae ad
+          <lb ed="#P" n="23"/>tempus spectat deviationis , mane ad tempus
+          <lb ed="#P" n="24"/>revocationis , meridies ad tempus 
+          reconciliatio<lb break="no" ed="#P" n="25"/>nis, vel regressionis, vesperum ad tempus 
+          peregri<lb break="no" ed="#P" n="26"/>nationis. Atque horum quodque proprium modo
+          <lb ed="#P" n="27"/>perpende epitbeton, ut nox est obscura, et qui a veri
+          <lb ed="#P" n="28"/>Dei cultu aberrabant erant caci. Eleganter sane
+          <lb ed="#P" n="29"/>quadripartita haec temporumn divisio in bomine 
+          no<lb break="no" ed="#P" n="30"/>uri potest. Ante siquidem baptismum nascitur 
+          ho<lb break="no" ed="#P" n="31"/>mo et fit filius irae; in baptismo renascitur, ac filius
+          <lb ed="#P" n="32"/>gratiae ; dehinc bene operatur, et justitiae efficitur
+          <lb ed="#P" n="33"/>proles, cum fervore quodam charitatis Deum 
+          dili<lb break="no" ed="#P" n="34"/>cit in primis, et proximum; tandem cum Christo
+          <lb ed="#P" n="35"/>simul regnabit per mortem transiens ad vitam 
+          aeter<lb break="no" ed="#P" n="36"/>pam, factus modo baeres aeternitatis et gloriam. 
+          At<lb break="no" ed="#P" n="37"/>que ipn qualibet praemissarum partium expositiong
+          <lb ed="#P" n="38"/>possunt intelliyi hiems, ver, aestas, et autumnus.
+          <lb ed="#P" n="39"/>Fadern quoque tempora designanur per quatuor
+          <lb ed="#P" n="40"/>principales Christi actiones , quae sunt hbujusmodi
+          <lb ed="#P" n="41"/>nativitas, passio, resurrectio, adventus ad judicium,
+          <lb ed="#P" n="42"/>cum omnium horum appendicibus ; adeo haec 
+          hu<lb break="no" ed="#P" n="43"/>mano generi conveniunt. Christi igitur vita nostra
+          <lb ed="#P" n="44"/>est doctrina, Christi actio nostra est lectio ; 
+          uni<lb break="no" ed="#P" n="45"/>versa denique Christi conversatio nostra et 
+          instru<lb break="no" ed="#P" n="46"/>tic. Disi autem cum suis appendicibus, quia ad 
+          na<lb break="no" ed="#P" n="47"/>tivitatem pertinent circumcisio, apparitio, 
+          baptig<lb break="no" ed="#P" n="48"/>mus, purificatio; ad passionem referuntur 
+          jeju<lb break="no" ed="#P" n="49"/>nium, tentatio; ad resurrectionem, iu coclum 
+          ag<lb break="no" ed="#P" n="50"/>censio , et S. Spiritus missio; ad adventum tandem
+          <lb ed="#P" n="51"/>judicii spectant transfigurari et miraculorum 
+          ope<lb break="no" ed="#P" n="52"/>ratio. Eflicacior enim fuit ac plus potuit post 
+          mor<lb break="no" ed="#P" n="53"/>tem quam ante transfigurationem , quod iunc 
+          de<lb break="no" ed="#P" n="54"/>mum nobis ostendit quid simus futuri. Passio 
+          com<lb break="no" ed="#P" n="55"/>paratur hiemi, nativitas veri, resurrectio aestati, 
+          ju<lb break="no" ed="#P" n="56"/>dicium autumno quando sedebit Vetustus ille 
+          die<lb break="no" ed="#P" n="57"/>rum tenens ventilabrum in manu sua, permundabit
+          <lb ed="#P" n="58"/>aream, etc. (Matth., m.) ltem rursus Christi 
+          nati<lb break="no" ed="#P" n="59"/>vitas comparatur et concordat tcmpori revocationis,
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>propter prophetas,qui eam multis modis praedixerune;
+          <lb ed="#P" n="61"/>passio tempori deviationis ; resurrectio tempori 
+          re<lb break="no" ed="#P" n="62"/>gressionis propter laetitiam ; adventus judicii tempori
+          <lb ed="#P" n="63"/>peregrinationis, quia bujusmodi tempus durabit usque
+          <lb ed="#P" n="64"/>ad extremum diem judicii. Unde Propheta : Ego 
+          mi<lb break="no" ed="#P" n="65"/>ser et percgrinus,sicut omnes patres mei (Ps. xxxvnun).
+        </p>
+        <p xml:id="raWSwa-d1e726-d1e344">
+          <lb ed="#P" n="66"/>Haec ergo tempora magni istius anni considerans
+          <lb ed="#P" n="67"/>Feclesia in servitium Dei transformavit, pro 
+          quali<lb break="no" ed="#P" n="68"/>tate eorum et varietate singulis annis laudabili
+          <lb ed="#P" n="69"/>utens officiorum diversitate. Sed cum ita faciat 
+          Ec<lb break="no" ed="#P" n="70"/>clesia, maluit incipere a tempore revocationis, quam
+          <lb ed="#P" n="71"/>a temporce delationis. Quare incipit : Ad te icvavi
+          <lb ed="#P" n="72"/>animam meam (Psal. xxiv), aspiciens a longe, etc.
+          <lb ed="#P" n="73"/>Quandoquidem nos etiampum quasi per speculum
+          <lb ed="#P" n="74"/>et canccellos aspicimus. Et durat usque ad 
+          nativita<lb break="no" ed="#P" n="75"/>tem Domini. Toto igitur tempore Adventuum usque
+          <lb ed="#P" n="76"/>ad Natale Domini, Ecclesia reminiscitur temporis
+          <lb ed="#P" n="77"/>revocationis, quae facta est per legem et prophetas, 
+          ma<lb break="no" ed="#P" n="78"/>logma vulneri apponens. Atque ideo tunc legit Isaiam,
+          <lb ed="#P" n="79"/>qui cum incurabile vulnus vidisset, dixit : Omne 
+          ca<lb break="no" ed="#P" n="80"/>put languidum est, et omne cor maerens, etc.(lsa. 1.)
+          <lb ed="#P" n="81"/>Et rursus non est malagmna apponere, etc. Malagma
+          <lb ed="#P" n="82"/>autem est genus euplastri, quod epithema 
+          appel<lb break="no" ed="#P" n="83"/>latum est. Tum ergo inchoatur graduale : Ad te 
+          le<lb break="no" ed="#P" n="84"/>pavi, ac si diceret : Tempore deviationis homines
+          <lb ed="#P" n="85"/>levabant manus etcorda ad opus manuum suarum,
+          <lb ed="#P" n="86"/>atque agebant lapidi et ligno; tu es Deus meus,
+          <lb ed="#P" n="87"/>ego vero ad te levavi animam meam, Deus meus, etc.
+          <lb ed="#P" n="88"/>Atque ita sane a tempore revocationis militise suss
+          <lb ed="#P" n="89"/>auspicatur officia, non a tempore deviationis, ne
+          <lb ed="#P" n="90"/>videatur incipere ab errore. Bene itaque rem ipsam
+          <lb ed="#P" n="91"/>observat, sed ordinem non sequitur, quod 
+          frequen<lb break="no" ed="#P" n="92"/>ter etiam faciunt evangelistae. Quare si bonam 
+          quee<lb break="no" ed="#P" n="93"/>rat valetudinem, optetque quam optime curari,
+          <lb ed="#P" n="94"/>emnino fuit necessarium ut a medicis inciperet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

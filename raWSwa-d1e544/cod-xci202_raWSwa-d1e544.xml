@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 40</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 40</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="25"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e544"><!-- raWSwa-c40 -->
+        <head xml:id="raWSwa-d1e544-Hd1e101">Caput 40</head>
+        <head xml:id="raWSwa-d1e544-Hd1e103" type="question-title">
+          Quid symbolum, quando canendum, et quot sint
+          numero.
+        </head>
+        <p xml:id="raWSwa-d1e544-d1e106">
+          <lb ed="#P" n="26"/>CAPUT XL.
+          <lb ed="#P" n="27"/>Quid symbolum, quando canendum, et quot sint
+          <lb ed="#P" n="28"/>numero.
+        </p>
+        <p xml:id="raWSwa-d1e544-d1e115">
+          <lb ed="#P" n="29"/>Post evangelium statim debet subjungi symbolum
+          <lb ed="#P" n="30"/>fidei, scilicet : Credo in unum Deum Patrem, etc.,
+          <lb ed="#P" n="31"/>si solemnitas fucrit. Ncc tamen in omni 
+          solemni<lb break="no" ed="#P" n="32"/>tate, sed eorum tantummodo festis, quorum in 
+          sym<lb break="no" ed="#P" n="33"/>bolo fit mentio, ut in festo Trinitatis, in Natali, 
+          Cir<lb break="no" ed="#P" n="34"/>cumcisione, Epiphania, Paschate, Ascensione, 
+          Pen<lb break="no" ed="#P" n="35"/>tecoste, in festo Omnium Sanctorum, 
+          Transfigura<lb break="no" ed="#P" n="36"/>tionis Domini, B. Mariae, et omnium Apostolorum,
+          <lb ed="#P" n="37"/>S. Crucis, et omnibus dicbus Dominicis. In aliis 
+          av<lb break="no" ed="#P" n="38"/>tem solemnitatibus dici non debcet. Nec vero in 
+          so<lb break="no" ed="#P" n="39"/>lemnitate angelorum cantari solet, quia illinon 
+          cre<lb break="no" ed="#P" n="40"/>uunt, imo jam sciunt, cum plenam et perfectam
+          <lb ed="#P" n="41"/>babeant scientiam. Nec praeterca cani consuetum est
+          <lb ed="#P" n="42"/>fa solemnitate duorum evangclistarum, qui non 
+          fuc<lb break="no" ed="#P" n="43"/>runt apostoli, scilicet Lucae et Marci. Sunt qui 
+          di<lb break="no" ed="#P" n="44"/>cunt symbolum dici deberc in festo D. Joanunis
+          <lb ed="#P" n="45"/>Baptistae, quia tum fuit commenmorata Christi 
+          nati<lb break="no" ed="#P" n="46"/>vitas. Scd cadem ratiione qualibet die fit mentio B.
+          <lb ed="#P" n="47"/>Mariae, adcoque omni die caccndum foret. Nounulli
+          <lb ed="#P" n="48"/>eiiam putant quod in eorum festivitatibus cantari
+          <lb ed="#P" n="49"/>decbeat qui illud composuerunt, atque cjus rei 
+          gra<lb break="no" ed="#P" n="50"/>vua buc illud afferunt quod in Evangelio Joannis 
+          in<lb break="no" ed="#P" n="51"/>venitur quod nimirum in dies fides apostolorum
+          <lb ed="#P" n="52"/>ercscebat propter miracula quae fiebant (Joan. ),
+          <lb ed="#P" n="53"/>quanquam alibi auctoritas habeat, fidem non babere
+          <lb ed="#P" n="54"/>mmcritum, cui humana ratio praebet experimentum.
+          <lb ed="#P" n="55"/>Pronuntiato symbolo sub finem ipsius debet fieri
+          <lb ed="#P" n="56"/>signum crucis, quoniam verbum est cvangelicum
+          <lb ed="#P" n="57"/>non secus atque ipsum cvangclium, nisi quod sit
+          <lb ed="#P" n="58"/>verbum abbreviatum. Unde dictum est de eo: 
+          Ver<lb break="no" ed="#P" n="59"/>eun abbreviatum facict Dominus super terram (iom.
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>ix). Et hoc modo : Veniet verbum ubbresiatum super
+          <lb ed="#P" n="61"/>filios Dei (Isa. x). Similiter quoque in omnibus 
+          ver<lb break="no" ed="#P" n="62"/>bis evangelicis signum crucis fieri oportet, 
+          quemad<lb break="no" ed="#P" n="63"/>modum sub finem Orationis Dominicae, Gloria in ea-.
+          <lb ed="#P" n="64"/>celsis, Benedictus, Magnificat, et Nunc dimittis, qusa
+          <lb ed="#P" n="65"/>omnia perinde atque evangelium stando audiri 
+          de<lb break="no" ed="#P" n="66"/>bent. Notandum est quatuor esse symbola, minimum
+          <lb ed="#P" n="67"/>quod a cunctis communiter in quotidiana oratione
+          <lb ed="#P" n="68"/>dicitur, et quod apostoli simul composuerunt ; 
+          se<lb break="no" ed="#P" n="69"/>cundum est quod in prima recitatur : Quicunque
+          <lb ed="#P" n="70"/>vult saltus esse, quod ab Athanasio patriarcha.
+          <lb ed="#P" n="71"/>Alexandrino contra Arianos haereticos compositum.
+          <lb ed="#P" n="72"/>est, licet plerique eum Anastasium fuisse falso 
+          ar<lb break="no" ed="#P" n="73"/>bitrentur; tertium est quod Constantinopolitana
+          <lb ed="#P" n="74"/>synodus edidit, vidclicet quod in missa hactenus
+          <lb ed="#P" n="75"/>cani consuetum est; quartum est quod ex Nicaeno
+          <lb ed="#P" n="76"/>concilio prodiit. Scripsit vero B. Hilarius 
+          Picta<lb break="no" ed="#P" n="77"/>vicnsis cpiscopus librum De synodis, in quo et illud
+          <lb ed="#P" n="78"/>composuit, ac legi oportet in omni synodo, vel 
+          to<lb break="no" ed="#P" n="79"/>tum vel saltem cjus aliqua particula. Ex quo sane
+          <lb ed="#P" n="80"/>liquido apparet quam illi errent qui aliam ibi 
+          lc<lb break="no" ed="#P" n="81"/>gunt Iectionem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

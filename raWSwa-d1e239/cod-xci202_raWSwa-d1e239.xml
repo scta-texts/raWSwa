@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 15</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 15</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="14"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e239"><!-- raWSwa-c15 -->
+        <head xml:id="raWSwa-d1e239-Hd1e101">Caput 15</head>
+        <head xml:id="raWSwa-d1e239-Hd1e103" type="question-title">
+          De rebus qua: Deo potissimum debentur.
+        </head>
+        <p xml:id="raWSwa-d1e239-d1e106">
+          <lb ed="#P" n="90"/>CAPUT XV.
+          <lb ed="#P" n="91"/>De rebus qua: Deo potissimum debentur.
+        </p>
+        <p xml:id="raWSwa-d1e239-d1e113">
+          <lb ed="#P" n="92"/>Nunc autem quod quarto a nobis fuit propositum
+          <lb ed="#P" n="93"/>aggrediamur, ut videlicet quae res Deo spiriwalter
+          <lb ed="#P" n="94"/>dcicantur, breviter exponamus; quod abunde satis
+          <lb ed="#P" n="95"/>pateant. Sunt ctenim decimae, primitiae, vota, 
+          sacri<lb break="no" ed="#P" n="96"/>ficia, oblntiones et donationes. Primitiae c primis
+          <lb ed="#P" n="97"/>hominibus initium habuerunt. Legimus enim Caina
+          <lb ed="#P" n="98"/>et Abelem e frugibus suorum laborum primitias
+          <lb ed="#P" n="99"/>Deo obtulissc, scd Abelem agnos et Caina segetum
+          <lb ed="#P" n="100"/>manipulos. llorun tamen alter, quia et juste et
+          <lb ed="#P" n="101"/>lata fronte optimum quodque obtulit, Dei gratiam
+          <lb ed="#P" n="102"/>abunde dcemceritus est, ejusque grcex in fetura 
+          maxi<lb break="no" ed="#P" n="103"/>mae fecunditatis abundavit, ob quam rem innocens
+          <lb ed="#P" n="104"/>suh Christi figura primus martyr exstitit. Alter
+          <lb ed="#P" n="105"/>vero, quoniam juste primitias non solvebat, cum
+          <lb ed="#P" n="106"/>pessima quaeque darct, Deo displicuit, primusque
+          <lb ed="#P" n="107"/>in peccatum parricidii aut lioniicidii incurrit, quod
+          <lb ed="#P" n="108"/>laburis sui provcutum non babcebat exspectatum
+          <lb ed="#P" n="109"/>(Gen. ivY. Eodem modo et populum lsraeliticum ex
+          <lb ed="#P" n="110"/>omni suo laborc Deo primitias dedisse, ex Dei 
+          prae<lb break="no" ed="#P" n="111"/>cepto accepimus. Quare ipsa ratio exigit ut et nos
+          <lb ed="#P" n="112"/>Christiani similiter faciamus. Quid autem et 
+          quo<lb break="no" ed="#P" n="113"/>modo dandum sit, satis cumulate docet nos eventus
+          <lb ed="#P" n="114"/>Abcli Caino.
+        </p>
+        <p xml:id="raWSwa-d1e239-d1e165">
+          <lb ed="#P" n="115"/>Profccto non possumus ejus non meminisse, quod
+          <lb ed="#P" n="116"/>a Deo omnia accepimus, et quidquid habemus,
+          <lb ed="#P" n="117"/>quod ab ipso sit profectum, ita ut vel ob id aquum
+          <lb ed="#P" n="118"/>sit, ei primitias offerre, et quodammodo de acce-
+          <pb ed="#P" n="15"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>pus peneficiis referre gratias. Scd si quaeratur cui
+          <lb ed="#P" n="2"/>dàndae sint primitiae, et in qua etiam quantitate,
+          <lb ed="#P" n="3"/>facile respendemus eas sacerdotibus esse 
+          largien<lb break="no" ed="#P" n="4"/>das. Quod ita tamen accipicndum non est, quasi
+          <lb ed="#P" n="5"/>Bccesse sit eas bis solis dandas esse, ac non ctiam
+          <lb ed="#P" n="6"/>aliis. Nam eremitis et tis, qui in terrarum aluitis
+          <lb ed="#P" n="7"/>latent et inclusi sunt, aliisque religiosis, si 
+          placue<lb break="no" ed="#P" n="8"/>rit, dare possumus. Nec vero certa et determinata
+          <lb ed="#P" n="9"/>in bis quantitas est, adeo ut quantum visum fuerit,
+          <lb ed="#P" n="10"/>et non ultra largiri liceat, si modo ex affectu 
+          cha<lb break="no" ed="#P" n="11"/>ritatis proficiscatur. In veteri lege praeceptum est ut
+          <lb ed="#P" n="12"/>ex omnibus bonis darent decimas, quod ex omnibus
+          <lb ed="#P" n="13"/>Deus sibi decimam voluit, quam tribui Levi in 
+          ce<lb break="no" ed="#P" n="14"/>lebratione sui officii appropriavit. Sic nos utique 
+          si<lb break="no" ed="#P" n="15"/>militer facere debemus. Quod si vero a laicis 
+          in<lb break="no" ed="#P" n="16"/>juste possidcantur, nihilo tamen minus eas 
+          tene<lb break="no" ed="#P" n="17"/>mur solvere. Nec sane licitum est iis connivere, aut
+          <lb ed="#P" n="18"/>ce his dispcnsare, sed illos tantisper reddere, donec
+          <lb ed="#P" n="19"/>Deus injustam eorum possessionem in melius 
+          cmen<lb break="no" ed="#P" n="20"/>daverit. Proinde si quis decimam retinere 
+          praesum<lb break="no" ed="#P" n="21"/>pserit, certe iTle transgressor et prevaricator 
+          prae<lb break="no" ed="#P" n="22"/>repti divini jam factus est, et mortaliter peccavt.
+          <lb ed="#P" n="23"/>Atque etiam qui boc fecerit, sciat se non solum 
+          de<lb break="no" ed="#P" n="24"/>cimam retinere, sed quod et novem alias partes 
+          in<lb break="no" ed="#P" n="25"/>juste non dubitet possidere. Tantum est non 
+          rcd<lb break="no" ed="#P" n="26"/>dere quod ad Deum pertinet
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

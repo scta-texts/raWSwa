@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 34</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 34</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="22"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e471"><!-- raWSwa-c34 -->
+        <head xml:id="raWSwa-d1e471-Hd1e101">Caput 34</head>
+        <head xml:id="raWSwa-d1e471-Hd1e103" type="question-title">
+          De officio missa.
+        </head>
+        <p xml:id="raWSwa-d1e471-d1e106">
+          <lb ed="#P" n="45"/>CAPUT XXXIV.
+          <lb ed="#P" n="46"/>De officio missa.
+        </p>
+        <p xml:id="raWSwa-d1e471-d1e113">
+          <lb ed="#P" n="47"/>Officium missae, sive missa, appellatur totum illud
+          <lb ed="#P" n="48"/>quod ad principio usque ad finem dicitur, nempe
+          <lb ed="#P" n="49"/>ab introitu usque ad lte, missa est, cujus mens e
+          <lb ed="#P" n="50"/>sententia haec est : Ite ad Christum et ipsum 
+          sequi<lb break="no" ed="#P" n="51"/>mini, quia missa est pro vobis hostia ad Dominum
+          <lb ed="#P" n="52"/>placandum. Quandoque tamen restrictius et quasi
+          <lb ed="#P" n="53"/>spectalius pars, quaeprima canitur, nimirum 
+          introi<lb break="no" ed="#P" n="54"/>tus, officium missae appellatur, quae sic dicta est,
+          <lb ed="#P" n="55"/>quod isthuc mittatur angelus. Distribuitur autem
+          <lb ed="#P" n="56"/>missa in quatuor omnino partcs, in obsecrationes,
+          <lb ed="#P" n="57"/>orationes, postulationes et gratiarum actiones. Est
+          <lb ed="#P" n="58"/>enim missa omnis obsecrationis, postulationis et 
+          gra<lb break="no" ed="#P" n="59"/>iarum actionis. Prima pars extenditur usque ad of-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>fertorium, altera usque ad finem Dommicae Or.
+          tiu<lb break="no" ed="#P" n="61"/>nis, cum amen respondetur ; tertia usque ad come
+          <lb ed="#P" n="62"/>munionem, quarta usque ad finem. Ac prima quidem
+          <lb ed="#P" n="63"/>est catechumenorum, vel ncophytorum , quod fere
+          <lb ed="#P" n="64"/>idem est, cum catechumenus appelletur noviter 
+          in<lb break="no" ed="#P" n="65"/>structus, sive baptizatus, sive nondum etiam; et
+          <lb ed="#P" n="66"/>neopbytus quoque noviter instructus, sive 
+          baptiza<lb break="no" ed="#P" n="67"/>tus, sive non. Amplius enim aut diutius eis 
+          inter<lb break="no" ed="#P" n="68"/>esse non licet, non aliter atque Judaeis aut ethnicis,
+          <lb ed="#P" n="69"/>quod necdum sint membra Ecclesiae. Ob quam sane
+          <lb ed="#P" n="70"/>causam diaconus e pulpito alta voce dicere debet:
+          <lb ed="#P" n="71"/>Exeant catechumeni foras.
+        </p>
+        <p xml:id="raWSwa-d1e471-d1e172">
+          <lb ed="#P" n="72"/>Hinc est quod pars ista nominetur missa, ab 
+          emit<lb break="no" ed="#P" n="73"/>tendo, quoniam tunc foras mittuntur. Cepit autem 
+          ii<lb break="no" ed="#P" n="74"/>lud originem abeo quod de Domino dicitur :Jesus 
+          au<lb break="no" ed="#P" n="75"/>Iem non credebat semetipsum cis, sciens quid esset in 
+          ho<lb break="no" ed="#P" n="76"/>mine (Joan. u). Nam per catechumenos illi 
+          significan<lb break="no" ed="#P" n="77"/>tur, de quibus hoc dictum est. Vocatur itaque missa
+          <lb ed="#P" n="78"/>totum illud officium, quod est ab introitu, usque ad
+          <lb ed="#P" n="79"/>Ite, missa est, quanquam et interdum missam 
+          appel<lb break="no" ed="#P" n="80"/>lamus ea verba, quibus corpus Domini conficitur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

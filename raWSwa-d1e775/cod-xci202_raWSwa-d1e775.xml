@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 59</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 59</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="33"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e775"><!-- raWSwa-c59 -->
+        <head xml:id="raWSwa-d1e775-Hd1e101">Caput 59</head>
+        <head xml:id="raWSwa-d1e775-Hd1e103" type="question-title">
+          De reliquis libris.
+        </head>
+        <p xml:id="raWSwa-d1e775-d1e106">
+          <lb ed="#P" n="23"/>CAPUT LIX.
+          <lb ed="#P" n="24"/>De reliquis libris.
+        </p>
+        <p xml:id="raWSwa-d1e775-d1e113">
+          <lb ed="#P" n="25"/>Secundus liber est Graduarius, ita a gradibus 
+          appel<lb break="no" ed="#P" n="26"/>latus, eo quod diebus festis in gradus ascendi debceat,
+          <lb ed="#P" n="27"/>atque isthic cantari in ambone. Dicitur autem 
+          nm<lb break="no" ed="#P" n="28"/>bonis ab ambio, ambis, eo quod locus ille ambitur
+          <lb ed="#P" n="29"/>gradi bus, vel ab ambo, amba , ambo, quod nimirum
+          <lb ed="#P" n="30"/>duae sint vize isthic, hoc est in pulpito, quod situm
+          <lb ed="#P" n="31"/>cst ante eum locum, ubi recitatur evangelium. 
+          Opor<lb break="no" ed="#P" n="32"/>i itaque sint ibi duo paria graduum, unum a 
+          si<lb break="no" ed="#P" n="33"/>nistris , quo flat ascensus; alterum a dextris, quo
+          <lb ed="#P" n="34"/>descensus fiat, juxta illud : Per aliam viam regressi
+          <lb ed="#P" n="35"/>sunt in regionem suam (Matth. ). Dicbus autem
+          <lb ed="#P" n="36"/>profestis canitur in medio chori ante gradus altaris.
+          <lb ed="#P" n="37"/>Ejus libri principium est : Ad te leravi. Tcrtius 
+          li<lb break="no" ed="#P" n="38"/>Ler dicitur Trophonarius, a Graeco nomine sponog
+          <lb ed="#P" n="39"/>quod est conversio. Nam a fine regredimur ad 
+          prin<lb break="no" ed="#P" n="40"/>cipium cantus , unde et trophium zona nominatur,
+          <lb ed="#P" n="41"/>quod ab uno latere vertatur in aliud, circumeundo
+          <lb ed="#P" n="42"/>usque ad umbilicum. Est autem Trophonarius 
+          li<lb break="no" ed="#P" n="43"/>ber, in quo continentur ii cantus, qui cum introitu
+          <lb ed="#P" n="44"/>wissae cantari solent, ei maximc quidem a monachis, r
+          <lb ed="#P" n="45"/>cujusmodi sunt tropi, sequentiae, Kyric cleison et
+          <lb ed="#P" n="46"/>ncume. Tropi dicuntur, quia prius canitur versus,
+          <lb ed="#P" n="47"/>ac pos:ea eleison, et iterum versus, et eleison
+          <lb ed="#P" n="48"/>deinde. llic etiam notandum , quod semel diximus
+          <lb ed="#P" n="49"/>neumam feminci generis absque p, accipi pro jubilo:;
+          <lb ed="#P" n="50"/>pro Spiritu autem sancte dicitur Graece hoc 
+          pnen<lb break="no" ed="#P" n="51"/>ma, pneumatis, Hebraice Ruath, Latine spiritus.
+          <lb ed="#P" n="52"/>Unde quidem in prosa : Descendet in te sanctum
+          <lb ed="#P" n="53"/>FPneume. Postremo Trophonarius non habet certum
+          <lb ed="#P" n="54"/>principium, quod ad placitum canatur. Nemo enim
+          <lb ed="#P" n="55"/>tenetur potius hoc vel illud Kyrie elcison in aliquo.
+          <lb ed="#P" n="56"/>festo dicere, quam aliud. Contra vero 
+          Antiphona<lb break="no" ed="#P" n="57"/>rius certum habet initium, nimirum hoc : Aspiciens
+          <lb ed="#P" n="58"/>e longe, quemad modum- graduarii principium est :
+          <lb ed="#P" n="59"/>Ad te levaci. Ab Adventu enim incipit Ecclesia.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 87</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 87</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="45"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1115"><!-- raWSwa-c87 -->
+        <head xml:id="raWSwa-d1e1115-Hd1e101">Caput 87</head>
+        <head xml:id="raWSwa-d1e1115-Hd1e103" type="question-title">
+          Quare non jejunemus eo tempore quo Christus
+          jejunavit.
+        </head>
+        <p xml:id="raWSwa-d1e1115-d1e106">
+          <lb ed="#P" n="102"/>CAPUT LXXXVII.
+          <lb ed="#P" n="103"/>Quare non jejunemus eo tempore quo Christus
+          <lb ed="#P" n="104"/>jejunavit.
+        </p>
+        <p xml:id="raWSwa-d1e1115-d1e115">
+          <lb ed="#P" n="105"/>Solet autem quaeri cum in hac Quadragesima
+          <lb ed="#P" n="106"/>Christi jejunium imitemur, cur non eo tempore
+          <lb ed="#P" n="107"/>etiam jejunamus , quo Christus dicitur jejunasse.
+          <lb ed="#P" n="108"/>Tradit enim Scriptura quod jejunare statim coeperit
+          <lb ed="#P" n="109"/>simul atque esset baptizatus. Verum quadruplex est
+          <lb ed="#P" n="110"/>ratio, quamobrem Paschae jejunium nostrum cont:-
+          <lb ed="#P" n="111"/>nuamus. Prima est, ut si volumus cum eo 
+          resur<lb break="no" ed="#P" n="112"/>gere, debeamus etiam nos pati cum eo, quod pro
+          <lb ed="#P" n="113"/>nobis ipse passus sit. Secunda causa est, ut per
+          <lb ed="#P" n="114"/>hoc Israeliticos filios imitemur, qui eo tempore
+          <lb ed="#P" n="115"/>primo ex JEgypto egressi sunt, et postea codem
+          <lb ed="#P" n="116"/>tempore exierunt a servitute Babylonica. Quod inde
+          <lb ed="#P" n="117"/>profecto facile probatur, quia tam illi, quam hi 
+          sta<lb break="no" ed="#P" n="118"/>tim celebrarant Pascha, atque egressi sunt. Tertia
+          <pb ed="#P" n="46"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>est hujusmodi, quod quandoquidem fervor libidinis, /
+          <lb ed="#P" n="2"/>tempore veris nos magis soleat incendere, tum 
+          tem<lb break="no" ed="#P" n="3"/>poris maxime jejunamus, ut corporis aestus 
+          refre<lb break="no" ed="#P" n="4"/>nemus. Quarta est, quoniam post jejunium statim
+          <lb ed="#P" n="5"/>debemus Christi corpus accipere, ut mystice 
+          pa<lb break="no" ed="#P" n="6"/>schalia capiamus sacramenta. Hoc est 
+          quemadmo<lb break="no" ed="#P" n="7"/>dum filii Isracl priusquam comederent agnum sese
+          <lb ed="#P" n="8"/>affligebant, et agrestibus lactucis vescebantur. lta
+          <lb ed="#P" n="9"/>debemus nosmet prius per poenitentiam affligere,
+          <lb ed="#P" n="10"/>ut digni habeamur comedere Agnum vitae. 
+          Animad<lb break="no" ed="#P" n="11"/>verte interim quod si in quadragesima concurrant
+          <lb ed="#P" n="12"/>duo officia, quos dies duplices vocamus, 
+          necessa<lb break="no" ed="#P" n="13"/>rium esse ut cantetur officium ad tertiam de festo:
+          <lb ed="#P" n="14"/>absque genuflexione, officium veri jejunii ad nonam,
+          <lb ed="#P" n="15"/>non sine curvatione genu.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

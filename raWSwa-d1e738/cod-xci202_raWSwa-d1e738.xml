@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 56</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 56</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="31"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e738"><!-- raWSwa-c56 -->
+        <head xml:id="raWSwa-d1e738-Hd1e101">Caput 56</head>
+        <head xml:id="raWSwa-d1e738-Hd1e103" type="question-title">
+          De cateris temporibus.
+        </head>
+        <p xml:id="raWSwa-d1e738-d1e106">
+          <lb ed="#P" n="95"/>CAPUT LVI.
+          <lb ed="#P" n="96"/>De cateris temporibus.
+        </p>
+        <p xml:id="raWSwa-d1e738-d1e113">
+          <lb ed="#P" n="97"/>Tempore vero Septuagesimae, quae est a 
+          Domini<lb break="no" ed="#P" n="98"/>ca vulgo appellata, Circumdederunt me, usque
+          <lb ed="#P" n="99"/>ac octavam Paschae, recolit Ecclesia tempus 
+          de<lb break="no" ed="#P" n="100"/>viationis. Unde est quod. tum legitur liber 
+          Gene<lb break="no" ed="#P" n="101"/>seos usque ad Regum, ubi de excessu agitur 
+          pri<lb break="no" ed="#P" n="102"/>morum parentum, et multorum aliorum, qui ome
+          <lb ed="#P" n="103"/>nes cataclismate aut diluvio sunt submersi. 
+          Brevi<lb break="no" ed="#P" n="104"/>ter ergo tum temporis Ecclesia. orat, flectit genua ,
+          <lb ed="#P" n="105"/>ac jjunat. Tempore autem paschali , quod est 
+          Pa<lb break="no" ed="#P" n="106"/>scha, vel potius ab octavis Paschae usque ad 
+          oc<lb break="no" ed="#P" n="107"/>tavas Pentecotes , tempus gaudii meminit, et 
+          re<lb break="no" ed="#P" n="108"/>conciliationis, quippe in quo: legatur Ápocalypseis,
+          <lb ed="#P" n="109"/>ubi fit mentio de nova civitate Jerusalem , et 
+          epi<lb break="no" ed="#P" n="110"/>stolse canonicae cum Actibus apostolorum. Hinc
+          <lb ed="#P" n="111"/>pauca sibi Ecclesia indicit. Non jejunat, a 
+          genu<lb break="no" ed="#P" n="112"/>flexione cessat, albis utitur vestibus , terpario 
+          nu<lb break="no" ed="#P" n="113"/>mero psaimorum et lectionum contenta est, cum
+          <lb ed="#P" n="114"/>tribus responsoriis ac totidem versiculis. Ab octavis
+          <lb ed="#P" n="115"/>demum Pentecostes usque ad adventum Domini, 
+          re<lb break="no" ed="#P" n="116"/>colit tempus peregrinationis. In hoc est nobis 
+          per<lb break="no" ed="#P" n="117"/>petua pugna et lucta adversus tres, ut dictum est,
+          <lb ed="#P" n="118"/>infestissimos hostcs, mundum vidclicct, caruem
+          <pb ed="#P" n="32"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>et diabolum. Mundus est hustis sophisticus, caro
+          <lb ed="#P" n="2"/>hostis domesticus, diabolus hostis antiquus. Nullus
+          <lb ed="#P" n="3"/>tamen istorum hostis est efficacior ad nocendum,
+          <lb ed="#P" n="4"/>quam inimicus noster familiaris, scilicet caro, quam
+          <lb ed="#P" n="5"/>fovemus indumentis, et reficimus alimentis, cui
+          <lb ed="#P" n="6"/>tanquam jumento tria debentur : cibus ne deficiat,
+          <lb ed="#P" n="7"/>enus ut mansuescat , virga ut non indirecte, sed
+          <lb ed="#P" n="8"/>directe incedat. Propter bujusmodi pugnam 
+          signi<lb break="no" ed="#P" n="9"/>ficandam, legit tunc Ecclesia librum Regum, in quo
+          <lb ed="#P" n="10"/>agitur de pugna. Et quia in pugna maxime opus est
+          <lb ed="#P" n="11"/>sapientia, ideo continustur liber Salomonis. Sed
+          <lb ed="#P" n="12"/>quoniam cum pugna nibil tantopere habere 
+          debea<lb break="no" ed="#P" n="13"/>mus, atque patientiam, apposite profecto Jobi liber
+          <lb ed="#P" n="14"/>subjungitur. Deinde porro et Tobiae liber sequitur,
+          <lb ed="#P" n="15"/>propter singularem misericordian quam in hoc
+          <lb ed="#P" n="16"/>certamine requirimus. Cui deinceps quoque 
+          sub<lb break="no" ed="#P" n="17"/>jungimus librum Judith, Ruth, Esther, proptec
+          <lb ed="#P" n="18"/>fortitudinem , justitiam et temperantiam. Verum
+          <lb ed="#P" n="19"/>enimvero cum adhuc frequens sit lucta, 
+          necessa<lb break="no" ed="#P" n="20"/>rio annectitur liber Machabaeorum, inp quo crebra
+          <lb ed="#P" n="21"/>est adversus superbiam conflictatio. Nam devictis
+          <lb ed="#P" n="22"/>omnibus vitiis, restat etiam vincenda superbia.
+          <lb ed="#P" n="23"/>Roget ergo modo aliquis , sub quo illorum 
+          tempo<lb break="no" ed="#P" n="24"/>rem contincatur illud quod est a Natali usque ad
+          <lb ed="#P" n="25"/>Beptuagesimam? Yerum facile istiusmodi quaestioni
+          <lb ed="#P" n="26"/>occurremus. Nam et ei non ineleganter per 
+          quos<lb break="no" ed="#P" n="27"/>dam satisfactum esse accepimus. Ejus itaque pars
+          <lb ed="#P" n="28"/>una continetur sub tempore regressionis, quod est
+          <lb ed="#P" n="29"/>tempus gaudii, ut dictum est, a Natali usque ad
+          <lb ed="#P" n="30"/>octavam Epiphani. Unde in quibusdam Ecclesiis
+          <lb ed="#P" n="31"/>nlbis tam diu utunur vestimentis, sicut tempore
+          <lb ed="#P" n="32"/>Paschali, 'et neque tunc jejunatur, neque flectuntur
+          <lb ed="#P" n="33"/>genua. Pars vero altera, quae est ab octava 
+          Epipha<lb break="no" ed="#P" n="34"/>nise usque ad Septuagesimam , complectitur sub
+          <lb ed="#P" n="35"/>tempore peregrinationis, et leguntur duodecim 
+          epi<lb break="no" ed="#P" n="36"/>stolae Pauli, ubi agitur de labore ejus, quem 
+          lu<lb break="no" ed="#P" n="37"/>ctando ac pugnando pertulit. Nec vero quantumvis
+          <lb ed="#P" n="38"/>ipso die Nativitatis Domini Isaias legi soleat, credas
+          <lb ed="#P" n="39"/>diem illum pertinere ad tempus revocationis. Fit
+          <lb ed="#P" n="40"/>enim hoc alia consideratione, et ante evangelium
+          <lb ed="#P" n="41"/>in nocturnis et ante epistolam in missa, quod 
+          vide<lb break="no" ed="#P" n="42"/>licet velut basis columnae supponatur, ut per 
+          utrum<lb break="no" ed="#P" n="43"/>que Testamentum nativitas Christi perhibeatur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

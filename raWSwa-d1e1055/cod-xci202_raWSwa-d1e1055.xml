@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 82</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 82</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="44"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1055"><!-- raWSwa-c82 -->
+        <head xml:id="raWSwa-d1e1055-Hd1e101">Caput 82</head>
+        <head xml:id="raWSwa-d1e1055-Hd1e103" type="question-title">
+          De festo sancti Blasii.
+        </head>
+        <p xml:id="raWSwa-d1e1055-d1e106">
+          <lb ed="#P" n="8"/>CAPUT LXXXII.
+          <lb ed="#P" n="9"/>De festo sancti Blasii.
+        </p>
+        <p xml:id="raWSwa-d1e1055-d1e113">
+          <lb ed="#P" n="10"/>Alterum hujus temporis festum est Blasii. Fuit
+          <lb ed="#P" n="11"/>autem hic sanctissimus medicus, qui multo 
+          tem<lb break="no" ed="#P" n="12"/>pore in rupe quadam latitans hominibus ad se 
+          ve<lb break="no" ed="#P" n="13"/>nientibus medebatur, atque eos sanabat. Simili
+          <lb ed="#P" n="14"/>ratione, si quae sua animalia ad eum ducebant 
+          a<lb break="no" ed="#P" n="15"/>grota, ea illico curabat. Tandem cum factus esset
+          <lb ed="#P" n="16"/>episcopus urbis Sebastae, captus fuit et in carcerem
+          <lb ed="#P" n="17"/>inclusus, in quem pia quaedam mulier cibum ci
+          <lb ed="#P" n="18"/>multo tempore cum candela attulit. Cum autem ille
+          <lb ed="#P" n="19"/>mortis suae diem jam imminere praesciret, dixit
+          <lb ed="#P" n="20"/>huic mulieri ut, quandiu viveret, singulis annis
+          <lb ed="#P" n="21"/>ipso die obitus sui candelam in ejus memoriam 
+          of<lb break="no" ed="#P" n="22"/>ferret, Deus ab infirmitatibus eam tutaretur, atque
+          <lb ed="#P" n="23"/>in magna prosperitate conservaret. Quod quidem
+          <lb ed="#P" n="24"/>ita factum est. Multi ergo similiter ita fecerunt si
+          <lb ed="#P" n="25"/>forte infirmarentur, et valetudinem -eceperunt.
+          <lb ed="#P" n="26"/>Inde apud omnes passim in consuetudinem abiit ut
+          <lb ed="#P" n="27"/>si forte ex dentibus laborat, vel ex aliqua alia
+          <lb ed="#P" n="28"/>sui parte, vel etiam si sua aegrotarent animalia,
+          <lb ed="#P" n="29"/>offerrent in ejus honorem candelas.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 50</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 50</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="28"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e665"><!-- raWSwa-c50 -->
+        <head xml:id="raWSwa-d1e665-Hd1e101">Caput 50</head>
+        <head xml:id="raWSwa-d1e665-Hd1e103" type="question-title">
+          Quibus horis celebretur missa.
+        </head>
+        <p xml:id="raWSwa-d1e665-d1e106">
+          <lb ed="#P" n="89"/>CAPUT L.
+          <lb ed="#P" n="90"/>Quibus horis celebretur missa.
+        </p>
+        <p xml:id="raWSwa-d1e665-d1e113">
+          <lb ed="#P" n="91"/>Tribus horis tantummodo regulariter missa 
+          pote<lb break="no" ed="#P" n="92"/>rit celebrari, tertia nimirum, sexta et nona. Et 
+          qui<lb break="no" ed="#P" n="93"/>dem tertia, ideo quod tum linguis Judaeorum sit
+          <lb ed="#P" n="94"/>crucifixus, dum instanter clamarent : Cracifige, 
+          cru<lb break="no" ed="#P" n="95"/>cifige eum (Joan. xix), pertuleritque ludibria, 
+          male<lb break="no" ed="#P" n="96"/>dicta, convicia, alapas, flagra, insultantium sputa,
+          <lb ed="#P" n="97"/>et coronam spineam. Sexta vero ob eam causan,
+          <lb ed="#P" n="98"/>quod tum in crucem actus sit, ac tolerare 
+          debue<lb break="no" ed="#P" n="99"/>rit clavos rigidissimos et pocula felle tincta, ut sic
+          <lb ed="#P" n="100"/>tandem pro nobis immolaretur. Nona demum, quia
+          <lb ed="#P" n="101"/>tunc animum exhalavit ac spiritum Patri 
+          commen<lb break="no" ed="#P" n="102"/>davit. Poterit tamen fieri ut ante primam in 
+          Domi<lb break="no" ed="#P" n="103"/>nicae resurrectionis memoriam missa celebretur,
+          <lb ed="#P" n="104"/>quod vicarii faciunt, et post primam ante tcrtiam
+          <lb ed="#P" n="105"/>in ejus rei commendationem , quod Christus inter
+          <lb ed="#P" n="106"/>primam et tertiam traditus fuerit Pontio Pilato 
+          Ju<lb break="no" ed="#P" n="107"/>daeis vociferantibus : Crucifige eum, ipso tacente.
+          <lb ed="#P" n="108"/>Cantatur ergo missa diebus festis hora tertia, 
+          pro<lb break="no" ed="#P" n="109"/>festis sexta, et nona in quadragesima ac aliis diebus
+          <lb ed="#P" n="110"/>jejuniorum. Nec tamen omnium, quia in Sabbatis
+          <lb ed="#P" n="111"/>jejuniorum Quatuor Temporum valde sero celebrari
+          <lb ed="#P" n="112"/>et potest et debet propter sacros ordines : quod etiam
+          <lb ed="#P" n="113"/>ad sequentem spectet Dominicam. In SabbatoPaschae
+          <lb ed="#P" n="114"/>et Pentecostes sero canitur propter ccreae candele,
+          <lb ed="#P" n="115"/>quam cereum nominamus, consecrationem, quod
+          <lb ed="#P" n="116"/>ex eo facile perpendi aut colligi potest, ubi dicitur:
+          <lb ed="#P" n="117"/>llac nox est, atque ex ista oratione : Deus, qui hanc
+          <lb ed="#P" n="118"/>sacratissimam noctem, etc. Ipso vero dic Natalis Da«
+          <pb ed="#P" n="29"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>mini prima missa cantatur nocte. Potest tamen licite.
+          <lb ed="#P" n="2"/>pantari summo mane, sed tamen prima et tertia prius
+          <lb ed="#P" n="3"/>absolutis. Sic itaque ab illis horis excipitur dies qui
+          <lb ed="#P" n="4"/>Domini nativitati sacer est, cum noctu prima 
+          cana<lb break="no" ed="#P" n="5"/>tur. Nec id quidem sinc causa, ut postea dicemus.
+          <lb ed="#P" n="6"/>Atque etiam Sabbatum Paschae et Pentecostes, 
+          quo<lb break="no" ed="#P" n="7"/>riam tum temporis expresse dicimus : Haec nox
+          <lb ed="#P" n="8"/>est; et : Deus, qui hanc sacratissimam noctem. 
+          Exci<lb break="no" ed="#P" n="9"/>pinntur denicue dies jejuniorum propter sacros or-
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

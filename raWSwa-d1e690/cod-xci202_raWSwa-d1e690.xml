@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 52</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 52</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="29"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e690"><!-- raWSwa-c52 -->
+        <head xml:id="raWSwa-d1e690-Hd1e101">Caput 52</head>
+        <head xml:id="raWSwa-d1e690-Hd1e103" type="question-title">
+          De vesperis.
+        </head>
+        <p xml:id="raWSwa-d1e690-d1e106">
+          <lb ed="#P" n="80"/>CAPUT LII
+          <lb ed="#P" n="81"/>De vesperis.
+        </p>
+        <p xml:id="raWSwa-d1e690-d1e113">
+          <lb ed="#P" n="82"/>In vesperis a nobis cantantur quinque psalmi,
+          <lb ed="#P" n="83"/>qui sumus imperfecti, propter quinque sensus, 
+          vide<lb break="no" ed="#P" n="84"/>licet quod per quinque sensus corporeos 
+          commis<lb break="no" ed="#P" n="85"/>sum est, per quinque psalmorum cantionem 
+          pe<lb break="no" ed="#P" n="86"/>nitus demittatur. Hinc notandum est nos eadem 
+          ra<lb break="no" ed="#P" n="87"/>tione quinque digitis pectus tundere, quam quinque
+          <lb ed="#P" n="88"/>canimus psalmos. Monachi vero, in quo se 
+          perfe<lb break="no" ed="#P" n="89"/>ctiores esse ostendunt, tantum quatuor dieunt. 
+          Quid<lb break="no" ed="#P" n="90"/>quid enim quadratum est, in quamcunque partem
+          <lb ed="#P" n="91"/>vertotur, manet semper idem, firmum ac solidum.
+          <lb ed="#P" n="92"/>Ad eumdem sane modum profectus, quocunque
+          <lb ed="#P" n="93"/>loco aut quocungue tempore, semper idem atque
+          <lb ed="#P" n="94"/>immobilis permanet. Finitis psalmis parva sequitur
+          <lb ed="#P" n="95"/>lectio sine 4ube, domne, et sine Tu autem, domine,
+          <lb ed="#P" n="96"/>hoc est capitulum, ac deinde responsorium vel efus
+          <lb ed="#P" n="97"/>loco versus, cum hymnis et antiphona, ac deinceps
+          <lb ed="#P" n="98"/>Magnificat. Plerumque tamen hymnus beatae Mariae,
+          <lb ed="#P" n="99"/>videlicet Magnificat, loco hymni ponitur, ut 
+          prae<lb break="no" ed="#P" n="100"/>terea nultus alius canatur. Sequitur tandem collecta,
+          <lb ed="#P" n="101"/>quam orationem diximus. Volumus autem, ut huc
+          <lb ed="#P" n="102"/>usque a nobis factum est, consuetis et 
+          ecclesia<lb break="no" ed="#P" n="103"/>sticis, ut qui officiatradamus ecclesiastica, deinceps
+          <lb ed="#P" n="104"/>uti vocabulis. Sciendum ergo est quod de eodem
+          <lb ed="#P" n="105"/>die eodemque festo vparva debeat cantari lectio.
+          <lb ed="#P" n="106"/>Verbi gratia : Si de praecedenti Dominica unum,
+          <lb ed="#P" n="107"/>et reliquum; si de sequenti unum., et reliquum.
+          <lb ed="#P" n="108"/>Animadvertendum praeterea est quod, quando fuerit
+          <lb ed="#P" n="109"/>solemnitas novem lectionum, illius vesperse totae
+          <lb ed="#P" n="110"/>dcbent celebrari, ut in festo B. Stephani et B. 
+          Joan<lb break="no" ed="#P" n="111"/>nis cvangelistoe. Post vesperas necessario dicitur
+          <lb ed="#P" n="112"/>collecta dc sancto cujus est festum sequens, vcl
+          <lb ed="#P" n="113"/>antiphona cum Magnificat. Unum tamen excipitur,
+          <pb ed="#P" n="30"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>festum videlicet S. Sylvestri, quod etiamsi novem
+          <lb ed="#P" n="2"/>habeat lectiones ejus, tamen vesperae sunt festi
+          <lb ed="#P" n="3"/>sequentiae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 44</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 44</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="26"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e592"><!-- raWSwa-c44 -->
+        <head xml:id="raWSwa-d1e592-Hd1e101">Caput 44</head>
+        <head xml:id="raWSwa-d1e592-Hd1e103" type="question-title">De secreta</head>
+        <p xml:id="raWSwa-d1e592-d1e106">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>CAPUT XLIV
+          <lb ed="#P" n="60"/>De secreta.
+        </p>
+        <p xml:id="raWSwa-d1e592-d1e115">
+          <lb ed="#P" n="61"/>Secreta dicitur, quia secrete pronuntiatur, cum
+          <lb ed="#P" n="62"/>tamen olim alta voce diceretur, ita ut omnibus 
+          fa<lb break="no" ed="#P" n="63"/>cile laicis teneretur. Contigit ergo ut quodam 
+          tem<lb break="no" ed="#P" n="64"/>pore pastores panem super lapidem quemdam 
+          pone<lb break="no" ed="#P" n="65"/>rent, qui, dum hujus secretae verba proferrent, in
+          <lb ed="#P" n="66"/>carnem conversus est,ct forsitan transsubstantiatus,
+          <lb ed="#P" n="67"/>ut sic loquar, in corpus Christi. In quos divinitus.
+          <lb ed="#P" n="68"/>facta est acerrima vindicta. Nam ad nnum omnes
+          <lb ed="#P" n="69"/>percussi sunt divino judicio coelitus misso. Ex quo
+          <lb ed="#P" n="70"/>quidem facto statutum fuit, ut posthac tacite ac
+          <lb ed="#P" n="71"/>submisse diceretur, aut ideu sane occulte et quasi
+          <lb ed="#P" n="72"/>sub silentio dicitur, ne scilicet vilescat, sicut ob
+          <lb ed="#P" n="73"/>eamdem causam sacra litterae dicunturesse obscurae;
+          <lb ed="#P" n="74"/>aut tandem ne a laicis cognoscatur, ita ut hinc 
+          tri<lb break="no" ed="#P" n="75"/>plex silentii sit ratio. Cum autem ait sacerdos :
+          <lb ed="#P" n="76"/>Orate, fratres, statim incipit orare; et nos similiter
+          <lb ed="#P" n="77"/>hoc audientes secreto orare debemus, ae duos 
+          psal<lb break="no" ed="#P" n="78"/>mos canere, nempe : Exaudiat te Dominus, et 
+          se<lb break="no" ed="#P" n="79"/>quentem. Sed quando interim dicit, Orate, fratres,
+          <lb ed="#P" n="80"/>perinde est ac si diceret : Dominus vobiscum tacite,
+          <lb ed="#P" n="81"/>cum sese vertat ad populum. Quare meminerimusg
+          <lb ed="#P" n="82"/>sacerdotem se quinquies ad populum convertere
+          <lb ed="#P" n="83"/>dicendo Dominus vobiscum, propter quinque 
+          appa<lb break="no" ed="#P" n="84"/>ritiones quae fuere ipso die Paschatis. Et quia una
+          <lb ed="#P" n="85"/>apparitio. fuit non manifesta, quando apparuit B.
+          <lb ed="#P" n="86"/>Marix Magdalenae, ut plcrique sentiunt, ideo 
+          oc<lb break="no" ed="#P" n="87"/>culte et quasi sub silentio ait, Dominus vobiscum
+          <lb ed="#P" n="88"/>tunc, cum aperte satis dicit : Orate, fratres. Per
+          <lb ed="#P" n="89"/>omnia secula seculorum, id est per saecula sibi 
+          mu<lb break="no" ed="#P" n="90"/>tuo succedentia. Vel dicuntur saecula per 
+          antono<lb break="no" ed="#P" n="91"/>masiam, sicut Cantica canticorum. Quaesitum est
+          <lb ed="#P" n="92"/>cur secreto dicantur orationes quae sequuntur post
+          <lb ed="#P" n="93"/>oblationes. Sed nos ideo hoc fieri respondemus,
+          <lb ed="#P" n="94"/>quod Judai post suscitationem Lazari, statim 
+          Je<lb break="no" ed="#P" n="95"/>sum voluerunt occidere, qui sese occultavit in 
+          civi<lb break="no" ed="#P" n="96"/>tate Epbrem in solitudine (Joan. x), et a 
+          praedica<lb break="no" ed="#P" n="97"/>tione ac miraculorum operatione penitus quievit et
+          <lb ed="#P" n="98"/>tacuit in Sabbatum usque, quod est ante Dominicam
+          <lb ed="#P" n="99"/>in Ramis palmarum, quo venit in domum Simonis
+          <lb ed="#P" n="100"/>leprosi, et aperte praedicavit (Matth. xxvi). Atquc
+          <lb ed="#P" n="101"/>hoc quidem expresse indicat sacerdotis illa vocis
+          <lb ed="#P" n="102"/>exsultatio, qua inquit, Per omnia sacula saculorum.
+          <lb ed="#P" n="103"/>Cui subditur, Amen, propterea, ut quae a sacerdote
+          <lb ed="#P" n="104"/>dicta sint, liquido confirmemus, quia per Christum
+          <lb ed="#P" n="105"/>saculum creatum est. Amen namque nomen Dei
+          <lb ed="#P" n="106"/>est. Unde in Apocalypsi : Ego sum Amen, testis 
+          fide<lb break="no" ed="#P" n="107"/>lis (Apoc. ). Subjungitur porro, Dominus 
+          vobis<lb break="no" ed="#P" n="108"/>cum, ac deinde, Sursum corda, quae scilicet sursum
+          <lb ed="#P" n="109"/>habere debemus ad Dominum in coelestibus, non in
+          <lb ed="#P" n="110"/>terrenis, ut non quaeramus benedictionem Esau,
+          <lb ed="#P" n="111"/>quae ut caduca ac debilis est, ita in terrenis plane
+          <lb ed="#P" n="112"/>sita est. Idem prorsus nobis manifceste signiflcant
+          <lb ed="#P" n="113"/>episcopi sandalia, quae cum superius sint aperta,
+          <lb ed="#P" n="114"/>iis admonemur, ut semper corda hactenus erecta
+          <lb ed="#P" n="115"/>ad Dominurm, cumque inferius sint solida, volunt ut
+          <lb ed="#P" n="116"/>haboamus in terrenis menten omnnino obtusam,
+          <lb ed="#P" n="117"/>quasi non debeamus quaerere benedictionen quae wn
+          <pb ed="#P" n="27"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>terrenis est, sed benedictionem Jacob, quae est in
+          <lb ed="#P" n="2"/>caelis. Postea sequitur : Gratias agamus Domino Deo
+          <lb ed="#P" n="3"/>nostre. Quia pro omnibus beneficiis, quae ille in nos
+          <lb ed="#P" n="4"/>benigne contulit, gratias ei merito rependere 
+          de<lb break="no" ed="#P" n="5"/>bemus. Invenitur autem ibi quaedam figura (2) ad
+          <lb ed="#P" n="6"/>similiudinem nostrorum delta, D scilicet undique
+          <lb ed="#P" n="7"/>clausum, qued in parte yraecedenti V nostrum 
+          com<lb break="no" ed="#P" n="8"/>plectitur, quod in summitate apertum est, in 
+          quo<lb break="no" ed="#P" n="9"/>rum parte media tractulus per transversum 
+          duci<lb break="no" ed="#P" n="10"/>tur, utramque in modum crucis partem cepulans.
+          <lb ed="#P" n="11"/>Quod quidem non sine causa factum est. Per delta
+          <lb ed="#P" n="12"/>enim circulariter clausum, divina figuratur natura,
+          <lb ed="#P" n="13"/>quae nec principium nec finem habuit. Per V 
+          expri<lb break="no" ed="#P" n="14"/>mitur humana Christi natura, quae principium in
+          <lb ed="#P" n="15"/>Virgine babuit, sed fine carebit. At vero tractulus
+          <lb ed="#P" n="16"/>in medio utramque partem conjungens, crux est per
+          <lb ed="#P" n="17"/>quam humana sociantur divinis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

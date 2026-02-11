@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 42</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 42</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="26"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e568"><!-- raWSwa-c42 -->
+        <head xml:id="raWSwa-d1e568-Hd1e101">Caput 42</head>
+        <head xml:id="raWSwa-d1e568-Hd1e103" type="question-title">De sacrificio</head>
+        <p xml:id="raWSwa-d1e568-d1e106">
+          <pb ed="#P" n="26"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>CAPUT XLII.
+          <lb ed="#P" n="2"/>De sacrificio.
+        </p>
+        <p xml:id="raWSwa-d1e568-d1e117">
+          <lb ed="#P" n="3"/>Sacrificium dicitur quasi quo sacrum efficitur,
+          <lb ed="#P" n="4"/>ubi cognoscendum est quod olim sacrificium ab
+          <lb ed="#P" n="5"/>apostolis et viris apostolicis in primitiva Ecclesia
+          <lb ed="#P" n="6"/>vasis ligneis ac vulgaribus vestibus celebrabatur.
+          <lb ed="#P" n="7"/>Tum enim erant, ut dici solitum est, lignei caliceg
+          <lb ed="#P" n="8"/>et aurei sacerdotes. Nunc vero est econtra. Paulo
+          <lb ed="#P" n="9"/>tamen post, Severinus papa instituit idem vitreis
+          <lb ed="#P" n="10"/>fieri vasis. Sed quia erant fragilia, Urbanus papa
+          <lb ed="#P" n="11"/>voluit ut argenteis vel aureis sacrificaretur, vel
+          <lb ed="#P" n="12"/>etiam ob paupertatem stanneis, quae tamen non 
+          fa<lb break="no" ed="#P" n="13"/>eile aeruginantur. Hostia secundum Hebraos ab
+          <lb ed="#P" n="14"/>ostio nuncupata est, quia ad ostium tabernaculi
+          <lb ed="#P" n="15"/>offerebatur. Secundum etbnicos vero ab hoste 
+          deri<lb break="no" ed="#P" n="16"/>vata est. Nam ab hostibus domitis, ut ille ait, hostia
+          <lb ed="#P" n="17"/>nomen habet. Dicta est etiam victima a vincendo;
+          <lb ed="#P" n="18"/>et immolatio, quod isthic Christus sacramentaliter
+          <lb ed="#P" n="19"/>inmoletur, quod in veritate semel pro peccatis 
+          no<lb break="no" ed="#P" n="20"/>stris in cruce est immolatus. Appellata autem est
+          <lb ed="#P" n="21"/>immolatio a mola, qua in sacrificiis conteri solebae
+          <lb ed="#P" n="22"/>genus quoddam frumenti, quod far vel ador dicitur.
+          <lb ed="#P" n="23"/>Unde:
+          <lb ed="#P" n="24"/>Et aderea liba per herbam.
+          <lb ed="#P" n="25"/>(Vinc. An., l. vii, 109.)
+          <lb ed="#P" n="26"/>Ponebatur enim inter cornua altaris vel animalis
+          <lb ed="#P" n="27"/>cultro isthic facto foramine. Mola vero in altari 
+          dici<lb break="no" ed="#P" n="28"/>tur pars media sub qua reliquiae sigillantur, et cui
+          <lb ed="#P" n="29"/>in dedicatione ecclesiae crux imprimitur, atque ubi
+          <lb ed="#P" n="30"/>corpus Christi consecratur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

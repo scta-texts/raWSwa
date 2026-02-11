@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 28</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 28</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="20"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e398"><!-- raWSwa-c28 -->
+        <head xml:id="raWSwa-d1e398-Hd1e101">Caput 28</head>
+        <head xml:id="raWSwa-d1e398-Hd1e103" type="question-title">
+          Cur septies in die laudemus Dominum.
+        </head>
+        <p xml:id="raWSwa-d1e398-d1e106">
+          <lb ed="#P" n="36"/>CAPUT XXVII.
+          <lb ed="#P" n="37"/>Cur septies in die laudemus Dominum.
+        </p>
+        <p xml:id="raWSwa-d1e398-d1e113">
+          <lb ed="#P" n="38"/>Est et alia ratio quamobrem septies in die 
+          laude<lb break="no" ed="#P" n="39"/>mus Dominum, quod quilibet dies uniuseujusque
+          <lb ed="#P" n="40"/>repraesentet aetatem. Non quod eam omnis homo
+          <lb ed="#P" n="41"/>habeat, sed quam haberet, nisi peccaret. Haec autem
+          <lb ed="#P" n="42"/>septem habet varietates, infantis, pueri, 
+          adolescen<lb break="no" ed="#P" n="43"/>1is, juvenis, viri, senis et decrepiti. Per matutinas
+          <lb ed="#P" n="44"/>laudes repraesentatur infantia, per primam 
+          pueri<lb break="no" ed="#P" n="45"/>£ia, per tertiam adolescentia, per sextam juventus,
+          <lb ed="#P" n="46"/>per nonam aeetas virilis, per vesperas senectus, per
+          <lb ed="#P" n="47"/>completorium aetas decrepita sc finis bumanae vitae.
+          <lb ed="#P" n="48"/>In his profecto omnibus aetatibus Creatorem laudare
+          <lb ed="#P" n="49"/>tencmur. Quod autem infantiae nostrae tempore 
+          Do<lb break="no" ed="#P" n="50"/>minum laudarce possimus, evidens nobis facit 
+          argu<lb break="no" ed="#P" n="51"/>mentum B. Nicolaus, qui quarta et sexta feria 
+          ma<lb break="no" ed="#P" n="52"/>tris ubera virtute abstinentiae non sugebat. De aliis
+          <lb ed="#P" n="53"/>aetatibus satis est manifestum. Sunt item 
+          quamplu<lb break="no" ed="#P" n="54"/>rimae rationes, quare istarum horarum temporibus
+          <lb ed="#P" n="55"/>Dominum praecipue laudamus. Rubescente diei 
+          au<lb break="no" ed="#P" n="56"/>rora cantamus laudes matutinas, quae matutinae
+          <lb ed="#P" n="57"/>nuncupantur, a mane quod bonum est, si lumen est
+          <lb ed="#P" n="58"/>bonum, atque nihil csse melius luce videtur : bo-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>num igitur est mane, cum eo tempore nobis lun.en
+          <lb ed="#P" n="60"/>redditur. Appeltantur vero laudes, quod officium
+          <lb ed="#P" n="61"/>isudem potissimum sonet divinam, quam ei damus,
+          <lb ed="#P" n="62"/>quoniam a tenebris erroris nos ad lucem veritatis
+          <lb ed="#P" n="63"/>reduxit. Hoc igitur tempore laudes Deo canimus,
+          <lb ed="#P" n="64"/>quia ejusmodi hora mundum creavit, et angelos, qui
+          <lb ed="#P" n="65"/>seta'im atque conditi sunt, suavi cantu ac 
+          modula<lb break="no" ed="#P" n="66"/>m:ne Creatori suo laudes jubilarunt. Eodem quoque
+          <lb ed="#P" n="67"/>tempore populum Israeliticum per mare Bubrum
+          <lb ed="#P" n="68"/>transduxit incolumem ac Agyptios submersit. 
+          Rur<lb break="no" ed="#P" n="69"/>gus eadem hac bora Christus victor a morte surrexit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

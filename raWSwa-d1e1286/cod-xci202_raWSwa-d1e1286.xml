@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 101</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 101</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="53"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1286"><!-- raWSwa-c101 -->
+        <head xml:id="raWSwa-d1e1286-Hd1e101">Caput 101</head>
+        <head xml:id="raWSwa-d1e1286-Hd1e103" type="question-title">
+          De numero candelarum.
+        </head>
+        <p xml:id="raWSwa-d1e1286-d1e106">
+          <lb ed="#P" n="40"/>CAPUT CI
+          <lb ed="#P" n="41"/>De numero candelarum.
+        </p>
+        <p xml:id="raWSwa-d1e1286-d1e113">
+          <lb ed="#P" n="42"/>Dicendum modo est de candelis, atque hic 
+          qui<lb break="no" ed="#P" n="43"/>éem in numero diversitas est. Quidam enim 
+          septua<lb break="no" ed="#P" n="44"/>ginta duas accendunt, quidam viginti quatuor, 
+          qui<lb break="no" ed="#P" n="45"/>dam quindecim, quidam etiam duodecim, quidam
+          <lb ed="#P" n="46"/>posem, et quidam septem. Sed hi tamen omnes non
+          <lb ed="#P" n="47"/>absque mvystica significatione hoc faciunt. Nam 
+          sep<lb break="no" ed="#P" n="48"/>tuaginta duae candelae septuaginta duos discipulos
+          <lb ed="#P" n="49"/>significant, quorum praedicatio, sive concio, in
+          <lb ed="#P" n="50"/>morte Christi exstincta est; vel ad designandum
+          <lb ed="#P" n="51"/>quod Dominus septuaginta duabus horis in sepulcro
+          <lb ed="#P" n="52"/>quieverit per synecdochem, quemadmodum dicitur
+          <lb ed="#P" n="53"/>tribus diebus et tribus noctibus, in corde terrae 
+          lati<lb break="no" ed="#P" n="54"/>tasse ; vel septuaginta duas nationes, et septuaginta
+          <lb ed="#P" n="55"/>duo genera linguarum. Viginti quatuor candelae quze
+          <lb ed="#P" n="56"/>prius accenduntur, et postea exstinguuntur, hunc
+          <lb ed="#P" n="57"/>versiculum : Gloria Patri et Filio, etc., significant,
+          <lb ed="#P" n="58"/>qui viginti quatuor vicibus in nocturnis festivitatum
+          <lb ed="#P" n="59"/>cantori soleat et in hoc officio omnino tacetur, quo-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>niam laus Trinitatis, ad quam pertinct versus ille
+          <lb ed="#P" n="61"/>in norte Christi videtur exstincta. Quindecim 
+          can<lb break="no" ed="#P" n="62"/>delae duodecim apostolos et tres Marias significant,
+          <lb ed="#P" n="63"/>qui omnes laudem Dei tunc subticuerunt. Sed 
+          apo<lb break="no" ed="#P" n="64"/>stolis tamen fugientibus, tres Maria, ut quie minus
+          <lb ed="#P" n="65"/>metuebant, circa eum, quoad poterant, 
+          versaban<lb break="no" ed="#P" n="66"/>tur. Unde legitur : Pelli mea consumptis carnibus
+          <lb ed="#P" n="67"/>adhasit os meum, et derelicta sunt tantummodo labia
+          <lb ed="#P" n="68"/>circa dentes meos (Job xix), id est, mulieres quae
+          <lb ed="#P" n="69"/>unt quasi pellicula quaedam. Duodecim candelae
+          <lb ed="#P" n="70"/>duodecim exprimunt apostolos. Át vero novem 
+          hu<lb break="no" ed="#P" n="71"/>manum genus significant, quod propter peccatum
+          <lb ed="#P" n="72"/>suum a consortio novem ordinum angelorum 
+          semo<lb break="no" ed="#P" n="73"/>tum est, et a vera luce exclusum. Per septem 
+          cande<lb break="no" ed="#P" n="74"/>las, septiformis Spiritus sancti declaratur gratia,
+          <lb ed="#P" n="75"/>quae in cordibus discipulorum pene fuit exstincta.
+        </p>
+        <p xml:id="raWSwa-d1e1286-d1e191">
+          <lb ed="#P" n="76"/>Ut autem de numero candelarum sit, omnes manu
+          <lb ed="#P" n="77"/>cerea debent exstingui. Et quidem per manum 
+          ce<lb break="no" ed="#P" n="78"/>ream intelligitur manus illa quam vidit Balthasar
+          <lb ed="#P" n="79"/>rex Assyriorum, scribentem in pariete verba hujus
+          <lb ed="#P" n="80"/>modi : Mane. Thecel, Phares, quae sic exposuit
+          <lb ed="#P" n="81"/>Daniel : Mane, id est enumeravit, Thecel, 
+          appen<lb break="no" ed="#P" n="82"/>dit, et Phares divisit (Dan. v). Hic ergo sensus est:
+          <lb ed="#P" n="83"/>Dicit Dominus : Numeravi tempus regni tui, et opera
+          <lb ed="#P" n="84"/>tua bona et mala, et appendi et inveni plus inali
+          <lb ed="#P" n="85"/>quam boni, atque ideo dividetur regnum tuum in
+          <lb ed="#P" n="86"/>Persas et Medos. Quod utique factum est per Cyrum
+          <lb ed="#P" n="87"/>et Darium. Quemadmodum igitur regnum illud 
+          pro<lb break="no" ed="#P" n="88"/>pter mala opera regis exstinctum fuit, et divisum
+          <lb ed="#P" n="89"/>in perpetuum, ita quoque regnum Judaeorum, 
+          pro<lb break="no" ed="#P" n="90"/>pter peccatum in morte Christi commissum, divisum
+          <lb ed="#P" n="91"/>est et in posterum penitus delctum. Vel, quod 
+          me<lb break="no" ed="#P" n="92"/>lius est, manus cerea repraesentat manum Judse,
+          <lb ed="#P" n="93"/>quae fuit cerea, id est ad malum flexibilis, per quam
+          <lb ed="#P" n="94"/>Christus, rex noster et lucerna vera, traditus fuit et
+          <lb ed="#P" n="95"/>exstinctus , quantum in ipso fuit. Atque ita per
+          <lb ed="#P" n="96"/>manum ceream significatur illius manus, de quo
+          <lb ed="#P" n="97"/>Christus ait : Qui mecum intigit manum, etc. (Matth.
+          <lb ed="#P" n="98"/>xxvi). Ut enim haec exstinguit lumen, ita illa verum
+          <lb ed="#P" n="99"/>lumen exstinxit, quantum in se fuit. Aliquando vero
+          <lb ed="#P" n="100"/>plures candelae sine certo numero incenduntur, nec
+          <lb ed="#P" n="101"/>observatur aliquis numerus, ita ut vel quaelibet 
+          mu<lb break="no" ed="#P" n="102"/>lier aut vir suam isthic sibi accendat. Per quas
+          <lb ed="#P" n="103"/>candelas significantur prophetae et alii sancti 
+          Pa<lb break="no" ed="#P" n="104"/>tres, qui propter Cbristum lumen mundi venturum
+          <lb ed="#P" n="105"/>annuntiantes, atque aliis verba salutis 
+          concionan<lb break="no" ed="#P" n="106"/>tes et praedicantes, variis vexati poenis mortui sunt
+          <lb ed="#P" n="107"/>et exstincti. Nec vero omnes candelae simul 
+          exstin<lb break="no" ed="#P" n="108"/>guuntur, sed successive nunc haec, nunc illa, 
+          quo<lb break="no" ed="#P" n="109"/>niam discipuli non simul ab eo recesserunt, sed
+          <lb ed="#P" n="110"/>paulatim, cum unus decessisset, abiit et alter. Una
+          <lb ed="#P" n="111"/>tamen quae in earum medio est collocata, non 
+          ex<lb break="no" ed="#P" n="112"/>stinguitur, sed absconditur et occultatur, posteaquc
+          <lb ed="#P" n="113"/>in apertum profertur, ac ejus luce omnia ecclesiae
+          <lb ed="#P" n="114"/>lumina rursus accenduntur. Hic est Christus, qui
+          <lb ed="#P" n="115"/>licet viderctur secundum corpus exstinctus, 
+          se<lb break="no" ed="#P" n="116"/>cundum divinitatem tamen vivebat, quae illis erat
+          <lb ed="#P" n="117"/>orculta. Hic enim paulo post resurgens cum luce
+          <lb ed="#P" n="118"/>clarissima se suis discioulis manifestavit, quando
+          <pb ed="#P" n="54"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>in eorum mentibus charitatem jam propemodum
+          <lb ed="#P" n="2"/>exstinctam sua illustratione iterum inflammavit.
+        </p>
+        <p xml:id="raWSwa-d1e1286-d1e296">
+          <lb ed="#P" n="3"/>Nunc de ipso officio prosequamur, quod 
+          univer<lb break="no" ed="#P" n="4"/>sam Christi sonat passionem. Primus ergo versus,
+          <lb ed="#P" n="5"/>a quo noctis officium alioqui incipi consuevit,
+          <lb ed="#P" n="6"/>nempe : Domine, labia mea aperies (Psal. ), 
+          subtice<lb break="no" ed="#P" n="7"/>tur, quod Christus caput nostrum a nobis 
+          aufera<lb break="no" ed="#P" n="8"/>tur. Sic nec Deus in adjutorium dicimus, quia 
+          no<lb break="no" ed="#P" n="9"/>stro pastore percusso nos illius oves, a quo petamus
+          <lb ed="#P" n="10"/>auxilium non habemus. lnvitatorium autem ideo
+          <lb ed="#P" n="11"/>non exprimitur, ne per hoc pravum istud Judaeorum
+          <lb ed="#P" n="12"/>consilium contra Jesum factum quodammodo 
+          imi<lb break="no" ed="#P" n="13"/>temur, sed potius ut ipsum per invitatorii silentium
+          <lb ed="#P" n="14"/>detestemur. Ad lectiones quoque benedictio neque
+          <lb ed="#P" n="15"/>petitur, neque datur, quod pastor qui gregi suo 
+          be<lb break="no" ed="#P" n="16"/>nedicat modo non adsit. Vel quia per Jube, domne,
+          <lb ed="#P" n="17"/>significantur illi qui eunt concionatum, et per Tw
+          <lb ed="#P" n="18"/>autemn, illi qui concionandi munus obierunt, et inde
+          <lb ed="#P" n="19"/>reversi sunt. Sed nec hi, nec illi tum aderant, 
+          si<lb break="no" ed="#P" n="20"/>quidem aufugerant. Debent ergo dici lectiones etiam
+          <lb ed="#P" n="21"/>lamentando, et maxime illae quas Threnos 
+          appella<lb break="no" ed="#P" n="22"/>mus Jeremia, qui deflevit sanctum illum regem
+          <lb ed="#P" n="23"/>Josiam. Luget Ecclesia etiam tunc passionem, et
+          <lb ed="#P" n="24"/>mortem Domini. Sed quia propter peccata nostra
+          <lb ed="#P" n="25"/>ipsum amisimus, si eumdem volumus recuperare,
+          <lb ed="#P" n="26"/>certe ut ad poenitentiam convertamur, ideo sub
+          <lb ed="#P" n="27"/>f:em lectionum per hunc versiculum, scilicet : 
+          Je<lb break="no" ed="#P" n="28"/>rusalem , Jerusalem , convertere ad Dominum Deum
+          <lb ed="#P" n="29"/>tuum , eo admonemur. Leguntur Threni Jeremia,
+          <lb ed="#P" n="30"/>hoc est lamertationes, si verbum verbo 
+          interprete<lb break="no" ed="#P" n="31"/>mur, quae ita a Trenaro monte [sunt appel.atae, ubi
+          <lb ed="#P" n="32"/>animarum lamentationes, quae isthic puniuntur,
+          <lb ed="#P" n="33"/>saepius audiuntur. Possunt tamen ideo vocari Threni,
+          <lb ed="#P" n="34"/>quod semper post tertium quemque versum 
+          sequa<lb break="no" ed="#P" n="35"/>tur littera ex Hebraico alphabeto, quod universum
+          <lb ed="#P" n="36"/>in illis lamentationibus quater ordine ponitur,
+          <lb ed="#P" n="37"/>Idcirco autem Jeremiae lamentationes legimus, 
+          quo<lb break="no" ed="#P" n="38"/>niam sicut ille deploravit mortem Josiae et 
+          destru<lb break="no" ed="#P" n="39"/>ctionem gentis suae futuram, ita nos deploramus
+          <lb ed="#P" n="40"/>mortem Christi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

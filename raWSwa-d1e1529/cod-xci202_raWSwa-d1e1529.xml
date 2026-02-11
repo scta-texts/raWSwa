@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 121</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 121</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="63"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1529"><!-- raWSwa-c121 -->
+        <head xml:id="raWSwa-d1e1529-Hd1e101">Caput 121</head>
+        <head xml:id="raWSwa-d1e1529-Hd1e103" type="question-title">
+          Expositie quorumdam, que cum circa hoc tempus,
+          tum alibi etiam observantur.
+        </head>
+        <p xml:id="raWSwa-d1e1529-d1e106">
+          <lb ed="#P" n="76"/>CAPUT CXXI.
+          <lb ed="#P" n="77"/>Expositie quorumdam, que cum circa hoc tempus,
+          <lb ed="#P" n="78"/>tum alibi etiam observantur.
+        </p>
+        <p xml:id="raWSwa-d1e1529-d1e115">
+          <lb ed="#P" n="79"/>Quamobrem autem episcopi et alii ecclesiastici
+          <lb ed="#P" n="80"/>feriis hisce paschalibus ludere possint, modo 
+          expo<lb break="no" ed="#P" n="81"/>situm est. Sed deinceps ut et alia nonnulla, quae
+          <lb ed="#P" n="82"/>cum hic tum alibi, fiunt explicemus, hinc ordiemur,
+          <lb ed="#P" n="83"/>videlicet apud quosdam hoc tempore aquarum fieri
+          <lb ed="#P" n="84"/>demersiones, ne quia tota Quadragesima 
+          vigilave<lb break="no" ed="#P" n="85"/>runt. his sanctis diebus velint dormire. Induimus
+          <lb ed="#P" n="86"/>autem hoc etiam tempore albas vcestes, tum quod
+          <lb ed="#P" n="87"/>pueri regenerati eas habeant, tum quod eo dic 
+          an<lb break="no" ed="#P" n="88"/>geli in albis visi sint. Ob causas supradictas 
+          tace<lb break="no" ed="#P" n="89"/>tur, Quicunque vult, et canitur Credo in unum Deum.
+          <lb ed="#P" n="90"/>Animadverte hic obiter, si forsitan vinum in calice
+          <lb ed="#P" n="91"/>congeletur, sacerdotem debere tantisper exhalare,
+          <lb ed="#P" n="92"/>donec glacies resolvatur. Quod si vero non possit
+          <lb ed="#P" n="93"/>eo modo resolvi, necessarium est ut igni 
+          appona<lb break="no" ed="#P" n="94"/>tur. Sed si quid casu in calicem ceciderit, sive 
+          ni<lb break="no" ed="#P" n="95"/>mirum musce, sive aranea, certe quidquid illud est,
+          <lb ed="#P" n="96"/>omne istud sacerdotem deglutire oportet. Proinde
+          <lb ed="#P" n="97"/>vero Sabbatum sequens in Albis appellatum est,
+          <lb ed="#P" n="98"/>idque ex veteri consuetudine, cum eo die nigras
+          <lb ed="#P" n="99"/>vestes omnino deponebant atque induebant atbas,
+          <lb ed="#P" n="100"/>sed hoc nonnulli faciunt in Sabbato Paschae. Statim
+          <lb ed="#P" n="101"/>autem Dominico sequente novem lectiones cantandae
+          <lb ed="#P" n="102"/>sunt : unde et historiam habent, videlicet, Dignus
+          <lb ed="#P" n="103"/>es, Domine. Sic enim flt Romae. Nec his diebus 
+          fle<lb break="no" ed="#P" n="104"/>ctenda sunt genua, sed recte orandum est, quia, ut
+          <lb ed="#P" n="105"/>inquit Ambresius sub finem Lucae, mulieres 
+          vene<lb break="no" ed="#P" n="106"/>runt ad monumentum, nec flexerunt genua, sed
+          <lb ed="#P" n="107"/>recte inspexerunt sepulcrum. Nota interim non 
+          de<lb break="no" ed="#P" n="108"/>bere in festo B. Mariae Annuntiationis sequentiam,
+          <lb ed="#P" n="109"/>quam etiam prosam appellatam esse diximus, 
+          can<lb break="no" ed="#P" n="110"/>tari, etiam causa devotionis, nec unquam nisi 
+          ca<lb break="no" ed="#P" n="111"/>natur Alleluia. Moris enitmn fuit ut post Alleluia 
+          can<lb break="no" ed="#P" n="112"/>taretur neuma. Nomninabatur autem ncuma 
+          can<lb break="no" ed="#P" n="113"/>tus, qui sequebatur Alleluia. Postea vero quidam
+          <lb ed="#P" n="114"/>Papa instituit loco neumae dici sequentiam; quae,
+          <lb ed="#P" n="115"/>quod Alleluia sequetur, sic appellata videri potest.
+          <lb ed="#P" n="116"/>Conceditur nihilominus, ut hoc tempore aliquis
+          <lb ed="#P" n="117"/>genua flectat, modo id non aperte, sed secreto 
+          fa<lb break="no" ed="#P" n="118"/>ciat, et jejunet etiam qui velit. « Nam, ut ait Hic-
+          <pb ed="#P" n="64"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ronymus, utinam possemus omni tempore 
+          jejuna<lb break="no" ed="#P" n="2"/>re? » Sunt autem prohibitae in jejunio carnes, 
+          quem<lb break="no" ed="#P" n="3"/>admodum et ova, caseus, lac, quod, ut idem putat
+          <lb ed="#P" n="4"/>Hieronymus, haec omnia sint carnes liquidae. Beatus
+          <lb ed="#P" n="5"/>tamen Benedictus permisit ova, lac et caseos 
+          come<lb break="no" ed="#P" n="6"/>dere, ut, quamvis libibinis quaedam sint incitamenta,
+          <lb ed="#P" n="7"/>ad majorem tamen coronami et victoriam 
+          comedan<lb break="no" ed="#P" n="8"/>tur. Verum eis, qui jejunant pisces permissi sunt,
+          <lb ed="#P" n="9"/>sed, ut ait Hieronymus, pisciculi pauci : quo facile
+          <lb ed="#P" n="10"/>intelligitur, quod et parvi et pauci esse debeant.
+          <lb ed="#P" n="11"/>Dicitur autem tempus hoc Quinquagesima, quod
+          <lb ed="#P" n="12"/>per tempus hoc jubilei, quo plena erit libertas, et
+          <lb ed="#P" n="13"/>nostra nobis reddetur haereditas. Unde profecto
+          <lb ed="#P" n="14"/>et Alleluia cantamus. Verum genua non flectimus.
+          <lb ed="#P" n="15"/>imo stantes oramus, nisi in litaniis.
+        </p>
+        <p xml:id="raWSwa-d1e1529-d1e241">
+          <lb ed="#P" n="16"/>Ad postremum autem animadvertamus Pascha
+          <lb ed="#P" n="17"/>Judaeorum fuisse figuram nostri Paschatis, et 
+          no<lb break="no" ed="#P" n="18"/>stram vicissim significare Pascha futurum, quod
+          <lb ed="#P" n="19"/>erit in fine mundi. Quod ut pateat sciendum est
+          <lb ed="#P" n="20"/>duo esse opera Dei, scilicet opus creationis et opus
+          <lb ed="#P" n="21"/>recreationis. Opus creationis fuit in principio, cum
+          <lb ed="#P" n="22"/>Deus mundum et omnia quae in ipso continentur,
+          <lb ed="#P" n="23"/>creavit. Opus vero recreationis fit quotidie; sed
+          <lb ed="#P" n="24"/>Deus illud maxime exercebit in die judicii, quando
+          <lb ed="#P" n="25"/>omnia innovabuntur. Tempori utriusque operis 
+          ne<lb break="no" ed="#P" n="26"/>sirum Pascha convenit et concordat. Et quidem
+          <lb ed="#P" n="27"/>tempore creationis, quia tunc angeli Dominum 
+          lauda<lb break="no" ed="#P" n="28"/>verunt, unde dictum est Job : Ubi eras cum astra
+          <lb ed="#P" n="29"/>matutina laudarent me, et omnes filii Dei jubilarent
+          <lb ed="#P" n="30"/>ante me (Job xxxvni).Sic et nos in nostro Paschate !
+          <lb ed="#P" n="31"/>renati. Alleluia laudando Dominum cantamus. 
+          Tem<lb break="no" ed="#P" n="32"/>pus vero recreationis pari ratione nostrum Pascha
+          <lb ed="#P" n="33"/>e vestigio repraesentat. Tres enimilli dies qui 
+          Pas<lb break="no" ed="#P" n="34"/>cha praecedunt, indicant tempus Antichristi, cui
+          <lb ed="#P" n="35"/>tres reges manus dabunt, cuique postea per eos
+          <lb ed="#P" n="36"/>septem sibi regna subjicient, et decem regna ejus
+          <lb ed="#P" n="37"/>inperio inservient. Nam apud nes quemadmodum
+          <lb ed="#P" n="38"/>illo tempore, videlicet ipso die Coenae paenitentes in
+          <lb ed="#P" n="39"/>ecclesiam recipiuntur, eodemque die pedes, qui
+          <lb ed="#P" n="40"/>sunt corporis Christi extrema pars, lavantur, ita et
+          <lb ed="#P" n="41"/>Jdai aqua baptismatis extremo tempore 
+          munda<lb break="no" ed="#P" n="42"/>buntur. Vide reliquiae Israel salvae fient (Rom. ix).
+          <lb ed="#P" n="43"/>Die vero Parasceve passio recitatur, sicut et tunc
+          <lb ed="#P" n="44"/>Ecclesia maxime persequetur. Tum enim solvetur
+          <lb ed="#P" n="45"/>Satanas, qui a passione Domini ligatus in inferno
+          <lb ed="#P" n="46"/>detentus fuit ; utque hoc die cymbala non pulsantur,
+          <lb ed="#P" n="47"/>sic tunc concionatores sive praedicatores 
+          contice<lb break="no" ed="#P" n="48"/>bunt. Quare et in tenebris Benedictus alta voce 
+          ca<lb break="no" ed="#P" n="49"/>nitur, quia tum temporis Anticbristo interfecto
+          <lb ed="#P" n="50"/>multi gaudebunt, ita ut ignis qui in tenehris modo
+          <lb ed="#P" n="51"/>videbatur penitus exstinctus et postea elicitur, 
+          si<lb break="no" ed="#P" n="52"/>gnificet quod nimirum illo tempore in iis in quibus
+          <lb ed="#P" n="53"/>^pirits sancti ignis videbitur exstinctus, rursum
+          <lb ed="#P" n="54"/>rciucescet. Sic in Sabbato baptizantur pueri, et
+          <lb ed="#P" n="55"/>tunc baptizabantur Judaei. Ipso die resurrectionis
+          <lb ed="#P" n="56"/>in persona Christi cantamus : Resurrexi et adhuc
+          <lb ed="#P" n="57"/>tecum sum (Psal. cxxxvnn), sed tunc dicemus illud
+          <lb ed="#P" n="58"/>ipsum in persona nostra, quando resurgentes 
+          traus<lb break="no" ed="#P" n="59"/>ibimus ex hac mortalitate ad immortalitatem. De-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>bent ergo in octavis Paschae novem dici lectiones
+          <lb ed="#P" n="61"/>ex Apocalypsi, quod ostenditur per responsorium,
+          <lb ed="#P" n="62"/>Dignus es, Domine (Apoc. w). ldeo enim 
+          responso<lb break="no" ed="#P" n="63"/>rium nominatur, quia ut jam saepe dictum est, 
+          le<lb break="no" ed="#P" n="64"/>ctioni quae praecessit, debet respondere. Nec est
+          <lb ed="#P" n="65"/>quod quis objiciat in aetate qualibet Dominica 
+          re<lb break="no" ed="#P" n="66"/>sponsorium dici de Trinitate, cum tamen de ea
+          <lb ed="#P" n="67"/>nulla lectio recitetur. Fuit enim illud ita in 
+          pri<lb break="no" ed="#P" n="68"/>mitiva Ecclesia institutum ut videlicet singulis 
+          die<lb break="no" ed="#P" n="69"/>bus Dominicis diceretur et lectio nona et 
+          responso<lb break="no" ed="#P" n="70"/>rium de Trinitate. Sed quia lectio illa in 
+          dissuetu<lb break="no" ed="#P" n="71"/>dinem abiit, tantummodo responsorium remansit.
+          <lb ed="#P" n="72"/>Toto tempore Paschali non debemus flectere genua,
+          <lb ed="#P" n="73"/>nec ex necessitate jejunare. Sed ex pietate et 
+          devo<lb break="no" ed="#P" n="74"/>tione utique, ut diximus, licitum est. Nain tempus
+          <lb ed="#P" n="75"/>hoc paschale octavam significat aetatem, in qua erit
+          <lb ed="#P" n="76"/>perfectum gaudium omnibus sanctis. Unde est,
+          <lb ed="#P" n="77"/>quod hic non jejunamus, nec genua flectimus, sed
+          <lb ed="#P" n="78"/>stantes oramus, ac delicatius et lautius comedimus,
+          <lb ed="#P" n="79"/>nisi in duabus litaniis, de quibus hic agendum est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

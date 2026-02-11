@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 77</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 77</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="41"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e994"><!-- raWSwa-c77 -->
+        <head xml:id="raWSwa-d1e994-Hd1e101">Caput 77</head>
+        <head xml:id="raWSwa-d1e994-Hd1e103" type="question-title">
+          De Septuagesima, Sexagesima, Quinquagesima , et
+          Quadragesima.
+        </head>
+        <p xml:id="raWSwa-d1e994-d1e106">
+          <lb ed="#P" n="43"/>CAPUT LXXVII.
+          <lb ed="#P" n="44"/>De Septuagesima, Sexagesima, Quinquagesima , et
+          <lb ed="#P" n="45"/>Quadragesima.
+        </p>
+        <p xml:id="raWSwa-d1e994-d1e115">
+          <lb ed="#P" n="46"/>Postquam dictum sit de illo tempore, quod est
+          <lb ed="#P" n="47"/>inter Natalem Domini et Septuagesimam interjectum,
+          <lb ed="#P" n="48"/>ordo postulat ut deinceps de ipsa Septuagesima et
+          <lb ed="#P" n="49"/>ejus gratia, de Sexagesima, Quinquagesima et 
+          Qua<lb break="no" ed="#P" n="50"/>dragesima dicamus, idque hoc potissimum ordine:
+          <lb ed="#P" n="51"/>Primo quid significent, secundo ubi incipiant et ubi
+          <lb ed="#P" n="52"/>Biniantur, tertio de carum institutione et quarto de
+          <lb ed="#P" n="53"/>officiis. Septuagesima igitur repraesentat tempus
+          <lb ed="#P" n="54"/>deviationis, sive poenae et culpae. Unde statim ipsa
+          <lb ed="#P" n="55"/>prima Dominica incipit legi historia libri Geneseos,
+          <lb ed="#P" n="56"/>et legitur usque ad Dominicam, quae praecedit eam
+          <lb ed="#P" n="57"/>Dominicam, quae in Ramis palmarum appellata est,
+          <lb ed="#P" n="58"/>ubi agitur de deviatione et errore primorum 
+          paren<lb break="no" ed="#P" n="59"/>tum. Deponimus hic etiam Alleluia , in quo scien-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>dum est illud nonnullos facere Sabbato, eo quod
+          <lb ed="#P" n="61"/>praecedit ad horam sextam, nonnullos ad nonam,
+          <lb ed="#P" n="62"/>nonnullos ad vesperas, nonnullos etiam nocte ad
+          <lb ed="#P" n="63"/>nocturnos, nonnullos denique ipso die Dominico ad
+          <lb ed="#P" n="64"/>primam; quae quidem varietas nata est ex varia 
+          die<lb break="no" ed="#P" n="65"/>rum inchoatione. Sunt cnim quaedam nationes, quas
+          <lb ed="#P" n="66"/>diem auspicantur a meridie, eumque finiunt meridie
+          <lb ed="#P" n="67"/>diei sequentis ; alii vero ad nonam, et terminant in
+          <lb ed="#P" n="68"/>sequentem nonam; alii rursus a vesperis, et eum
+          <lb ed="#P" n="69"/>deducunt in alias vesperas, qui rectius faciunt; alii
+          <lb ed="#P" n="70"/>denique inchoant a media nocte, et sequenti nocte
+          <lb ed="#P" n="71"/>media eumdem finiunt, quod etiamnum observatur,
+          <lb ed="#P" n="72"/>secundum decreta Romanorum. Si enim quis alters.
+          <lb ed="#P" n="73"/>pactum fecerit ad certum diem, non videtur 
+          pa<lb break="no" ed="#P" n="74"/>ctum fregisse ante mediam noctem sequentem, si
+          <lb ed="#P" n="75"/>ei tum gatisfecerit. Sunt nonnullae Ecclesiae, 
+          quae<lb break="no" ed="#P" n="76"/>cum magno tripudio deponunt Alleluia. Inchoatur
+          <lb ed="#P" n="77"/>autem Septuagesima a Dominica qua cantatur 
+          Cir<lb break="no" ed="#P" n="78"/>cumdederunt me (Psal. xvn), et finitur Sabbato in
+          <lb ed="#P" n="79"/>Albis, quod est post Pascha.
+        </p>
+        <p xml:id="raWSwa-d1e994-d1e193">
+          <lb ed="#P" n="80"/>Et, ut nos simul de omnibus expediamus, 
+          Sexa<lb break="no" ed="#P" n="81"/>gesima incipit sequenti die Dominica post 
+          Circum<lb break="no" ed="#P" n="82"/>derunt me, et terminatur in quarta feria post Pascha.
+          <lb ed="#P" n="83"/>Quinquagesima quoque inchoatur tertia Dominica.
+          <lb ed="#P" n="84"/>post Circumdederunt me, et ipso Paschate finitur.
+          <lb ed="#P" n="85"/>Quadragesimam vero auspicamur Dominica 
+          qua<lb break="no" ed="#P" n="86"/>canitur in Ecclesia : Invocavit me, atque eamdem.
+          <lb ed="#P" n="87"/>finimus in Coena Domini. Septuagesima autem 
+          dici<lb break="no" ed="#P" n="88"/>tur, quod septies decem habeat dies. Verum 
+          enim<lb break="no" ed="#P" n="89"/>vero haec Septuagesima dierum, quam praesens 
+          ob<lb break="no" ed="#P" n="90"/>servat Ecclesia, indicat nobis septuaginta illos 
+          an<lb break="no" ed="#P" n="91"/>nos quibus fsrael fuit in servitute Babylonica. Nam.
+          <lb ed="#P" n="92"/>quemadmodum illi deposuerunt sua organa, 
+          dicen<lb break="no" ed="#P" n="93"/>tes : Quomodo cantabimus canticum Domini in 
+          terra<lb break="no" ed="#P" n="94"/>aliena (Psal. cxxxvi)? ita et nos quoque 
+          deponi<lb break="no" ed="#P" n="95"/>inus cantica laudis. Át vero postea sibi data a 
+          Cyro<lb break="no" ed="#P" n="96"/>sexagesimo anno redeundi facultate, coeperunt lge—
+          <lb ed="#P" n="97"/>tari, quemadmodum et nos in Sabbato Paschae 
+          resu<lb break="no" ed="#P" n="98"/>mimus et cantamus Alleluia, eorum innuendo 
+          lati<lb break="no" ed="#P" n="99"/>tiam, quam ipsi habuerunt ob redeundi licentiam .
+          <lb ed="#P" n="100"/>sibi praestitam. Sed quemadmodum illi in apparatu:
+          <lb ed="#P" n="101"/>reditus, suas.colligendo sarcinulas multum labora- -
+          <lb ed="#P" n="102"/>verunt, sic nos quoque poss Alleluia. hujusmodi .
+          <lb ed="#P" n="103"/>statim tractum subjungimus.: Laudate.Dominum, .
+          <lb ed="#P" n="104"/>quo laborem signiflcamus. llli rursus quemadmodum
+          <lb ed="#P" n="105"/>cum latitia redeuntes,. itineris-tamen labore vesa--
+          <lb ed="#P" n="106"/>bantur, ita nos per totam paschalemr 
+          septimanam<lb break="no" ed="#P" n="107"/>graduale cum Alleluia cantamus. Per graduale enim
+          <lb ed="#P" n="108"/>laborem exprimimus, per Alleluia laetitiam. 
+          Praeter<lb break="no" ed="#P" n="109"/>ea ut illi patriam ingredientes plenam acceperunt
+          <lb ed="#P" n="110"/>laetitiam, sic nos Sabbato que Septuagesima 
+          termi<lb break="no" ed="#P" n="111"/>natur, Domino canimus. Alletuia. Et profecto tam
+          <lb ed="#P" n="112"/>nostra dierum Septuagesima, quam illorum 
+          Septua<lb break="no" ed="#P" n="113"/>gesima annorum quasi quaedam historia est, qua
+          <lb ed="#P" n="114"/>totum humani generis exsilium ab Adamo usque ad
+          <lb ed="#P" n="115"/>finem mundi quodammodo figuratur , quod 
+          revelu<lb break="no" ed="#P" n="116"/>tione septem dierum peragitur, et sub septem 
+          anno<lb break="no" ed="#P" n="117"/>rum millibus concluditur, ut per septuaginta dies
+          <lb ed="#P" n="118"/>vel septuaginta annos intelligamues septuaginta an-
+          <pb ed="#P" n="42"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>norum centenas. Àb initio enim usque ad 
+          Ascensio<lb break="no" ed="#P" n="2"/>nem septem millia annorum computamus. Exinde
+          <lb ed="#P" n="3"/>vero quidquid temporis sequitur usque ad flnem
+          <lb ed="#P" n="4"/>mundi sub septeno millenario comprehendimus,
+          <lb ed="#P" n="5"/>cujus terminum solus Deus novit. Quemadmodum
+          <lb ed="#P" n="6"/>ergo filii Israel septuagesimo anno per Cyrum a
+          <lb ed="#P" n="7"/>captivitate Babylonica fuerint liberati, sic nos per
+          <lb ed="#P" n="8"/>Christum in septima mundi aetate vel in septimo
+          <lb ed="#P" n="9"/>millenario a servitute diaboli sumus redempti, 
+          re<lb break="no" ed="#P" n="10"/>stituta nobis innocentiae stola per remissionem
+          <lb ed="#P" n="11"/>baptismi. Atque hinc est quod in Sabbato Paschae
+          <lb ed="#P" n="12"/>unum Alleluia cantamus jam spe aeternae quietis et
+          <lb ed="#P" n="13"/>recuperationem patriae gratulantes. Israel laborabat
+          <lb ed="#P" n="14"/>in apparando reditum, et in redeundo : nos quoque
+          <lb ed="#P" n="15"/>in Ecclesia praesenti pro satisfactione decem 
+          praece<lb break="no" ed="#P" n="16"/>ptorum legis laborare debemus. Sed cum finito
+          <lb ed="#P" n="17"/>tempore nostri exsilii ventum erit ad patriam,
+          <lb ed="#P" n="18"/>tum utraque stola decorabimur, cum videlicet 
+          cor<lb break="no" ed="#P" n="19"/>pus et anima simul glorificabuntur, quod 
+          signi<lb break="no" ed="#P" n="20"/>ficatur per duo Alleluia , quae sub finem 
+          Sep<lb break="no" ed="#P" n="21"/>tuagesimae decanptantur. Obiter ergo nota quod
+          <lb ed="#P" n="22"/>Septuagesima incipit a moerore, et finitur cum
+          <lb ed="#P" n="23"/>gaudio, sicut psalmi poenitentiales, ut vocant.
+          <lb ed="#P" n="24"/>Septuagesima vero sonat sexies decem, et significat
+          <lb ed="#P" n="25"/>tempus viduitatis Ecclesiae, ac moerorem ejus 
+          pro<lb break="no" ed="#P" n="26"/>pter absentiam Sponsi. Licet enim Christus sit nobis
+          <lb ed="#P" n="27"/>praesens secundum divinitatem, juxta illud : 
+          Vobis<lb break="no" ed="#P" n="28"/>cum sum usque ad consummationem seeculi ( Matth.
+          <lb ed="#P" n="29"/>xxvii), tamen secundum quod est homo, in coelo
+          <lb ed="#P" n="30"/>est, et sedet ad dexteram Patris, id est Patri est
+          <lb ed="#P" n="31"/>coequalis. Unde ipse ait : Nondum enim ascendi ad
+          <lb ed="#P" n="32"/>Patrem meum (Joann. xx), hoc est, nondum sum
+          <lb ed="#P" n="33"/>ei coaequalis, ut vos opinamini. Dantur hic tamen
+          <lb ed="#P" n="34"/>eponsae in remedium et consolationem sex opera
+          <lb ed="#P" n="35"/>misericordiae, quae sunt, pascere esurientem, 
+          po<lb break="no" ed="#P" n="36"/>tuin dare sitienti, visitare infirmum, vestire 
+          nu<lb break="no" ed="#P" n="37"/>dum, hospitio pauperem excipere, et peregrinum:
+          <lb ed="#P" n="38"/>quibus septimum ex Tobia additur, nimirum 
+          mor<lb break="no" ed="#P" n="39"/>tuos sepelire (Tob. 1). Haec sunt data sponsae, ut in
+          <lb ed="#P" n="40"/>eis se exerceat, utque per eorum et Decalogi 
+          ob<lb break="no" ed="#P" n="41"/>secvationem sibi mereatr sui sponsi januam 
+          ape<lb break="no" ed="#P" n="42"/>riri, et illius suavissimo amplexu frui. Sic 
+          Quin<lb break="no" ed="#P" n="43"/>quagesima dicta est quasi quinquies decem , 
+          signifi<lb break="no" ed="#P" n="44"/>catque tempus remissionis, quemadmodum in lege
+          <lb ed="#P" n="45"/>veteri annus quinquagesimus dicebatur annus 
+          re<lb break="no" ed="#P" n="46"/>missionis. Unde hoc tempore maxime cantatur
+          <lb ed="#P" n="47"/>psalmus quinquagesimus , scilicet : Miserere mei,
+          <lb ed="#P" n="48"/>Deus, qui est pocnitentiae et remissionis. Hoc igitur
+          <lb ed="#P" n="49"/>tempore jejunamus, ut peccatorum remissionem
+          <lb ed="#P" n="50"/>obtineamus. Postremo Quadragesima 
+          commenda<lb break="no" ed="#P" n="51"/>tur potissimum a loco institutionis, ut dictum est,
+          <lb ed="#P" n="52"/>a tribus temporibus, et a personis quae in illis 
+          je<lb break="no" ed="#P" n="53"/>junarunt. Ab institutione, quoniam in paradiso fuit
+          <lb ed="#P" n="54"/>instituta, quando Deus Adame prohibuit ne 
+          come<lb break="no" ed="#P" n="55"/>deret de fructu ligni scientiae boni et mali; a 
+          tem<lb break="no" ed="#P" n="56"/>poribus vero et a personis, quoniam in tempore
+          <lb ed="#P" n="57"/>ante legem a Mose fuit jejunatum, in tempore legis
+          <lb ed="#P" n="58"/>ab Filia, in tempore gratiae a Christo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

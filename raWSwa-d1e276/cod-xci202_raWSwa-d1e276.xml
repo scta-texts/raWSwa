@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 18</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 18</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="15"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e276"><!-- raWSwa-c18 -->
+        <head xml:id="raWSwa-d1e276-Hd1e101">Caput 18</head>
+        <head xml:id="raWSwa-d1e276-Hd1e103" type="question-title">
+          Quod officium et quotuplex.
+        </head>
+        <p xml:id="raWSwa-d1e276-d1e106">
+          <lb ed="#P" n="99"/>CAPUT XVIII
+          <lb ed="#P" n="100"/>Quod officium et quotuplex.
+        </p>
+        <p xml:id="raWSwa-d1e276-d1e113">
+          <lb ed="#P" n="101"/>Cum ergo hactenus, ut propositum erat, dc locis,
+          <lb ed="#P" n="102"/>temporibus , personis et rebus Deo spiritualiter 
+          de<lb break="no" ed="#P" n="103"/>dicatis , expositum sit, sequitur ut de co, quod
+          <lb ed="#P" n="104"/>quintum et ultimum in propositione fuit , nimirum
+          <lb ed="#P" n="105"/>de ccclcesiasticis officiis deinceps dicamus. Et primo
+          <lb ed="#P" n="106"/>quide.n videndum est quid sit olfficium, secundo
+          <lb ed="#P" n="107"/>unde dicatur, tertio quemadmodum dc co agcndum
+          <lb ed="#P" n="108"/>sit. Officium est, ut ab Isidoro definitur, proprius
+          <lb ed="#P" n="109"/>vel conveniens uniuscujusque actus, secundum legos
+          <lb ed="#P" n="110"/>ct muorcs civitatis vel instituta professionis. Alia
+          <lb ed="#P" n="111"/>euim officia habent monachi, alia canonici, alia
+          <lb ed="#P" n="112"/>solitarii atque ercmitae, et sic de aliis. Dicitur 
+          au<lb break="no" ed="#P" n="113"/>temn oflicium, ut in libro Officiorum, iuquit 
+          Hierony<lb break="no" ed="#P" n="114"/>mus, .quasi officium. Consentaneum enim est ut
+          <lb ed="#P" n="115"/>suum officium unusquisque cfficiat. De olfficiis
+          <lb ed="#P" n="116"/>agendum hic est partim generaliter , partim vero
+          <lb ed="#P" n="117"/>particulariter. Sunt enim quadam gencialia efficia
+          <lb ed="#P" n="118"/>ct unitormia , qua toto anuo observantur, ut sunt
+          <pb ed="#P" n="16"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>horsrum preces, vesperae, completoria, ac nonnulle ,
+          <lb ed="#P" n="2"/>missse et matutinas. Sunt autem, quaedam specialia,
+          <lb ed="#P" n="3"/>quse pro varictate temporum et solemnitatum 
+          distan<lb break="no" ed="#P" n="4"/>tia variantur. Pro varietate temporum, quoniam
+          <lb ed="#P" n="5"/>alia paschali tempore celebrantur, alia in 
+          Qua<lb break="no" ed="#P" n="6"/>dragesima, alia in astate, alia denique in Adventu;
+          <lb ed="#P" n="7"/>pro diastemnate seu distantia solemnitatum cum
+          <lb ed="#P" n="8"/>aliter fiat in hac solemnitate, aliter in alia. Nam
+          <lb ed="#P" n="9"/>in ipso Paschate tres tantum lectiones recitantur,
+          <lb ed="#P" n="10"/>in Natali vero novem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

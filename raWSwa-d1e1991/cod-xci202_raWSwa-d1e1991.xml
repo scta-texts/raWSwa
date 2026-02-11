@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 159</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 159</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="78"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1991"><!-- raWSwa-c159 -->
+        <head xml:id="raWSwa-d1e1991-Hd1e101">Caput 159</head>
+        <head xml:id="raWSwa-d1e1991-Hd1e103" type="question-title">
+          De officio mortuorum ac ratione sepeliendi.
+        </head>
+        <p xml:id="raWSwa-d1e1991-d1e106">
+          <lb ed="#P" n="88"/>CAPUT CLIX.
+          <lb ed="#P" n="89"/>De officio mortuorum ac ratione sepeliendi.
+        </p>
+        <p xml:id="raWSwa-d1e1991-d1e113">
+          <lb ed="#P" n="90"/>Nunc agendum est de officio mortuorum, et 
+          qui<lb break="no" ed="#P" n="91"/>Jem primo de loco ubi debeant sepeliri, secundo de
+          <lb ed="#P" n="92"/>iis qui sunt sepeliendi, et de modo ac ratione 
+          sepe<lb break="no" ed="#P" n="93"/>liendi, tertio quis eam invenerit, et quamobrem, ac
+          <lb ed="#P" n="94"/>tandem de ipso officio. Non puto esse operae pretium
+          <lb ed="#P" n="95"/>ut cam repetamus divisionem quam in initio de 
+          lo<lb break="no" ed="#P" n="96"/>cis fecimus, ad quam nos lectorem modo remittimus.
+          <lb ed="#P" n="97"/>Verum illud duntaxat hic sciamus religiosum locum
+          <lb ed="#P" n="98"/>dici eum, juxta leges et instituta Romanorum, in
+          <lb ed="#P" n="99"/>quo sepelitur corpus alicujus hominis, seu caput
+          <lb ed="#P" n="100"/>tantum. Ac ideu caput dico, quoniam nullus duas
+          <lb ed="#P" n="101"/>habere potest sepulturas , sed ubi caput est, isthic
+          <lb ed="#P" n="102"/>alicujus esse dicitur sepultura. Sive ergo 
+          Christia<lb break="no" ed="#P" n="103"/>nus, sive paganus, sive infans, etiam non 
+          baptiza<lb break="no" ed="#P" n="104"/>tus, aliquo inloco sepeliatur, secundum Romanoruimn
+          <lb ed="#P" n="105"/>instituta , locus ille religiosus appellabitur : at vero
+          <lb ed="#P" n="106"/>Christiani non eum locum censent esse religiosum.
+          <lb ed="#P" n="107"/>Ubi sepelitur Judaeus vel paganus, vel infans non
+          <lb ed="#P" n="108"/>baptizatus, sed tantum ubi Christianus, usque adeo,
+          <lb ed="#P" n="109"/>ut si excommunicatus aliquis sit ibi sepultus, inde
+          <lb ed="#P" n="110"/>extrabatur, atque extra coemeterium ejiciatur.
+        </p>
+        <p xml:id="raWSwa-d1e1991-d1e161">
+          <lb ed="#P" n="111"/>Locus autem iste diversis appellatur nominibus ,
+          <lb ed="#P" n="112"/>ut caemeterium , et polyandrium. Atque ipsum 
+          se<lb break="no" ed="#P" n="113"/>pulcrum hujusmodi : Mausoleum, dormitorium, 
+          uio<lb break="no" ed="#P" n="114"/>numentum , ergastulum, sarcophagus , pyramis, 
+          tu<lb break="no" ed="#P" n="115"/>mulus. Dicitur autem coemeterium a Graco verbo
+          <lb ed="#P" n="116"/>xouxo, quod est sopio, quasi quod isthic mortui dor-
+          <pb ed="#P" n="79"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>miant, unde etiam nommnatum est dormitorium. 
+          Po<lb break="no" ed="#P" n="2"/>landrium locus appellatur, ubi multa sunt sepulcra
+          <lb ed="#P" n="3"/>publica. Mausoleum dictum est a Mausoli sepulcro
+          <lb ed="#P" n="4"/>quod Arthemisia ejus uxor aedificavit ita egregiis
+          <lb ed="#P" n="5"/>operibus ut inter septem orbis miracula numeretur.
+          <lb ed="#P" n="6"/>Attollitur enim in altitudiuem viginti quinque 
+          cnbi<lb break="no" ed="#P" n="7"/>lorum, ac columnis cingitur triginta sex. Quare ab
+          <lb ed="#P" n="8"/>boc sepulcro omnia pretiosa sepulcra isto nomine
+          <lb ed="#P" n="9"/>mausolea sunt appellata. Monumentum vero 
+          nomi<lb break="no" ed="#P" n="10"/>natur a monendo, quod nos pratereuntes qui in 
+          mo<lb break="no" ed="#P" n="11"/>numentis et sepulcris sunt, admoneant, et se olim
+          <lb ed="#P" n="12"/>fuisse et perinde mortales, ut et nos meminerimus,
+          <lb ed="#P" n="13"/>quod cineres simus et in cineres revertimur, pulvis
+          <lb ed="#P" n="14"/>et in pulverem redibimus. Tumulus appellatus est,
+          <lb ed="#P" n="15"/>quasi terra tumens, id est collis, quod ibi coacervari
+          <lb ed="#P" n="16"/>terra consuevit. Ergastulum dictum est per 
+          anti<lb break="no" ed="#P" n="17"/>phrasin ab epyatoua, operor, quasi quod in sepulcris
+          <lb ed="#P" n="18"/>corpora minime laborent, sed requiescant, qui in
+          <lb ed="#P" n="19"/>Domino moriuntur. Sic item sarcophagus 
+          appela<lb break="no" ed="#P" n="20"/>lus est a cap, cooxc, caro, et ocyo, comedo quasi
+          <lb ed="#P" n="21"/>isthic caro consumatur et comedatur. Dicitur etiam
+          <lb ed="#P" n="22"/>pyramis scpulcrum ejusmodi , quod flammae habet
+          <lb ed="#P" n="23"/>similitudincm, ita ut a lato in acntum tendat. Est
+          <lb ed="#P" n="24"/>enim altissimum genus sepulturae. Tale Romae 
+          visi<lb break="no" ed="#P" n="25"/>tur, in quo positi sunt cineres Julii Caesaris, 
+          voca<lb break="no" ed="#P" n="26"/>turque acus S. Petri, atque etiam nunc in dubio
+          <lb ed="#P" n="27"/>est, an ex uno constet lapide, an vego ex pluribus.
+          <lb ed="#P" n="28"/>Similem pyramidem exstruxit Caesar Turonis, juxta
+          <lb ed="#P" n="29"/>ripam Liguris et in ea inclusit cujusdam sui amici
+          <lb ed="#P" n="30"/>cineres, qui fuit interfectus.
+        </p>
+        <p xml:id="raWSwa-d1e1991-d1e247">
+          <lb ed="#P" n="31"/>Nunc ergo deinceps de iis qui sunt sepeliendi 
+          di<lb break="no" ed="#P" n="32"/>camus, et prius quidem quibus locis debeant 
+          sepe<lb break="no" ed="#P" n="33"/>liri, et an locus eis etiam aliquid conferat, necne.
+          <lb ed="#P" n="34"/>Ac nonnulli sane arbitrantur locum mortuo non
+          <lb ed="#P" n="35"/>prodesse , quod hinc confirmare volunt, cum 
+          Luci<lb break="no" ed="#P" n="36"/>fer e carlo fuerit ejectus, et Adam e paradiso 
+          ex<lb break="no" ed="#P" n="37"/>pulsns, quae tamen loca sunt optima, nec quidquam
+          <lb ed="#P" n="38"/>bonitatis cis contulerunt. Item Joab in tabernaculo
+          <lb ed="#P" n="39"/>fuit interfectus , et Job in sterquilinio triumphavit..
+          <lb ed="#P" n="40"/>Potest autem locus obesse, ut si quis sepeliatur in
+          <lb ed="#P" n="41"/>ecclesia, cum non sit dignus. Certe nullum corpus
+          <lb ed="#P" n="42"/>in ecclesia deb-t sepeliri, nisi sint corpora 
+          sancto<lb break="no" ed="#P" n="43"/>rum Patrum, qui dicuntur patroni, id est 
+          defenso<lb break="no" ed="#P" n="44"/>res. lpsi enim meritis suis totam patriam defendunt.
+          <lb ed="#P" n="45"/>Sed caeteri circa ecclesiam debent sepeliri. Dicunt
+          <lb ed="#P" n="46"/>enim quidam , quod locus triginta pedum circa 
+          ec<lb break="no" ed="#P" n="47"/>clesiam in eum finem debeat consecrari. Alii vero
+          <lb ed="#P" n="48"/>putant solam episcopi circuitionem, quando ecclesiam
+          <lb ed="#P" n="49"/>dedicat, sufficere. Olim enim apud veteres solebant
+          <lb ed="#P" n="50"/>nomines in suis aedibus sepeliri. Sed propter fetorem
+          <lb ed="#P" n="51"/>cadaverum statuerunt, ut extra civitatem 
+          sepeliren<lb break="no" ed="#P" n="52"/>tur, et locum quemdam communem ad hoc quasi
+          <lb ed="#P" n="53"/>sanctificarent. Nobiles vero sepeliebantur in 
+          monti<lb break="no" ed="#P" n="54"/>bus, sive in eorum medio, sive in radicibus. Proinde
+          <lb ed="#P" n="55"/>si quis interficiatur in obsidione, vel aliquo tumultu,
+          <lb ed="#P" n="56"/>nec posset habere coemeterium, sepeliant ipsum ubi
+          <lb ed="#P" n="57"/>possunt. Si vero aliquis moriatur in mari, et terra
+          <lb ed="#P" n="58"/>fuerit vicina, navigent illuc, ipsumque ibi sepeliant.
+          <lb ed="#P" n="59"/>Se si procul a terra abfuerint, vidcantquce in me-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>dio mari insulam, vertant eo ve.a, et sepeliatur in
+          <lb ed="#P" n="61"/>insula. Verum si terram penitus non videant, 
+          pare<lb break="no" ed="#P" n="62"/>tur ipsi domuncula quaedam ex lignis, si possit 
+          ha<lb break="no" ed="#P" n="63"/>beri, et projiciatur in mare. Quo etiam modo flat,
+          <lb ed="#P" n="64"/>si dives fuerit. Sed cum thesauro suo, si habet,
+          <lb ed="#P" n="65"/>ejiciatur , ut qui eum invenerint ex thesauro ipsum
+          <lb ed="#P" n="66"/>nobilem fuisse cognoscant, aut certe amore thezauri
+          <lb ed="#P" n="67"/>ipsum terrae mandent. Verum-enimvero animadverte
+          <lb ed="#P" n="68"/>quandocunque sepelitur Christianus, vel quocunque
+          <lb ed="#P" n="69"/>etiam loco crucem capiti ejus apponi debcre, ad 
+          de<lb break="no" ed="#P" n="70"/>signandum illum fuisse Christianum. Vel ob id etiam
+          <lb ed="#P" n="71"/>quod summopere diabolus signum hoc pertimescat
+          <lb ed="#P" n="72"/>et ad eum locum horreat accedere, qui cruce est
+          <lb ed="#P" n="73"/>designatus.
+        </p>
+        <p xml:id="raWSwa-d1e1991-d1e345">
+          <lb ed="#P" n="74"/>Videndum deinceps est unde caemeterium initium
+          <lb ed="#P" n="75"/>babuerit , videlicet ab Abrahamo. Hic enim emit
+          <lb ed="#P" n="76"/>agrum ab Ephron Hetha:o in quo duplex erat 
+          spe<lb break="no" ed="#P" n="77"/>lunca, ubi ipse sepultus est cum Sara, 1saac, 
+          Ja<lb break="no" ed="#P" n="78"/>cob, Adam et Eva. Ad hoc enim enmit, ut sibi et suis
+          <lb ed="#P" n="79"/>sepultura esset (Gen. xxun). Duplex spelunca ideo
+          <lb ed="#P" n="80"/>dicebatur, quoniam ibi duo sepeliebantur contigue
+          <lb ed="#P" n="81"/>maritus et uxor. Yel quia duae aderant speluncae, et
+          <lb ed="#P" n="82"/>in una sepeliebantur viri in altera muliercs; vel
+          <lb ed="#P" n="83"/>etiam, quia duplex fiebat unicuique spelunca 
+          sepe<lb break="no" ed="#P" n="84"/>liendo in modum cathedrae. Sepeliebantur enim
+          <lb ed="#P" n="85"/>quasi sedentes, et pars speluncae supcrior quae a
+          <lb ed="#P" n="86"/>naribus truncum capiebat, dicebatur una spelunca:
+          <lb ed="#P" n="87"/>pars vero quae continebat pedes, crura et femora,
+          <lb ed="#P" n="88"/>dicebatur spelunca alia. Opportune hic considera
+          <lb ed="#P" n="89"/>non lcgi in prima aetate nisi duo duntaxat 
+          sacra<lb break="no" ed="#P" n="90"/>menta fuisse inventa, oblationem nimirum et 
+          poeni<lb break="no" ed="#P" n="91"/>tentiam, scd insecunda cultum Dei fuisse ampliatum.
+          <lb ed="#P" n="92"/>Fecit enim Noe arcam, atque illi inclusit multa 
+          ani<lb break="no" ed="#P" n="93"/>mablia ad sacrificandum Deo. In quarta autem aetate
+          <lb ed="#P" n="94"/>divinus cultus magis auctus est. Tunc enim lex data
+          <lb ed="#P" n="95"/>est , et multa genera sacrificiorum offerebantur 
+          Do<lb break="no" ed="#P" n="96"/>mino. Sic in quinta aetate magis adhuc auctus est.
+          <lb ed="#P" n="97"/>Tum namque factum est templum, et cultus divinus
+          <lb ed="#P" n="98"/>optime sane habuit incrementum. In sexta tandem
+          <lb ed="#P" n="99"/>aetate venit Christus, qui seipsum obtulit Deo 
+          ho<lb break="no" ed="#P" n="100"/>stiam placentem et sufficientem pro omnibus.
+        </p>
+        <p xml:id="raWSwa-d1e1991-d1e406">
+          <lb ed="#P" n="101"/>Porro avtem in coemeterio Christianorum , non
+          <lb ed="#P" n="102"/>nisi Christianus sepeliri debet, nec tamen omnis.
+          <lb ed="#P" n="103"/>Nullus enim in suo maleficio interfectus, sepeliri
+          <lb ed="#P" n="104"/>debet in caemeterio, ut latro, si in latrocinio 
+          inter<lb break="no" ed="#P" n="105"/>ficiatur. Intellige autem hic maleficium, si sit 
+          mor<lb break="no" ed="#P" n="106"/>tale peccatum, ut interfectus in adulterio, et in 
+          lu<lb break="no" ed="#P" n="107"/>dis ethnicorum. Si vero moriatur subito in ludis
+          <lb ed="#P" n="108"/>consnetis, ut in ludo pilae, potest sepeliri in 
+          coeme<lb break="no" ed="#P" n="109"/>terio, scd sine psalmis et sine exsequiis. Si 
+          praeter<lb break="no" ed="#P" n="110"/>ea aliquis ex prostibulo rediens, vel ex alio loco
+          <lb ed="#P" n="111"/>ubi fornicatus sit, et in via occidatur, aut alio casu
+          <lb ed="#P" n="112"/>non confessus moriatur, si legitimis testibus 
+          po<lb break="no" ed="#P" n="113"/>test probari eum fuisse fornicatum, nec postea 
+          con<lb break="no" ed="#P" n="114"/>fessum. in caemeterio sepcliri non debet. Si non
+          <lb ed="#P" n="115"/>potest probari sepeliri licebit. Latro in eo loco in quo
+          <lb ed="#P" n="116"/>suspenditur sepeliatur, nisi prius satisfecerit, si 
+          au<lb break="no" ed="#P" n="117"/>tem satisfecerit, in coemeterio sepeliatur. Mulier si in
+          <lb ed="#P" n="118"/>partu moriatur, utique in ecclesia sepnlturae tradi
+          <pb ed="#P" n="80"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>non debet, sed extra eam. Quare canantur ei exse-,
+          <lb ed="#P" n="2"/>quíae, et postea sepeliatur in caemeterio, sed puer
+          <lb ed="#P" n="3"/>excidatur e ventre ejus, ac sepeliatur extra 
+          caeme<lb break="no" ed="#P" n="4"/>terium. Debent autem mortui ad hunc n;odum 
+          se<lb break="no" ed="#P" n="5"/>peliri, sudariis videlicet induti, et ut caligas circa
+          <lb ed="#P" n="6"/>tibias habeant et soleas in pedibus, quo significent
+          <lb ed="#P" n="7"/>ita se paratos esse ad judicium. Ponantur praeterea
+          <lb ed="#P" n="8"/>capite versus occidentem, et pedibus versus 
+          orien<lb break="no" ed="#P" n="9"/>tem. At vero clerici, si sint ordinati, illis 
+          indumen<lb break="no" ed="#P" n="10"/>tis sepeliantur, quibus fuerant ordinati : Si non
+          <lb ed="#P" n="11"/>habeant ordines , more laicorum, et tondeantur ac
+          <lb ed="#P" n="12"/>radantur. Omnium autem vcorpora debent lavari. ad
+          <lb ed="#P" n="13"/>significandum qued , si anima per confessionem a
+          <lb ed="#P" n="14"/>culpa fuerit mundata, utrumque, hoc est anima et
+          <lb ed="#P" n="15"/>corpus, in die judicii sempiternam habebunt 
+          glorifi<lb break="no" ed="#P" n="16"/>cationem. Si vero aliquis in bastiludio moriatur
+          <lb ed="#P" n="17"/>absque paeenitentia, quando videlicet sacerdotem
+          <lb ed="#P" n="18"/>ipse non quaerit, sepeliatur instar asini, atque ita
+          <lb ed="#P" n="19"/>quoque si in ripa. Sed si ludi gratia vel propter
+          <lb ed="#P" n="20"/>negotium suum conficiendum naviget ac pcereat,
+          <lb ed="#P" n="21"/>potest sepeliri in caemeterio. De istiusmodi enim
+          <lb ed="#P" n="22"/>non judicat Ecclesia manifeste. Si quis subito 
+          mo<lb break="no" ed="#P" n="23"/>riatur non propter aliquam causam manifestam,
+          <lb ed="#P" n="24"/>sed occulto Dei judicio, honorifice sepeliatur. Justus
+          <lb ed="#P" n="25"/>enim quacunque causa moriatur, salvabitur. Qui
+          <lb ed="#P" n="26"/>denique si manum inserunt, ac mortem propria 
+          vo<lb break="no" ed="#P" n="27"/>luntate depaciscuntur, non debent in caemeterio
+          <lb ed="#P" n="28"/>habere sepulturan.
+        </p>
+        <p xml:id="raWSwa-d1e1991-d1e513">
+          <lb ed="#P" n="29"/>Solet autem hic quaeri utrum post diem judicii
+          <lb ed="#P" n="30"/>homines sint futuri nudi, an vero vestiti. Et videtur
+          <lb ed="#P" n="31"/>quidem quod vestiti, quoniam angeli semper vestiti
+          <lb ed="#P" n="32"/>solent apparere, et Christus etiam post 
+          resurrectio<lb break="no" ed="#P" n="33"/>nem cum veste visus est, ac in transfiguratione
+          <lb ed="#P" n="34"/>quoque fuit vestitus. Unde illud : Apparebant 
+          vesti<lb break="no" ed="#P" n="35"/>menta ejus alba sicut nix (Matth. u. Contra vcro
+          <lb ed="#P" n="36"/>videtur quod erunt nudi, idque ex ea auctoritate
+          <lb ed="#P" n="37"/>quod ea tum sumus futuri furma in qua fuit Adam
+          <lb ed="#P" n="38"/>ante peccatum, atque etiam in melioci : atqui tunc
+          <lb ed="#P" n="39"/>nudus fuit, ergo et nos similiter 'erimus nudi. 
+          Ve<lb break="no" ed="#P" n="40"/>rum nihil nos dicendo praesumamus de veste vel de
+          <lb ed="#P" n="41"/>qualitate, nisi unum hoc, videlicet isthic neque 
+          de<lb break="no" ed="#P" n="42"/>formitatem fore, neque infirmitatem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 115</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 115</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="60"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1456"><!-- raWSwa-c115 -->
+        <head xml:id="raWSwa-d1e1456-Hd1e101">Caput 115</head>
+        <head xml:id="raWSwa-d1e1456-Hd1e103" type="question-title">De ornatu templi materialis</head>
+        <p xml:id="raWSwa-d1e1456-d1e106">
+          <lb ed="#P" n="73"/>CAPUT CXV.
+          <lb ed="#P" n="74"/>De ornatu templi materialis.
+        </p>
+        <p xml:id="raWSwa-d1e1456-d1e113">
+          <lb ed="#P" n="75"/>Deemundatione materialis templi superius dictum
+          <lb ed="#P" n="76"/>est. Nunc vero de ipsius ornatu exponamus , qui
+          <lb ed="#P" n="77"/>triplex est, in ornandis parietibus, in choro et in
+          <lb ed="#P" n="78"/>altari. Ad parietes quidem sunt appendendae cortinae,
+          <lb ed="#P" n="79"/>aulaea, et pallae sericae. In choro habenda sunt 
+          dor<lb break="no" ed="#P" n="80"/>salia, tapeta, sedilia clericorum. Sunt autem tapeta
+          <lb ed="#P" n="81"/>tegmina variis coloribus depicta, quae praecipue sub
+          <lb ed="#P" n="82"/>episcoporum pedibus sternuntur, quod mundana
+          <lb ed="#P" n="83"/>pedibus penitus calcare debeant. Sic et velamen
+          <lb ed="#P" n="84"/>adesse debet, quod ante crucitixum removetur, 
+          re<lb break="no" ed="#P" n="85"/>tro quem ponitur pallium, quod quae prius erant
+          <lb ed="#P" n="86"/>operta ante Christi passionem, modo manifestentur,
+          <lb ed="#P" n="87"/>In quibusdam locis crux in altum erigitur cum 
+          ve<lb break="no" ed="#P" n="88"/>xillis, per quae Christi victoria designatur. Altare
+          <lb ed="#P" n="89"/>quoque suis ornamentis decoratur, ut crucibus 
+          or<lb break="no" ed="#P" n="90"/>dine cullatis, capsis testibus evangelicis, 
+          phylacte<lb break="no" ed="#P" n="91"/>riis. Est taimendiscrimen inter phylacterium et 
+          phy<lb break="no" ed="#P" n="92"/>lacteriam. Phylacterium enim chartula est, in qua
+          <lb ed="#P" n="93"/>decem legis praecepta scribebantur, cujusmodi 
+          char<lb break="no" ed="#P" n="94"/>tas solebant ante suos oculos circumferre Pharisaei
+          <lb ed="#P" n="95"/>in signum religionis. Unde in Evangelio: Dilatant
+          <lb ed="#P" n="96"/>enim phylacteria sua, et magnificant fimbrias (Matth.
+          <lb ed="#P" n="97"/>xxin). Atque hoc quidem phylacterium a gulaaco
+          <lb ed="#P" n="98"/>id est custodio , dictum est et thoral, quod est lex.
+          <lb ed="#P" n="99"/>Phylacteria autem phylacteriae vasculum est vel 
+          ar<lb break="no" ed="#P" n="100"/>genteum vel aureumn, vel etiam crystallinum, in
+          <lb ed="#P" n="101"/>quod sanctorum cineres et reliquia reponuntur.
+          <lb ed="#P" n="102"/>Porro autem tres sunt causae quamobrem Ecclesiae
+          <lb ed="#P" n="103"/>thesaurus in magnis solemnitatibus in apertum 
+          pro<lb break="no" ed="#P" n="104"/>feratur. Et primo sane propter cautelae 
+          considera<lb break="no" ed="#P" n="105"/>tionem, ut appareat quam cautus ille fuerit in 
+          ser<lb break="no" ed="#P" n="106"/>vando qui istum servare debucrit. Tum vero propter
+          <lb ed="#P" n="107"/>solemnitatis venerationcm, tandemque ob 
+          memo<lb break="no" ed="#P" n="108"/>riam oblationis, quo videlicet in illorum offeratur
+          <lb ed="#P" n="109"/>menmoriam qui istiusimodi bona Ecclesiae prius 
+          ob<lb break="no" ed="#P" n="110"/>tulerunt. Ante altare dependi oportt pulchrum 
+          ali<lb break="no" ed="#P" n="111"/>quod velamen nimirum pallium, vel ei simile 
+          quid<lb break="no" ed="#P" n="112"/>piam, seu tabula vel aurea, si habeatur. Ante quod
+          <lb ed="#P" n="113"/>quidem ornamentum in nonnullis magnis ecclesiis
+          <lb ed="#P" n="114"/>velamenta trium colorum poni solitum est, unum
+          <lb ed="#P" n="115"/>rubrum, alterum subalbum, tertium nigrum, quae
+          <lb ed="#P" n="116"/>tria significant tempora. Paschate enim cum prima
+          <lb ed="#P" n="117"/>lectio finita est cum suo responsorio velamen nigrum,
+          <lb ed="#P" n="118"/>quo tempus ante legem indicat, removetur. Post-
+          <pb ed="#P" n="61"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quam vero secunda cum responsorio absoluta est,
+          <lb ed="#P" n="2"/>removetur velamen candidum, per quod tempus sub
+          <lb ed="#P" n="3"/>lge exprimitur. Ita demum et tertia lectione finita
+          <lb ed="#P" n="4"/>ac responsorio, deponitur velamen rubrum, quo 
+          tem<lb break="no" ed="#P" n="5"/>pus gratiae significatur, in quo per Christi 
+          passio<lb break="no" ed="#P" n="6"/>nem ad sancta sanctorum, id est ad aeternam 
+          glo<lb break="no" ed="#P" n="7"/>riam nobis patet aditus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

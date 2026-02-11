@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 33</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 33</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="22"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e458"><!-- raWSwa-c33 -->
+        <head xml:id="raWSwa-d1e458-Hd1e101">Caput 33</head>
+        <head xml:id="raWSwa-d1e458-Hd1e103" type="question-title">
+          De confessione sacerdotis ante missam.
+        </head>
+        <p xml:id="raWSwa-d1e458-d1e106">
+          <lb ed="#P" n="25"/>CAPUT XXXIII.
+          <lb ed="#P" n="26"/>De confessione sacerdotis ante missam.
+        </p>
+        <p xml:id="raWSwa-d1e458-d1e113">
+          <lb ed="#P" n="27"/>Sacerdos enim priusquam cantet missam, 
+          confes<lb break="no" ed="#P" n="28"/>sionem pronuntict oportet. Nam, ut inquit Salomon,
+          <lb ed="#P" n="29"/>vir sapiens in principio sermonis accusator est sui
+          <lb ed="#P" n="30"/>(Prov. xvin). Debet autem peccata confiteri 
+          genera<lb break="no" ed="#P" n="31"/>liter, nec mensuram excedere. Sic itaque ad 
+          cer<lb break="no" ed="#P" n="32"/>tamen munitus contra spiritualia ncquitiae in 
+          caele<lb break="no" ed="#P" n="33"/>stibus (Ephes. vi), et proscdanda judicis ira in 
+          sub<lb break="no" ed="#P" n="34"/>ditos ad altare procedit, et populus, quasi pro s:o
+          <lb ed="#P" n="35"/>pugile oraturus diebus profestis, terrae prosternitur.
+          <lb ed="#P" n="36"/>Cum vero cantat orationes, et reliqua recitat, tum
+          <lb ed="#P" n="37"/>quasi totis viribus adversus diabolum pugnat. Nam
+          <lb ed="#P" n="38"/>cum et casulam in humero plicat, velut gladium
+          <lb ed="#P" n="39"/>contra hostem praeparat, ita ut, cum Evangelium 
+          le<lb break="no" ed="#P" n="40"/>gitur, diabolus tanquam gladio percutiatur. 
+          Subfi<lb break="no" ed="#P" n="41"/>nem autem pax datur, quo quies populo hoste 
+          de<lb break="no" ed="#P" n="42"/>victo ac prostrato nuntietur. Exinde redeundi data
+          <lb ed="#P" n="43"/>licentia, populus Deo agit gratias, ac quisque ad sua
+          <lb ed="#P" n="44"/>revertitur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

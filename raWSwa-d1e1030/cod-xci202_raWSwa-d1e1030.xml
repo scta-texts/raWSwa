@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 80</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 80</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="43"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1030"><!-- raWSwa-c80 -->
+        <head xml:id="raWSwa-d1e1030-Hd1e101">Caput 80</head>
+        <head xml:id="raWSwa-d1e1030-Hd1e103" type="question-title">
+          De variatione officiorum.
+        </head>
+        <p xml:id="raWSwa-d1e1030-d1e106">
+          <lb ed="#P" n="30"/>CAPUT LXXX.
+          <lb ed="#P" n="31"/>De variatione officiorum.
+        </p>
+        <p xml:id="raWSwa-d1e1030-d1e113">
+          <lb ed="#P" n="32"/>Variantur vero officia ut cum iste psalmus : 
+          Do<lb break="no" ed="#P" n="33"/>minus regnavit (Psal. xci), qui est psalmus laetitiae,
+          <lb ed="#P" n="34"/>ac cani consuetus est primus in laudibus, hoc 
+          tem<lb break="no" ed="#P" n="35"/>pore non cantatur, sed loco ejus : Miserere mei,
+          <lb ed="#P" n="36"/>Deus (Psal. L, qui psalmus est poenitentialis.
+          Can<lb break="no" ed="#P" n="37"/>tatur tamen diebus Dominicis ad primam, ut per
+          <lb ed="#P" n="38"/>hoc significetur nihil debere in psalterio 
+          praeter<lb break="no" ed="#P" n="39"/>mitti, quin totum per septimanam saltem legatur,
+          <lb ed="#P" n="40"/>quod antiqui uno die facere solebant. Ad primam
+          <lb ed="#P" n="41"/>quoque propter eamdem causam canitur : 
+          Confite<lb break="no" ed="#P" n="42"/>mini Domino (Psal. cxxxv), quo innuitur pueros 
+          de<lb break="no" ed="#P" n="43"/>bere instrui, ut in Ramis palmarum sciant Domino
+          <lb ed="#P" n="44"/>laudes decantare, quoniam hic psalmus ad illum
+          <lb ed="#P" n="45"/>praecipue diem pertinet, idque potissimum ob hunc
+          <lb ed="#P" n="46"/>versiculum : O Domine, salvum me fac, etc. (ibid.).
+          <lb ed="#P" n="47"/>Hoc tempore splendidas et orpatas vestes debemus
+          <lb ed="#P" n="48"/>omnes deponere, atque assumere vestes 
+          humilita<lb break="no" ed="#P" n="49"/>tis. Tempore quoque Quadragesimae carnes deponi
+          <lb ed="#P" n="50"/>debent et intermitti, tam solidae quam liquidae.
+          <lb ed="#P" n="51"/>Sunt autem duo genera carnis liquidae : alia enim
+          <lb ed="#P" n="52"/>est artificio liquida, ut eliquata per frizuram nempe
+          <lb ed="#P" n="53"/>sagina, alia vero naturaliter, ut sunt casei et ova.
+          <lb ed="#P" n="54"/>Ait enim Hieronymus contra Jovinianum : Ovum et
+          <lb ed="#P" n="55"/>caseus nibil aliud est. quam caro liquida. Sed
+          <lb ed="#P" n="56"/>quaeritur cur boc tempore pisces comedcre liceat,
+          <lb ed="#P" n="57"/>ac non itidem carnes? cur non in quovis jejunio
+          <lb ed="#P" n="58"/>perinde pisces, atque carnes nobis omnibusque 
+          re<lb break="no" ed="#P" n="59"/>ligiosis sint interdicti? Atque ratio quidem haec
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>esse poterit, quia Deus aquis non maledixit. 
+          Scie<lb break="no" ed="#P" n="61"/>bat enim per aquas baptismatis ablutionem fore
+          <lb ed="#P" n="62"/>peccatorum, ita ut elementum hoc merito sit 
+          prae<lb break="no" ed="#P" n="63"/>stantissimum, quod facile est animadvertere, quod
+          <lb ed="#P" n="64"/>abluat sordes, ac Spiritus Domini ante mundi 
+          con<lb break="no" ed="#P" n="65"/>stitutionem ferri solitus sit super aquas, 
+          quemad<lb break="no" ed="#P" n="66"/>modum nobis Scriptura recenset (Gen. 1). Sed 
+          ter<lb break="no" ed="#P" n="67"/>re maledixit Deus in opere hominis : inde est
+          <lb ed="#P" n="68"/>quod omne genus carnis, quod in terra versatur,
+          <lb ed="#P" n="69"/>tam quadrupedia quam aves in jejuniis comedeérce
+          <lb ed="#P" n="70"/>non liceat. Quanquam enim aves quaedam versan--
+          <lb ed="#P" n="71"/>tur in aere, quaedam in aquis, quae vel in his, vel
+          <lb ed="#P" n="72"/>extra eas nascantur, ;magis tamen dicuntur morari:
+          <lb ed="#P" n="73"/>in terra, et ad naturam terrae pertinerc. Unde 
+          me<lb break="no" ed="#P" n="74"/>bercle cum quidam pisces sint, qui ex una 
+          partc<lb break="no" ed="#P" n="75"/>habeant formam piscis, et ex alia formam animalis,
+          <lb ed="#P" n="76"/>quadrupedis, ut porcus piscis, canis piscis, lupus.
+          <lb ed="#P" n="77"/>piscis, qua parte piscis videtur posse in jejuniis.
+          <lb ed="#P" n="78"/>comedi, qua vero non, haud quaquam.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

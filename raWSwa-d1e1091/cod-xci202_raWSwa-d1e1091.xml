@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 85</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 85</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="44"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1091"><!-- raWSwa-c85 -->
+        <head xml:id="raWSwa-d1e1091-Hd1e101">Caput 85</head>
+        <head xml:id="raWSwa-d1e1091-Hd1e103" type="question-title">
+          De officio Quadragesima ac littera laicorum.
+        </head>
+        <p xml:id="raWSwa-d1e1091-d1e106">
+          <lb ed="#P" n="97"/>CAPUT LXXXV.
+          <lb ed="#P" n="98"/>De officio Quadragesima ac littera laicorum.
+        </p>
+        <p xml:id="raWSwa-d1e1091-d1e113">
+          <lb ed="#P" n="99"/>Quoniam de officio Quadragesimae bucusque 
+          ge<lb break="no" ed="#P" n="100"/>neraliter tractatum est, nunc deincepa de ejusdem
+          <lb ed="#P" n="101"/>officio pro tempore agendum est. À Dominica igitur,
+          <lb ed="#P" n="102"/>quam dicimus, 1sti sunt dies, usque ad Pascha,
+          <lb ed="#P" n="103"/>versiculus ille, videlicet Gloria Patri, qui ad 
+          lau<lb break="no" ed="#P" n="104"/>dem pertinet Trinitatis, in officiis plane subticetur,
+          <lb ed="#P" n="105"/>quoniam ab illa Dominica incipit passio Christi 
+          ce<lb break="no" ed="#P" n="106"/>lebrari, in qua, iota Trinitas a Judais quasi 
+          deho<lb break="no" ed="#P" n="107"/>nestata videtur. Qua etiam ratione fit, ut in cantico
+          <lb ed="#P" n="108"/>trium puerorum, scilicet Benedicite , versiculus ille
+          <lb ed="#P" n="109"/>nunquam cantetur, quia tunc Deo magna facta est
+          <lb ed="#P" n="110"/>dehonestatio, quando tres pueri, qui ipsum maxime
+          <lb ed="#P" n="111"/>colebant, idola plurimum exsecrantes, conjecti sunt
+          <lb ed="#P" n="112"/>in caminum ignis. Maxine vero idem iste 
+          versicu<lb break="no" ed="#P" n="113"/>lus triduo illo ante Pascha subticetur, quod tum
+          <lb ed="#P" n="114"/>demum Trinitas maximo affecta sit dedecore. Nam
+          <pb ed="#P" n="45"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>praeterquam quod in primis de nece Christi hic 
+          agi<lb break="no" ed="#P" n="2"/>tur, nunc verberatur, nunc foede conspuitur, alapis
+          <lb ed="#P" n="3"/>ceditur, nunc etiam crucifigitur. Unde Isaias : 
+          Vi<lb break="no" ed="#P" n="4"/>dimus, inquit, eum non habentem speciem neque 
+          de<lb break="no" ed="#P" n="5"/>corem (Isa. vw). Horarum quoque initia, et 
+          lectio<lb break="no" ed="#P" n="6"/>pum tituli tunc plane supprimuntur, nempe Deus,
+          <lb ed="#P" n="7"/>in adjutorium , et,Lectio libri, etc., quia Christus
+          <lb ed="#P" n="8"/>caput nostrum a nobis sustollitur juxta praescntiam
+          <lb ed="#P" n="9"/>carnis. Ad lectiones non petuntur benedictioncs,
+          <lb ed="#P" n="10"/>neque dantur, quoniam pastor Christus, qui gregi
+          <lb ed="#P" n="11"/>suo benedicat, jam non adest. Vel ideo benedictio
+          <lb ed="#P" n="12"/>pnon petitur, nec Tu autem, Domine, dicitur, quod
+          <lb ed="#P" n="13"/>apostoli his diebus nec ad praedicandum missi sint,
+          <lb ed="#P" n="14"/>pec inde redierint. Ut ergo hoc significemus , nec
+          <lb ed="#P" n="15"/>Jsbe, Domine, dicimus, nec tu autem. lllud quoque
+          <lb ed="#P" n="16"/>considerandum est quod in Quadragesima duae 
+          re<lb break="no" ed="#P" n="17"/>citentur praefationes, una jejunii et altera passionis.
+          <lb ed="#P" n="18"/>Ea quae est jejunii a primo jejunio cantatur usque
+          <lb ed="#P" n="19"/>ad Dominicam in Ramis palmarum. Illa vero quae
+          <lb ed="#P" n="20"/>est passionis, ab eo die cani incipit usque ad 
+          Pa<lb break="no" ed="#P" n="21"/>scha. Sed absurde fortasse alicui factum videbitur,
+          <lb ed="#P" n="22"/>quod Dominica die istiusmodi cantetur praefatio,
+          <lb ed="#P" n="23"/>cum non sit dies jejunii. Verum dici potest, quod
+          <lb ed="#P" n="24"/>ciamsi illo die non jejunetur numero, qualitate 
+          ta<lb break="no" ed="#P" n="25"/>men, hoc est cibo carnali jejunatur, 
+          quemadmo<lb break="no" ed="#P" n="26"/>cum etiam diebus aliis.
+        </p>
+        <p xml:id="raWSwa-d1e1091-d1e211">
+          <lb ed="#P" n="27"/>Sed quoniam ea qua a nobis dicta sunt, ad 
+          cle<lb break="no" ed="#P" n="28"/>rcos maxime pertinere videntur, nunc pauca 
+          di<lb break="no" ed="#P" n="29"/>cenda sunt de laicorum scriptura, quae in duobus
+          <lb ed="#P" n="30"/>potissimum consistit, nempe in picturis et 
+          ornamen<lb break="no" ed="#P" n="31"/>is. Nam ut aitGreg., quod clerico littera, id laico est
+          <lb ed="#P" n="32"/>pictura ; picturarum igitur aliae sunt supra 
+          eccle<lb break="no" ed="#P" n="33"/>siam, ut gallus vel aquila ; alia extra ecclesiam, ut
+          <lb ed="#P" n="34"/>in fronte forium bos et leo; aliae intra ecclesiam,
+          <lb ed="#P" n="35"/>ut sunt icones, statuae, figurae, et diversa alia 
+          pictu<lb break="no" ed="#P" n="36"/>rarum genera, quae in vestibus, vel in parietibus,
+          <lb ed="#P" n="37"/>vel etiam in vitris depinguntur. Verum de his 
+          om<lb break="no" ed="#P" n="38"/>nibus postea suo loco dicetur, hoc uno tamen modo
+          <lb ed="#P" n="39"/>observato, ut sciamus Salvatoris nostri imaginem
+          <lb ed="#P" n="40"/>tribus bisce modis aptius et convenientius in 
+          eccle<lb break="no" ed="#P" n="41"/>sia depingi, ut videlicet, aut in throno sedet, aut
+          <lb ed="#P" n="42"/>in crucis patibulo pendeat, aut etiam in matris suae
+          <lb ed="#P" n="43"/>gremio conquiescat. Ornamenta vero in tribus con
+          <lb ed="#P" n="44"/>sistunt, in ornamento videlicet ecclesiae, chori et
+          <lb ed="#P" n="45"/>altaris; et ornatus quidem ecclesiae consistit in
+          <lb ed="#P" n="46"/>eortinis, aulzis, pallis, sericis, purpureis et 
+          consi<lb break="no" ed="#P" n="47"/>milibus. Ornatus vero chori, in dorsalibus , ut 
+          vo<lb break="no" ed="#P" n="48"/>cant tapetis et sustratoriis. Ornatus denique 
+          alta<lb break="no" ed="#P" n="49"/>ris, versatur in velamentis, crucibus, capsis, 
+          texti<lb break="no" ed="#P" n="50"/>bus et philacteriis. Et etiam ornatus personarum,
+          <lb ed="#P" n="51"/>quae vel cantant in choro, vel altari inserviunt. Sed
+          <lb ed="#P" n="52"/>de his et similibus dicimus omnia illa quae ad 
+          or<lb break="no" ed="#P" n="53"/>natum pertinent tempore Quadragesima debere
+          <lb ed="#P" n="54"/>abscondi, vel removeri, vel etiam contegi. Nec crux
+          <lb ed="#P" n="55"/>quoque illo tempore nisi cooperta in ecclesia 
+          por<lb break="no" ed="#P" n="56"/>tari debet. Duo tamen vela retinentur , quorum 
+          al<lb break="no" ed="#P" n="57"/>terum ponitur per chori circuitum, alterum $
+          u<lb break="no" ed="#P" n="58"/>spenditur inter altare et chorum, ut non appareant
+          <lb ed="#P" n="59"/>quae sunt intra sancta sanctorum. Quo quidem si-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>gnificatur mentibus infidelium divinarum 
+          Scriptu<lb break="no" ed="#P" n="61"/>rarum intelligentiam nondum esse apertam. Haec
+          <lb ed="#P" n="62"/>duo vela diebus Dominicis complicantur , quod hi
+          <lb ed="#P" n="63"/>dies ad tempus Paschatis pertineant. Sic quoque
+          <lb ed="#P" n="64"/>ad primas tenebras, quartae videlicet feriae ante
+          <lb ed="#P" n="65"/>Pascha, ubi de morte Domini agitur , omnino
+          <lb ed="#P" n="66"/>renoventur , quoniam eo mortuo velum 
+          tem<lb break="no" ed="#P" n="67"/>pli scissum est, ita ut tunc quae intra sancta
+          <lb ed="#P" n="68"/>sanctorum delituerant , primo omnibus fuerint
+          <lb ed="#P" n="69"/>manifesta.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

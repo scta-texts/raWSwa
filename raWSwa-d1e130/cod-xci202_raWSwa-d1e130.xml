@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 6</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 6</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="9"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e130"><!-- raWSwa-c6 -->
+        <head xml:id="raWSwa-d1e130-Hd1e101">Caput 6</head>
+        <head xml:id="raWSwa-d1e130-Hd1e103" type="question-title">
+          De stationibus.
+        </head>
+        <p xml:id="raWSwa-d1e130-d1e106">
+          <lb ed="#P" n="100"/>CAPUT VI.
+          <lb ed="#P" n="101"/>De stationibus.
+        </p>
+        <p xml:id="raWSwa-d1e130-d1e113">
+          <lb ed="#P" n="102"/>De litaniis quidem modo non incommode 
+          dicen<lb break="no" ed="#P" n="103"/>dum foret, nisi de iis tum paulo opportunius 
+          essc<lb break="no" ed="#P" n="104"/>mus dicturi, cum de festis juxta temporum 
+          varie<lb break="no" ed="#P" n="105"/>tates tractabimus. Operae pretium igitur est, ut hoc
+          <lb ed="#P" n="106"/>tempore his supersedeamus, ac modo de 
+          stationi<lb break="no" ed="#P" n="107"/>bus agamus ubi sex sunt consideranda. Primo,
+          <lb ed="#P" n="108"/>quid sit statio, et quam ob rem sic appellata; 
+          se<lb break="no" ed="#P" n="109"/>cundo, unde initium sumpscrit; tertio, quot sint
+          <lb ed="#P" n="110"/>carum species ; quarto, quare hujusmodi solemnitas
+          <lb ed="#P" n="111"/>stationum sit instituta ; quinto, cujusmodi sint 
+          per<lb break="no" ed="#P" n="112"/>ficiendas; ultimo denique, quae sit differentia ipter
+          <lb ed="#P" n="113"/>stationes, processiones et litanias. Et quidem 
+          sta<lb break="no" ed="#P" n="114"/>tio, prout hoc in loco accipitur, est processio quae
+          <lb ed="#P" n="115"/>fit ad aliam ecclesiam, ut Deo persolvantur gratiae.
+          <lb ed="#P" n="116"/>Dicitur autem statio, quod stantes Deo agimus 
+          gra<lb break="no" ed="#P" n="117"/>tias, non flexis genibus sicut in litaniis , nec in eis
+          <lb ed="#P" n="118"/>supplicationis utimur vocibus, sed laudem Doo
+          <pb ed="#P" n="10"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cantamus. Videntur tamen stationes a veteri lege ad
+          <lb ed="#P" n="2"/>nos fluxisse. Tum enim populus Judaicus, atque
+          <lb ed="#P" n="3"/>etiam complures ethnici Jerosolymam conveniebant
+          <lb ed="#P" n="4"/>in maximis solemuitatibus, veluti in Pascbate et
+          <lb ed="#P" n="5"/>Pentecoste, ut in templo adorarent, ibique et 
+          mu<lb break="no" ed="#P" n="6"/>nera offerrent, ac Deo tandem gratias pro innumeris
+          <lb ed="#P" n="7"/>beneficiis agerent. Ab hac ergo est consuetudine,
+          <lb ed="#P" n="8"/>quod etiamnum nostra Ecclesia observat. ut
+          <lb ed="#P" n="9"/>omnes pariter ab oppidis. villis aliisque locis 
+          sub<lb break="no" ed="#P" n="10"/>urbiis in septimana Paschali et Pentecostes ad 
+          epi<lb break="no" ed="#P" n="11"/>scopalem ecclesiam convenirent. Sunt item aliae
+          <lb ed="#P" n="12"/>stationes, qua a Romanis originem traxerunt, qui
+          <lb ed="#P" n="13"/>in ejusmodi frequenter admodum versabantur. Si
+          <lb ed="#P" n="14"/>quando enim diversis temporibus se ab hostibus
+          <lb ed="#P" n="15"/>undique obsessos animadvertebant, aut graviora
+          <lb ed="#P" n="16"/>sibi imminere pericula, sanctorum intercessiones
+          <lb ed="#P" n="17"/>implorabant, ut quidquid esset periculi tandem 
+          ces<lb break="no" ed="#P" n="18"/>saret. Quo quidem facto processionibus ad ejus 
+          san<lb break="no" ed="#P" n="19"/>cti ecclesiam conveniebant, cujus patrocinio fuerant
+          <lb ed="#P" n="20"/>liberati, ut tanto beneflcio dignas gratias Deo agere
+          <lb ed="#P" n="21"/>possent. Atque ita sane flebat statio ad S. Paulum
+          <lb ed="#P" n="22"/>ilo die, quo per ejus subsidii invocationem eos
+          <lb ed="#P" n="23"/>liberaverat Dominus. Et sic de aliis. Stationum 
+          au<lb break="no" ed="#P" n="24"/>tem duae sunt sperties : Aliae enim sunt generales,
+          <lb ed="#P" n="25"/>alise particulares. Generales sunt, quae in iis duabus
+          <lb ed="#P" n="26"/>septimanis, quas modo diximus, ad majorem 
+          sem<lb break="no" ed="#P" n="27"/>per ecclesiam fieri solent ; particulares vero sunt,
+          <lb ed="#P" n="28"/>quae in diversis ecclesiis ex causa quam statim 
+          attu<lb break="no" ed="#P" n="29"/>limus flunt. Quandoque etiam fiunt stationes causa
+          <lb ed="#P" n="30"/>venerationis, nulla alia causa interveniente, ut cum
+          <lb ed="#P" n="31"/>in alicujus sancti festo ad aliam ccclesiam itur 
+          pro<lb break="no" ed="#P" n="32"/>cessione a majori. Rursus iuterdum stationes fieri
+          <lb ed="#P" n="33"/>dicuntur, cum ob eamdem venerationis causamn
+          <lb ed="#P" n="34"/>diebus festis ad diversa progredimur altaria. Quare
+          <lb ed="#P" n="35"/>ex iis quae diximus, satis constare arbitror quae sit
+          <lb ed="#P" n="36"/>statiopum institutio. Quibus illud tamen addepdum
+          <lb ed="#P" n="37"/>est, quod quemadmodum Romani n sua civitate ad
+          <lb ed="#P" n="38"/>pericula evitanda stationes annuatim ficri 
+          statuc<lb break="no" ed="#P" n="39"/>runt, sic quoque in aliis civitatibus ob similem 
+          cau<lb break="no" ed="#P" n="40"/>sam suas instituerunt staiiones. Non est profecto,
+          <lb ed="#P" n="41"/>quod multum anxii simus circa vestes, quibus in
+          <lb ed="#P" n="42"/>stationibus uti oportet, cum ejusmodi esse debeaut,
+          <lb ed="#P" n="43"/>quales in choro quotidie haberi lieet, hoc semper
+          <lb ed="#P" n="44"/>observato, ut illi tempori maxime conveniant, quo
+          <lb ed="#P" n="45"/>fiunt stationes. Non hic jejunatur sicut in litaniis.
+          <lb ed="#P" n="46"/>Non hic flectuntur, ut dicium est, gcnua, sed 
+          laeti<lb break="no" ed="#P" n="47"/>tie voces cantantur, uinirum responsoria, ut 
+          dici<lb break="no" ed="#P" n="48"/>mus, et antiphonie, vel his quidpiam simile. Fit
+          <lb ed="#P" n="49"/>ponnunquam ut, dum pcraguntur stationes, in ea
+          <lb ed="#P" n="50"/>ecclesia, ad quam itur, missa celebretur, et 
+          inter<lb break="no" ed="#P" n="51"/>dum nonp. Ut ut tamen haec sunt, absoluta stationis
+          <lb ed="#P" n="52"/>oratione semper unde exierant reditur. Inter 
+          statio<lb break="no" ed="#P" n="53"/>nes vero, litanias cet processiones hoc interest,
+          <lb ed="#P" n="54"/>quod stationes ex causis supra dictis, eo, quo 
+          expo<lb break="no" ed="#P" n="55"/>situm est, modo fiant litaniae quae supplicationes ac
+          <lb ed="#P" n="56"/>rogationes signitücant; ad vitanda quidem fiunt 
+          pe<lb break="no" ed="#P" n="57"/>ricula, atque oinnc cffugiendum infortunium , sed
+          <lb ed="#P" n="58"/>non sine jcjunio et veste lumili aut habitu lugubri,
+          <lb ed="#P" n="59"/>vocibus in modum supplicatis. Undc profecto lita-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>niae dicuntur supplicationes. Scd evidentius haec
+          <lb ed="#P" n="61"/>omnia patebunt, cum eadem plenius paule post
+          <lb ed="#P" n="62"/>simus tractaturi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 66</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 66</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="37"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e860"><!-- raWSwa-c66 -->
+        <head xml:id="raWSwa-d1e860-Hd1e101">Caput 66</head>
+        <head xml:id="raWSwa-d1e860-Hd1e103" type="question-title">
+          De festis et jejuniis Adventus.
+        </head>
+        <p xml:id="raWSwa-d1e860-d1e106">
+          <lb ed="#P" n="42"/>CAPUT LXVI.
+          <lb ed="#P" n="43"/>De festis et jejuniis Adventus.
+        </p>
+        <p xml:id="raWSwa-d1e860-d1e113">
+          <lb ed="#P" n="44"/>Deinceps modo videamus de iis quae accidunt
+          <lb ed="#P" n="45"/>Advep-ui, ut de ejus festis et jejuniis. Et in primis
+          <lb ed="#P" n="46"/>quidem bic cognoscamus, si festum S. Andreae 
+          con<lb break="no" ed="#P" n="47"/>ügerit prima Dominica, id persequendum esse n
+          <lb ed="#P" n="48"/>feria. Idem observari volumus, de quolibet festo
+          <lb ed="#P" n="49"/>tam apostolorum quam martyrum, si contingant
+          <lb ed="#P" n="50"/>Dominicis privilegiatis, quos paulo post 
+          comnemo<lb break="no" ed="#P" n="51"/>rabimus. Sic quoque si festum cjusmodi ipso 
+          Domi<lb break="no" ed="#P" n="52"/>nico contigerit, quod vigiliam habeat, cjus secunda
+          <lb ed="#P" n="53"/>feria celebrabitur oflicium eritque jejunium in 
+          Sab<lb break="no" ed="#P" n="54"/>bato, si videlicet inofficiata sit vigilia, id est, si 
+          pro<lb break="no" ed="#P" n="55"/>prium habeat officiun. ltem si qualibet alia 
+          Domi<lb break="no" ed="#P" n="56"/>nica ex privilegiatis, festum apostoli, vel praecipue
+          <lb ed="#P" n="57"/>alicujus martyris, vel alterius sancti, qui proprium
+          <lb ed="#P" n="58"/>babeat officium evenerit, restat videre an septimana
+          <lb ed="#P" n="59"/>sequens sit inofficiata, hoc est, an proprium singuli
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>ejus septimanae dics habeant cflicium. Quod si uor
+          <lb ed="#P" n="61"/>habeant, illius Dominicae officio supersedebimus,
+          <lb ed="#P" n="62"/>atque ejus luco festum hospitis, id est sancti 
+          adve<lb break="no" ed="#P" n="63"/>nientis ad Dominicam celebrabimus; si vero 
+          ha<lb break="no" ed="#P" n="64"/>beat, manente offic:o Dominica festum transferetur
+          <lb ed="#P" n="65"/>ad secundam feriam, atque hoc pacto dics 
+          Domi<lb break="no" ed="#P" n="66"/>nica interdum cedit festo, interdum vero non. Et
+          <lb ed="#P" n="67"/>quidem quare? Quoniam ibi officium renovatur.
+          <lb ed="#P" n="68"/>Proinde jejunia Quatuor Temporum, in tertia 
+          septi<lb break="no" ed="#P" n="69"/>mana adventuum oportet celebrari. Adventus 
+          au<lb break="no" ed="#P" n="70"/>tem debent viginti et unum diem, id est tres 
+          septi<lb break="no" ed="#P" n="71"/>manas integras habcre, praeter vigiliam Natalis
+          <lb ed="#P" n="72"/>Domini. Cum ergo adventus semper incipiant a die
+          <lb ed="#P" n="73"/>Dominica, si etiam simili die videlicet, Dominica
+          <lb ed="#P" n="74"/>Natalis Domni contigerit, necessarium est, ut 
+          ad<lb break="no" ed="#P" n="75"/>ventus protrahantur quatuor hebdomadis. Alioqui
+          <lb ed="#P" n="76"/>vigilias Natalis Donmi, et jejunia Quautor 
+          Tempo<lb break="no" ed="#P" n="77"/>rum concurrercnt quoru:n utrunque peculiare 
+          ta<lb break="no" ed="#P" n="78"/>bet officivm, et ad diversa pertinent tempora. Nam
+          <lb ed="#P" n="79"/>vigilia spcctat ad tempus gaudii, cum non sit de
+          <lb ed="#P" n="80"/>adventu, scd dc Nativitate, quare ad cumdem 
+          mo<lb break="no" ed="#P" n="81"/>dum non babcret adventus viginti et unum dies,
+          <lb ed="#P" n="82"/>excepta, ut dicimus, vigilia. Si autem contigerit
+          <lb ed="#P" n="83"/>Natalis Domini in n feria, vcl deinceps usque ad
+          <lb ed="#P" n="84"/>Dominicam, tunc praeter dics viginti et unum, facile
+          <lb ed="#P" n="85"/>habebimus dicm, quo faciamus vigiliam, quia ipso
+          <lb ed="#P" n="86"/>dic Domiricc, qui proprium officium non habet,
+          <lb ed="#P" n="87"/>celebrabitur vigilia et alleluia canctur propter 
+          Do<lb break="no" ed="#P" n="88"/>minicam. Scd jejunabitur Sabbato prieccdeuti, tam
+          <lb ed="#P" n="89"/>pro jejunio Quatuor Temporum quam pro vigilia
+          <lb ed="#P" n="90"/>Natalis Demini. Quantum vero attinet generaliter
+          <lb ed="#P" n="91"/>ad jejunia, cognoscendum est cum jejunia vernalia
+          <lb ed="#P" n="92"/>primo instituta sint in prima septimana veris, 
+          esti<lb break="no" ed="#P" n="93"/>valia in sccunda Junii, autumnalia in tertia 
+          Se<lb break="no" ed="#P" n="94"/>ptembris, h:emalia in quarta Decemhris : id omne
+          <lb ed="#P" n="95"/>propter multas confusioncs, quae inde nascebantur
+          <lb ed="#P" n="96"/>abrogatum essc et rcgulariter definitum quo tempore
+          <lb ed="#P" n="97"/>corum quodque fieri debcat. Et de hiemalibus 
+          qui<lb break="no" ed="#P" n="98"/>dem dictum est, quod semper in tertia septimana
+          <lb ed="#P" n="99"/>Adventus fiant. Sed de aliis regulariter sciendum
+          <lb ed="#P" n="100"/>est quod in prima scpumana Quairagesimae semper
+          <lb ed="#P" n="101"/>incipiant vernalia, in septimana Pentecostes 
+          sem<lb break="no" ed="#P" n="102"/>per aeativalia, autumnalia veterem servent 
+          institutio<lb break="no" ed="#P" n="103"/>nem, cum semper in tertia septimana Septembris
+          <lb ed="#P" n="104"/>fiant. Cavendum interim diligenter est nc in 
+          com<lb break="no" ed="#P" n="105"/>futatione illarum septimanarum fallamur. Nam si
+          <lb ed="#P" n="106"/>Kalendae illius mensis, hoc est ipse mensis incipiat
+          <lb ed="#P" n="107"/>prima feria, vcl secunda vcel tertia, vel etiam quarta,
+          <lb ed="#P" n="108"/>tum illa ejus mensis septimana computabitur, et in
+          <lb ed="#P" n="109"/>ea quae est ab illa tertia, fiem jejunia. Si vero 
+          men<lb break="no" ed="#P" n="110"/>sis inceperit quinta, vcl sexta, vel septima feria,
+          <lb ed="#P" n="111"/>tres illas septimanas numcerare ordiemur a sequenü
+          <lb ed="#P" n="112"/>Dominica, et eodem modo in tertia fient jejunia.
+          <lb ed="#P" n="113"/>Atque ita sanc dics praecedentes quoad 
+          computa<lb break="no" ed="#P" n="114"/>tionem septimanarum plane erunt inutiles. Sic 
+          igi<lb break="no" ed="#P" n="115"/>tur hujusmodi habemus regulam, ut ab illa 
+          Domi<lb break="no" ed="#P" n="116"/>nica, quae propinquior fuerit Kalendis Septembris,
+          <lb ed="#P" n="117"/>id'est pridie mensis semper numeranda sit prims
+          <lb ed="#P" n="118"/>septimana, sive subsequatur, sive praecesserit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

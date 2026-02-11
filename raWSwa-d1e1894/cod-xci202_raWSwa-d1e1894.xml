@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 151</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 151</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="76"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1894"><!-- raWSwa-c151 -->
+        <head xml:id="raWSwa-d1e1894-Hd1e101">Caput 151</head>
+        <head xml:id="raWSwa-d1e1894-Hd1e103" type="question-title">De Exaltatione sancte crucis</head>
+        <p xml:id="raWSwa-d1e1894-d1e106">
+          <lb ed="#P" n="110"/>CAPUT CLI.
+          <lb ed="#P" n="111"/>De Exaltatione sancte crucis
+        </p>
+        <p xml:id="raWSwa-d1e1894-d1e113">
+          <lb ed="#P" n="112"/>Exaltata fuit sancta crux, ejusque festum 
+          institu<lb break="no" ed="#P" n="113"/>tum eo tempore quo Heraclius vicit Cosroen regem
+          <lb ed="#P" n="114"/>Persarum. Hic autem Cosroe cum, destructa 
+          Hie<lb break="no" ed="#P" n="115"/>rosolvma, crucem Domini inde abstulisset, facta
+          <lb ed="#P" n="116"/>domo ad similitudinem coeli, fecit sibi in ea sedem,
+          <lb ed="#P" n="117"/>ac lignum a dextris posuit loco Filii, gallum a 
+          sini<lb break="no" ed="#P" n="118"/>stris loco Spiritus sancti, atque ita ipse in medio
+          <pb ed="#P" n="77"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sians se Deum et Dominum appellari voluit. (uod
+          <lb ed="#P" n="2"/>audiens Heraclius imperator Romanus aciem movit
+          <lb ed="#P" n="3"/>juta Danubium illum, qui apud Persas est, non
+          <lb ed="#P" n="4"/>bunc qui in Suevia oritur. Nam alterum illum forte
+          <lb ed="#P" n="5"/>er bis partibus in illas venisse dicere possumus et
+          <lb ed="#P" n="6"/>nomine hujus esse appellatum, sieut Trojani fecisse
+          <lb ed="#P" n="7"/>dicuntur. Hinc victo filio Cosroes singulari 
+          certa<lb break="no" ed="#P" n="8"/>nine, crucem Domini tulit Heraclius, voluitque 
+          il<lb break="no" ed="#P" n="9"/>lam in suum locum restituere. Sed cum 
+          appropin<lb break="no" ed="#P" n="10"/>quaret Hierosolymam, portae civitatis per se fuerunt
+          <lb ed="#P" n="11"/>clausae, ut non intrare potuerit. Quod cum 
+          vehe<lb break="no" ed="#P" n="12"/>menter admiraretur, audita vox estecoelo, inquiens
+          <lb ed="#P" n="13"/>Regem regum non sic intrasse Jerosolymam 
+          pbale<lb break="no" ed="#P" n="14"/>ratum, sed humilem et super asinam sedentem. 
+          At<lb break="no" ed="#P" n="15"/>que hic statim suam agnoscens elationem, ex equo
+          <lb ed="#P" n="16"/>desiliit, et valde est humiliatus, ac portae sua sponte
+          <lb ed="#P" n="17"/>ei apertae sunt, nudisque pedibus civitatem intravit.
+          <lb ed="#P" n="18"/>In hujus ingressu multi diversorum genere 
+          morbo<lb break="no" ed="#P" n="19"/>rum per crucem curati sunt. Ferunt ab Adamo Seth
+          <lb ed="#P" n="20"/>filium ejus missum fuisse in paradisum, qui ramum
+          <lb ed="#P" n="21"/>inde sibi datum ab angelo retulit ad patrem, qui
+          <lb ed="#P" n="22"/>statisa illius arboris mysterium cognoscens, cam
+          <lb ed="#P" n="23"/>terrae inseruit, in magnam arborem procrevit. Postea
+          <lb ed="#P" n="24"/>vero cum in templi aedificatione ex diversis mundi
+          <lb ed="#P" n="25"/>partibus arbores afferrentur, allata est illa et 
+          reli<lb break="no" ed="#P" n="26"/>cta tanquam inutilis. Unde deinceps ad fuveas 
+          quas<lb break="no" ed="#P" n="27"/>dam civitatis posita est, per quam commode 
+          trans<lb break="no" ed="#P" n="28"/>ire possit. Hanc cum vidisset regina Saba, noluit
+          <lb ed="#P" n="29"/>transire, sed adoravit. Postea autem rejecta est a
+          <lb ed="#P" n="30"/>probaticam piscinam , quae tempore passionis 
+          Chri<lb break="no" ed="#P" n="31"/>sti desiccata fuit. ac tum apparuit lignum, cui cum
+          <lb ed="#P" n="32"/>aliud pon invenirent Dominum aflixerunt. Major vero
+          <lb ed="#P" n="33"/>est festivitas inventionis quam exaltationis, quod
+          <lb ed="#P" n="34"/>ab Eusebio fuerit instituta, qui eo die fecit populum
+          <lb ed="#P" n="35"/>convenire ad adorandum crucem. Fuit enim hic 
+          pon<lb break="no" ed="#P" n="36"/>tilex Romanus trigesimus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

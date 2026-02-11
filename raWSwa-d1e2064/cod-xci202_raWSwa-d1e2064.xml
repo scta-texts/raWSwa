@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Conclusio</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Conclusio</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="83"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e2064"><!-- raWSwa-concl -->
+        <head xml:id="raWSwa-d1e2064-Hd1e101">Conclusio</head>
+        <p xml:id="raWSwa-d1e2064-d1e103">
+          <lb ed="#P" n="53"/>Totius operis conclusio.
+        </p>
+        <p xml:id="raWSwa-d1e2064-d1e108">
+          <lb ed="#P" n="54"/>Jam ergo duplici hactenus ratione pro ingenii
+          <lb ed="#P" n="55"/>nostri tenuitate ecclesiastica officia, et quae ad ea
+          <lb ed="#P" n="56"/>pertinere videbantur exposuimus : primo quidem
+          <lb ed="#P" n="57"/>generaliter, ac deinde etiam specialiter, sigillatim
+          <lb ed="#P" n="58"/>eo ordine explicando quem anni circulus nobis 
+          de<lb break="no" ed="#P" n="59"/>monstravit. Festa item sanctorum in suo loco, hoc
+          <lb ed="#P" n="60"/>est, eo die quo celebrari consueverunt, commode,
+          <lb ed="#P" n="61"/>ut nos quidem putavimus, reservavimus, ut quo dic
+          <lb ed="#P" n="62"/>cujusque festum tleri dicimus, isthic et ejusdem
+          <lb ed="#P" n="63"/>festi rato haberetur. Nec vero est, quod quis 
+          aesti<lb break="no" ed="#P" n="64"/>met : ita haec absolute a nobis tradi potuisse, ut ra
+          <lb ed="#P" n="65"/>iis nihil plane desideraretur cum divina officia
+          <lb ed="#P" n="66"/>ejusmodi sint, ut plane ac sufficienter in mulus
+          <lb ed="#P" n="67"/>explicari non possint.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

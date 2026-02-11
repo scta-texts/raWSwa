@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 68</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 68</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="38"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e884"><!-- raWSwa-c68 -->
+        <head xml:id="raWSwa-d1e884-Hd1e101">Caput 68</head>
+        <head xml:id="raWSwa-d1e884-Hd1e103" type="question-title">
+          De vigilia Natalis Domini.
+        </head>
+        <p xml:id="raWSwa-d1e884-d1e106">
+          <lb ed="#P" n="30"/>CAPUT LXVIII
+          <lb ed="#P" n="31"/>De vigilia Natalis Domini.
+        </p>
+        <p xml:id="raWSwa-d1e884-d1e113">
+          <lb ed="#P" n="32"/>Sequitur vigilia Natalis Domini, quae propriam
+          <lb ed="#P" n="33"/>habet missam, et propriam in ea collectam, quae
+          <lb ed="#P" n="34"/>item in vesperis dici debet, quod item observatur
+          <lb ed="#P" n="35"/>in aliis vigiliis. Sin contra fuerit, hoc est, si vigilia
+          <lb ed="#P" n="36"/>peculiarc officium nomn habuerit, collecta in 
+          vespe<lb break="no" ed="#P" n="37"/>ris de sequenti festo dici oportet. Cantantur ergo
+          <lb ed="#P" n="38"/>in vigilia Natalis Domini hiPsalmi : Laudate, pueri,
+          <lb ed="#P" n="39"/>Dominum (Psal. cxu), Laudate Dominum, omnes
+          <lb ed="#P" n="40"/>gentes (Psal. cxvi), Lauda, animu mea, Dominum
+          <lb ed="#P" n="41"/>(Psal. cxiv), Laudate Dominum, quoniam bonus
+          <lb ed="#P" n="42"/>(Psal. cxivi), Lauda, Jerusalem, Dominum (Psal.
+          <lb ed="#P" n="43"/>CXLvil), sed in complctorio cani debet hymnus Veni,
+          <lb ed="#P" n="44"/>dRedemptor gentium.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

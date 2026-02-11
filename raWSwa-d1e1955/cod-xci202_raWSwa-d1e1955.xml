@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 156</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 156</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="78"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1955"><!-- raWSwa-c156 -->
+        <head xml:id="raWSwa-d1e1955-Hd1e101">Caput 156</head>
+        <head xml:id="raWSwa-d1e1955-Hd1e103" type="question-title">
+          De sancto Luca.
+        </head>
+        <p xml:id="raWSwa-d1e1955-d1e106">
+          <lb ed="#P" n="18"/>CAPUT CLVI.
+          <lb ed="#P" n="19"/>De sancto Luca.
+        </p>
+        <p xml:id="raWSwa-d1e1955-d1e113">
+          <lb ed="#P" n="20"/>Lucas natione fuit Syrus, patria Antiochenus, et
+          <lb ed="#P" n="21"/>praedicavit in Bithynia, atque isthic propria morte
+          <lb ed="#P" n="22"/>absque martyrio vitam feliviter finivit. Vixit autem
+          <lb ed="#P" n="23"/>octoginta annis, ei duo volumina posteritati reliquit,
+          <lb ed="#P" n="24"/>Evangelium videlicet et Actus apostolorum. Fuit 
+          dis<lb break="no" ed="#P" n="25"/>cipulus Pauli, a quo quae docuit didicit, sicut 
+          Mar<lb break="no" ed="#P" n="26"/>cus a Petro. In prologo tamen Evangelii invenitur,
+          <lb ed="#P" n="27"/>quod ipse didicisset a quibusdam qui a principio
+          <lb ed="#P" n="28"/>fuerunt cum Domino. Ex quo sequi videretur, quod
+          <lb ed="#P" n="29"/>non ex Paulo didicisset , cum hic a principio cum
+          <lb ed="#P" n="30"/>Domino non fuerit. Verum quadam ex DPaulo 
+          didi<lb break="no" ed="#P" n="31"/>cit, quaedam etiau ex aliis, sed maxime tamen a
+          <lb ed="#P" n="32"/>Paulo edoctus est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

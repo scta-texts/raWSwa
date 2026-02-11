@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 138</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 138</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="71"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1736"><!-- raWSwa-c138 -->
+        <head xml:id="raWSwa-d1e1736-Hd1e101">Caput 138</head>
+        <head xml:id="raWSwa-d1e1736-Hd1e103" type="question-title">
+          De festo apostolorum Petri et Pauli.
+        </head>
+        <p xml:id="raWSwa-d1e1736-d1e106">
+          <lb ed="#P" n="110"/>CAPUT CXXXVIII.
+          <lb ed="#P" n="111"/>De festo apostolorum Petri et Pauli.
+        </p>
+        <p xml:id="raWSwa-d1e1736-d1e113">
+          <lb ed="#P" n="112"/>Hucusque de Nativitate S. Joannis ejusque 
+          vigi<lb break="no" ed="#P" n="113"/>lia actum est, sequitur deinceps festivitas duorum
+          <lb ed="#P" n="114"/>apostolorum, Petri videlicet et Pauli. De his magna
+          <lb ed="#P" n="115"/>est controversia, utrum eodem die passi sint. 
+          llen<lb break="no" ed="#P" n="116"/>ricus enim solitarius velle videtur eodem die eos,
+          <lb ed="#P" n="117"/>anno tamen revoiuto, passos esse. Sed Pelagius 
+          pa<lb break="no" ed="#P" n="118"/>pa, atque alii sancti Patres qui de illis scripserunt
+          <pb ed="#P" n="72"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>in Decretis, volunt illos eodem dic cademque hora
+          <lb ed="#P" n="2"/>sub pessimo illo imperatore Nerone fuisse passos.
+          <lb ed="#P" n="3"/>Alioqui enim falsae essent historiae de illis proditae.
+          <lb ed="#P" n="4"/>Sed tamen in diversis locis passi sunt, et diversis
+          <lb ed="#P" n="5"/>paenis. Petrus enim cuuci fuit affixus; Paulus vero
+          <lb ed="#P" n="6"/>obtruncatus, quae poena videbatur esse honestior.
+          <lb ed="#P" n="7"/>Nam civis erat fRiomanus, ut habetur in Actibus
+          <lb ed="#P" n="8"/>apostolorum. Postea vero corum corpora fuere
+          <lb ed="#P" n="9"/>eodem loco eodemque sepulcro posita, ubi multo
+          <lb ed="#P" n="10"/>tempore simul permanserunt. Sed ad fidem 
+          Chri<lb break="no" ed="#P" n="11"/>stianam converso impceratore Romano, et Ciristiana
+          <lb ed="#P" n="12"/>religione magis ac magis crescente, utrique apostolo
+          <lb ed="#P" n="13"/>suam peculiarem aedificaverun ecclesiam et cum
+          <lb ed="#P" n="14"/>vellent corpora separare, dubitarentque quaenam
+          <lb ed="#P" n="15"/>ossa Petri, et quae Pauli essent, illis orantibus, 
+          je<lb break="no" ed="#P" n="16"/>junio peracto, responsum est coclitus, majora esse
+          <lb ed="#P" n="17"/>ossa praedicatoris, minora vero piscatoris. Átque
+          <lb ed="#P" n="18"/>ita sane scorsim a sese mutuo ossa fucre separata,
+          <lb ed="#P" n="19"/>el in suis ccclesiis posita. Quanquam vero horum
+          <lb ed="#P" n="20"/>festa eodem die celcbranda occurrant, beatus tamen
+          <lb ed="#P" n="21"/>Gregorius instituit ut festum Petri ipso die tantum
+          <lb ed="#P" n="22"/>celebrarctur : major enim fuerat sanctitate, et 
+          Ro<lb break="no" ed="#P" n="23"/>nix prünas tenuerat, sequenti vero die colcretur
+          <lb ed="#P" n="24"/>fesinan Pauli. Ipso tamen die Petri dicitur in missa
+          <lb ed="#P" n="25"/>oratio, sive, ut vocant, collecta, illis duobus 
+          com<lb break="no" ed="#P" n="26"/>nis. Potest ergo hic missa inchoari vel de S. 
+          Pe<lb break="no" ed="#P" n="27"/>ire, vel per lujusmodi introitum : Terribilis est 
+          lo<lb break="no" ed="#P" n="28"/>cus iste (Gen. xxvin), quia eo die ecclesia Petri
+          <lb ed="#P" n="29"/>fuit dedicata.
+        </p>
+        <p xml:id="raWSwa-d1e1736-d1e198">
+          <lb ed="#P" n="30"/>Quaeritur autem hic de Lino an papa fuerit, atque
+          <lb ed="#P" n="31"/>itidem de Cleio. Sed responsum est, et negatum,
+          <lb ed="#P" n="32"/>eosque fuisse discipulos Petri, ac ejus vicem in his
+          <lb ed="#P" n="33"/>duntaxat supplevisse, quae ad activam pertinebant
+          <lb ed="#P" n="34"/>vitam, unum videlicet intra muros, alterum vero
+          <lb ed="#P" n="35"/>extra. Sed Petrus vacabat orationi, unde etiam nunc
+          <lb ed="#P" n="36"/>Romae praeter papam et alius quispiam episcopus
+          <lb ed="#P" n="37"/>est. Considerandum porro est interdum inveniri
+          <lb ed="#P" n="38"/>Paulum Petro esse minorem, et quandoque etiam
+          <lb ed="#P" n="39"/>majorem, vel inter sese eos esse aequales. Sed 
+          istius<lb break="no" ed="#P" n="40"/>modi controversia hoc modo dissolvi potest : Fuit
+          <lb ed="#P" n="41"/>enim Paulus minor Petro, videlicet dignitate, quod
+          <lb ed="#P" n="42"/>hic fuerit princeps apostolorum. Verum eodem uajor
+          <lb ed="#P" n="43"/>fuit praedicatione, et aequalis et par vitae 
+          sanctimo<lb break="no" ed="#P" n="44"/>nia. Horum itaquc festum tria habet praecipua, 
+          jeju<lb break="no" ed="#P" n="45"/>nium. octavas et solemnitatem. Jejunium quidem,
+          <lb ed="#P" n="46"/>quia si cum eis regnare optemus, oportet nos etiant
+          <lb ed="#P" n="47"/>cum iis compati. In solemnitate vero propter 
+          eo<lb break="no" ed="#P" n="48"/>rum glorificationem gaudemus. In octavis denique
+          <lb ed="#P" n="49"/>ob illorum futuram beatitudinem in corpore et 
+          ani<lb break="no" ed="#P" n="50"/>ma, cujus certi sumus, laetamur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

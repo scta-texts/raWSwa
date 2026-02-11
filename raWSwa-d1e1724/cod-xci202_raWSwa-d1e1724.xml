@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 137</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 137</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="71"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1724"><!-- raWSwa-c137 -->
+        <head xml:id="raWSwa-d1e1724-Hd1e101">Caput 137</head>
+        <head xml:id="raWSwa-d1e1724-Hd1e103" type="question-title">
+          De vigilia sancti Joannis.
+        </head>
+        <p xml:id="raWSwa-d1e1724-d1e106">
+          <lb ed="#P" n="20"/>CAPUT CXXXVII.
+          <lb ed="#P" n="21"/>De vigilia sancti Joannis.
+        </p>
+        <p xml:id="raWSwa-d1e1724-d1e113">
+          <lb ed="#P" n="22"/>Festum sancti Joannis habet vigiliam, hoc est
+          <lb ed="#P" n="23"/>cjus festi dies praecedens dicitur vigilia vel ejus 
+          lo<lb break="no" ed="#P" n="24"/>co jejunium , quod vice vigiliarum est institutum.
+          <lb ed="#P" n="25"/>Fuit enim moris apud veteres ut in festivitatibus
+          <lb ed="#P" n="26"/>viri cum uxoribus et filiabus suis ad ecclesiam 
+          con<lb break="no" ed="#P" n="27"/>renirent, aique isthic cum lumine et candelis 
+          vigi<lb break="no" ed="#P" n="28"/>brent. Sed quoniam in his vigiliis crebro 
+          continge<lb break="no" ed="#P" n="29"/>bat ut puellae vitiarentur, ac malitiosi 
+          opportunita<lb break="no" ed="#P" n="30"/>em haberent, quo flagitia sua commode perficerent,
+          <lb ed="#P" n="31"/>ideo factum est ut vigiliae mutarentur in jejunia.
+          <lb ed="#P" n="32"/>Upde etiam nunc antiquitatis uomen retinuit. 
+          Voca<lb break="no" ed="#P" n="33"/>ur enim vigilia. Celebratur autem Nativitas Joannis,
+          <lb ed="#P" n="34"/>tum propter historiam (habet enim Evangelium:
+          <lb ed="#P" n="35"/>Et multi in naticitate ejus gaudebunt (Luc. 1), quod
+          <lb ed="#P" n="36"/>observant Christiani et pagani) tum propter 
+          allego<lb break="no" ed="#P" n="37"/>riam et mysterium. Per Joannem enim significatur
+          <lb ed="#P" n="38"/>ortus gratiae, ex quo quidem fit ut tum magis 
+          so<lb break="no" ed="#P" n="39"/>lemnizemus propter mysterium quam propter ipsam
+          <lb ed="#P" n="40"/>personam. Credimus autem quod hic in utero 
+          san<lb break="no" ed="#P" n="41"/>ctibcatus est, sicut Jeremias, unde eo die de 
+          Je<lb break="no" ed="#P" n="42"/>resnia legitur. Sed quo genere sanctificationis nec
+          <lb ed="#P" n="43"/>satis liquet, nec legimus. Plerique tamen affirmant
+          <lb ed="#P" n="44"/>ipsum ab omni peccato fuisse mundatum. Salvator
+          <lb ed="#P" n="45"/>sutem attulit nobis ortum gratiae. Hunc Joannes
+          <lb ed="#P" n="46"/>precessit annuntiatione, nativitate, praedicatione,
+          <lb ed="#P" n="47"/>passione , et ad inferos descensione. Officium ejus
+          <lb ed="#P" n="48"/>parümr constat ex Veteri Testamento, partim ex 
+          No<lb break="no" ed="#P" n="49"/>vo, quoniam ipse fuit finis Veteris et initium Novi.
+          <lb ed="#P" n="50"/>Fuit pamque quasi lapis angularis, hoc est Novum
+          <lb ed="#P" n="51"/>et Yetus conjungens Testamentum. Quod autem hoc
+          <lb ed="#P" n="52"/>testo jejunamus, totum illud natum est ex 
+          sympa<lb break="no" ed="#P" n="53"/>thia quadam et compassione qua ei compatimur,
+          <lb ed="#P" n="54"/>quod jejunaverit in deserto, atque isthic vitam egerit
+          <lb ed="#P" n="55"/>sdmodum acerbam. Solent porro hoc tempore ex 
+          ve<lb break="no" ed="#P" n="56"/>teri consuetudine mortuorum animalium ossa 
+          com<lb break="no" ed="#P" n="57"/>buri, quod hujusmodi habet originem. Sunt enim 
+          ani<lb break="no" ed="#P" n="58"/>molia, quae dracones appellamus, unde in psalno:
+          <lb ed="#P" n="59"/>Laudate Dominum, de terra dracones (Psal. cxi.vun),
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>nós thracones, ut quidam mendose legunt, scilicet
+          <lb ed="#P" n="61"/>terrae ineatus. ITaec, inquam, animalia inaerce volant.
+          <lb ed="#P" n="62"/>in aquis natant, in terra ambulant. Sed quando in
+          <lb ed="#P" n="63"/>aere ad libidinem concitantur (quod ferc fi, saepe
+          <lb ed="#P" n="64"/>ipsum sperma vel in puteos, vel in aquas fluviales
+          <lb ed="#P" n="65"/>ejiciunt ex quo lethalis sequitur annus. Ad«versus
+          <lb ed="#P" n="66"/>haec ergo hujusmodi invenum est remedium, ut 
+          vi<lb break="no" ed="#P" n="67"/>delicet rogus ex ossibus construeretur, et ita fumus
+          <lb ed="#P" n="68"/>hujusmodi animalia fugaret. Et quia istud maxime
+          <lb ed="#P" n="69"/>huc tempore fiebat, idem ctiam modo ab omnibus
+          <lb ed="#P" n="70"/>observatur. Est et alia causa quamohrem ossa 
+          ani<lb break="no" ed="#P" n="71"/>malium comburantur, quod ossa sancti Joannis in
+          <lb ed="#P" n="72"/>civitate Sebastae ab ethnicis combusta fuere. 
+          Con<lb break="no" ed="#P" n="73"/>suetum item est hac vigilia ardentes deferri 
+          facu<lb break="no" ed="#P" n="74"/>las, quod Joannes fuerit ardens lucerna, et qui vias
+          <lb ed="#P" n="75"/>Domini praeparaverit. Sed quod etiam rota vertatur
+          <lb ed="#P" n="76"/>hinc esse putant, quia in eum circulum tunc, sol
+          <lb ed="#P" n="77"/>descenderit ultra quem progredi nequit, a quo 
+          co<lb break="no" ed="#P" n="78"/>gitur paulatim descendere, quemadmodum vulgi 
+          ru<lb break="no" ed="#P" n="79"/>mor de B. Joanne Christo adveniente ad summum
+          <lb ed="#P" n="80"/>pervenit , cum Christus putabatur, posteaque 
+          de<lb break="no" ed="#P" n="81"/>scendit ac fuit diminutus, ut vel ipse de se testis
+          <lb ed="#P" n="82"/>cst : Me, inquiens, oportet minui, illum autem 
+          cre<lb break="no" ed="#P" n="83"/>scere (Joan. ni). Quod quidem proptcrea dictum esse
+          <lb ed="#P" n="84"/>nonnulli arbitrantur , quod tum dies incipiant 
+          mi<lb break="no" ed="#P" n="85"/>nui et decrescere, et in Christi nativitate cresceac.
+          <lb ed="#P" n="86"/>Verum enimvero quia aliquando dies ante festum
+          <lb ed="#P" n="87"/>sancti Joannis decrescant, et ante natale Domini
+          <lb ed="#P" n="88"/>crescant, intelligendum est istud de nativitate in
+          <lb ed="#P" n="89"/>matre, quando scilicet uterque conceptus est. 
+          Con<lb break="no" ed="#P" n="90"/>ecptus enim est Joannes diebus decrescentibus, ut
+          <lb ed="#P" n="91"/>in Septembri , et Jesus crescentibus, ut in Aprili.
+          <lb ed="#P" n="92"/>Proinde missa hujus diei officium petit partim ex
+          <lb ed="#P" n="93"/>Veteri, partim etiam ex Novo Testamento, cum in
+          <lb ed="#P" n="94"/>eo quaedam sint Testamenti Novi, quaedam Veteris.
+          <lb ed="#P" n="95"/>Nam lex et propheta (fuerunt usque ad Joanuem
+          <lb ed="#P" n="96"/>(Matth. x), ita ut hic fuerit tanquam in medio 
+          con<lb break="no" ed="#P" n="97"/>stitutus Veteris et Novi Testamenti. Postea tamen
+          <lb ed="#P" n="98"/>circumcisus est Christus. Eodem vero dic et 
+          Joan<lb break="no" ed="#P" n="99"/>nes evangelista in fossam descendit, scd quia propter
+          <lb ed="#P" n="100"/>nativitatem B. Joannis Baptiste, ejus festivitas
+          <lb ed="#P" n="101"/>plene venerari non posset translata est ad Natale
+          <lb ed="#P" n="102"/>Domini. Quare cum neque ibi propter festum S. 
+          Ste<lb break="no" ed="#P" n="103"/>phani vigiliam habere potuerit, hinc esse dicimus,
+          <lb ed="#P" n="104"/>quod hoc die duplex missac anatur, altera quidem de
+          <lb ed="#P" n="105"/>vigilia evangelistae, nimirum, Justus ut palma 
+          flore<lb break="no" ed="#P" n="106"/>bit ; alera vero de vigilia Baptistae, quanquam dicere
+          <lb ed="#P" n="107"/>possimus vigiliam Joannis Baptistae plenum habere
+          <lb ed="#P" n="108"/>et absolutum officium. Ex quo sane fieret, ut illo die
+          <lb ed="#P" n="109"/>non celehraretur vigilia sancti Joannisevangelistae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

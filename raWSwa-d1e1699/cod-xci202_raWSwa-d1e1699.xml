@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 135</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 135</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="70"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1699"><!-- raWSwa-c135 -->
+        <head xml:id="raWSwa-d1e1699-Hd1e101">Caput 135</head>
+        <head xml:id="raWSwa-d1e1699-Hd1e103" type="question-title">
+          De tempore peregrinationis ac festis in eo contentis.
+        </head>
+        <p xml:id="raWSwa-d1e1699-d1e106">
+          <lb ed="#P" n="42"/>CAPUT CXXXV.
+          <lb ed="#P" n="43"/>De tempore peregrinationis ac festis in eo contentis.
+        </p>
+        <p xml:id="raWSwa-d1e1699-d1e113">
+          <lb ed="#P" n="44"/>Ab hoc ergo Sabbato incipit tempus 
+          peregrinatio<lb break="no" ed="#P" n="45"/>nis, quoniam sumus quidem in itinere quo venitur
+          <lb ed="#P" n="46"/>ad patriam, sed hostes et adversarios habemus 
+          an<lb break="no" ed="#P" n="47"/>tequam illuc perveniamus, nimirum carnem nostram,
+          <lb ed="#P" n="48"/>mundum et diabolum. Legimus hoc tempore librum
+          <lb ed="#P" n="49"/>Regum, ubi bella nebis proponuntur et victoriae, ut
+          <lb ed="#P" n="50"/>et nos contra bostes fortiter pugnemus, et adepti
+          <lb ed="#P" n="51"/>victoriam in caelis tandem coronemur. Ft notemus
+          <lb ed="#P" n="52"/>obiter apud auctores tribus potissimum nominibus
+          <lb ed="#P" n="53"/>appellari Judaeos. Primo, quia vocantur recutiti,
+          <lb ed="#P" n="54"/>unde lsaias : Recutita, inquit, sabbata, id est 
+          Ju<lb break="no" ed="#P" n="55"/>daica, quoniamrecisam verendorum cutem habent.
+          <lb ed="#P" n="56"/>Appellantur etiam Palaestini : unde Ovidius :
+        </p>
+        <p xml:id="raWSwa-d1e1699-d1e144">
+          <lb ed="#P" n="57"/>Terra Palastino septima culta viro.
+          <lb ed="#P" n="58"/>(Ovip. De Art. amat. lib. s, vers. 415.)
+          <lb ed="#P" n="59"/>(10) 25. q. x, c. Episcopus.
+        </p>
+        <p xml:id="raWSwa-d1e1699-d1e154">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>Et communi n6mine Judaei ab Juda filio Jacob,
+          <lb ed="#P" n="61"/>qui unus fuit cx duodecim patriarchis. Quantumvis
+          <lb ed="#P" n="62"/>enim duodecim fuerint tribus, quae a duodecim 
+          fi<lb break="no" ed="#P" n="63"/>liis Jacob descenderunt, a Juda tamen Judaii ideo
+          <lb ed="#P" n="64"/>sunt appellati, quod de regno Judae hoc pacto 
+          pro<lb break="no" ed="#P" n="65"/>phetaverat Jacob : Non deficiet princeps de Juda,
+          <lb ed="#P" n="66"/>nec dux de femoribus ejus, donec veniat qui promissus
+          <lb ed="#P" n="67"/>est (Gen. xrix). De tribu autem Juda venit Dominus
+          <lb ed="#P" n="68"/>noster Jesus Christus. Notemus praeterea, quod 
+          ali<lb break="no" ed="#P" n="69"/>quae siut octavae devotionis,, ut sancti Nicolai, et
+          <lb ed="#P" n="70"/>sanctae Mariae Magdalenae, qui octavas non habent,
+          <lb ed="#P" n="71"/>sed quoniam sunt quarumdam ecclesiarum patroni,
+          <lb ed="#P" n="72"/>ideo eis fiunt octavae. Suntet octavae venerationis ut
+          <lb ed="#P" n="73"/>in magnis solemnitatibus ; et siguificationis, ut 
+          Pe<lb break="no" ed="#P" n="74"/>tri et Pauli quae secundam significant stolam quam
+          <lb ed="#P" n="75"/>habituri sunt, videlicet corporis glorificationem.
+          <lb ed="#P" n="76"/>Paulus historiographus diaconus Romanae curiae,
+          <lb ed="#P" n="77"/>monachus Cassiniensis, cum die quodam paschalem
+          <lb ed="#P" n="78"/>cereum consecraret, fauces ejus raucae factae sunt,
+          <lb ed="#P" n="79"/>cum prius esset satis vocalis. Ut ergo vox ei 
+          resti<lb break="no" ed="#P" n="80"/>tueretur, in honorem S. Joannis hymnum hunc
+          <lb ed="#P" n="81"/>composuit : Dt queant laxis, «tc., unde in principio
+          <lb ed="#P" n="82"/>petit vocis restitutionem, sicut restituta est 
+          Zacba<lb break="no" ed="#P" n="83"/>riae merito S. Joannis. De quo quidem dicemus, si
+          <lb ed="#P" n="84"/>primo festum Gervasii ac Prothasii breviter 
+          expo<lb break="no" ed="#P" n="85"/>suetimus. Et quidem hoc uuum hic dicimus, quod
+          <lb ed="#P" n="86"/>in eorum officio cantatur : Loquetur Dominus pacem
+          <lb ed="#P" n="87"/>in plebem suam (Psal. Lxxxiv). Nec hoc sane sine
+          <lb ed="#P" n="88"/>causa tum temporis dicitur, quod in horum festo
+          <lb ed="#P" n="89"/>reformata fuerit concordia inter Longobardos et
+          <lb ed="#P" n="90"/>Romanum imperium. Caetera de illis historia plene
+          <lb ed="#P" n="91"/>perstringit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

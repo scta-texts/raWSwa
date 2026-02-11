@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 16</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 16</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="15"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e252"><!-- raWSwa-c16 -->
+        <head xml:id="raWSwa-d1e252-Hd1e101">Caput 16</head>
+        <head xml:id="raWSwa-d1e252-Hd1e103" type="question-title">
+          De votis et sacrificiis.
+        </head>
+        <p xml:id="raWSwa-d1e252-d1e106">
+          <lb ed="#P" n="27"/>CAPUT XVI.
+          <lb ed="#P" n="28"/>De votis et sacrificiis.
+        </p>
+        <p xml:id="raWSwa-d1e252-d1e113">
+          <lb ed="#P" n="29"/>Vota nostra Deo debemus. Unde illud : Verete et
+          <lb ed="#P" n="30"/>reddite. ctc. (Psal. Lxxvs). Sed votorum aliqua sunt
+          <lb ed="#P" n="31"/>necessitatis, aliqua spontaneae voluntatis. 
+          Necessi<lb break="no" ed="#P" n="32"/>tatis sunt, quae sunt fidei annexa, cujusmodi in 
+          ba<lb break="no" ed="#P" n="33"/>ptismo facimus, dum nos fidem Christi 
+          observatu<lb break="no" ed="#P" n="34"/>ros, et Satanae operibus plane abrenuntiaturos ;
+          yo<lb break="no" ed="#P" n="35"/>vemns. Sic neccssitatis voto astringimur ad 
+          obser<lb break="no" ed="#P" n="36"/>vationem decem praeceptorum. Atque haec. qujdem
+          <lb ed="#P" n="37"/>vota omnino mutari non possunt, sed perpesuo sun;
+          <lb ed="#P" n="38"/>observanda. Yota spontanea, nonnulla sunt discreta,
+          <lb ed="#P" n="39"/>nonnulla indiscreta. Indiscreta sunt vota puerorum,
+          <lb ed="#P" n="40"/>dum necdurn sua sint potcstatis, sed parentum.
+          <lb ed="#P" n="41"/>Atque hujusmodi licite omitti possunt, si videatur
+          <lb ed="#P" n="42"/>expedire, vel parentibus, in quorum potestate sunt
+          <lb ed="#P" n="43"/>constituti, placuerit contraire. Sic vota mulierum
+          <lb ed="#P" n="44"/>iudiscreta appellantur, cum sunt in potestate 
+          viro<lb break="no" ed="#P" n="45"/>rvn. Yerbi causa: Si aliqua puc:la, quae nondum
+          <lb ed="#P" n="46"/>esset nubilis, et ad annos suae pubertatis adhuc
+          <lb ed="#P" n="47"/>non pervenisset, perpetuam vovisset castitatem, et
+          <lb ed="#P" n="48"/>paulo post parentes eam ut matrimonium 
+          contra<lb break="no" ed="#P" n="49"/>beret cogere vellent, et posset utique nubere, nec 
+          <lb ed="#P" n="50"/>tenerctur voto satisfacere. Sic eodem modo, s: 
+          ali<lb break="no" ed="#P" n="51"/>cujus uxor, marito ignorante, votum fecisset de 
+          llie<lb break="no" ed="#P" n="52"/>rosolymitana profectione, posset maritus cam, si
+          <lb ed="#P" n="53"/>vellet, revocare. quod sub ejus manu sit constituta.
+          <lb ed="#P" n="54"/>Sed contura uxor in eo casu maritum non 
+          revoca<lb break="no" ed="#P" n="55"/>rct, nisi ipse vovisset castitatem. lllud enim neutri
+          <lb ed="#P" n="56"/>illorum permissum est, nisi quatenus in hoc 
+          utri<lb break="no" ed="#P" n="57"/>que consentiant. Alter igitur sine altero castitatem
+          <lb ed="#P" n="58"/>vovere uon potest, nec debet, cum alter alteri 
+          de<lb break="no" ed="#P" n="59"/>Litum persoivere obligetur. Verum ron in hujus-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>modi solum personis votorum indiscretio 
+          intelligi<lb break="no" ed="#P" n="61"/>tur, sed quandoque etiam in provectioribus, et quae
+          <lb ed="#P" n="62"/>omnino liberae sunt, vota fiunt indiscreta, que
+          <lb ed="#P" n="63"/>paena potius digna sunt, quam ut ad effectum 
+          pro<lb break="no" ed="#P" n="64"/>ducerentur. Quale esse potest, si quis illud se 
+          fa<lb break="no" ed="#P" n="65"/>cere voveat quod perficere nullo pacto possit, vel
+          <lb ed="#P" n="66"/>ex quo ita debilem suam efficeret naturam, ut 
+          peri<lb break="no" ed="#P" n="67"/>culum sit, ne oneri succumbat, et sui ipsius occi--
+          <lb ed="#P" n="68"/>sor habeatur. Certe quaecunque vota cum consilie
+          <lb ed="#P" n="69"/>et animi ratione facimus, ca perpetuo sunt 
+          obser<lb break="no" ed="#P" n="70"/>vanda, nec ullo mutanda tempore. Cum autem in
+          <lb ed="#P" n="71"/>lege veteri multiplex agcretur sacrificium, ut in
+          <lb ed="#P" n="72"/>Levitico babetur, in Christianorum seu fidelium
+          <lb ed="#P" n="73"/>Ecclesia unum duntaxat celebratur sacrificium.,
+          <lb ed="#P" n="74"/>scilicet corporis et sanguinis Domini, de quo 
+          quo<lb break="no" ed="#P" n="75"/>niam in sequentibus latius dicturi sumus, cum 
+          offi<lb break="no" ed="#P" n="76"/>cium missae exsequemur, modo supersedeamus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

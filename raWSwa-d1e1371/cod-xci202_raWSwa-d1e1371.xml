@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 108</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 108</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="56"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1371"><!-- raWSwa-c108 -->
+        <head xml:id="raWSwa-d1e1371-Hd1e101">Caput 108</head>
+        <head xml:id="raWSwa-d1e1371-Hd1e103" type="question-title">
+          Quid per cereum paschalem significetur
+        </head>
+        <p xml:id="raWSwa-d1e1371-d1e106">
+          <lb ed="#P" n="52"/>CAPUT CVIII.
+          <lb ed="#P" n="53"/>Quid per cereum paschalem significetur
+        </p>
+        <p xml:id="raWSwa-d1e1371-d1e113">
+          <lb ed="#P" n="54"/>Annotatur quidem in cereo paschali annus ab 
+          In<lb break="no" ed="#P" n="55"/>carnatione Domini. Christus enim antiquus et 
+          ma<lb break="no" ed="#P" n="56"/>gnus annus est, ac dierum plenus, si sumamus 
+          com<lb break="no" ed="#P" n="57"/>putationis nostrae initium a eonceptione, quando B.
+          <lb ed="#P" n="58"/>Maria dixit : Ecce ancilla Domini (Luc. 1). Eo 
+          nam<lb break="no" ed="#P" n="59"/>que dicto statim Christus fuit homo, atque ipsa
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>Spiritu sancto plena. Ideo ergo Christus annus 
+          dici<lb break="no" ed="#P" n="61"/>tur, quod quemadmodum in dierum anno sit 
+          fru<lb break="no" ed="#P" n="62"/>ctuum plenitudo, ita in Christo et fuit, et etiam
+          <lb ed="#P" n="63"/>nunc est omnium bonorum plenitudo et abundantia.
+          <lb ed="#P" n="64"/>Habet enim Christus suos menses, babet suos dics,
+          <lb ed="#P" n="65"/>siquidem duodecim apostoli duodecim menses sunt,
+          <lb ed="#P" n="66"/>et reliqui dies Christiani omnes et fideles, quorum
+          <lb ed="#P" n="67"/>iorae sunt neophyti. Inscribuntur quoque cereo
+          <lb ed="#P" n="68"/>paschali indictio vel aera atque epacta, quoniam
+          <lb ed="#P" n="69"/>actiones omnium et successiones temporum per Dei
+          <lb ed="#P" n="70"/>dispositionem recte disponuntur. Vocabatur autemn
+          <lb ed="#P" n="71"/>indictio antiquitus spatium quindecim annorum,
+          <lb ed="#P" n="72"/>quod ex tribus constat quinquenniis, in quibus orbe
+          <lb ed="#P" n="73"/>triumphato persolvebatur Romanis tributum ex 
+          uni<lb break="no" ed="#P" n="74"/>verso orbe. Primo autem quinquennio solvebatur
+          <lb ed="#P" n="75"/>aurum, secundo argentum, tertio ferrum, ad 
+          confi<lb break="no" ed="#P" n="76"/>cienda arma, et aes ad ornandam civitatem. Et sic
+          <lb ed="#P" n="77"/>singula quinquennia illius spatii quindecim 
+          anno<lb break="no" ed="#P" n="78"/>rum similiter appellabantur indictio. Finitis autem
+          <lb ed="#P" n="79"/>quindecim annis revertebatur tributorum indictio,
+          <lb ed="#P" n="80"/>ut prius, quae quod ita tribus lustris indicebatur,
+          <lb ed="#P" n="81"/>sic dicta est. Appellatum item est tributum hoc aera
+          <lb ed="#P" n="82"/>aerae, quod eodem modo singulis annis omnis orbis
+          <lb ed="#P" n="83"/>reipublice Romanae quodcunque genus aeris 
+          per<lb break="no" ed="#P" n="84"/>solvere professus fuerat. Prius ergo fuerunt 
+          in<lb break="no" ed="#P" n="85"/>dictiones, et postea arae, ob es, aris sic dictae.
+          <lb ed="#P" n="86"/>Ad cujus tandem nomenclaturam accessit epacta,
+          <lb ed="#P" n="87"/>quod additionem significat a Graeco verbo inae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

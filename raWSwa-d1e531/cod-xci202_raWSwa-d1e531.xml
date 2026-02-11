@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 39</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 39</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="24"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e531"><!-- raWSwa-c39 -->
+        <head xml:id="raWSwa-d1e531-Hd1e101">Caput 39</head>
+        <p xml:id="raWSwa-d1e531-d1e103">
+          <pb ed="#P" n="24"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>CAPUT XXXIX.
+          <lb ed="#P" n="2"/>De evangelio.
+        </p>
+        <p xml:id="raWSwa-d1e531-d1e114">
+          <lb ed="#P" n="3"/>Finita sequentia legitur evangelium, quod 
+          tri<lb break="no" ed="#P" n="4"/>plicem habet inchoationem; vel per Initium sancti
+          <lb ed="#P" n="5"/>Evanpnelii , sicut in principio quatuor 
+          Evangelio<lb break="no" ed="#P" n="6"/>rum ; vel per In illo tempore ; vel per aliam 
+          deter<lb break="no" ed="#P" n="7"/>minationem regiae aut alterius alicujus magnae 
+          po<lb break="no" ed="#P" n="8"/>testatis , ut, Fuit in diebus Herodis ( Luc. 1), et,
+          <lb ed="#P" n="9"/>Anno decimo quinto imperii Tiberii Casaris ( Luc.
+          <lb ed="#P" n="10"/>iu ). Dicitur autem Evangelium ab «3 bene, eyye)oc
+          <lb ed="#P" n="11"/>uuntius , quasi dicatur bonum et laetum nuntium.
+          <lb ed="#P" n="12"/>lroinde vero Evangelium aliquando esse dicitur
+          <lb ed="#P" n="13"/>secundum historiam , quandoque secundum 
+          allego<lb break="no" ed="#P" n="14"/>riam , quandoque secundurn personan , quandoque
+          <lb ed="#P" n="15"/>sccundum partem, et quandoque etiam secundum
+          <lb ed="#P" n="16"/>totum. Secundum historiam, ut illud : Maria 
+          Mag<lb break="no" ed="#P" n="17"/>dulena et Maria Jacobi et Salome, etc. ( Marc. xvi),
+          <lb ed="#P" n="18"/>atque illud etiam quod cantatur in natali Domini
+          <lb ed="#P" n="19"/>ad secundam missam de pastoribus. Secundum 
+          at<lb break="no" ed="#P" n="20"/>legoriam cujusmodi illud quod in assumptione B.
+          <lb ed="#P" n="21"/>Mariae legi consuctum est de Maria Magdalena et
+          <lb ed="#P" n="22"/>ejus sorore, Martha, nimirum: Intravit Jesus in
+          <lb ed="#P" n="23"/>quoddam castellum, ctc. ( Luc. x), quia cum per 
+          Ma<lb break="no" ed="#P" n="24"/>riam Magdalenam vita significetur contemplativa,
+          <lb ed="#P" n="25"/>Per Martbam vero, quae administrabat , vita activa;
+          <lb ed="#P" n="26"/>hoc evangelio docetur in B. Maria Virgine 
+          utrius<lb break="no" ed="#P" n="27"/>que vitae fuisse consummationem , coutemplativae
+          <lb ed="#P" n="28"/>scilicet et activae. Secundum personam 
+          Evangc<lb break="no" ed="#P" n="29"/>lium canitur, ut in festo B. Thomae apostoli, ubi
+          <lb ed="#P" n="30"/>dicitur Thomas unus de duodecim, etc. (Joan. xx).
+          <lb ed="#P" n="31"/>Secundum partem, quemadmodum est in festo S.
+          <lb ed="#P" n="32"/>Crucis. Tum enim illud recitatur evangelium,
+          <lb ed="#P" n="33"/>quod est de Nicodemo propter ejus extremam 
+          par<lb break="no" ed="#P" n="34"/>ticulam , quae ejusmodi esi : Sicut Moyses exaltavit
+          <lb ed="#P" n="35"/>serpentem in deserto, ita exaltari oportet Filium 
+          ho<lb break="no" ed="#P" n="36"/>minis (Joan. u). In hoc autem verbo Chrristus suam
+          <lb ed="#P" n="37"/>indicavit passionem, et sui corporis in cruce 
+          exal<lb break="no" ed="#P" n="38"/>tationem. Quocirca evangelium hoc in quo haec
+          <lb ed="#P" n="39"/>continetur particula , legitur in festo Sanctae 
+          Cru<lb break="no" ed="#P" n="40"/>cis. Secundum totum denique, cujusinodi est 
+          exi<lb break="no" ed="#P" n="41"/>guum illud quod in circumcisione Domini 
+          obser<lb break="no" ed="#P" n="42"/>vatur : Postquam consummati sunt dies octo (Luc. n).
+          <lb ed="#P" n="43"/>Animadvertendum ergo hic est quod diebus 
+          pro<lb break="no" ed="#P" n="44"/>festis una duntaxat candela cerea praecedat 
+          dia<lb break="no" ed="#P" n="45"/>conum , cum ad legendum evangelium aceedit. Nec
+          <lb ed="#P" n="46"/>id quidem injuria, cum per illud primus Christi
+          <lb ed="#P" n="47"/>aignificetur adventus, qui humilis fuit et occultus,
+          <lb ed="#P" n="48"/>et quem praevenit unus tantum praecursor, vidclicet
+          <lb ed="#P" n="49"/>Joannes Daptista, qui fuit verbi lucerna. Festis vcro
+          <lb ed="#P" n="50"/>dicbus candcke duae praecedunt ccerea, quod in
+          <lb ed="#P" n="51"/>secundo adventu, cui solemnis erit et manifestus,
+          <lb ed="#P" n="52"/>duo sint praemittendi praecursorcs, Flias scilicet
+          <lb ed="#P" n="53"/>et Enoch. Vel ideo etiam quoniam Dominus ante
+          <lb ed="#P" n="54"/>faciem suam binos conjunctim misit discipulos ad
+          <lb ed="#P" n="55"/>praedicandum. lllud quoque diligenter notandum
+          <lb ed="#P" n="56"/>est , quod simul atque evangclium inchoatur, 
+          uni<lb break="no" ed="#P" n="57"/>veraus populus, tam clerici quam laici, tam qui
+          <lb ed="#P" n="58"/>ilud profert quam qui audit, crucis signum 
+          im<lb break="no" ed="#P" n="59"/>primere debeat in fronte, in ore et in pectore. In
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>fronte, quod locus sit pudoris et verecundis : unde
+          <lb ed="#P" n="61"/>impudicos homines effrontes dicimus, quasi sine
+          <lb ed="#P" n="62"/>fronte. Per hoc ergo quod fronti signum crucis
+          <lb ed="#P" n="63"/>imponimus , evidenter ostendimus nos non 
+          erube<lb break="no" ed="#P" n="64"/>scere , quod credamus in Cruciflxum, et eum, 
+          ha<lb break="no" ed="#P" n="65"/>bemus Deum et Dominum qui a Judaeis atque 
+          eth<lb break="no" ed="#P" n="66"/>nicis nobis exprobratur. Unde mehercle Apostolus :
+          <lb ed="#P" n="67"/>Nos antem pradicamus Christum crucifixsum, 
+          Ju<lb break="no" ed="#P" n="68"/>dais quidem scandalum , gentibus vero staltitiam
+          <lb ed="#P" n="69"/>(I Cor. 1). In ore autem ideo, ut significemus nos
+          <lb ed="#P" n="70"/>audacter crucem Domini praedicare. Denique in
+          <lb ed="#P" n="71"/>pectore, ob eam causam quo nos paratos esse pro
+          <lb ed="#P" n="72"/>Christi nomine pati ingenue ostendamus. Rursus in
+          <lb ed="#P" n="73"/>hoc quod os et pectus cruce signamus, aperte 
+          in<lb break="no" ed="#P" n="74"/>nuimus hos audacter ore fateri et corde credere
+          <lb ed="#P" n="75"/>Christum crucifixum, cujus liber legitur, Deum ect
+          <lb ed="#P" n="76"/>Dominum nostrum esse.
+        </p>
+        <p xml:id="raWSwa-d1e531-d1e279">
+          <lb ed="#P" n="77"/>Sacerdos itaque, vel diaconus, cvangelium 
+          lectu<lb break="no" ed="#P" n="78"/>rus signat se in ore, fronte et pectore, quasi 
+          di<lb break="no" ed="#P" n="79"/>cat: Non erubesco crucem Domini, sed eam ore
+          <lb ed="#P" n="80"/>praedico et corde credo. Libro quoque crucem 
+          im<lb break="no" ed="#P" n="81"/>primit, tanquam si dixerit : hic est liber Crucifixi.
+          <lb ed="#P" n="82"/>Posset autem hoc loco quaeri quemadmodum crucis
+          <lb ed="#P" n="83"/>signum fieri dcbeat, a dextrane in sinistram, an
+          <lb ed="#P" n="84"/>vero a sinistra in dextram. Ac nonnulli quiden
+          <lb ed="#P" n="85"/>sunt qui crucem a ainistra in dextram fieri velint,
+          <lb ed="#P" n="86"/>atque ex hujusmodi versu sumpserunt 
+          auctorita<lb break="no" ed="#P" n="87"/>tem : Egressus est a Patre, etc. (Joan. xvi). A 
+          Pa<lb break="no" ed="#P" n="88"/>tre venit Filius in mundum, et ideo crucem 
+          in<lb break="no" ed="#P" n="89"/>choamus a parte superiori, per quam designatur
+          <lb ed="#P" n="90"/>Pater. Sed quod a parte absque ulla intercapeding
+          <lb ed="#P" n="91"/>in mundum venit, per quem sinistram partem 
+          in<lb break="no" ed="#P" n="92"/>telligimus, ideo postquam a superiori parte 
+          dcscen<lb break="no" ed="#P" n="93"/>dimus , statim a sinistra in dextram pcergimus;
+          <lb ed="#P" n="94"/>nam et postea ad partem ascendit, quod designat
+          <lb ed="#P" n="95"/>dextera, Alii vero putant quod a dextra in 
+          sini<lb break="no" ed="#P" n="96"/>stram fieri debeat , quia Christus a dextra in 
+          sini<lb break="no" ed="#P" n="97"/>stram, id est a Patre veniens, diabolum per crucem
+          <lb ed="#P" n="98"/>repulit, qui per sipistram significatur.
+        </p>
+        <p xml:id="raWSwa-d1e531-d1e329">
+          <lb ed="#P" n="99"/>Dicto igitur evangelii titulo, respondetur ab 
+          em<lb break="no" ed="#P" n="100"/>nibus : Gloria tibi, Domine. Proposito namque 
+          cvan<lb break="no" ed="#P" n="101"/>gelio ad legendum, in quo agitur de gloria partim
+          <lb ed="#P" n="102"/>Dei, partim nostra, quatenus videlicet Christus
+          <lb ed="#P" n="103"/>diabolum vicit, ac nos redemit, et victor ad Patris
+          <lb ed="#P" n="104"/>gloriam ascendit ; auditores Evangelii letantes ad
+          <lb ed="#P" n="105"/>laudem sui Creatoris inquiunt atque exclamant,
+          <lb ed="#P" n="106"/>Cloria tibi, Domine; quasi dicant : Gloria tua, quae
+          <lb ed="#P" n="107"/>nobis in hec cvangelio praedicatur, in aevum nobis
+          <lb ed="#P" n="108"/>sine fine permaneat, semperque crescat et 
+          augea<lb break="no" ed="#P" n="109"/>tur. Lecto jam evangelio, quisque dicere debet,
+          <lb ed="#P" n="110"/>Amen. Vel ut alii volunt, recitato evangcelio, 
+          sta<lb break="no" ed="#P" n="111"/>tim dicamus oportet, Deo gratias, quemadmodum
+          <lb ed="#P" n="112"/>post quamlibet lectionem sive capitulum. Sed 
+          me<lb break="no" ed="#P" n="113"/>lius est ut dicatur, Amen, ac nos cruce contra
+          <lb ed="#P" n="114"/>diabolum muniamus , ne ipse sermones Domini ex.
+          <lb ed="#P" n="115"/>pectore nostro rapiat. Necessarium etiam plane est,
+          <lb ed="#P" n="116"/>ut, dum legitur evangelium, velamina capitum
+          <lb ed="#P" n="117"/>deponantur. Evangclica enim praedicatio omnia 
+          le<lb break="no" ed="#P" n="118"/>gis velamina dimovit , atque homines, qui prius Do-
+          <pb ed="#P" n="25"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>misum ih aenigmate quodammodo et quasi per
+          <lb ed="#P" n="2"/>ransennam videbant , modo ipsam veritatem aperta
+          <lb ed="#P" n="3"/>legis cognitione videre et intelligerc fecit. Viri 
+          ita<lb break="no" ed="#P" n="4"/>que aperto capite evangclium audire debent, ut
+          <lb ed="#P" n="5"/>quinque sensus ad audiendum magis fiant idonci.
+          <lb ed="#P" n="6"/>Inde est quod clerici non nutriant longos capillos,
+          <lb ed="#P" n="7"/>sed alte tonsos, ut rectius ac perfectivs possint 
+          au<lb break="no" ed="#P" n="8"/>dire. Verum eniunvero propterea coronam habent,
+          <lb ed="#P" n="9"/>vt demonstretur inter eos et Dominum nullum esse
+          <lb ed="#P" n="10"/>medium. Non ergo longos habeant capillos clerici,
+          <lb ed="#P" n="11"/>si per longitudinem capillorum significetur 
+          multi<lb break="no" ed="#P" n="12"/>tudo peccatorum. Mulieres vero debent audire
+          <lb ed="#P" n="13"/>evangelium tecto ac velato capite, ctiamsi sit 
+          vir<lb break="no" ed="#P" n="14"/>go, propter pomum vretitum. Ft si cveniat ut virgo
+          <lb ed="#P" n="15"/>capite sit aperto, aut velamen non habeat, necesse
+          <lb ed="#P" n="16"/>est ut mater aut quaevis alia mulier capiti ejus
+          <lb ed="#P" n="17"/>panuum svcl simile quidpiam imponat. ltemque
+          <lb ed="#P" n="18"/>erecti starc debemus, doncc cvangelium 
+          pronun<lb break="no" ed="#P" n="19"/>tietur, aut capite inclinato, si modo non 
+          sedea<lb break="no" ed="#P" n="20"/>mus , nisi cogcnte nceccessitate. In lege quidem
+          <lb ed="#P" n="21"/>pcipiebatur ut , dum comederent agnum 
+          pascha<lb break="no" ed="#P" n="22"/>lem, baculos in manibus tencrent (Exod. xn);
+          <lb ed="#P" n="23"/>mes vero, diacono legente cvangelium , baculos
+          <lb ed="#P" n="24"/>deponimus , quod Christo praedicante legales 
+          ob<lb break="no" ed="#P" n="25"/>servantiae sint depositae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

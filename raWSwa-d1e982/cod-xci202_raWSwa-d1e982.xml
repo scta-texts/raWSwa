@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 76</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 76</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="41"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e982"><!-- raWSwa-c76 -->
+        <head xml:id="raWSwa-d1e982-Hd1e101">Caput 76</head>
+        <head xml:id="raWSwa-d1e982-Hd1e103" type="question-title">
+          De Dominica post octavas Epiphaniae.
+        </head>
+        <p xml:id="raWSwa-d1e982-d1e106">
+          <lb ed="#P" n="22"/>CAPUT LXXVI.
+          <lb ed="#P" n="23"/>De Dominica post octavas Epiphaniae.
+        </p>
+        <p xml:id="raWSwa-d1e982-d1e113">
+          <lb ed="#P" n="24"/>Dominica post octavas Epiphania canitur : Omnis
+          <lb ed="#P" n="25"/>terra adoret te (Psal. Lxv). Quare autem hoc fiat,
+          <lb ed="#P" n="26"/>raiionem tradunt hujusmodi : Cum enim Augustus
+          <lb ed="#P" n="27"/>universo orbi imperaret ad gloriam Romani imperii,
+          <lb ed="#P" n="28"/>bujusmodi edictum proposuit et promulgavit ut
+          <lb ed="#P" n="29"/>quoque anno e singulis mundi civitatibus Romam
+          <lb ed="#P" n="30"/>aliquis veniret, tantum terrae secum afferens 
+          quan<lb break="no" ed="#P" n="31"/>tum complexu pugni comprehendere posset. Quod
+          <lb ed="#P" n="32"/>quidem ideo factum est, ut per hoc certo atque 
+          evi<lb break="no" ed="#P" n="33"/>denter constaret omnes subjectos esse Romano 
+          im<lb break="no" ed="#P" n="34"/>perio. Sed postea cum enx illa terra factus esset
+          <lb ed="#P" n="35"/>quasi monticulus quidam, in hoc a Romanis ad
+          <lb ed="#P" n="36"/>fidem conversis, Ecclesia in honorem Dei fundata
+          <lb ed="#P" n="37"/>est illa Dominica. Ad cujus dedicationem Christiani
+          <lb ed="#P" n="38"/>ex diversis regionibus convenerunt. Quia ergo ex
+          <lb ed="#P" n="39"/>omni terra factus est monticulus ille in quo 
+          hujus<lb break="no" ed="#P" n="40"/>modi Ecclesia sit collata, ideo in dedicationibus
+          <lb ed="#P" n="41"/>illius diei cantatur officium, Omnis terra adoret
+          <lb ed="#P" n="42"/>te, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

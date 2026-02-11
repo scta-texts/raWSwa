@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 20</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 20</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="16"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e300"><!-- raWSwa-c20 -->
+        <head xml:id="raWSwa-d1e300-Hd1e101">Caput 20</head>
+        <head xml:id="raWSwa-d1e300-Hd1e103" type="question-title">
+          De ipso officio.
+        </head>
+        <p xml:id="raWSwa-d1e300-d1e106">
+          <lb ed="#P" n="56"/>CAPUT XX.
+          <lb ed="#P" n="57"/>De ipso officio.
+        </p>
+        <p xml:id="raWSwa-d1e300-d1e113">
+          <lb ed="#P" n="58"/>His ita consideratis operae pretium est ut ipsum
+          <lb ed="#P" n="59"/>elcium persequamnur, ordienies ab officio noctis.
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>Hic enim ordo aptus et conveniens est, nea luce
+          <lb ed="#P" n="61"/>ad tenebras veniamus, sed potius a tenebris 
+          pro<lb break="no" ed="#P" n="62"/>deamus ad lucem. Sciendum igitur est olim 
+          tem<lb break="no" ed="#P" n="63"/>pore primitivae Ecclesiae usu receptum fuisse ut
+          <lb ed="#P" n="64"/>nocte ter surgeretur ad divinum officium 
+          celebran<lb break="no" ed="#P" n="65"/>dum : primo circa primum somnum habita ratione
+          <lb ed="#P" n="66"/>ejus temporis, quo vulgus se quieti dare consuevit;
+          <lb ed="#P" n="67"/>secundo circiter mediam noctem; tertio paulo 
+          an<lb break="no" ed="#P" n="68"/>te diem, hoc nimirum ordine, ut cum nocturni
+          <lb ed="#P" n="69"/>finiti essent, et lectiones cum suis responsoriis
+          <lb ed="#P" n="70"/>perlectae , priusquam lucesceret aurora apparente,
+          <lb ed="#P" n="71"/>cum pulsu campanarum decantarent Te Deum 
+          lau<lb break="no" ed="#P" n="72"/>damus , et sic deinceps laudes matutinas. Ad 
+          pri<lb break="no" ed="#P" n="73"/>mam nocturnam surgebant tantum ministri 
+          Eccle<lb break="no" ed="#P" n="74"/>siae, qui cum tempestivius ivissent cubitum, jam
+          <lb ed="#P" n="75"/>dormierant. Sed quoniam frequenter hoc nocturnae
+          <lb ed="#P" n="76"/>vocabulo utimur, non incommode fecerimus, si quid
+          <lb ed="#P" n="77"/>per illud significetur exposucrimus. Accipitur ergo
+          <lb ed="#P" n="78"/>nocturna nocturnae pro hora, et nocturna 
+          noctur<lb break="no" ed="#P" n="79"/>norum pro ipsis officiis. Vel nocturna noeturna
+          <lb ed="#P" n="80"/>psalmi appellantur , qui Dominicis diebus dicuntur,
+          <lb ed="#P" n="81"/>antequam recitantur leetiones. Similiter etiam ;.li,
+          <lb ed="#P" n="82"/>qui diebus profestis dicuntur, ut in secunda feria:
+          <lb ed="#P" n="83"/>Dominus illuminatio (Psal. xxvi), atque itade 
+          reli<lb break="no" ed="#P" n="84"/>quis. Nocturnae nocturnarum, dicuntur tempora
+          <lb ed="#P" n="85"/>quibus psalmi cantantur. Nocturni nocturhorum,
+          <lb ed="#P" n="86"/>vocantur novem psalmi, et novem lectiones cum
+          <lb ed="#P" n="87"/>suis responsis.
+        </p>
+        <p xml:id="raWSwa-d1e300-d1e183">
+          <lb ed="#P" n="88"/>Nunc igitur pergamus. In solemnitatibus ad 
+          se<lb break="no" ed="#P" n="89"/>cundam nocturnam pariter surgebant ministri et
+          <lb ed="#P" n="90"/>conjugati , tam viri quam mulieres. Ad tertiam
+          <lb ed="#P" n="91"/>tandem nocturnam communiter surgebant omnes.
+          <lb ed="#P" n="92"/>Sed postea charitate erga Deum algescente, cum
+          <lb ed="#P" n="93"/>féttor ille cultus divini in hominibus tepesceret,
+          <lb ed="#P" n="94"/>jta ut jam pigriores essent, quam ut statis illis 
+          ho<lb break="no" ed="#P" n="95"/>ris qd pfücium nocturnum surgerent tam ministri
+          <lb ed="#P" n="96"/>kedesi quam caeteri, consultum est, ut media
+          <lb ed="#P" n="97"/>"saltem nocte omnes surgerent, juxta illud Prophetae
+          <lb ed="#P" n="98"/>Media nocte surgebam, etc. (Psal. cxxun), atque
+          <lb ed="#P" n="99"/>ita tum continuo integrum noctis officium 
+          absol<lb break="no" ed="#P" n="100"/>verent. Quod quidem etiam nunc plerique 
+          religio<lb break="no" ed="#P" n="101"/>sorum conventus .observant. Verum et haec 
+          insti<lb break="no" ed="#P" n="102"/>tutio brevi abiit in desuetudinem, cum jam 
+          convi<lb break="no" ed="#P" n="103"/>viis et luxui magis vacabant, quam Dcei servitio.
+          <lb ed="#P" n="104"/>Quapropter iterum aliter statutum fuit, ut vel 
+          tem<lb break="no" ed="#P" n="105"/>pore nocturna ultimae universi circa diei 
+          crepu<lb break="no" ed="#P" n="106"/>sculum surgerent. Nunc autem ceo divini cultus 
+          ra<lb break="no" ed="#P" n="107"/>tio demersa est, ut citius surgant pueri quam
+          <lb ed="#P" n="108"/>ministri Ecclesiz, et prius cantent passeres quam
+          <lb ed="#P" n="109"/>saccrdotes. Adeo amor ille Dei in hominibus penitus
+          <lb ed="#P" n="110"/>refrixit. In memoriam et recordationem prinae illius
+          <lb ed="#P" n="111"/>tam laudabilis consuetudinis, etiamnum ecclesia
+          <lb ed="#P" n="112"/>estivali tempore nocturnum officium celebrat ,
+          <lb ed="#P" n="113"/>tempore nimirum primae nocturne, quod nos
+          <lb ed="#P" n="114"/>vigilias vocamus, tametsi vero aliquando 
+          tempe<lb break="no" ed="#P" n="115"/>stivius. Fit autem illud dupl;ci nomine. vel ad 
+          vetc<lb break="no" ed="#P" n="116"/>rum commendationem , vel ad nostram ipsius 
+          cx<lb break="no" ed="#P" n="117"/>hortationem , ut videlicet sciamus quam illi esscrt
+          <lb ed="#P" n="118"/>sobrii in officiis nocturnis tempore hiemali , quos
+          <pb ed="#P" n="17"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cum ter quaque nocte surgerent , brevitas noctis
+          <lb ed="#P" n="2"/>arstivalis , haudquaquam tardabat. Quotus autem
+          <lb ed="#P" n="3"/>quisque nostrum est, qui jam sole radiante ad itiud
+          <lb ed="#P" n="4"/>officium alacriter surgere queat? Usque adeo hic
+          <lb ed="#P" n="5"/>sponsi videmur Penelopes, nati in medios dormire
+          <lb ed="#P" n="6"/>dies. Sed quid dico de officio nocturno? Quot sunt
+          <lb ed="#P" n="7"/>numero , qui diurnum recte curent officium? Certe,
+          <lb ed="#P" n="8"/>si quod res est, loqui liceat, admodum pauci. 
+          Ve<lb break="no" ed="#P" n="9"/>rum pe quis dubitet quibus festis vetus illa 
+          obser<lb break="no" ed="#P" n="10"/>vetur consuetudo, sciendum est in tribus illis 
+          vi<lb break="no" ed="#P" n="11"/>giliis. scilicet Joannis Baptistae , Petri et Pauli, et
+          <lb ed="#P" n="12"/>Ass smptionis B. Marise. Quoniam hae sunt peraecipuae
+          <lb ed="#P" n="13"/>solemnitates , quas in estate habemus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

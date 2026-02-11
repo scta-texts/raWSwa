@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 104</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 104</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="55"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1322"><!-- raWSwa-c104 -->
+        <head xml:id="raWSwa-d1e1322-Hd1e101">Caput 104</head>
+        <head xml:id="raWSwa-d1e1322-Hd1e103" type="question-title">
+          De nudatione altaris
+        </head>
+        <p xml:id="raWSwa-d1e1322-d1e106">
+          <lb ed="#P" n="5"/>CAPUT CIV.
+          <lb ed="#P" n="6"/>De nudatione altaris
+        </p>
+        <p xml:id="raWSwa-d1e1322-d1e113">
+          <lb ed="#P" n="7"/>Sequitur de nudatione altaris, quae pars est in
+          <lb ed="#P" n="8"/>ecclesia dignior, usque adeo, ut si altare 
+          removea<lb break="no" ed="#P" n="9"/>tur, ac rursus aedificetur tota ecclesia, iterum sit
+          <lb ed="#P" n="10"/>consecranda. Verum contra, etiam si ecclesia 
+          remo<lb break="no" ed="#P" n="11"/>veatur , boc est pars ejus aliqua aut plures, altari
+          <lb ed="#P" n="12"/>immoto, ecclesia non consecratur, sed alia 
+          sancti<lb break="no" ed="#P" n="13"/>beatione mundatur. Altare enim Christum significat.
+          <lb ed="#P" n="14"/>Praecepit namque Deus in lege : Altare de terra 
+          fa<lb break="no" ed="#P" n="15"/>cietis mihi (Exod. xx). Altare de terra est Christus
+          <lb ed="#P" n="16"/>natus de Virgine. Unde dicitur : Veritas de terra
+          <lb ed="#P" n="17"/>orta est (Psal. vxxxw). Haec est terra quae dedit
+          <lb ed="#P" n="18"/>fructum suum , fructum sublimem, Christum 
+          vide<lb break="no" ed="#P" n="19"/>licet sublimatum super choros angelorum in calis.
+          <lb ed="#P" n="20"/>Nudatio ergo altaris declarat qued Christus in 
+          pas<lb break="no" ed="#P" n="21"/>sione sua denudatus visus sit, et despoliatus illis
+          <lb ed="#P" n="22"/>signis quibus ante in faciendis miraculis 
+          apparue<lb break="no" ed="#P" n="23"/>rat gloriosus , cum solus vendentes atque ementes
+          <lb ed="#P" n="24"/>e templo ejecerat, facie ejus splendoris radios 
+          emit<lb break="no" ed="#P" n="25"/>tente. Qui enim prius tam potens tam gloriosus
+          <lb ed="#P" n="26"/>apparuerat, modu in passione visus est debilis et
+          <lb ed="#P" n="27"/>abjectus. Unde Isaias: Vidimus, inquit, eum non
+          <lb ed="#P" n="28"/>babentem speciem neque decorem (Isa. vu); et 
+          Hila<lb break="no" ed="#P" n="29"/>rius : « Ante, ait, passionem apparuit Deus et homo,
+          <lb ed="#P" n="30"/>in passione totus homo, post passionem totus Deus.»
+          <lb ed="#P" n="31"/>Vel etiam altaris nudatio repraesentat ipsam ac 
+          ve<lb break="no" ed="#P" n="32"/>ram Christi nudationem, quando milites eum 
+          spo<lb break="no" ed="#P" n="33"/>liaverunt, et ejus vestimenta partim sunt partiti,
+          <lb ed="#P" n="34"/>npartim sortitione abalienarunt. Aut certe vestem
+          <lb ed="#P" n="35"/>Christi apostolos esse dicimus, quibus Christus 
+          tan<lb break="no" ed="#P" n="36"/>quam vestibus quibusdam ornabatur, et per quos
+          <lb ed="#P" n="37"/>nomen illius erat magnificatum. Altare igitur 
+          nuda<lb break="no" ed="#P" n="38"/>tur quoniam Christus a suis discipulis fugientibus,
+          <lb ed="#P" n="39"/>et nomen ejus tacentibus, relinquitur. Proinde 
+          vi<lb break="no" ed="#P" n="40"/>num et aqua quibus altare lavatur significant 
+          san<lb break="no" ed="#P" n="41"/>guinem redemptionis nostrae et aquam 
+          regeneratio<lb break="no" ed="#P" n="42"/>nis, quae ex latere Christi fluxerunt, quando latus
+          <lb ed="#P" n="43"/>ejus lancea fuit apertum. Altare ergo abluitur, quia
+          <lb ed="#P" n="44"/>corpus Christi verum altare, sanguine et aqua in
+          <lb ed="#P" n="45"/>cruce aspersum fuisse creditur. Rami autem asperi
+          <lb ed="#P" n="46"/>quibus altare fricatur, significant spineam coronam,
+          <lb ed="#P" n="47"/>qua coronatus est Christus, aut flagella amara, et
+          <lb ed="#P" n="48"/>ictuum vibices , et graves dolores quos in morte
+          <lb ed="#P" n="49"/>sustipuit. Sunt ideu rami hispidi sicut rami taxi,
+          <lb ed="#P" n="50"/>quibus pavimentum mundatur, quod nos debeamus
+          <lb ed="#P" n="51"/>vitiis mundari, et in eleemosynis pauperibus 
+          provi<lb break="no" ed="#P" n="52"/>dere, quatenus bhi sint, qui nos in aeterna 
+          taberna<lb break="no" ed="#P" n="53"/>cula recipiant. Ipsorum enim est regnum caelorum,
+          <lb ed="#P" n="54"/>quod intelligendum est de pauperibus bonae 
+          volun<lb break="no" ed="#P" n="55"/>tatis, sive spiritus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

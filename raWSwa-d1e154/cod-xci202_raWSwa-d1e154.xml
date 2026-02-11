@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 8</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 8</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="10"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e154"><!-- raWSwa-c8 -->
+        <head xml:id="raWSwa-d1e154-Hd1e101">Caput 8</head>
+        <head xml:id="raWSwa-d1e154-Hd1e103" type="question-title">
+          De jejunio.
+        </head>
+        <p xml:id="raWSwa-d1e154-d1e106">
+          <lb ed="#P" n="81"/>CAPUT VIII.
+          <lb ed="#P" n="82"/>De jejunio.
+        </p>
+        <p xml:id="raWSwa-d1e154-d1e113">
+          <lb ed="#P" n="83"/>Nunc videndum est quid sit jejunium, unde dica
+          <lb ed="#P" n="84"/>tur, de auctoritate et laude, sive commendationg
+          <lb ed="#P" n="85"/>jejunii, atque cjus multiplici distinctione. Primum
+          <lb ed="#P" n="86"/>sauc pertinct ad dcefinitionem, alterum ad 
+          interpre<lb break="no" ed="#P" n="87"/>sationem sivc origincm, tertium ad con(irmationem,
+          <lb ed="#P" n="88"/>quartum ad amorem, quintum denique ad 
+          cognitio<lb break="no" ed="#P" n="89"/>nem. Jejunium est cemmunis omnium membrorum
+          <lb ed="#P" n="90"/>satisfactio, ut scilicet membra. satisfaciant pro
+          <lb ed="#P" n="91"/>peccatis, quae admiserunt, ut si gula peceavit, 
+          jeju<lb break="no" ed="#P" n="92"/>net ac suflicit. Qui solus est in culpa, solus sit in
+          <lb ed="#P" n="93"/>poena. Si oculus similiter. Unde Jercmias : Oculus
+          <lb ed="#P" n="94"/>depradatus est animam meam (Thren. un. Ft : Per
+          <lb ed="#P" n="95"/>[enestras oculorum meorum mors intrarit in animam
+          <lb ed="#P" n="96"/>meam (Jer. ix). Sic Augustinus : « Oculo nihil 
+          nc<lb break="no" ed="#P" n="97"/>qnuius. » Potest autem dici jejunium a jcjunio, quod
+          <lb ed="#P" n="98"/>eat intcstinum quoddam, ut inquiunt anatomici,
+          <lb ed="#P" n="99"/>quod in homine mortuo prorsus vacuum reperitur.
+          <lb ed="#P" n="100"/>Nam et nos itidem cum jejunamus a vitiis omnino
+          <lb ed="#P" n="101"/>vacui esse debemus, idque tam in arimo, quam in
+          <lb ed="#P" n="102"/>corporc. Unde plenius profecto Augustinus super
+          <lb ed="#P" n="103"/>Jounnem jiunium definit hoc modo: « Magnum et
+          <lb ed="#P" n="104"/>geucrale est jejunium ab iniquitatibus et carnalibus
+          <lb ed="#P" n="105"/>voluptatibus abstinere. » lloc enim jejunium 
+          omni<lb break="no" ed="#P" n="106"/>hus numcris est perfectum et absolutum. Cui non
+          <lb ed="#P" n="107"/>absimile est quod Paulus ait : Sobrie, et pie, et juste
+          <lb ed="#P" n="108"/>vivamns in hoc saculo (Tit. n).
+        </p>
+        <p xml:id="raWSwa-d1e154-d1e172">
+          <lb ed="#P" n="109"/>Nam quod, ut sobrie vivamus, inquit, ad nos
+          <lb ed="#P" n="110"/>plane pertinet ; quod pie, ad Dominum ; quod juste,
+          <lb ed="#P" n="111"/>ad proximum. llinc p.etas est cultus Deo exhibitus,
+          <lb ed="#P" n="112"/>cum quo velut cx adverso pugnat impictas sive 
+          ido<lb break="no" ed="#P" n="113"/>lolatria. Quare multi in hoc vocabulo pietatis 
+          er<lb break="no" ed="#P" n="114"/>rant, dum in eo vulgo assentiuntur, quod ille dicatur
+          <lb ed="#P" n="115"/>pius, qui e suis bonis libens pauperibus quidpiam
+          <lb ed="#P" n="116"/>partiatur; contra ille impius, qui quae pauperum
+          <lb ed="#P" n="117"/>sunt, ad sc rapit. Verum ne diutius quadam 
+          simili<lb break="no" ed="#P" n="118"/>tudinc labamur, et vitia impictati confinia, et vir-
+          <pb ed="#P" n="11"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tutes, quae pietatis nomini non obscure videntur A
+          <lb ed="#P" n="2"/>respondere, breviter describemus. Muitum sane 
+          in<lb break="no" ed="#P" n="3"/>terest inter flagitium, facinus atque impictatem.
+          <lb ed="#P" n="4"/>Nam flagitium in nobismetipsis est; facvinus vero
+          <lb ed="#P" n="5"/>committitur in proximum, et impietas in Dcum. Sic
+          <lb ed="#P" n="6"/>quoque magnum statuitur discrimen inter 
+          miscri<lb break="no" ed="#P" n="7"/>cordiam , clementiam et pietatem, Ut enim 
+          niiseri<lb break="no" ed="#P" n="8"/>cordia maxime versatur circa naturam, sic 
+          clemen<lb break="no" ed="#P" n="9"/>tiam esse dicimus erga justitiam, pietatem erga
+          <lb ed="#P" n="10"/>Deum. Verbi gratia, misericordia est, si quis ad
+          <lb ed="#P" n="11"/>supplicium aliquem juste damnatum duci vidcat,
+          <lb ed="#P" n="12"/>cui ita natura inclinatione compatitur ac 
+          commovc<lb break="no" ed="#P" n="13"/>tur, ut ipsum a supplicip liberet. Quemadmodum
+          <lb ed="#P" n="14"/>etiam dicitur misericordia, si quod paupcri est 
+          suf<lb break="no" ed="#P" n="15"/>furatum, ipsi restituimus. At vero clementia est, si
+          <lb ed="#P" n="16"/>quem injuste punitum viderimus, et nos periculis |
+          <lb ed="#P" n="17"/>objecerimus, ut per vim illum eripiamus. Pietas
+          <lb ed="#P" n="18"/>demum est colere Dcum, idque cx mero amorc,
+          <lb ed="#P" n="19"/>quam Graeci vocant Aacpsiay vel Osonssigv; nos 
+          au<lb break="no" ed="#P" n="20"/>tem Dei cultum recte appellare possumus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

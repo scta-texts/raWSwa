@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 143</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 143</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="73"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1797"><!-- raWSwa-c143 -->
+        <head xml:id="raWSwa-d1e1797-Hd1e101">Caput 143</head>
+        <head xml:id="raWSwa-d1e1797-Hd1e103" type="question-title">
+          De Inventione sancti Stephani.
+        </head>
+        <p xml:id="raWSwa-d1e1797-d1e106">
+          <lb ed="#P" n="111"/>CAPUT CXLII.
+          <lb ed="#P" n="112"/>De Inventione sancti Stephani.
+        </p>
+        <p xml:id="raWSwa-d1e1797-d1e113">
+          <lb ed="#P" n="113"/>Sequitur dicendum de festo B. Stephani (11), id-
+          <pb ed="#P" n="74"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quae de ipsius inventione. Verum enimvero 
+          conside<lb break="no" ed="#P" n="2"/>randum est ejus inventionem fuisse factam eo die
+          <lb ed="#P" n="3"/>quo ejusdem celebratur passio, et eontra. Mutatio
+          <lb ed="#P" n="4"/>tamen haec facta fuit duabus de causis: Prior est,
+          <lb ed="#P" n="5"/>quia Christus natus est in terra, ut homines 
+          nasce<lb break="no" ed="#P" n="6"/>rentur in coclo. Cum ergo beatus Stephanus fuerit
+          <lb ed="#P" n="7"/>protomartyr, et martyrium sanctorum sit ceorumdem
+          <lb ed="#P" n="8"/>nativitas in coclis, merito post Natalem Domini 
+          co<lb break="no" ed="#P" n="9"/>litur nativitas protomartyris Stephani. Unde illud
+          <lb ed="#P" n="10"/>vulgo protritum : « Heri natus est Christus in terris,
+          <lb ed="#P" n="11"/>hodie Stephanus nascetur in ceelis. Posterior ratio est,
+          <lb ed="#P" n="12"/>quia ad ejus inventionem cum maxima bominum
+          <lb ed="#P" n="13"/>multitudo convenisset, qui miracula qua quam
+          <lb ed="#P" n="14"/>plurima in inventione Deus fecit videbant, majori
+          <lb ed="#P" n="15"/>cultu annuatim ilum diem celebraverunt quam vel
+          <lb ed="#P" n="16"/>dien ipsius passionis. Statuerunt ergo sancti Patres
+          <lb ed="#P" n="17"/>ut festum passionis transferretur ad hunc diem 
+          in<lb break="no" ed="#P" n="18"/>ventionis, et contra fesum inventionis, ad festum
+          <lb ed="#P" n="19"/>passionis, quia hoc dignius est, ut ideo majori cultu
+          <lb ed="#P" n="20"/>diem illum annuatim celebrarent, et populus diem
+          <lb ed="#P" n="21"/>illum qui Natale Domini sequitur, ferventiori cultu
+          <lb ed="#P" n="22"/>colebat in Augusto. Animadvertamus hic obiter, si
+          <lb ed="#P" n="23"/>festum alicujus martyris et confessoris concurrant,
+          <lb ed="#P" n="24"/>si ilustrior sit confessor et plenum habeat officiun,
+          <lb ed="#P" n="25"/>collectam sive orationem cjus esse praeponendam, et
+          <lb ed="#P" n="26"/>in altera solummodo alterius faciendam mentienem
+          <lb ed="#P" n="27"/>sive commemorationem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

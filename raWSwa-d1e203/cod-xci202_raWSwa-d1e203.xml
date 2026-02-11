@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 12</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 12</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="13"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e203"><!-- raWSwa-c12 -->
+        <head xml:id="raWSwa-d1e203-Hd1e101">Caput 12</head>
+        <head xml:id="raWSwa-d1e203-Hd1e103" type="question-title">
+          De personis.
+        </head>
+        <p xml:id="raWSwa-d1e203-d1e106">
+          <lb ed="#P" n="51"/>CAPUT XII.
+          <lb ed="#P" n="52"/>De personis.
+        </p>
+        <p xml:id="raWSwa-d1e203-d1e113">
+          <lb ed="#P" n="53"/>Postquam de temporibus Deo spiritualiter dicatis
+          <lb ed="#P" n="54"/>bunc usque a nobis dictum sit, res ipsa postulat ut
+          <lb ed="#P" n="55"/>eodem modo de personis divinis offleiia addictis, hoc
+          <lb ed="#P" n="56"/>est ecclesiasticis, deinceps dicamns. Ad cujus rei
+          <lb ed="#P" n="57"/>majorem declarationem sciendum estin primis tres
+          <lb ed="#P" n="58"/>esse sectas, quae hominibus maxime probantur, 
+          qua<lb break="no" ed="#P" n="59"/>rum una est ethnicorum seu paganorum, altera He-
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>braeorum, teitia Christianorum. Prima est erroriu,
+          <lb ed="#P" n="61"/>secunda veritatis, tertia salutis. In prima naufragium
+          <lb ed="#P" n="62"/>patimur, in secunda a periculo quidem eripimur,.
+          <lb ed="#P" n="63"/>sed in tertia salvamur. Prima rursum nos a Deo 
+          se<lb break="no" ed="#P" n="64"/>cat et separat, secunda illuminat, tertia autem 
+          peni<lb break="no" ed="#P" n="65"/>tus salvat et liberat. Verum mos paganorutn 
+          conser<lb break="no" ed="#P" n="66"/>sus est in ritum Christianorum. Quaee Dei Opt. Mas.
+          <lb ed="#P" n="67"/>niutatio sane pulcherrima est. Christianorum cnim
+          <lb ed="#P" n="68"/>personae, tam saeculares quam ecclesiasticae, ab aliis
+          <lb ed="#P" n="69"/>duabus sectis, nimirum ab Hlebraea atque etbnica,
+          <lb ed="#P" n="70"/>desumptae sunt. Quemadmodum enim apud nos duo
+          <lb ed="#P" n="71"/>sunt personarum genera, laicales videlicet sive 
+          po<lb break="no" ed="#P" n="72"/>pulares (Qjouxoc enim populus est) et ecclesiasticae:
+          <lb ed="#P" n="73"/>sic apud ethnicos et Hebraeos, a quibus nostra: 
+          ha<lb break="no" ed="#P" n="74"/>buerunt initium. Apud cthnicos personae saeculares
+          <lb ed="#P" n="75"/>eraut hae : monarcha, scilicet Romanus imperator,
+          <lb ed="#P" n="76"/>patricii, qui et senatores dicebantur, quorum arbitrio
+          <lb ed="#P" n="77"/>universa ordinabantur; reges, duces, praesides, 
+          prae<lb break="no" ed="#P" n="78"/>fecti, tribuni plebis, tribuni militum, praetores, 
+          cen<lb break="no" ed="#P" n="79"/>turiones, decuriones, quaterniones, tribuni, 
+          quie<lb break="no" ed="#P" n="80"/>stores, aediles, aulae janitores. In ritu vero 
+          templo<lb break="no" ed="#P" n="81"/>rum erant archiflamines, flamines, sacerdotes in
+          <lb ed="#P" n="82"/>utroque sexu. Namque apud illos non aliter, atque
+          <lb ed="#P" n="83"/>modo apud nos, erant et mulierum et virorun 
+          re<lb break="no" ed="#P" n="84"/>ligiosi conventus. Inter poetas erant carminum 
+          ju<lb break="no" ed="#P" n="85"/>dices, comoaedi, tragaedi , historiographi. Apud 
+          He<lb break="no" ed="#P" n="86"/>braos porro cadem fuit personarum diversitas.
+          <lb ed="#P" n="87"/>Erant enim quaedam saeculares, quaedam vero cultui
+          <lb ed="#P" n="88"/>divino in templis perpetuo addictae. Et personse
+          <lb ed="#P" n="89"/>quidem in templis erant hae : summus sacerdos, et
+          <lb ed="#P" n="90"/>mipores sacerdutes, levitae, nathinaei, luminum 
+          escup<lb break="no" ed="#P" n="91"/>ctores, exorcistae, janitores vel aeditui, et cantores.
+          <lb ed="#P" n="92"/>Inter saeculares vero in primis dux populi erat ao
+          <lb ed="#P" n="93"/>regcndum Moses, et sub eo, quos ipse ad consilium
+          <lb ed="#P" n="94"/>soceri sui Jethro coustituerat, nempe erant hi : 
+          chi<lb break="no" ed="#P" n="95"/>liarchi, hecatotarchi, pentecontarchi seu 
+          pentece<lb break="no" ed="#P" n="96"/>siarchi, et decarchi, hoc est, millenarii, centenars,
+          <lb ed="#P" n="97"/>sive centuriones, quintagenarii, decani; yoi« eni
+          <lb ed="#P" n="98"/>millenarium numerum exprimit, épyo» principem,
+          <lb ed="#P" n="99"/>unde yoispyoc dicitur qui praest mille. Sic ixeá»
+          <lb ed="#P" n="100"/>significat centum, unde hecatoncarchus est cui 
+          cen<lb break="no" ed="#P" n="101"/>tum parent, et pentacontarchus cui quinquaginta.
+          <lb ed="#P" n="102"/>Nam ravorxorea quinquaginta sonat. Qui autem 
+          dc<lb break="no" ed="#P" n="103"/>cem in potestate habent, recte appellantur decani a
+          <lb ed="#P" n="104"/>Gixa decem, quod sint supra denos. Apud 
+          Christia<lb break="no" ed="#P" n="105"/>nos quoque personze sunt partim populares, partim
+          <lb ed="#P" n="106"/>cicricales. Populares non sunt diversae ab iis quas.
+          <lb ed="#P" n="107"/>apud ethnicos esse dicimus, quamvis non ubique
+          <lb ed="#P" n="108"/>clericales sunt, quae administrant ecclesiam, 
+          dicun<lb break="no" ed="#P" n="109"/>turque aó tou xapov, quod sors interpretatur, quasi
+          <lb ed="#P" n="110"/>sorte sint electae. In veteri namque testamento 
+          saeer<lb break="no" ed="#P" n="111"/>dotes sorte eligebantur. Quemadmodum ctiam 
+          eth<lb break="no" ed="#P" n="112"/>nici sortitione unum ex liberis suis ad clericatum
+          <lb ed="#P" n="113"/>cligebant. Possunt nihilominus dici clericales, quia
+          <lb ed="#P" n="114"/>ipsi accipiunt haereditatem Domini, nimirum 
+          deci<lb break="no" ed="#P" n="115"/>mas et oblationes, Nam xapec Graecis non solum
+          <lb ed="#P" n="116"/>est quod nobis sors, sed et hereditas. Est epim
+          <lb ed="#P" n="117"/>iis iequivocum, unoquoque nomine duo heec 
+          signifi<lb break="no" ed="#P" n="118"/>cat, l'crsonae autero ciericaes dvyduptux Yo woo
+          <pb ed="#P" n="14"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>chos, quasi sint soli viventes a novo: solus, et eye
+          <lb ed="#P" n="2"/>habeo, quod ab aliis scorsim soli habitare debeant,
+          <lb ed="#P" n="3"/>et ecclesiasticos. Quae st porro personarum 
+          diver<lb break="no" ed="#P" n="4"/>sitas inter monachos equidem satis notum esse 
+          exi<lb break="no" ed="#P" n="5"/>stimo. Totum enim illud ab ordinum varictate 
+          pe<lb break="no" ed="#P" n="6"/>tendum est, quam alii albi sive candidi, alii nigri
+          <lb ed="#P" n="7"/>appellantur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

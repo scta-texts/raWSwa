@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 70</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 70</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="39"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e909"><!-- raWSwa-c70 -->
+        <head xml:id="raWSwa-d1e909-Hd1e101">Caput 70</head>
+        <head xml:id="raWSwa-d1e909-Hd1e103" type="question-title">
+          De festis Nativitatem sequentibus.
+        </head>
+        <p xml:id="raWSwa-d1e909-d1e106">
+          <lb ed="#P" n="19"/>CAPUT LXX.
+          <lb ed="#P" n="20"/>De festis Nativitatem sequentibus.
+        </p>
+        <p xml:id="raWSwa-d1e909-d1e113">
+          <lb ed="#P" n="21"/>Deinceps sequitur ordine convenienti, ut de iis
+          <lb ed="#P" n="22"/>lestivitatibus modo tractemus, quae Christi 
+          Nativi<lb break="no" ed="#P" n="23"/>tatem proxime sequuntur. Debent ergo vesperae 
+          Na<lb break="no" ed="#P" n="24"/>talis primo integre celebrari, ac postea conveniunt
+          <lb ed="#P" n="25"/>diaconi quasi in tripudio, cantantque Magnificat
+          <lb ed="#P" n="26"/>cum antiphona de S. Stephano, sed sacerdos recitat
+          <lb ed="#P" n="27"/>collectam. Nocturnos et universum offlcium 
+          crasti<lb break="no" ed="#P" n="28"/>num celebrant diaconi, quod Stephanus fuerit 
+          dia<lb break="no" ed="#P" n="29"/>conus, et ad lectiones concedunt benedictiones, ita
+          <lb ed="#P" n="30"/>tamen, ut ejus diei missam celebret hebdomadarius,
+          <lb ed="#P" n="31"/>boc est ille cujus tum vices fuerint ceam exsequi.
+          <lb ed="#P" n="32"/>Sic eodem modo omne officium perficient 
+          sacerdo<lb break="no" ed="#P" n="33"/>tes ipso die B. Joannis, quod hic sacerdos fuerit,
+          <lb ed="#P" n="34"/>et pueri in ipso festo Innocentium, quia innocentes
+          <lb ed="#P" n="35"/>pro €hristo occisi sunt. Scd ignorandum non est
+          <lb ed="#P" n="36"/>passionem bcati Stephani factam fuisse in Augusto,
+          <lb ed="#P" n="37"/>illo die, quo ejus celebratur inventio; econtra 
+          in<lb break="no" ed="#P" n="38"/>ventionem ejusdem fuisse postcero die nativitatis
+          <lb ed="#P" n="39"/>Domini. Verum enimvero cum dignius et 
+          praestan<lb break="no" ed="#P" n="40"/>tius sit festum Passionis inventione, idcirco 
+          trans<lb break="no" ed="#P" n="41"/>Istum est ad tempus Natalis Domini. Vel ctiam ob
+          <lb ed="#P" n="42"/>banc rem, quod ei eodem hoc die dedicata sit 
+          basi<lb break="no" ed="#P" n="43"/>lica. Poterit tamen et alia esse ratio, quoniam 
+          Ste<lb break="no" ed="#P" n="44"/>phanus post Domini passionem pro Christo primus
+          <lb ed="#P" n="45"/>martyriurm perpessus est, quod nasci dicitur in 
+          cae<lb break="no" ed="#P" n="46"/>lis, cujusmodi natalem nobis Christi nativitas in
+          <lb ed="#P" n="47"/>carne contulit. Consentaneum ergo fuit ut 
+          Nativi<lb break="no" ed="#P" n="48"/>tati Christi continuaretur Natale S. Stephani, quo
+          <lb ed="#P" n="49"/>per hoc notaretur, nativitatem unam sequi ex alia.
+          <lb ed="#P" n="50"/>Unde etiam est, quod in ipsius Vita legitur : Heri
+          <lb ed="#P" n="51"/>Christus natus est in terris, ut Stephanus hodie 
+          na<lb break="no" ed="#P" n="52"/>sceretur in catis. Eodem fere modo de festo S. 
+          Joan<lb break="no" ed="#P" n="53"/>nis Evangelistae censendum est, quod cum ille dies
+          <lb ed="#P" n="54"/>quo se deposuit in foveam post celebrationem 
+          sa<lb break="no" ed="#P" n="55"/>crorum, Natalis fuerit sancto Joanni Baptistae, hic
+          <lb ed="#P" n="56"/>tamen cum illi cessit, de quo dictum erat a Domino:
+          <lb ed="#P" n="57"/>Inter natos mulierumpon surrexit major, etc. (Luc.7),
+          <lb ed="#P" n="58"/>atque festum hujus translatum est ad tertium diem
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>Natalis Domini, ut omnes suos comites habcret
+          <lb ed="#P" n="60"/>sponsus, qui rubicundus est et candidus. Vel ob id
+          <lb ed="#P" n="61"/>ctiam, quod eo die ipsi dedicata sit basilica, vel 
+          tan<lb break="no" ed="#P" n="62"/>dem quia eo die insulatus est : Fuit enim patriarcha
+          <lb ed="#P" n="63"/>Ephesinus. Tunc autcm scripsit Evangelium de quo
+          <lb ed="#P" n="64"/>Beda inquit « Quod si paulo altius intonasset, 
+          uni<lb break="no" ed="#P" n="65"/>versus mundus vix capere potuisset. » lta ut hinc
+          <lb ed="#P" n="66"/>quoque Hieronymus cum vocitet vocem aquila. 
+          Si<lb break="no" ed="#P" n="67"/>mili ratione Innocentes non statim quidem quarto
+          <lb ed="#P" n="68"/>die post passi sunt, sed quarto die anno revoluto,
+          <lb ed="#P" n="69"/>quandoquidem, cum Heruodes a filiis suis accusatus
+          <lb ed="#P" n="70"/>erat, debuit Romam proficisci, ibique coram 
+          Au<lb break="no" ed="#P" n="71"/>gusto Caesare causam suam éefendere, ita ut 
+          simul<lb break="no" ed="#P" n="72"/>atque causam obtinuisset, ac jam rediisset, 
+          imma<lb break="no" ed="#P" n="73"/>ne istud facinus perpetraverit, omnes interimens
+          <lb ed="#P" n="74"/>pucros a bimatu et infra (Matth. n). Credebat enim
+          <lb ed="#P" n="75"/>puerum natum magnum fore, cui astra 
+          famulaban<lb break="no" ed="#P" n="76"/>tur, et timebat ne per illum regnum suum 
+          amitte<lb break="no" ed="#P" n="77"/>ret, de quo plenius in Matthaeo legitur. In festo 
+          ita<lb break="no" ed="#P" n="78"/>que Innocentium penitus subticentur cantica 
+          laeti<lb break="no" ed="#P" n="79"/>tiae, quoniam ii ad inferos descenderunt. Si vero
+          <lb ed="#P" n="80"/>contingat eorum festum die Dominica, tunc nullum
+          <lb ed="#P" n="81"/>subticetur, propter diem resurrectionis. Nec etiam
+          <lb ed="#P" n="82"/>in illorum octavis aliqua cantica laetitiae 
+          supprimun<lb break="no" ed="#P" n="83"/>tur, ut significemus gaudium, quod accepturi sunt
+          <lb ed="#P" n="84"/>in octava, id est in resurrectione.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

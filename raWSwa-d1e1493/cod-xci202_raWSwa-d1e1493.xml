@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 118</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 118</title>
+          <date when="2026-02-11">February 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-xci202">Patrologia Latina, v. 202</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="61"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e1493"><!-- raWSwa-c118 -->
+        <head xml:id="raWSwa-d1e1493-Hd1e101">Caput 118</head>
+        <head xml:id="raWSwa-d1e1493-Hd1e103" type="question-title">De mensa corporis</head>
+        <p xml:id="raWSwa-d1e1493-d1e106">
+          <lb ed="#P" n="57"/>CAPUT CXVIII.
+          <lb ed="#P" n="58"/>De mensa corporis.
+        </p>
+        <p xml:id="raWSwa-d1e1493-d1e113">
+          <lb ed="#P" n="59"/>Nihil quod non sit a sacerdote benedictum, hoc
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>die Paschatis comedere debemus. Unde etiam nune
+          <lb ed="#P" n="61"/>in quibusdam regionibus pro more receptum est ut
+          <lb ed="#P" n="62"/>in magno vase omnia quae velint illo die comedere
+          <lb ed="#P" n="63"/>fercula ad ecclesiam deferant, in cujus aurio et 
+          ve<lb break="no" ed="#P" n="64"/>stibulo a sacerdote cum cruce et aqua lustrali, quam
+          <lb ed="#P" n="65"/>benedictam dicimus, in sacris vestibus 
+          benedicun<lb break="no" ed="#P" n="66"/>tur. Postea vero |sacerdos aliquid sibi de singulis
+          <lb ed="#P" n="67"/>ad suam necessitatem sumit. Et certe nullus quovis
+          <lb ed="#P" n="68"/>die quidquam vel edere, vel bibere deberet, quod
+          <lb ed="#P" n="69"/>non ante sit benedictum, unde B. Hieronymus de
+          <lb ed="#P" n="70"/>quadam moniali recenset in eo libro, cui Vitas 
+          Pa<lb break="no" ed="#P" n="71"/>trum titulum fecit : « Cum enim illa forte fortuna
+          <lb ed="#P" n="72"/>in ortum suum iret, et lactucas absque benedictione
+          <lb ed="#P" n="73"/>comederet, simul etiam diabolum qui sub eas sese
+          <lb ed="#P" n="74"/>abdiderat, imprudens deglutiit, qui multo tempore
+          <lb ed="#P" n="75"/>eam acerbe vexavit. » Debet autem quivis homo hoc
+          <lb ed="#P" n="76"/>die tria potissimum exercere, misericordiam 
+          vide<lb break="no" ed="#P" n="77"/>licet, liberalitatem et sobrietatem. Misericurdiam,
+          <lb ed="#P" n="78"/>ut egenos et vagabundos ad se suscipiat, eisque
+          <lb ed="#P" n="79"/>misericordiae opera exhibeat, et illis aliquid juxta
+          <lb ed="#P" n="80"/>quod in lege praeceptum est, mittat, qui nihil sibi
+          <lb ed="#P" n="81"/>aut coxerunt, aut praepararunt. Liberalitem vero
+          <lb ed="#P" n="82"/>maxime hoc tempore quemque exercere oportet, ut,
+          <lb ed="#P" n="83"/>si abundat, vicinis et amicis suis quidpiam 
+          impar<lb break="no" ed="#P" n="84"/>tiatur. Sed et sobrietatem ideo, quod debcamus
+          <lb ed="#P" n="85"/>illo die magis sobrie comedere, ut sibi quisque 
+          par<lb break="no" ed="#P" n="86"/>cus sit, aliis vero largus. Observet ergo quilibet
+          <lb ed="#P" n="87"/>misericordiam quantum ad pauperes, liberalitatem
+          <lb ed="#P" n="88"/>quantum ad amicos, et sobrietatem quantum ad
+          <lb ed="#P" n="89"/>seipsum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
