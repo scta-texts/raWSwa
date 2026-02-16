@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,29 +67,29 @@
           <lb ed="#P" n="42"/>De loco.
         </p>
         <p xml:id="raWSwa-d1e81-d1e113">
-          <lb ed="#P" n="43"/>Locorum itoque venerabilium alia sunt orationi
-          <lb ed="#P" n="44"/>dicata, alia vero necessitati humanss deputata. Loca
-          <lb ed="#P" n="45"/>humanae necessitati deputata sunt baec: 
+          <lb ed="#P" n="43"/>Locorum itaque venerabilium alia sunt orationi
+          <lb ed="#P" n="44"/>dicata, alia vero necessitati humanae deputata. Loca
+          <lb ed="#P" n="45"/>humanae necessitati deputata sunt haec: 
           Xenodo<lb break="no" ed="#P" n="46"/>chium, nosocomium, gerotocomium, 
           orphanotro<lb break="no" ed="#P" n="47"/>phium, prototrophium, brephotropbium. Sic cum
-          <lb ed="#P" n="48"/>l'atres et religiosi imperatores loca quaedam 
+          <lb ed="#P" n="48"/>Patres et religiosi imperatores loca quaedam 
           insti<lb break="no" ed="#P" n="49"/>tuerunt, quo se reciperent peregrini, orphani, 
           se<lb break="no" ed="#P" n="50"/>nes, emeriti, infirmi, imbecilles et saucii. Loca 
           au<lb break="no" ed="#P" n="51"/>tem quae orationi dicata sunt, quaedam sacra sunt,
           <lb ed="#P" n="52"/>quaedam sancta, quaedam religiosa. Sacra loca
           <lb ed="#P" n="53"/>sunt, quae per pontificem Deo rite sunt consecrata,
-          <lb ed="#P" n="54"/>et quasi sanctiflcata, quae diversis appellantur 
+          <lb ed="#P" n="54"/>et quasi sanctificata, quae diversis appellantur 
           no<lb break="no" ed="#P" n="55"/>minibus, praecipue tamen his : Ecclesia, sacrarium,
           <lb ed="#P" n="56"/>sanctuarium, sacellum, templum, oratorium, Dcei
-          <lb ed="#P" n="57"/>tabernaculum , monastcrium , caenobium, xvptax
+          <lb ed="#P" n="57"/>tabernaculum , monasterium , caenobium, <foreign>κυριακὴ</foreign>
           <lb ed="#P" n="58"/>Dominicalis, domus orationis, basilica, capella.
-          <lb ed="#P" n="59"/>Sed ignozandum nom est, quin oratorium pro ipsa
+          <lb ed="#P" n="59"/>Sed ignorandum nom est, quin oratorium pro ipsa
           <cb ed="#P" n="b"/>
           <lb ed="#P" n="60"/>ecclesia interdum accipiatur, atque etiam quivis 
           lo<lb break="no" ed="#P" n="61"/>cus alius ad orandum constitutus, vocetur 
-          orato<lb break="no" ed="#P" n="62"/>rium : cujusmodi in suis coenobiis sibi statucrunt
-          <lb ed="#P" n="63"/>nionachi. Sancta vero, sunt loca immunitatis circa
-          <lb ed="#P" n="64"/>monasteria, sub certae poense interminstione 
+          orato<lb break="no" ed="#P" n="62"/>rium : cujusmodi in suis coenobiis sibi statuerunt
+          <lb ed="#P" n="63"/>monachi. Sancta vero, sunt loca immunitatis circa
+          <lb ed="#P" n="64"/>monasteria, sub certae poenae interminatione 
           con<lb break="no" ed="#P" n="65"/>firmata ; quemadmodum apud nostram Lutetiam
           <lb ed="#P" n="66"/>cernitur velut claustrum quoddam, in quo sunt
           <lb ed="#P" n="67"/>sedes canonicorum. Nam cujuscunque sceleris
@@ -93,10 +98,10 @@
           <lb ed="#P" n="70"/>portae civitatis, ac theatra ut sancta essent, 
           sanci<lb break="no" ed="#P" n="71"/>tum est legibus. Postremo locus religiosus ille 
           di<lb break="no" ed="#P" n="72"/>citur, in quo integrum hominis cadaver sepultum
-          <lb ed="#P" n="73"/>est, vel tantum etiamn caput. Corpus enim 
+          <lb ed="#P" n="73"/>est, vel tantum etiam caput. Corpus enim 
           obtrug<lb break="no" ed="#P" n="74"/>catum, nisi et caput adsit, locum religiosum facere
           <lb ed="#P" n="75"/>non potest. Quare, cum hactenus de locis dictum
-          <lb ed="#P" n="76"/>sit, idud unum adjici oportet, ut quemadmodum
+          <lb ed="#P" n="76"/>sit, illud unum adjici oportet, ut quemadmodum
           <lb ed="#P" n="77"/>ecclesia sit aedificanda paucis declaremus. Facto
           <lb ed="#P" n="78"/>enim loco fundamenti necesse est ut episcopus eum
           <lb ed="#P" n="79"/>primo aqua lustrali, quam benedictam vocant,
@@ -104,7 +109,7 @@
           la<lb break="no" ed="#P" n="81"/>pidem, qui crucem sibi impressam habere debet
           <lb ed="#P" n="82"/>ipse jaciat, vel jussum ejus sacerdos alius, si ipse
           <lb ed="#P" n="83"/>adesse nequeat. Et omnino quoque necessarium
-          <lb ed="#P" n="84"/>est, ut adificetur versus orientem, hoc est versue
+          <lb ed="#P" n="84"/>est, ut aedificetur versus orientem, hoc est versus
           <lb ed="#P" n="85"/>solis ortum aequinoctialem ; nec vero contra 
           aesti<lb break="no" ed="#P" n="86"/>vale solstitium, ut nonnulli et volunt et faciunt.
         </p>
