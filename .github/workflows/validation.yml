@@ -24,6 +24,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       # make sure java is avaialbe
       - uses: actions/setup-java@v2
         with:
@@ -50,13 +52,25 @@ jobs:
       # Runs check
       - name: run validation checks
         run: |
+          echo "GITHUB_EVENT_NAME: $GITHUB_EVENT_NAME"
           # Determine files to check: all for manual, changed for push/pr
           if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
             files=$(ls */*.xml)
+          elif [[ "$GITHUB_EVENT_NAME" == "push" ]]; then
+            # On push, compare last commit to its parent
+            echo "Raw changed files:"
+            git diff --name-only HEAD^ HEAD
+            files=$(git diff --name-only HEAD^ HEAD | grep '\.xml$' || true)
+            echo "Filtered XML files: $files"
+            if [[ -z "$files" ]]; then
+              echo "No changed XML files to validate."; exit 0;
+            fi
           else
-            # Get changed XML files in PR or push (against default branch)
-            files=$(git diff --name-only origin/${{ github.event.repository.default_branch }}...HEAD | grep -E '^.*/.*\\.xml$' || true)
-            # Fallback: if none found, skip
+            # For PRs, compare with default branch
+            echo "Raw changed files (PR):"
+            git diff --name-only origin/${{ github.event.repository.default_branch }}...HEAD
+            files=$(git diff --name-only origin/${{ github.event.repository.default_branch }}...HEAD | grep '\.xml$' || true)
+            echo "Filtered XML files (PR): $files"
             if [[ -z "$files" ]]; then
               echo "No changed XML files to validate."; exit 0;
             fi
