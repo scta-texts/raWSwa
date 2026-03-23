@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+         <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,56 +68,56 @@
         </p>
         <p xml:id="raWSwa-d1e93-d1e113">
           <lb ed="#P" n="89"/>His igitur de locis ita breviter expositis, 
-          dicen<lb break="no" ed="#P" n="90"/>dum est de temporibus. Accipimus autem bic 
+          dicen<lb break="no" ed="#P" n="90"/>dum est de temporibus. Accipimus autem hic 
           tem<lb break="no" ed="#P" n="91"/>pora, pro diebus, quorum alii sunt festi, alii 
-          go<lb break="no" ed="#P" n="92"/>lemnes. alii vero profesti. Ac profesti quidem sunt,
-          <lb ed="#P" n="93"/>quia nulla spirituali celebritate fulciuntur. Ài vere
-          <lb ed="#P" n="94"/>aliter Judai suos vocant dies, aliter ethnici, 
+          so<lb break="no" ed="#P" n="92"/>lemnes, alii vero profesti. Ac profesti quidem sunt,
+          <lb ed="#P" n="93"/>quia nulla spirituali celebritate fulciuntur. At vere
+          <lb ed="#P" n="94"/>aliter Judaei suos vocant dies, aliter ethnici, 
           eorum<lb break="no" ed="#P" n="95"/>que philosophi, aliter demum Christiani. Hebraei
-          <lb ed="#P" n="96"/>primum uiem sppellant Sabbatum, qui praccipuus
+          <lb ed="#P" n="96"/>primum diem appellant Sabbatum, qui praecipuus
           <lb ed="#P" n="97"/>apud eos habetur. Reliqui omnes ab hoc 
           denomi<lb break="no" ed="#P" n="98"/>nati sunt. Vocant enim sequentem diem post 
           Sab<lb break="no" ed="#P" n="99"/>batum, primam sive alteram Sabbati, et qui deinde
-          <lb ed="#P" n="100"/>scquitur sccundam Sabbati, et sic de aliis, usque
-          <lb ed="#P" n="101"/>ud diem septimum, qui illis vel septima Sabbati,
+          <lb ed="#P" n="100"/>sequitur secundam Sabbati, et sic de aliis, usque
+          <lb ed="#P" n="101"/>ad diem septimum, qui illis vel septima Sabbati,
           <lb ed="#P" n="102"/>vel Sabbatum sabbatorum dicitur. Apud ethnicos
           <lb ed="#P" n="103"/>vero, tan vulgus quam philosophi, iisdem 
           uteban<lb break="no" ed="#P" n="104"/>tur nominibus, nisi quod in iis diversam inter se
-          <lb ed="#P" n="105"/>babuerint rationem. Utrique enim primum diem
+          <lb ed="#P" n="105"/>habuerint rationem. Utrique enim primum diem
           <lb ed="#P" n="106"/>Solis appellabant; scecundum, Luna; tertium,
           <lb ed="#P" n="107"/>Martis ; quartum, Mercurii; quintum, Jovis; 
           sex<lb break="no" ed="#P" n="108"/>tum, Veneris ; septimum, Saturni. Sed ideo hos
           <lb ed="#P" n="109"/>vulgus ita nominabat, quia solem, Martem, 
           Mercu<lb break="no" ed="#P" n="110"/>rium et alios deos esse arbitrabatur ; philosophi
           <lb ed="#P" n="111"/>vero ob hanc causam, quod planetarum horum 
-          mo<lb break="no" ed="#P" n="112"/>tibus humanae vite natura constituatur. Proinde
+          mo<lb break="no" ed="#P" n="112"/>tibus humanae vitae natura constituatur. Proinde
           <lb ed="#P" n="113"/>nomina haec sacra Scriptura haud quaquam 
           reci<lb break="no" ed="#P" n="114"/>pit, quanquam passim in usu habeantur. Christiani
-          <lb ed="#P" n="115"/>deniquc ab his longe aliter dies nominant, propriis
+          <lb ed="#P" n="115"/>denique ab his longe aliter dies nominant, propriis
           <lb ed="#P" n="116"/>nimirum appcellationibus. Nam Sabbatum 
-          Judao<lb break="no" ed="#P" n="117"/>rum usquc adco non objeccrunt quin eum iis ittud
-          <lb ed="#P" n="118"/>libenter habcere vclint, partim ob Hebraici sermo-
+          Judeao<lb break="no" ed="#P" n="117"/>rum usquc adco non objecerunt quin eum iis illud
+          <lb ed="#P" n="118"/>libenter habere velint, partim ob Hebraici sermo-
           <pb ed="#P" n="9"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>nis auctoritatem, partim etiam ob interpretationis ,
           <lb ed="#P" n="2"/>significationem. Sequentem vero diem vocant diem
           <lb ed="#P" n="3"/>Dominicum, tum propter Christi resurrectionem,
           <lb ed="#P" n="4"/>tum propter Spiritus sancti e coelis missionem, vel
-          <lb ed="#P" n="5"/>quia Joanncs evangelista in sua Apocalvpsi sic 
-          ip<lb break="no" ed="#P" n="6"/>sum nominavit. Ait enim ibi hoc pacto: Fxi in
-          <lb ed="#P" n="7"/>spiritu in die Domijnica ( Apoc. 1). Sed diem qui
-          <lb ed="#P" n="8"/>peoxime Dominicam sequitur, feriam vocant 
+          <lb ed="#P" n="5"/>quia Joannes evangelista in sua Apocalypsi sic 
+          ip<lb break="no" ed="#P" n="6"/>sum nominavit. Ait enim ibi hoc pacto: Fui in
+          <lb ed="#P" n="7"/>spiritu in die Dominica (Apoc. 1). Sed diem qui
+          <lb ed="#P" n="8"/>proxime Dominicam sequitur, feriam vocant 
           secun<lb break="no" ed="#P" n="9"/>dam, itemque et alios dies ad Sabbatum usque. 
           Di<lb break="no" ed="#P" n="10"/>cuntur autem feria a feriando, non quod a 
           neces<lb break="no" ed="#P" n="11"/>sariis vitae operibus sit feriandum et abstinendum,
-          <lb ed="#P" n="12"/>ged quoniam toto vitae nostrae tempore a vitiis 
+          <lb ed="#P" n="12"/>sed quoniam toto vitae nostrae tempore a vitiis 
           fe<lb break="no" ed="#P" n="13"/>riari debeamus. Dies festi porro sunt dies 
           solem<lb break="no" ed="#P" n="14"/>nes, qui, ut soli servarentur, quasi praescripto et
-          <lb ed="#P" n="15"/>quodam instituto recepti sunt. À sole enim vcla
+          <lb ed="#P" n="15"/>quodam instituto recepti sunt. ÀA sole enim vel a
           <lb ed="#P" n="16"/>solito solemne dictum est. Unde solemnia festa 
-          vo<lb break="no" ed="#P" n="17"/>tt Ecclesia, quae certa sunt observatione 
-          consti<lb break="no" ed="#P" n="18"/>tuta. Atque hinc etiam venit solcmnitas, quae 
-          qua<lb break="no" ed="#P" n="19"/>vripartita esse potest, videlicet festivitatum, 
+          vo<lb break="no" ed="#P" n="17"/>cat Ecclesia, quae certa sunt observatione 
+          consti<lb break="no" ed="#P" n="18"/>tuta. Atque hinc etiam venit solemnitas, quae 
+          qua<lb break="no" ed="#P" n="19"/>dripartita esse potest, videlicet festivitatum, 
           statio<lb break="no" ed="#P" n="20"/>num, litaniarum, et jejuniorum.
         </p>
       </div>
