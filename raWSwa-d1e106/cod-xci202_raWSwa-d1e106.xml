@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+         <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,60 +68,60 @@
         </p>
         <p xml:id="raWSwa-d1e106-d1e113">
           <lb ed="#P" n="23"/>Primo igitur de festivitatum solemnitate 
-          agen<lb break="no" ed="#P" n="24"/>Qum est, quae pluribus nominibus vulgo exprimi 
+          agen<lb break="no" ed="#P" n="24"/>dum est, quae pluribus nominibus vulgo exprimi 
           so<lb break="no" ed="#P" n="25"/>let, nimirum his : festivitas, festum, celebritas, 
-          exi<lb break="no" ed="#P" n="26"/>tus, transitus, obitus, assumptio, dcepos:tio, 
-          dor<lb break="no" ed="#P" n="27"/>mitio, passio, dedicatio, nativitas, natalis, vcl 
+          exi<lb break="no" ed="#P" n="26"/>tus, transitus, obitus, assumptio, depositio, 
+          dor<lb break="no" ed="#P" n="27"/>mitio, passio, dedicatio, nativitas, natalis, vel 
           na<lb break="no" ed="#P" n="28"/>tale et natalitium. Festivitas dicitur, quasi festi
           <lb ed="#P" n="29"/>sancti alicujus nativitas. Nativitas vero proprie 
           ap<lb break="no" ed="#P" n="30"/>pellatur festum illius nativitatis, quae est in carne
           <lb ed="#P" n="31"/>et in mundo, ita ut hinc solum dicatur nativitas
-          <lb ed="#P" n="32"/>Christi, B. Marize et Joannis Baptistae, quod horum
+          <lb ed="#P" n="32"/>Christi, B. Mariae et Joannis Baptistae, quod horum
           <lb ed="#P" n="33"/>nativitates duntaxat ab Ecclesia celebrentur. 
           Nata<lb break="no" ed="#P" n="34"/>lis vel natale et natalitium vocatur sanctorum ex
-          <lb ed="#P" n="35"/>hoc szeculo commigratio, qia ut seeculo et muno
-          <lb ed="#P" n="36"/>meoriuntur, ita tunc coelo nascuntur. Indifferenter
-          <lb ed="#P" n="37"/>autem tria bac vocabula usurpantur. Dicitur porro
+          <lb ed="#P" n="35"/>hoc saeculo commigratio, quia ut saeculo et mundo
+          <lb ed="#P" n="36"/>moriuntur, ita tunc coelo nascuntur. Indifferenter
+          <lb ed="#P" n="37"/>autem tria haec vocabula usurpantur. Dicitur porro
           <lb ed="#P" n="38"/>transitus festum, quod est de morte beatorum, cum
-          <lb ed="#P" n="39"/>corum animxae e corporibus exeuntes per varia loca
-          <lb ed="#P" n="40"/>sibi incognita transire debeant, nempc, si dicere
+          <lb ed="#P" n="39"/>corum animae e corporibus exeuntes per varia loca
+          <lb ed="#P" n="40"/>sibi incognita transire debeant, nempe, si dicere
           <lb ed="#P" n="41"/>liceat, per caelum aerium, aethereum, crystallinum,
           <lb ed="#P" n="42"/>donec pervenerint ad coelum empyreum. Obitus
           <lb ed="#P" n="43"/>appellatur, quasi tum animis angeli veniant 
           ob<lb break="no" ed="#P" n="44"/>viam, cujusmodi de B. Martino legitur. Passio 
           au<lb break="no" ed="#P" n="45"/>tem nuncupatur, quasi tum maxime corpus 
           patie<lb break="no" ed="#P" n="46"/>batur, cum inde anima excederet. Quapropter fieri
-          <lb ed="#P" n="47"/>etiam 'potest ut uniuscujusque obitus appellctur
+          <lb ed="#P" n="47"/>etiam potest ut uniuscujusque obitus appelletur
           <lb ed="#P" n="48"/>passio, cum ille discessus animae ac distractio a
-          <lb ed="#P" n="49"/>corpore. non sine magno dolore fiat. Nec cnim sine
+          <lb ed="#P" n="49"/>corpore, non sine magno dolore fiat. Nec enim sine
           <lb ed="#P" n="50"/>causa est, quod D. Hieronymus in Vitis Patrum de
           <lb ed="#P" n="51"/>quodam viro sancto narrat, qui Dominum 
           rogave<lb break="no" ed="#P" n="52"/>rat ut sibi vellet ostendere quemadmodum e corpore
-          <lb ed="#P" n="53"/>excedcret anima absque dolore et angustia aliqua.
+          <lb ed="#P" n="53"/>excederet anima absque dolore et angustia aliqua.
           <lb ed="#P" n="54"/>Nam cum hic quodam die forte fortuna ab suo 
           ve<lb break="no" ed="#P" n="55"/>niret tuguriolo, vidit juxta viam pauperem 
           quem<lb break="no" ed="#P" n="56"/>dam ante se misere prostratum, ac jam animam
           <lb ed="#P" n="57"/>agentem, cui aliquot, ut perspicue videbat, 
           asta<lb break="no" ed="#P" n="58"/>bant angeli, qui ejus exspectabant animam, ut eam
-          <lb ed="#P" n="59"/>ad superos deportarent. Verum hi, postcaquam illic
+          <lb ed="#P" n="59"/>ad superos deportarent. Verum hi, posteaquam illic
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>multum diuque exspectassent , vox -missa e caelis
-          <lb ed="#P" n="61"/>ad angelos iHico audita est : « Ad quid tandem 
+          <lb ed="#P" n="60"/>multum diuque exspectassent , vox missa e coelis
+          <lb ed="#P" n="61"/>ad angelos illico audita est : « Ad quid tandem 
           mo<lb break="no" ed="#P" n="62"/>ramini ? » Ad quaim illi responderunt Dominum
-          <lb ed="#P" n="63"/>priecepisse ut animam illius sine corporis 
+          <lb ed="#P" n="63"/>praecepisse ut animam illius sine corporis 
           anxie<lb break="no" ed="#P" n="64"/>tate educerent, quod certe facere non poterant.
-          <lb ed="#P" n="65"/>Haud iujuria érgo cujusque obitus et passio dici
+          <lb ed="#P" n="65"/>Haud iujuria ergo cujusque obitus et passio dici
           <lb ed="#P" n="66"/>potest. Assumptio vero proprie dicitur transitus B.
-          <lb ed="#P" n="67"/>Marise, et depositio S. Joannis evangelistae, qui 
+          <lb ed="#P" n="67"/>Mariae, et depositio S. Joannis evangelistae, qui 
           vi<lb break="no" ed="#P" n="68"/>vus sepulcrum ingressus est, et se quasi in illud
-          <lb ed="#P" n="69"/>deposuit. Tandein etiam dormitio mors appellatur
+          <lb ed="#P" n="69"/>deposuit. Tandem etiam dormitio mors appellatur
           <lb ed="#P" n="70"/>sanctorum, quae illis est velut optatissima quies.
           <lb ed="#P" n="71"/>Sicut enim a somno validiores atque integriores
-          <lb ed="#P" n="72"/>surgere omnces soleamus, ita et sancti sine 
-          difficnl<lb break="no" ed="#P" n="73"/>tate resurgent in corporibus glorificatis quasi e
-          <lb ed="#P" n="74"/>somno fuissent expcrrecti. Unde illud est quod 
+          <lb ed="#P" n="72"/>surgere omnes soleamus, ita et sancti sine 
+          difficul<lb break="no" ed="#P" n="73"/>tate resurgent in corporibus glorificatis quasi e
+          <lb ed="#P" n="74"/>somno fuissent experrecti. Unde illud est quod 
           Do<lb break="no" ed="#P" n="75"/>minus de Lazaro dixit : Lazarus amicus noster 
-          dor<lb break="no" ed="#P" n="76"/>mit (Joan. x1).
+          dor<lb break="no" ed="#P" n="76"/>mit (Joan. XI).
         </p>
       </div>
     </body>
