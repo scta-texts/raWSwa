@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+         <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -64,24 +69,24 @@
         <p xml:id="raWSwa-d1e118-d1e113">
           <lb ed="#P" n="79"/>Festorum quaedam sunt generalia, quaedam 
           per<lb break="no" ed="#P" n="80"/>ticularia. Generalia sunt quae generatim ab omnibus
-          <lb ed="#P" n="81"/>celehrantur, ut festa Trinitatis, B. Mariae, 
-          Nativita<lb break="no" ed="#P" n="82"/>tis Domini, Pascha,, Pentecostes, sanctae crucis,
+          <lb ed="#P" n="81"/>celebrantur, ut festa Trinitatis, B. Mariae, 
+          Nativita<lb break="no" ed="#P" n="82"/>tis Domini, Paschae, Pentecostes, sanctae crucis,
           <lb ed="#P" n="83"/>apostolorum , evangelistarum, S. Joannis Baptistae
-          <lb ed="#P" n="84"/>et evangelistae, Laurentii, Nicolai, Sylvesiri, 
+          <lb ed="#P" n="84"/>et evangelistae, Laurentii, Nicolai, Sylvestri, 
           Mar<lb break="no" ed="#P" n="85"/>tini, eic. Festa autem particularia sunt, quae tantum
           <lb ed="#P" n="86"/>in una coluntur provincia, ut festum B. Hilarii,
-          <lb ed="#P" n="87"/>quod in Aquitania duntaxat observatur. Yel etiam
+          <lb ed="#P" n="87"/>quod in Aquitania duntaxat observatur. Vel etiam
           <lb ed="#P" n="88"/>quae in uno fiunt episcopatu, vel in una villa aut
           <lb ed="#P" n="89"/>parochia, dicuntur festa particularia. Notandum
           <lb ed="#P" n="90"/>interim obiter hic est, in colendis festis dignitatem
           <lb ed="#P" n="91"/>quamdam et ordinem esse attendendum. Festa 
-          et<lb break="no" ed="#P" n="92"/>enim Trinitatis digniori cultu sunt cclebranda,
-          <lb ed="#P" n="93"/>deiude festa B. Mariae, praecipue tamen 
+          et<lb break="no" ed="#P" n="92"/>enim Trinitatis digniori cultu sunt celebranda,
+          <lb ed="#P" n="93"/>deinde festa B. Mariae, praecipue tamen 
           Assumptio<lb break="no" ed="#P" n="94"/>nis, ac tandem quoque festa S. crucis, quae duo
           <lb ed="#P" n="95"/>sunt. De aliis ante intelligenti facile est judicare.
-          <lb ed="#P" n="96"/>Quot sunt festa Trinitatis, tot B. Mariae csse 
-          scien<lb break="no" ed="#P" n="97"/>dum est. Causse vero festorum quae sint, et cur
-          <lb ed="#P" n="98"/>quaedam non suo tempore, sed alieno celcbrentur,
+          <lb ed="#P" n="96"/>Quot sunt festa Trinitatis, tot B. Mariae esse 
+          scien<lb break="no" ed="#P" n="97"/>dum est. Causae vero festorum quae sint, et cur
+          <lb ed="#P" n="98"/>quaedam non suo tempore, sed alieno celebrentur,
           <lb ed="#P" n="99"/>sequentia commodius declarabunt.
         </p>
       </div>
