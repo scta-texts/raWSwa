@@ -56,25 +56,25 @@
         <p xml:id="raWSwa-d1e57-d1e103">
           <pb ed="#P" n="1-v"/>
           <lb ed="#R" n="1"/>Incipit summa magistri Iohannis beleth de ecclesiasticis
-          <lb ed="#R"/>officiis per anni circulum
+          <lb ed="#R" n="2"/>officiis per anni circulum
         </p>
         <p xml:id="raWSwa-d1e57-d1e116">
           <!-- omitted -->. 
         </p>
         <p xml:id="raWSwa-d1e57-d1e125">
-          <lb ed="#R"/>In primitiua ecclesia prohibitum erat ne quis loqueretur linguis 
-          <lb ed="#R"/>nisi esset qui interpretaretur Inde etiam inoleuit laudabilis 
-          <lb ed="#R"/>mos in ecclesia in quibusdam partibus ut pronunciato litterarum euangelio 
-          <lb ed="#R"/>statim in uvlgari populo exponatur Quid in partibus nostris est agen<lb ed="#R"/>dum 
-          <pc type="punctus"/> ubi nullus uel rarus inuenitur legens uel audiens qui intelli<lb ed="#R"/>gat 
+          <lb ed="#R" n="3"/>In primitiua ecclesia prohibitum erat ne quis loqueretur linguis 
+          <lb ed="#R" n="4"/>nisi esset qui interpretaretur Inde etiam inoleuit laudabilis 
+          <lb ed="#R" n="5"/>mos in ecclesia in quibusdam partibus ut pronunciato litterarum euangelio 
+          <lb ed="#R" n="6"/>statim in uvlgari populo exponatur Quid in partibus nostris est agen<lb ed="#R" n="7" break="no"/>dum 
+          <pc type="punctus"/> ubi nullus uel rarus inuenitur legens uel audiens qui intelli<lb ed="#R" n="8" break="no"/>gat 
           <pc type="punctus"/> uidens uel agens <pc type="punctus"/> qui animaduertatur Iam uidetur esse completum quod 
-          <lb ed="#R"/>apprehensa dicitur <pc type="punctus"/> Et erit sacerdos quasi est populo unus <pc type="punctus"/> Uidetur ergo potius esse tacendo 
-          <lb ed="#R"/>quam psallendum <pc type="punctus"/> potius filendum quam tripudiandum Sed ne claudantur 
-          <lb ed="#R"/>ora canentium ad te domine deus deo auxiliante <pc type="punctus"/> contra hoc dampnum tripli<lb ed="#R"/>cis 
+          <lb ed="#R" n="9"/>apprehensa dicitur <pc type="punctus"/> Et erit sacerdos quasi est populo unus <pc type="punctus"/> Uidetur ergo potius esse tacendo 
+          <lb ed="#R" n="10"/>quam psallendum <pc type="punctus"/> potius filendum quam tripudiandum Sed ne claudantur 
+          <lb ed="#R" n="11"/>ora canentium ad te domine deus deo auxiliante <pc type="punctus"/> contra hoc dampnum tripli<lb ed="#R" n="12" break="no"/>cis 
           lectionis adhibeamus remedium <pc type="punctus"/> Ex primo dicamus de eccliasticis 
-          <lb ed="#R"/>institutionibus <pc type="punctus"/> Secundo de expositionibus diuersorum sermonum <pc type="punctus"/> Tercio de 
-          <lb ed="#R"/>ratiocinationibus dierum <pc type="punctus"/> Primum est incipientium Secundum proficientium 
-          <lb ed="#R"/>Tercium peruenientium uel consummatorum <pc type="punctus"/> De his ergo sub compendio et successi<lb ed="#R"/>ue 
+          <lb ed="#R" n="13"/>institutionibus <pc type="punctus"/> Secundo de expositionibus diuersorum sermonum <pc type="punctus"/> Tercio de 
+          <lb ed="#R" n="14"/>ratiocinationibus dierum <pc type="punctus"/> Primum est incipientium Secundum proficientium 
+          <lb ed="#R" n="15"/>Tercium peruenientium uel consummatorum <pc type="punctus"/> De his ergo sub compendio et successi<lb ed="#R" n="16" break="no"/>ue 
           aliquid ad minorum saltem eruditionem dicamus
         </p>
       </div>
