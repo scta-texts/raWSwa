@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 4</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 4</title>
+          <date when="2026-03-30">March 30, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="cod-jbvarl">Vatican, Reg. lat, 256</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-03-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="2-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e106"><!-- raWSwa-c4 -->
+        <head xml:id="raWSwa-d1e106-Hd1e101">Caput 4</head>
+        <head xml:id="raWSwa-d1e106-Hd1e103" type="question-title">
+          De solemnitate festivitatum.
+        </head>
+        <p xml:id="raWSwa-d1e106-d1e106">
+          <pc type="punctus"/>De sollempnitate festiuitatum <pc type="punctus"/>
+        </p>
+        <p xml:id="raWSwa-d1e106-d1e113">
+           primo 
+          <lb ed="#R" n="18"/>est agenda <pc type="punctus"/> Hae pluribus designantur nominibus istis scit festiuitas festum 
+          <lb ed="#R"/>celebritas <unclear>eritus</unclear> transitus obitus assumptio depositio dormitio passio 
+          <lb ed="#R"/>dedicatio <pc type="punctus"/> natiuitas natalis uel natale <unclear>natalinem</unclear> festiuitas 
+          <lb ed="#R"/>dicitur quasi festi sancti natiuitas <pc type="punctus"/> Natiuitas proprie dicitur festum illius natiuitatis 
+          <lb ed="#R"/>quae est in carne et immundo et secundum hoc dicitur tantum natiuitas christi 
+          <lb ed="#R"/>et beatae mariae et iohannis baptistae quomodo istorum natiuitates <pc type="punctus"/> tantum ab 
+          <lb ed="#R"/>ecclesia celebrantur Natalis uel natale uel natalicium dicitur <unclear>nu?gatio</unclear> sanctorum 
+          <lb ed="#R"/>ab hoc saeculo quia tunc nascuntur in celo <pc type="punctus"/>  Indifferenter tamen ista accipi<lb ed="#R"/>untur 
+          <pc type="punctus"/> Transitus dicitur festum de morte sanctorum <pc type="punctus"/> quomodo animae illorum a corporibus 
+          <lb ed="#R"/>exeuntes perignota sibi et diversa loca transeunt <pc type="punctus"/> ut per caelum aereum <pc type="punctus"/> et 
+          <lb ed="#R"/>per echereum <pc type="punctus"/> et cristallinum <pc type="punctus"/> ut tandem perueniant in empireum <pc type="punctus"/> Obitus 
+          <lb ed="#R"/>dicitur <pc type="punctus"/> quia tunc ueniunt angeli obuiam animae <pc type="punctus"/> ut legitur de beato martino 
+          <lb ed="#R"/>Passio dicitur quia tunc corpus maxime patitur et etiam anima quando per violentiam 
+          <pb ed="#R" n="3-r"/>
+          <lb ed="#R"/>abinuicem separantur <pc type="punctus"/> Obitus etiam uniuscuiusque passio potest uocari quia non 
+          <lb ed="#R"/>sine amaritudine et molestia quadam anima de corpore tollitur vnde inui<lb ed="#R"/>tas 
+          patrum diem <unclear>iero<!--Jerome? --></unclear> de quodam sancto uiro qui <unclear>ora?um</unclear> dominum ut ei ostenderetur 
+          <lb ed="#R"/>qualiter anima a corpore educeretur <pc type="punctus"/> forte die quadam dum exiret de cellula sua 
+          <lb ed="#R"/>uidit ante se iacentem pauperem iuxta uiam <pc type="punctus"/> in extremis uitae laboran<lb ed="#R"/>tem 
+          <pc type="punctus"/>  vidit quoque angelos iuxta uiam stantes circa illum <pc type="punctus"/>  et expectantes 
+          <lb ed="#R"/>animam <pc type="punctus"/> ut illam deportarent ad caelestis locum quietis <pc type="punctus"/> Cumque ibi moram 
+          <lb ed="#R"/>facerent angeli insonuit uox de caelo ad angelos ibi stantes <unclear>utrique</unclear>
+          <lb ed="#R"/>tam diu illic moramuntur Et dixerunt angeli <pc type="punctus"/> praecepit nobis dicens ut sine 
+          <lb ed="#R"/>corporis molestia uel angustia animam istius educeremus quod non possumus 
+          <lb ed="#R"/>quod hoc dicto <pc type="punctus"/> statim multitudo angelorum et prophetarum descendit cum mu<lb ed="#R"/>sicis 
+          instrumentis <pc type="punctus"/> modulatione quoque <unclear>dulcu sona</unclear> <pc type="punctus"/> Delinita est anima et egres<lb ed="#R"/>sa 
+          a corpore absque omni angustia et cum illo secundo commutatu ad caelum pro
+          <lb ed="#R"/>cuius euolavit <pc type="punctus"/>  assumptio proprie dicitur beatae mariae transitus Depositio 
+          <lb ed="#R"/>beati iohannis euangelistae quomodo locum sepulcrae nimis intrauit <pc type="punctus"/>  et se ibi 
+          <lb ed="#R"/>de posuit Dormitio dicitur mors sanctorum quasi quies quia sicut post sompnum 
+          <lb ed="#R"/>integer et ualidior aliquis surgit <pc type="punctus"/> sic et sancti sine difficultate resur<lb ed="#R"/>gent 
+          in corporibus glorificatis quasi de sompno euigilantes unde dominus de mor<lb ed="#R"/>tuo 
+          lazaro dixit <quote source="http://scta.info/resource/io11_11@8-11">Lazarus amicus noster dormit</quote>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

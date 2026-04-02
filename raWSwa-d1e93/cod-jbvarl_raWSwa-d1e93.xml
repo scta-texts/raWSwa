@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 3</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 3</title>
+          <date when="2026-03-29">March 29, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="cod-jbvarl">Vatican, Reg. lat., 256</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-03-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="2-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e93"><!-- raWSwa-c3 -->
+        <head xml:id="raWSwa-d1e93-Hd1e101">Caput 3</head>
+        <head xml:id="raWSwa-d1e93-Hd1e103" type="question-title">
+          De temporibus.
+        </head>
+        <p xml:id="raWSwa-d1e93-d1e106">
+          CAPUT III.
+          De temporibus.
+        </p>
+        <p xml:id="raWSwa-d1e93-d1e113">
+          <lb ed="#R" n="16"/>His dictis de locis 
+          <lb ed="#R"/>videndum est de temporibus Tempora hic accipimus pro diebus, Dierum alii 
+          <lb ed="#R"/>sunt festuu sive solemnes, alii profesti. Profesti sunt qui nulla celebri<lb ed="#R"/>tate 
+          speciali insignuuntur Unde dicuntur profesti quasi procul a festo Et nota
+          <lb ed="#R"/>quod aliter iudaei denominant dies suos aliter gentiles et eorum philosophi
+          <lb ed="#R"/>aliter Christiani. Secundum hebreos a sabbato qui dies apud eos praecipuus ha<lb ed="#R"/>betur 
+          omnes alii dies denominationem suscipiunt. vocant enim diem sequen<lb ed="#R"/>tem 
+          post sabbatum <pc type="punctus"/> primam sabbati aliam secundam sabbati et sic de aliis numeran<lb ed="#R"/>do 
+          terciam sabbati quartam sabbati quintam sabbati sextam sabbati sextam sabbati Septimam 
+          <lb ed="#R"/>idem <unclear>vocavit</unclear> sabbatum et quandoque sabbatum sabbotorum <!-- para break --> apud gentiles uero tum
+          <lb ed="#R"/>secundum vulgus tum secundum philosophos eisdem vocabulis denominantur sed 
+          <lb ed="#R"/>diversitas est in causis nominum <pc type="punctus"/> Prima dies <pc type="punctus"/>  dies dicitur dies solis <pc type="punctus"/> secunda <pc type="punctus"/>  lunae 
+          <lb ed="#R"/>tercia dies martis quarta dies mercurii quinta dies iouis sexta dies 
+          <lb ed="#R"/>veneris <pc type="punctus"/> septima dies saturni <pc type="punctus"/>  Ordine causam retrogando <pc type="punctus"/>  Luna enim 
+          <lb ed="#R"/>omnibus inferior est planeta <pc type="punctus"/> saturnus omnibus superior <pc type="punctus"/>  vulgus gentilium sic 
+          <pb ed="#R" n="2-v"/>
+          <lb ed="#R"/>eos nominat quia credebat eos deos esse scilicet solem et lunam et martem et 
+          <lb ed="#R"/>alios aquorum nominibus dies denominant <pc type="punctus"/>  Philosophi quia haec sunt nomina pla<lb ed="#R"/>netarum 
+          <pc type="punctus"/> ex quorum motibus et numeris omnia sua uegetationem secundum illos 
+          <lb ed="#R"/>trahit <pc type="punctus"/> Haec ante omnia sacra scriptura non recipit <pc type="punctus"/>  Inusu tamen ulugari <pc type="punctus"/>  ha<lb ed="#R"/>bentur 
+          Christiani uero duos dies tamquam propriis nominibus designant Nam sabbatam 
+          <lb ed="#R"/>iudaeorum similiter sabbatam vocant <pc type="punctus"/> propter auctoritatem hebraeiei sermo<lb ed="#R"/>nis 
+          <pc type="punctus"/>  Sequentem uero diem uocant dominicum diem cum propter christi resurrectionem <pc type="punctus"/>  tum 
+          <lb ed="#R"/>propter spiritus sancti missionem <pc type="punctus"/> Vel quia iohannes euagelista in apocalipsi sua sic 
+          <lb ed="#R"/>illum <unclear>nominatum</unclear> Et enim ibi sic unica die post missarum sollempnia <pc type="punctus"/>  defen<lb ed="#R"/>dit 
+          <unclear>indefossum</unclear> suae sepulturae locum <pc type="punctus"/> Sequentem diem post dominicam diem <pc type="punctus"/> 
+          <lb ed="#R"/>appellant secundum feriam et sic alios dies usque ad sabbatum tertiam feriam 
+          <lb ed="#R"/>quartam et quintam et sextam <pc type="punctus"/>  Et uocantur feriae a feriando <pc type="punctus"/> non quia feriandum 
+          <lb ed="#R"/>sit a necessariis uitae operibus sed ideo feriae dicuntur quia tota tempore uitae nostrae 
+          <lb ed="#R"/>a uitiis feriare debemus Festiui deis sunt sollempnes dies Sollempni<lb ed="#R"/>tas 
+          est aliqua communitas institutionis pro aliqua praerogatiuia et dicitur a solon 
+          <lb ed="#R"/>quod est commune <pc type="punctus"/>  Sollempnitatum alia est festiuitatum <pc type="punctus"/> alia letaniarum 
+          <lb ed="#R"/>alia stationum alia ieuniorum 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 1</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 1</title>
+          <date when="2026-04-01">April 1, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="cod-jbvarl">Vatican, Reg. lat., 256</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-04-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="1-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e69"><!-- raWSwa-c1 -->
+        <head xml:id="raWSwa-d1e69-Hd1e101">Caput 1</head>
+        <head xml:id="raWSwa-d1e69-Hd1e103" type="question-title">De rebus specialiter Deo consecratis</head>
+        <p xml:id="raWSwa-d1e69-d1e106">
+          <!-- omitted -->
+        </p>
+        <p xml:id="raWSwa-d1e69-d1e113">
+          Auctor uniuersitatis re<lb ed="#R"/>rum 
+          altissimus et creator <pc type="punctus"/> unde et merito omnium est dominus de quo in psalmo
+          <lb ed="#R"/><quote xml:id="raWSwa-d1e69-Qd1e131" source="http://scta.info/resource/ps23_1@5-10">dominum est terra et plenitudo eius</quote> de illa uniuersitate quaedam specialia et 
+          <lb ed="#R"/>specialiter sibi retinuit <pc type="punctus"/> <unclear>iudelis</unclear> de locis loca ueneranda <pc type="punctus"/> et de temporibus 
+          <lb ed="#R"/>sollempnes ferias <pc type="punctus"/> et de rebus decimas et primitias et oblationes et cetera 
+          <lb ed="#R"/>donaria de personis quasdam sibi dicatas <pc type="punctus"/> ministors scilicet altaris monachos 
+          <lb ed="#R"/>moniales <pc type="punctus"/> De his ergo quatuor <pc type="punctus"/> scilicet locis <pc type="punctus"/> temporibus <pc type="punctus"/> rebus <pc type="punctus"/> et personis <pc type="punctus"/> et earum 
+          <lb ed="#R"/>personarum multiplicibus officiis <pc type="punctus"/> dicendum est <pc type="punctus"/> et primo de locis <pc type="punctus"/> 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
