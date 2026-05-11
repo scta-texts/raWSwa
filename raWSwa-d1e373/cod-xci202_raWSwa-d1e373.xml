@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -60,46 +65,46 @@
         </p>
         <p xml:id="raWSwa-d1e373-d1e110">
           <lb ed="#P" n="85"/>In tertia nocturna similiter recitantur lectiones,
-          <lb ed="#P" n="86"/>sed de homilia Evangelii. Qnare autem hoc fiat,
-          <lb ed="#P" n="87"/>hiec est ratio : quod tertia nocturna declaret 
-          tem<lb break="no" ed="#P" n="88"/>pus gratize, ut praedictum est superius, quo 
+          <lb ed="#P" n="86"/>sed de homilia Evangelii. Quare autem hoc fiat,
+          <lb ed="#P" n="87"/>haec est ratio: quod tertia nocturna declaret 
+          tem<lb break="no" ed="#P" n="88"/>pus gratiae, ut praedictum est superius, quo 
           tracta<lb break="no" ed="#P" n="89"/>bantur evangelica. Notandum interim hic est fuisse
           <lb ed="#P" n="90"/>quoddam tempus, quo veritas Trinitatis ab 
-          baereti<lb break="no" ed="#P" n="91"/>cis maxime impugnaretur; sed tantem haeresi 
+          haereti<lb break="no" ed="#P" n="91"/>cis maxime impugnaretur; sed tantem haeresi 
           con<lb break="no" ed="#P" n="92"/>futata atque ejecta, ac populo ad veritatis 
           cognitio<lb break="no" ed="#P" n="93"/>nem reducto, ordinaverunt S. Patres ut nona lectio
-          <lb ed="#P" n="94"/>de Trinitate iegeretur cum suo responserio. Quod
-          <lb ed="#P" n="95"/>quidem aliquandiu fuit observatum , sed postea
-          <lb ed="#P" n="96"/>tainen neglectum. Cum enim Ecclesis lectionem
+          <lb ed="#P" n="94"/>de Trinitate legeretur cum suo responsorio. Quod
+          <lb ed="#P" n="95"/>quidem aliquandiu fuit observatum, sed postea
+          <lb ed="#P" n="96"/>tamen neglectum. Cum enim Ecclesiae lectionem
           <lb ed="#P" n="97"/>de Trinitate legere non fuerat necesse, universis
-          <lb ed="#P" n="98"/>jam Christisnis sane credentibus, eam legera 
-          omi<lb break="no" ed="#P" n="99"/>sit, sed ejus responserium retinuit. Inde est, quod
-          <lb ed="#P" n="100"/>in estate Dominicis diebus novum semper 
+          <lb ed="#P" n="98"/>jam Christianis sane credentibus, eam legere 
+          omi<lb break="no" ed="#P" n="99"/>sit, sed ejus responsorium retinuit. Inde est, quod
+          <lb ed="#P" n="100"/>in aestate Dominicis diebus novum semper 
           respon<lb break="no" ed="#P" n="101"/>sorium de Trinitate cantamus. Quanquam tunc 
-          pro<lb break="no" ed="#P" n="102"/>prie responsorium non dicitur, quod pramise
-          <lb ed="#P" n="103"/>lectioni non respondeat. Nath responsoria 
+          pro<lb break="no" ed="#P" n="102"/>prie responsorium non dicitur, quod praemissae
+          <lb ed="#P" n="103"/>lectioni non respondeat. Nam responsoria 
           lectioni<lb break="no" ed="#P" n="104"/>bus, quibus subjunguntur, semper debent 
           respon<lb break="no" ed="#P" n="105"/>dere, ita ut inde sic sint nominata. Quemadmodum
           <lb ed="#P" n="106"/>et versus appellantur, quasi iis finitis vertuntur
           <lb ed="#P" n="107"/>responsoria, id est revertantur et iterum cantentur,
           <lb ed="#P" n="108"/>vel saltem eorum particula aliqua. Atque ita 
           solvi<lb break="no" ed="#P" n="109"/>tur quaestio illa musicae quae fit de versibus secundi
-          <lb ed="#P" n="110"/>toni , qui terminantur in c, cum secundus tonus
-          <lb ed="#P" n="111"/>smper in d, finiatur. Dicimus enim quod istic non
+          <lb ed="#P" n="110"/>toni, qui terminantur in c, cum secundus tonus
+          <lb ed="#P" n="111"/>semper in d, finiatur. Dicimus enim quod istic non
           <lb ed="#P" n="112"/>est finis, sed in repetitione responsorii. Potest tamen
-          <lb ed="#P" n="113"/>dici quod commune applletur responsorium, non
+          <lb ed="#P" n="113"/>dici quod commune appelletur responsorium, non
           <lb ed="#P" n="114"/>quod praemissa respondeat lectioni, sed illi, quae de
-          <lb ed="#P" n="115"/>Trinitate legi solebat. Absotutis nocturnis, ecclesiae
-          <lb ed="#P" n="116"/>lumina accenduntur, et pulsantur campanac, atque
-          <lb ed="#P" n="117"/>alta vocc canitur Te Deum laudamus. Quo quidem
+          <lb ed="#P" n="115"/>Trinitate legi solebat. Absolutis nocturnis, ecclesiae
+          <lb ed="#P" n="116"/>lumina accenduntur, et pulsantur campanae, atque
+          <lb ed="#P" n="117"/>alta voce canitur Te Deum laudamus. Quo quidem
           <lb ed="#P" n="118"/>significatur laetitia et gaudium ejus mulieris, quae
           <pb ed="#P" n="20"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>incensa lucerna, drachmam quam perdiderat, 
           inve<lb break="no" ed="#P" n="2"/>nit. Quod aut istius cantici finis, videlicet, Per 
-          sin<lb break="no" ed="#P" n="3"/>gaulos dies, et alii versus qui eequuntur, paulo altius
+          sin<lb break="no" ed="#P" n="3"/>gulos dies, et alii versus qui sequuntur, paulo altius
           <lb ed="#P" n="4"/>canantur, designat vicinarum congratulationem, qua
-          <lb ed="#P" n="5"/>mulieri ob repertam dracbmam congratulabantur.
+          <lb ed="#P" n="5"/>mulieri ob repertam drachmam congratulabantur.
           <lb ed="#P" n="6"/>Nam et compulsatio earumdem repraesentat 
           convo<lb break="no" ed="#P" n="7"/>cationem.
         </p>
