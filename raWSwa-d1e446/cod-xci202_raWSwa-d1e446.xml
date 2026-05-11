@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,25 +68,25 @@
         </p>
         <p xml:id="raWSwa-d1e446-d1e113">
           <lb ed="#P" n="5"/>Nunc de officio altaris dicamus. Et primo quidem
-          <lb ed="#P" n="6"/>dc sacerdotum indumentis, eorumdemque 
-          significa<lb break="no" ed="#P" n="7"/>uone , ac deinde quid officium missae, quid 
+          <lb ed="#P" n="6"/>de sacerdotum indumentis, eorumdemque 
+          significa<lb break="no" ed="#P" n="7"/>tione, ac deinde quid officium missae, quid 
           introi<lb break="no" ed="#P" n="8"/>tus, quidve tropi nominentur occurrit exponendum.
-          <lb ed="#P" n="9"/>Cactera eero breviter ordine veluti in summa 
+          <lb ed="#P" n="9"/>Caetera vero breviter ordine veluti in summa 
           qua<lb break="no" ed="#P" n="10"/>dam perstringemus. Res enim ardua est, et quae 
           in<lb break="no" ed="#P" n="11"/>genii nostri vires facile excedit. Sacerdos ergo 
           tan<lb break="no" ed="#P" n="12"/>quam advocatus et pugil cum antiquo hoste 
-          pugna<lb break="no" ed="#P" n="13"/>*urus, vestibus sacris quasi armis induitur. 
-          Sanda<lb break="no" ed="#P" n="14"/>la enim pro ocreis assumit, ne quid maculae vel
+          pugna<lb break="no" ed="#P" n="13"/>turus, vestibus sacris quasi armis induitur. 
+          Sanda<lb break="no" ed="#P" n="14"/>lia enim pro ocreis assumit, ne quid maculae vel
           <lb ed="#P" n="15"/>pulveris affectioni etiam inhaereat. Sic amictu pro
           <lb ed="#P" n="16"/>galea caput contegit, pro lorica totum corpus 
           coo<lb break="no" ed="#P" n="17"/>perit alba, cingulum assumens pro arcu, et 
           subcin<lb break="no" ed="#P" n="18"/>gulum pro pharetra. Vocatur autem subcingulum
           <lb ed="#P" n="19"/>quiddam in stola, quod ligatur cum cingulo. Cum
           <lb ed="#P" n="20"/>stola collum circumdat, quasi hastam contra 
-          reti<lb break="no" ed="#P" n="21"/>neniem vibrat. Manipulo pro clava utitur, casula
-          <lb ed="#P" n="22"/>quasi clypeo protegitur ; manus armatur libro pro
+          reti<lb break="no" ed="#P" n="21"/>nentem vibrat. Manipulo pro clava utitur, casula
+          <lb ed="#P" n="22"/>quasi clypeo protegitur; manus armatur libro pro
           <lb ed="#P" n="23"/>gladio. Atque ita instructus, ad postremum per 
-          con<lb break="no" ed="#P" n="24"/>fessionem diaboli renuutiat dominio.
+          con<lb break="no" ed="#P" n="24"/>fessionem diaboli renuntiat dominio.
         </p>
       </div>
     </body>
