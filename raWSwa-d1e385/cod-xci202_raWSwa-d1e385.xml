@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,32 +66,32 @@
           <lb ed="#P" n="8"/>CAPUT XXVII.
           <lb ed="#P" n="9"/>De officio diurno.
         </p>
-        <p xml:id="raWSwa-d1e385-d1e113">
+       <p xml:id="raWSwa-d1e385-d1e113">
           <lb ed="#P" n="10"/>Post noctis officium, agendum est de diurno,
-          <lb ed="#P" n="11"/>quod in septem partitur .distinctiones. videlicet in
+          <lb ed="#P" n="11"/>quod in septem partitur distinctiones, videlicet in
           <lb ed="#P" n="12"/>laudes matutinas, horam primam, tertiam, sextam,
           <lb ed="#P" n="13"/>nonam, vesperas, et completorium. Missa etenim
           <lb ed="#P" n="14"/>ad officium tertiae vel nonae spectat. Nam his 
-          dua<lb break="no" ed="#P" n="15"/>bus horis missa regulazlter celebratur. Quod autem
-          <lb ed="#P" n="16"/>dici offlcium septem horis distinctum agimus, a 
-          Pro<lb break="no" ed="#P" n="17"/>pheta habemus, qui ait : Septies indie laudem dizi tibi
-          <lb ed="#P" n="18"/>(Psal. cxxin). Sed cur, quaeso, ecpties? Quia cum
-          <lb ed="#P" n="19"/>nocturnum officium misericordiae tempus exprimaot,
-          <lb ed="#P" n="20"/>quo genus humanum a diaholo obsessum misere
+          dua<lb break="no" ed="#P" n="15"/>bus horis missa regulariter celebratur. Quod autem
+          <lb ed="#P" n="16"/>diei officium septem horis distinctum agimus, a 
+          Pro<lb break="no" ed="#P" n="17"/>pheta habemus, qui ait: Septies in die laudem dixi tibi
+          <lb ed="#P" n="18"/>(Psal. cxxiii). Sed cur, quaeso, septies? Quia cum
+          <lb ed="#P" n="19"/>nocturnum officium misericordiae tempus exprimat,
+          <lb ed="#P" n="20"/>quo genus humanum a diabolo obsessum misere
           <lb ed="#P" n="21"/>servabatur, optime sequitur, ut diei officium tempus
-          <lb ed="#P" n="22"/>dcsignet nostrae redemptionis, aut nostrae 
-          liberatiu<lb break="no" ed="#P" n="23"/>nis factae per Christum eolem justitiae, qui claritate
+          <lb ed="#P" n="22"/>designet nostrae redemptionis, aut nostrae 
+          liberatio<lb break="no" ed="#P" n="23"/>nis factae per Christum solem justitiae, qui claritate
           <lb ed="#P" n="24"/>suae divinitatis tenebras nostras illuminavit, atque
           <lb ed="#P" n="25"/>ex diaboli servitute nos extraxit, ita ut inde septies
-          <lb ed="#P" n="26"/>quoqoe die laudes Deo cantemus, quoniam nos
-          <lb ed="#P" n="27"/>tantuur boni; munere septiformis gratiae sancti 
-          Spi<lb break="no" ed="#P" n="28"/>ritus accepimus. Quandoquidem vero à tenebris
+          <lb ed="#P" n="26"/>quoque die laudes Deo cantemus, quoniam nos
+          <lb ed="#P" n="27"/>tantum boni munere septiformis gratiae sancti 
+          Spi<lb break="no" ed="#P" n="28"/>ritus accepimus. Quandoquidem vero a tenebris
           <lb ed="#P" n="29"/>peccatorum per viam poenitentiae ad vitae libertatem
           <lb ed="#P" n="30"/>pervenitur, hinc natum est ut diebus profestis seu
           <lb ed="#P" n="31"/>feriis ad laudes matutinas caneretur psalmus ille
           <lb ed="#P" n="32"/>poenitentialis, nimirum, Miserere mei, Deus (Psal.
-          <lb ed="#P" n="33"/>L). Diebus autem festis, excepto Quadragesimae
-          <lb ed="#P" n="34"/>tempore : Dominus regnavit, decorem (Psal. xcn).De
+          <lb ed="#P" n="33"/>l). Diebus autem festis, excepto Quadragesimae
+          <lb ed="#P" n="34"/>tempore: Dominus regnavit, decorem (Psal. xii). De
           <lb ed="#P" n="35"/>quo ut de psalmis aliis, dicetur postea.
         </p>
       </div>
