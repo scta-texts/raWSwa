@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+          <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,21 +67,21 @@
           <lb ed="#P" n="64"/>De processionibus.
         </p>
         <p xml:id="raWSwa-d1e142-d1e113">
-          <lb ed="#P" n="65"/>Processiones denique duae sunt : una est, quam
-          <lb ed="#P" n="66"/>singulis annis observamus in Ramis Palinarum. Sic
-          <lb ed="#P" n="67"/>enim illam vocamus Dominicam, quae presxime prae
-          <lb ed="#P" n="68"/>cedit Pascha. Atque haec quidem illam repraesentat
+          <lb ed="#P" n="65"/>Processiones denique duae sunt: una est, quam
+          <lb ed="#P" n="66"/>singulis annis observamus in Ramis Palmarum. Sic
+          <lb ed="#P" n="67"/>enim illam vocamus Dominicam, quae proxime prae
+          cedit<lb ed="#P" n="68"/>Pascha. Atque haec quidem illam repraesentat
           <lb ed="#P" n="69"/>processionem, quae Domino fuit exhibita a turbis
-          <lb ed="#P" n="70"/>Julaeorum, et pueris cum ramis palmarum, cum
-          <lb ed="#P" n="71"/>insidens asinae Jerosolyman veniret. Altera vero
+          <lb ed="#P" n="70"/>Judaeorum, et pueris cum ramis palmarum, cum
+          <lb ed="#P" n="71"/>insidens asinae Jerosolymam veniret. Altera vero
           <lb ed="#P" n="72"/>est, quam Doninicis diebus celebramus in ejus
-          <lb ed="#P" n="73"/>menioriam, quam discipuli Christo exhibuerunt
+          <lb ed="#P" n="73"/>memoriam, quam discipuli Christo exhibuerunt
           <lb ed="#P" n="74"/>ipso die Ascensionis, postquam cum eo simul ad
-          <lb ed="#P" n="75"/>montem Oliveti congredicbantur, unde illis 
-          videnti<lb break="no" ed="#P" n="76"/>bus assumptus est. Non quod illud die Dominice
+          <lb ed="#P" n="75"/>montem Oliveti congrediebantur, unde illis 
+          videnti<lb break="no" ed="#P" n="76"/>bus assumptus est. Non quod illud die Dominico
           <lb ed="#P" n="77"/>factum sit, sed processio et omnis istius diei 
-          cele<lb break="no" ed="#P" n="78"/>bratie in diem Dominicum translata est, ut a popule
-          <lb ed="#P" n="79"/>tunc maxime ad ecclesiam confugiente et simul es
+          cele<lb break="no" ed="#P" n="78"/>bratio in diem Dominicum translata est, ut a populo
+          <lb ed="#P" n="79"/>tunc maxime ad ecclesiam confugiente et simul et
           <lb ed="#P" n="80"/>solemnius coli possit.
         </p>
       </div>
