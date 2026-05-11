@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -59,36 +64,36 @@
           <lb ed="#P" n="71"/>De aliis sex horis.
         </p>
         <p xml:id="raWSwa-d1e410-d1e110">
-          <lb ed="#P" n="72"/>Sequitur de aliis sex horis, sub quibus stem sex
-          <lb ed="#P" n="73"/>aliac comprehenduntur. Diei itaque duodecim horae
-          <lb ed="#P" n="74"/>auribuuntur, et totidem nocti. Sub prima hora
+          <lb ed="#P" n="72"/>Sequitur de aliis sex horis, sub quibus item sex
+          <lb ed="#P" n="73"/>aliae comprehenduntur. Diei itaque duodecim horae
+          <lb ed="#P" n="74"/>attribuuntur, et totidem nocti. Sub prima hora
           <lb ed="#P" n="75"/>duas complectimur, ipsam videlicet primam et 
           se<lb break="no" ed="#P" n="76"/>cundam; sub tertia tres, ipsam tertiam, et quartam
           <lb ed="#P" n="77"/>et quintam; sub sexta itidem tres, ipsam sextam,
           <lb ed="#P" n="78"/>septimam et octavam; sub nona duas, ipsam nonam
-          <lb ed="#P" n="79"/>et decimam; vesperse repraesentant undecimam;
-          <lb ed="#P" n="80"/>completorium duodecimam. A£ roget aliquis cur
+          <lb ed="#P" n="79"/>et decimam; vesperae repraesentant undecimam;
+          <lb ed="#P" n="80"/>completorium duodecimam. At roget aliquis cur
           <lb ed="#P" n="81"/>potius hisce diei horis diurnum celebretur officium,
           <lb ed="#P" n="82"/>scilicet prima quam secunda, tertia quam quarta
           <lb ed="#P" n="83"/>vel quinta, sexta quam septima aut octava, nona
           <lb ed="#P" n="84"/>quam decima. Quoniam istae horae quibusdam 
           in<lb break="no" ed="#P" n="85"/>signiuntur privilegiis. Prima enim hora Christus
-          <lb ed="#P" n="86"/>Pilato a Judais traditus fuit, et a merte resurgens
+          <lb ed="#P" n="86"/>Pilato a Judaeis traditus fuit, et a morte resurgens
           <lb ed="#P" n="87"/>prima hora Mariae Magdalenae apparuit. Prima hora
           <lb ed="#P" n="88"/>visus est in littore septem discipulis piscantibus,
-          <lb ed="#P" n="89"/>quibus dixit : Pueri, habetis aliquid pulmenti?
-          <lb ed="#P" n="90"/>(Jean. xxi) Hora vero tertia crucifixus est linguis
-          <lb ed="#P" n="91"/>Judsgorum et flagellatus, eademque hora Spiritus
+          <lb ed="#P" n="89"/>quibus dixit: Pueri, habetis aliquid pulmenti?
+          <lb ed="#P" n="90"/>(Joan. xxi) Hora vero tertia crucifixus est linguis
+          <lb ed="#P" n="91"/>Judaeorum et flagellatus, eademque hora Spiritus
           <lb ed="#P" n="92"/>sanctus ipso die Pentecostes discipulis fuit datus;
           <lb ed="#P" n="93"/>sexta hora Christus pro nobis ligno crucis clavis
-          <lb ed="#P" n="94"/>affixus est, atque eadem quoque hora, ipso d.e
+          <lb ed="#P" n="94"/>affixus est, atque eadem quoque hora, ipso die
           <lb ed="#P" n="95"/>ascensionis, cum discipulis discubuit. Nona hora
           <lb ed="#P" n="96"/>exclamans spiritum emisit, et lanceatus e latere
           <lb ed="#P" n="97"/>corporis sui duo nobis eduxit sacramenta, aquam
           <lb ed="#P" n="98"/>videlicet baptismatis et sanguinem redemptionis ac
           <lb ed="#P" n="99"/>salvationis nostrae. Vespere de cruce depositus est,
           <lb ed="#P" n="100"/>qua item hora in ultima coena cum discipulis suis
-          <lb ed="#P" n="101"/>cocnavit, ubi illis sacramentum corporis et sanguinis
+          <lb ed="#P" n="101"/>coenavit, ubi illis sacramentum corporis et sanguinis
           <lb ed="#P" n="102"/>sui tradidit, quod nobis saluberrimum testamentum
           <lb ed="#P" n="103"/>hinc discedens reliquit. Eadem rursus hora duobus
           <lb ed="#P" n="104"/>suis discipulis proficiscentibus in Emmaus in 
