@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 5</title>
+        <author ref="#JohnBelethus">John Belethus</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 5</title>
+          <date when="2026-05-11">May 11, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="cod-jbvarl">Vatican, Reg. lat, 256</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-05-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="3-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="raWSwa-d1e118"><!-- raWSwa-c5 -->
+        <head>Caput 4</head>
+        <head type="question-title">
+          De festis
+        </head>
+        <p xml:id="raWSwa-d1e118-d1e106">
+          De festis
+        </p>
+        <p xml:id="raWSwa-d1e118-d1e113">
+          <lb ed="#R" n="20"/>Festorum quaedam sunt generalia <pc type="punctus"/> quaedam particularia <pc type="punctus"/> Generalia sunt quae 
+          <lb ed="#R"/>ab omnibus generaliter celebrantur <pc type="punctus"/> vt festa trinitatis et beatae mariae <pc type="punctus"/>  
+          <lb ed="#R"/>et sanctae crucis <pc type="punctus"/> apostolorum euangelistarum <pc type="punctus"/> et sancti iohannis baptistae et sancti lau<lb ed="#R"/>rentii 
+          et sancti nicolai et sancti silvestri aut sancti martini <pc type="punctus"/> festa par<lb ed="#R"/>ticularia 
+          sunt quae tantum in una coluntur provincia, ut festum B. Hilarii,
+          quod in Aquitania duntaxat observatur. Vel etiam
+          quae in uno fiunt episcopatu, vel in una villa aut
+          parochia, dicuntur festa particularia. Notandum
+          interim obiter hic est, in colendis festis dignitatem
+          quamdam et ordinem esse attendendum. Festa 
+          etenim Trinitatis digniori cultu sunt celebranda,
+          deinde festa B. Mariae, praecipue tamen 
+          Assumptionis, ac tandem quoque festa S. crucis, quae duo
+          sunt. De aliis ante intelligenti facile est judicare.
+          Quot sunt festa Trinitatis, tot B. Mariae esse 
+          sciendum est. Causae vero festorum quae sint, et cur
+          quaedam non suo tempore, sed alieno celebrentur,
+          sequentia commodius declarabunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
