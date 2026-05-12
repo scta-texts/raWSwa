@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -66,58 +71,58 @@
         <p xml:id="raWSwa-d1e544-d1e115">
           <lb ed="#P" n="29"/>Post evangelium statim debet subjungi symbolum
           <lb ed="#P" n="30"/>fidei, scilicet : Credo in unum Deum Patrem, etc.,
-          <lb ed="#P" n="31"/>si solemnitas fucrit. Ncc tamen in omni 
+          <lb ed="#P" n="31"/>si solemnitas fuerit. Nec tamen in omni 
           solemni<lb break="no" ed="#P" n="32"/>tate, sed eorum tantummodo festis, quorum in 
           sym<lb break="no" ed="#P" n="33"/>bolo fit mentio, ut in festo Trinitatis, in Natali, 
           Cir<lb break="no" ed="#P" n="34"/>cumcisione, Epiphania, Paschate, Ascensione, 
           Pen<lb break="no" ed="#P" n="35"/>tecoste, in festo Omnium Sanctorum, 
           Transfigura<lb break="no" ed="#P" n="36"/>tionis Domini, B. Mariae, et omnium Apostolorum,
-          <lb ed="#P" n="37"/>S. Crucis, et omnibus dicbus Dominicis. In aliis 
-          av<lb break="no" ed="#P" n="38"/>tem solemnitatibus dici non debcet. Nec vero in 
-          so<lb break="no" ed="#P" n="39"/>lemnitate angelorum cantari solet, quia illinon 
-          cre<lb break="no" ed="#P" n="40"/>uunt, imo jam sciunt, cum plenam et perfectam
-          <lb ed="#P" n="41"/>babeant scientiam. Nec praeterca cani consuetum est
-          <lb ed="#P" n="42"/>fa solemnitate duorum evangclistarum, qui non 
-          fuc<lb break="no" ed="#P" n="43"/>runt apostoli, scilicet Lucae et Marci. Sunt qui 
-          di<lb break="no" ed="#P" n="44"/>cunt symbolum dici deberc in festo D. Joanunis
-          <lb ed="#P" n="45"/>Baptistae, quia tum fuit commenmorata Christi 
-          nati<lb break="no" ed="#P" n="46"/>vitas. Scd cadem ratiione qualibet die fit mentio B.
-          <lb ed="#P" n="47"/>Mariae, adcoque omni die caccndum foret. Nounulli
-          <lb ed="#P" n="48"/>eiiam putant quod in eorum festivitatibus cantari
-          <lb ed="#P" n="49"/>decbeat qui illud composuerunt, atque cjus rei 
-          gra<lb break="no" ed="#P" n="50"/>vua buc illud afferunt quod in Evangelio Joannis 
+          <lb ed="#P" n="37"/>S. Crucis, et omnibus diebus Dominicis. In aliis 
+          au<lb break="no" ed="#P" n="38"/>tem solemnitatibus dici non debet. Nec vero in 
+          so<lb break="no" ed="#P" n="39"/>lemnitate angelorum cantari solet, quia illi non 
+          cre<lb break="no" ed="#P" n="40"/>dunt, imo jam sciunt, cum plenam et perfectam
+          <lb ed="#P" n="41"/>habeant scientiam. Nec praeterea cani consuetum est
+          <lb ed="#P" n="42"/>in solemnitate duorum evangelistarum, qui non 
+          fue<lb break="no" ed="#P" n="43"/>runt apostoli, scilicet Lucae et Marci. Sunt qui 
+          di<lb break="no" ed="#P" n="44"/>cunt symbolum dici debere in festo B. Joannis
+          <lb ed="#P" n="45"/>Baptistae, quia tum fuit commemorata Christi 
+          nati<lb break="no" ed="#P" n="46"/>vitas. Sed eadem ratione qualibet die fit mentio B.
+          <lb ed="#P" n="47"/>Mariae, adeoque omni die canendum foret. Nonnulli
+          <lb ed="#P" n="48"/>etiam putant quod in eorum festivitatibus cantari
+          <lb ed="#P" n="49"/>debeat qui illud composuerunt, atque ejus rei 
+          gra<lb break="no" ed="#P" n="50"/>tia huc illud afferunt quod in Evangelio Joannis 
           in<lb break="no" ed="#P" n="51"/>venitur quod nimirum in dies fides apostolorum
-          <lb ed="#P" n="52"/>ercscebat propter miracula quae fiebant (Joan. ),
-          <lb ed="#P" n="53"/>quanquam alibi auctoritas habeat, fidem non babere
-          <lb ed="#P" n="54"/>mmcritum, cui humana ratio praebet experimentum.
+          <lb ed="#P" n="52"/>crescebat propter miracula quae fiebant (Joan. ii),
+          <lb ed="#P" n="53"/>quanquam alibi auctoritas habeat, fidem non habere
+          <lb ed="#P" n="54"/>meritum, cui humana ratio praebet experimentum.
           <lb ed="#P" n="55"/>Pronuntiato symbolo sub finem ipsius debet fieri
-          <lb ed="#P" n="56"/>signum crucis, quoniam verbum est cvangelicum
-          <lb ed="#P" n="57"/>non secus atque ipsum cvangclium, nisi quod sit
+          <lb ed="#P" n="56"/>signum crucis, quoniam verbum est evangelicum
+          <lb ed="#P" n="57"/>non secus atque ipsum evangelium, nisi quod sit
           <lb ed="#P" n="58"/>verbum abbreviatum. Unde dictum est de eo: 
-          Ver<lb break="no" ed="#P" n="59"/>eun abbreviatum facict Dominus super terram (iom.
+          Ver<lb break="no" ed="#P" n="59"/>bum abbreviatum faciet Dominus super terram (Rom.
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>ix). Et hoc modo : Veniet verbum ubbresiatum super
+          <lb ed="#P" n="60"/>ix). Et hoc modo: Veniet verbum abbreviatum super
           <lb ed="#P" n="61"/>filios Dei (Isa. x). Similiter quoque in omnibus 
           ver<lb break="no" ed="#P" n="62"/>bis evangelicis signum crucis fieri oportet, 
-          quemad<lb break="no" ed="#P" n="63"/>modum sub finem Orationis Dominicae, Gloria in ea-.
-          <lb ed="#P" n="64"/>celsis, Benedictus, Magnificat, et Nunc dimittis, qusa
+          quemad<lb break="no" ed="#P" n="63"/>modum sub finem Orationis Dominicae, Gloria in
+          ex<lb break="no" ed="#P" n="64"/>celsis, Benedictus, Magnificat, et Nunc dimittis, quae
           <lb ed="#P" n="65"/>omnia perinde atque evangelium stando audiri 
           de<lb break="no" ed="#P" n="66"/>bent. Notandum est quatuor esse symbola, minimum
           <lb ed="#P" n="67"/>quod a cunctis communiter in quotidiana oratione
-          <lb ed="#P" n="68"/>dicitur, et quod apostoli simul composuerunt ; 
-          se<lb break="no" ed="#P" n="69"/>cundum est quod in prima recitatur : Quicunque
-          <lb ed="#P" n="70"/>vult saltus esse, quod ab Athanasio patriarcha.
-          <lb ed="#P" n="71"/>Alexandrino contra Arianos haereticos compositum.
+          <lb ed="#P" n="68"/>dicitur, et quod apostoli simul composuerunt; 
+          se<lb break="no" ed="#P" n="69"/>cundum est quod in prima recitatur: Quicunque
+          <lb ed="#P" n="70"/>vult salvus esse, quod ab Athanasio patriarcha
+          <lb ed="#P" n="71"/>Alexandrino contra Arianos haereticos compositum
           <lb ed="#P" n="72"/>est, licet plerique eum Anastasium fuisse falso 
           ar<lb break="no" ed="#P" n="73"/>bitrentur; tertium est quod Constantinopolitana
-          <lb ed="#P" n="74"/>synodus edidit, vidclicet quod in missa hactenus
+          <lb ed="#P" n="74"/>synodus edidit, videlicet quod in missa hactenus
           <lb ed="#P" n="75"/>cani consuetum est; quartum est quod ex Nicaeno
           <lb ed="#P" n="76"/>concilio prodiit. Scripsit vero B. Hilarius 
-          Picta<lb break="no" ed="#P" n="77"/>vicnsis cpiscopus librum De synodis, in quo et illud
+          Picta<lb break="no" ed="#P" n="77"/>viensis episcopus librum De synodis, in quo et illud
           <lb ed="#P" n="78"/>composuit, ac legi oportet in omni synodo, vel 
-          to<lb break="no" ed="#P" n="79"/>tum vel saltem cjus aliqua particula. Ex quo sane
+          to<lb break="no" ed="#P" n="79"/>tum vel saltem ejus aliqua particula. Ex quo sane
           <lb ed="#P" n="80"/>liquido apparet quam illi errent qui aliam ibi 
-          lc<lb break="no" ed="#P" n="81"/>gunt Iectionem.
+          le<lb break="no" ed="#P" n="81"/>gunt lectionem.
         </p>
       </div>
     </body>
