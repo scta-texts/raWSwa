@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,8 +67,8 @@
           <lb ed="#P" n="103"/>De pace.
         </p>
         <p xml:id="raWSwa-d1e641-d1e113">
-          <lb ed="#P" n="104"/>Postea inquit sacerdos : Pax Domini sit semper
-          <lb ed="#P" n="105"/>vobiscum ; quod spectat ad tertiam partem missae.
+          <lb ed="#P" n="104"/>Postea inquit sacerdos: Pax Domini sit semper
+          <lb ed="#P" n="105"/>vobiscum; quod spectat ad tertiam partem missae.
           <lb ed="#P" n="106"/>Notandum tamen est quod tacite hic sacerdotem
           <lb ed="#P" n="107"/>quamdam orationem dicere oporteat, quae in 
           Am<lb break="no" ed="#P" n="108"/>brosiana Ecclesia aperte pronuntiatur. Accepto 
@@ -71,24 +76,24 @@
           <lb ed="#P" n="110"/>placet, vel ut censent alii, ab ipso sepulcro et altari,
           <lb ed="#P" n="111"/>impartit illud diacono aut subdiacono, ut per eos
           <lb ed="#P" n="112"/>descendat ad alios. Sed cavendum est ne ab ipsis
-          <lb ed="#P" n="113"/>viris tradatur mulieribus, ne forsitan lasciviae quid-
+          <lb ed="#P" n="113"/>viris tradatur mulieribus, ne forsitan lasciviae
           <pb ed="#P" n="28"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>piam in animum, aut carnalitatis clanculum 
-          subre<lb break="no" ed="#P" n="2"/>pat. Agnus Dei ter canitur. Hic est ille verus 4gnus
-          <lb ed="#P" n="3"/>decloratus et adumbratus in paschali, de quo sic 
+          quid<lb break="no" ed="#P" n="1"/>piam in animum, aut carnalitatis clanculum 
+          subre<lb break="no" ed="#P" n="2"/>pat. Agnus Dei ter canitur. Hic est ille verus Agnus
+          <lb ed="#P" n="3"/>declaratus et adumbratus in paschali, de quo sic 
           ha<lb break="no" ed="#P" n="4"/>betur in Evangelio : Ecce Agnus Dei, qui tollit 
-          pec<lb break="no" ed="#P" n="5"/>cata mundi (Joan. 1). Ter autem ideo canitur, ut ejus
-          <lb ed="#P" n="6"/>corpus triformc intelligatur, illud videlicet quod in
-          <lb ed="#P" n="7"/>ceelo est glorificatum ; mysticum, quod etiamnum
-          <lb ed="#P" n="8"/>in terra ambulat , et quod in sepulcris usque ad 
+          pec<lb break="no" ed="#P" n="5"/>cata mundi (Joan. i). Ter autem ideo canitur, ut ejus
+          <lb ed="#P" n="6"/>corpus triforme intelligatur, illud videlicet quod in
+          <lb ed="#P" n="7"/>coelo est glorificatum ; mysticum, quod etiamnum
+          <lb ed="#P" n="8"/>in terra ambulat, et quod in sepulcris usque ad 
           ex<lb break="no" ed="#P" n="9"/>tremum judicii examen quiescit. Bis dicitur cum
           <lb ed="#P" n="10"/>Miserere nobis, tertio cum Dona nobis pacem. In
           <lb ed="#P" n="11"/>coena vero Domini ter debet dici, cum Miserere 
           no<lb break="no" ed="#P" n="12"/>bis. Sed horum neutrum adjungitur in missa pro 
-          de<lb break="no" ed="#P" n="13"/>functis, verum ter cum Dona ceis requiem. Ubique
+          de<lb break="no" ed="#P" n="13"/>functis, verum ter cum Dona eis requiem. Ubique
           <lb ed="#P" n="14"/>observandum est, ut non continuo, sed interpolate
-          <lb ed="#P" n="15"/>ac sejunctim cum oratione interposita dicatur. Ayvoc
+          <lb ed="#P" n="15"/>ac sejunctim cum oratione interposita dicatur. <foreign>Aγνὸς</foreign>
           <lb ed="#P" n="16"/>vero Graece dicitur purus et pius, quia sola pietate
           <lb ed="#P" n="17"/>ut pura hostia nos redemit. Vel ab agnoscendo, quod
           <lb ed="#P" n="18"/>sicut agnus solo balatu matrem cognoscit, ita
@@ -96,38 +101,38 @@
           <lb ed="#P" n="20"/>Virginem virgini commendaverit. Atque hinc quoque
           <lb ed="#P" n="21"/>esse potest, quod ter cantatur Agnus Dei : quoniam
           <lb ed="#P" n="22"/>Christus pendens in cruce Patrem suum cognovit,
-          <lb ed="#P" n="23"/>ei ad mortem usque obediendo, et eade:n cruce 
-          sulli<lb break="no" ed="#P" n="24"/>xus agnovit matrem suam, eamque virgini 
-          commen<lb break="no" ed="#P" n="25"/>davit, ac tandem etiam ibidem humanum genus 
+          <lb ed="#P" n="23"/>ei ad mortem usque obediendo, et eadem cruce 
+          suf<lb break="no" ed="#P" n="24"/>fixus agnovit matrem suam, eamque virgini 
+          com<lb break="no" ed="#P" n="25"/>mendavit, ac tandem etiam ibidem humanum genus 
           re<lb break="no" ed="#P" n="26"/>dimendo agnovit. Quod autem hic bis repetitur, 
           Mi<lb break="no" ed="#P" n="27"/>serere nobis, et tertio variatur per Dona nobis pacem,
           <lb ed="#P" n="28"/>totum illud ex veteri Testamento depromptum est,
-          <lb ed="#P" n="29"/>ubi cum clamarent ad Dominum, dicere soliti erant:
-          <lb ed="#P" n="30"/>Parce, Domine, parce populo tuo (Jocl m), ac 
-          sub<lb break="no" ed="#P" n="31"/>juugere tertio : Ne dederis hareditatem tuam in 
+          <lb ed="#P" n="29"/>ubi cum clamarent ad Dominum, dicere soliti erant :
+          <lb ed="#P" n="30"/>Parce, Domine, parce populo tuo (Joel ii), ac 
+          sub<lb break="no" ed="#P" n="31"/>jungere tertio: Ne dederis haereditatem tuam in 
           op<lb break="no" ed="#P" n="32"/>probrium (ibid.). Cum igitur dicimus, Agnus Dei qui
-          <lb ed="#P" n="33"/>tollit peccata, expresse Joannem Baptistamn 
-          imita<lb break="no" ed="#P" n="34"/>mur, qui ait : Ecce Agnus Dei, ecce quitollit peccata
-          <lb ed="#P" n="35"/>mundi (Joan. 1). lllud certe ignorari non debet,
+          <lb ed="#P" n="33"/>tollit peccata, expresse Joannem Baptistam 
+          imita<lb break="no" ed="#P" n="34"/>mur, qui ait : Ecce Agnus Dei, ecce qui tollit peccata
+          <lb ed="#P" n="35"/>mundi (Joan. i). Illud certe ignorari non debet,
           <lb ed="#P" n="36"/>olim in primitiva Ecclesia singulis diebus qui 
           ca<lb break="no" ed="#P" n="37"/>noni missae intererant solitos fuisse communicare.
           <lb ed="#P" n="38"/>Sed postea, crescente multitudine fidelium, fuit 
-          insti<lb break="no" ed="#P" n="39"/>tutum ut tantum Dominicis dicbus communicaretur.
+          insti<lb break="no" ed="#P" n="39"/>tutum ut tantum Dominicis diebus communicaretur.
           <lb ed="#P" n="40"/>Quod etiam paulo post, cum observari non potuit,
-          <lb ed="#P" n="41"/>abiit in desuetudinerm, ac tertia subsecuta est 
+          <lb ed="#P" n="41"/>abiit in desuetudinem, ac tertia subsecuta est 
           insti<lb break="no" ed="#P" n="42"/>tutio, ut saltem ter quoque anno, in Natali, Paschate
           <lb ed="#P" n="43"/>et Pentecoste omnes Christiani eucharistiam 
           sume<lb break="no" ed="#P" n="44"/>rent. Invento tamen triplici remedio, ut singulis 
           ni<lb break="no" ed="#P" n="45"/>mirum diebus osculum pacis daretur, ac Dominicis
           <lb ed="#P" n="46"/>diebus eulogia, id est panis benedictus et 
-          consecra<lb break="no" ed="#P" n="47"/>tus, quod in Quadragesima et temporibus 
-          abstinen<lb break="no" ed="#P" n="48"/>tie deputatis salvo jejunio observari non potuit.
+          conse<lb break="no" ed="#P" n="47"/>cratus, quod in Quadragesima et temporibus 
+          absti<lb break="no" ed="#P" n="48"/>nentiae deputatis salvo jejunio observari non potuit.
           <lb ed="#P" n="49"/>Quare tunc hujusmodi fuit promulgata institutio,
           <lb ed="#P" n="50"/>ut collecta diceretur super populum sub finem
           <lb ed="#P" n="51"/>missae, dicendo : Inclinate capita vestra Deo, cum
           <lb ed="#P" n="52"/>videlicet minor aliquis sacerdos celebrat. Sed si
           <lb ed="#P" n="53"/>episcopus, inquiet : Humiliate vos ad 
-          benedictie<lb break="no" ed="#P" n="54"/>nem.
+          benedicti<lb break="no" ed="#P" n="54"/>onem.
         </p>
       </div>
     </body>
