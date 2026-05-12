@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -69,36 +74,36 @@
           pe<lb break="no" ed="#P" n="86"/>nitus demittatur. Hinc notandum est nos eadem 
           ra<lb break="no" ed="#P" n="87"/>tione quinque digitis pectus tundere, quam quinque
           <lb ed="#P" n="88"/>canimus psalmos. Monachi vero, in quo se 
-          perfe<lb break="no" ed="#P" n="89"/>ctiores esse ostendunt, tantum quatuor dieunt. 
+          perfe<lb break="no" ed="#P" n="89"/>ctiores esse ostendunt, tantum quatuor dicunt. 
           Quid<lb break="no" ed="#P" n="90"/>quid enim quadratum est, in quamcunque partem
-          <lb ed="#P" n="91"/>vertotur, manet semper idem, firmum ac solidum.
+          <lb ed="#P" n="91"/>vertatur, manet semper idem, firmum ac solidum.
           <lb ed="#P" n="92"/>Ad eumdem sane modum profectus, quocunque
-          <lb ed="#P" n="93"/>loco aut quocungue tempore, semper idem atque
+          <lb ed="#P" n="93"/>loco aut quocunque tempore, semper idem atque
           <lb ed="#P" n="94"/>immobilis permanet. Finitis psalmis parva sequitur
-          <lb ed="#P" n="95"/>lectio sine 4ube, domne, et sine Tu autem, domine,
-          <lb ed="#P" n="96"/>hoc est capitulum, ac deinde responsorium vel efus
+          <lb ed="#P" n="95"/>lectio sine Jube, domne, et sine Tu autem, domine,
+          <lb ed="#P" n="96"/>hoc est capitulum, ac deinde responsorium vel ejus
           <lb ed="#P" n="97"/>loco versus, cum hymnis et antiphona, ac deinceps
           <lb ed="#P" n="98"/>Magnificat. Plerumque tamen hymnus beatae Mariae,
           <lb ed="#P" n="99"/>videlicet Magnificat, loco hymni ponitur, ut 
-          prae<lb break="no" ed="#P" n="100"/>terea nultus alius canatur. Sequitur tandem collecta,
+          prae<lb break="no" ed="#P" n="100"/>terea nullus alius canatur. Sequitur tandem collecta,
           <lb ed="#P" n="101"/>quam orationem diximus. Volumus autem, ut huc
           <lb ed="#P" n="102"/>usque a nobis factum est, consuetis et 
-          ecclesia<lb break="no" ed="#P" n="103"/>sticis, ut qui officiatradamus ecclesiastica, deinceps
+          ecclesia<lb break="no" ed="#P" n="103"/>sticis, ut qui officiis tradamus ecclesiastica, deinceps
           <lb ed="#P" n="104"/>uti vocabulis. Sciendum ergo est quod de eodem
-          <lb ed="#P" n="105"/>die eodemque festo vparva debeat cantari lectio.
+          <lb ed="#P" n="105"/>die eodemque festo parva debeat cantari lectio.
           <lb ed="#P" n="106"/>Verbi gratia : Si de praecedenti Dominica unum,
-          <lb ed="#P" n="107"/>et reliquum; si de sequenti unum., et reliquum.
+          <lb ed="#P" n="107"/>et reliquum; si de sequenti unum, et reliquum.
           <lb ed="#P" n="108"/>Animadvertendum praeterea est quod, quando fuerit
-          <lb ed="#P" n="109"/>solemnitas novem lectionum, illius vesperse totae
-          <lb ed="#P" n="110"/>dcbent celebrari, ut in festo B. Stephani et B. 
-          Joan<lb break="no" ed="#P" n="111"/>nis cvangelistoe. Post vesperas necessario dicitur
-          <lb ed="#P" n="112"/>collecta dc sancto cujus est festum sequens, vcl
+          <lb ed="#P" n="109"/>solemnitas novem lectionum, illius vesperae totae
+          <lb ed="#P" n="110"/>debent celebrari, ut in festo B. Stephani et B. 
+          Joan<lb break="no" ed="#P" n="111"/>nis evangelistae. Post vesperas necessario dicitur
+          <lb ed="#P" n="112"/>collecta de sancto cujus est festum sequens, vel
           <lb ed="#P" n="113"/>antiphona cum Magnificat. Unum tamen excipitur,
           <pb ed="#P" n="30"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>festum videlicet S. Sylvestri, quod etiamsi novem
-          <lb ed="#P" n="2"/>habeat lectiones ejus, tamen vesperae sunt festi
-          <lb ed="#P" n="3"/>sequentiae.
+          <lb ed="#P" n="2"/>habet lectiones, tamen vesperae sunt festi
+          <lb ed="#P" n="3"/>sequentis.
         </p>
       </div>
     </body>
