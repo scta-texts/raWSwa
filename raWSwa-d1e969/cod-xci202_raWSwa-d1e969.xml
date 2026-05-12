@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,22 +67,22 @@
           <lb ed="#P" n="5"/>De festis sanctorum.
         </p>
         <p xml:id="raWSwa-d1e969-d1e113">
-          <lb ed="#P" n="6"/>Nunc ergo ad festa prosime sequentia breviter
-          <lb ed="#P" n="7"/>transcurramus. AÁc de B. Agnete quidem, cujus
+          <lb ed="#P" n="6"/>Nunc ergo ad festa proxime sequentia breviter
+          <lb ed="#P" n="7"/>transcurramus. Ac de B. Agnete quidem, cujus
           <lb ed="#P" n="8"/>Vitam composuisse dicitur Ambrosius, hoc solum
-          <lb ed="#P" n="9"/>scire sufficiat quod uctavas non habet institutionis.
+          <lb ed="#P" n="9"/>scire sufficiat quod octavas non habet institutionis.
           <lb ed="#P" n="10"/>Caetero quin octavas habet alterius significationis
           <lb ed="#P" n="11"/>causa. Ejus autem solemnitas celebrari coepta est
-          <lb ed="#P" n="12"/>propter quoddam miraculum, quod octavo die suia
-          <lb ed="#P" n="13"/>contigit parentipus, ad ejus tumulum lamentantibus.
-          <lb ed="#P" n="14"/>Ín festo B. Pauli cantantur quidam versus cum 
-          anti<lb break="no" ed="#P" n="15"/>phbonis, quemadmodum etiam fit in festo B. 
+          <lb ed="#P" n="12"/>propter quoddam miraculum, quod octavo die suis
+          <lb ed="#P" n="13"/>contigit parentibus, ad ejus tumulum lamentantibus.
+          <lb ed="#P" n="14"/>In festo B. Pauli cantantur quidam versus cum 
+          anti<lb break="no" ed="#P" n="15"/>phonis, quemadmodum etiam fit in festo B. 
           Lau<lb break="no" ed="#P" n="16"/>rentii et B. Stephani. Paulus enim plus omnibus
           <lb ed="#P" n="17"/>laboravit in concionando et praedicando. Laurentius
           <lb ed="#P" n="18"/>gravius caeteris passus est, et Stephanus pro fide
-          <lb ed="#P" n="19"/>Cbhristi primus martyr enxstitit. Idem etiam fieri
+          <lb ed="#P" n="19"/>Christi primus martyr exstitit. Idem etiam fieri
           <lb ed="#P" n="20"/>oportet de B. Maria, quod privilegiata sit in 
-          virgini<lb break="no" ed="#P" n="21"/>tate, quia Virgo virginum et fuit et dicta est.
+          virgi<lb break="no" ed="#P" n="21"/>nitate, quia Virgo virginum et fuit et dicta est.
         </p>
       </div>
     </body>
