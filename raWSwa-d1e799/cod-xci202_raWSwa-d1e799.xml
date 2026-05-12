@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,12 +68,12 @@
         </p>
         <p xml:id="raWSwa-d1e799-d1e113">
           <lb ed="#P" n="6"/>In Septuagesima ergo legimus totum 
-          Pentateu<lb break="no" ed="#P" n="7"/>chum, quoad dies isti sint, videlicet quindecim ánte
+          Pentateu<lb break="no" ed="#P" n="7"/>chum, quoad dies isti sint, videlicet quindecim ante
           <lb ed="#P" n="8"/>Pascha. Atque ita quatuor omnino cantantur 
-          histo<lb break="no" ed="#P" n="9"/>riz, nimirum ex libris Geneseos, et quartus de
+          histo<lb break="no" ed="#P" n="9"/>riae, nimirum ex libris Geneseos, et quartus de
           <lb ed="#P" n="10"/>Exodo. Primus liber Mosis est Genesis, in quo 
           agi<lb break="no" ed="#P" n="11"/>tur de origine mundi ; secundus Exodus, in quo de
-          <lb ed="#P" n="12"/>exitu agitur populi Israelitici ex 4Egypto; tertius
+          <lb ed="#P" n="12"/>exitu agitur populi Israelitici ex Aegypto; tertius
           <lb ed="#P" n="13"/>Leviticus; Quartus est Numeri; quintus 
           Deutero<lb break="no" ed="#P" n="14"/>nomius, hoc est lex altera, cujus velut quamdam
           <lb ed="#P" n="15"/>tradit anacephaleosin, sive recapitulationem. Per 
@@ -76,22 +81,22 @@
           <lb ed="#P" n="17"/>Jeremias et liber Baruch notarii ejus, ut quidam
           <lb ed="#P" n="18"/>testantur, sub eodem volumine. Et quidem Jeremiae
           <lb ed="#P" n="19"/>Threni, sive Lamentationes, recitantur per triduum
-          <lb ed="#P" n="20"/>illud ante Pascha , quod appellamus Tenebras. 
-          Di<lb break="no" ed="#P" n="21"/>cuntur autem 7 breni, eo quod tripliciter 
-          exponan<lb break="no" ed="#P" n="22"/>tur a Paschasio, scilicet bistorice, allegorice et 
-          tro<lb break="no" ed="#P" n="23"/>pologice. Vel a monte Threnaro , ubi primo auditae
+          <lb ed="#P" n="20"/>illud ante Pascha, quod appellamus Tenebras. 
+          Di<lb break="no" ed="#P" n="21"/>cuntur autem Threni, eo quod tripliciter exponan-
+          <lb ed="#P" n="22"/>tur a Paschasio, scilicet historice, allegorice et 
+          tro<lb break="no" ed="#P" n="23"/>pologice. Vel a monte Threnaro, ubi primo auditae
           <lb ed="#P" n="24"/>sunt animarum lamentationes. Vel ideo etiam Threni
           <lb ed="#P" n="25"/>appellati sunt quod in iis post tertium quemque
           <lb ed="#P" n="26"/>versum littera sit alphabeti. Scriptum enim est
-          <lb ed="#P" n="27"/>opus illud quadruplici alphabeto, hoc est im eo
+          <lb ed="#P" n="27"/>opus illud quadruplici alphabeto, hoc est in eo
           <lb ed="#P" n="28"/>quater ipsum alphabetum de integro repetitur. Vel
-          <lb ed="#P" n="29"/>denique , quod verius esse puto, hae lectiones 
+          <lb ed="#P" n="29"/>denique, quod verius esse puto, hae lectiones 
           pro<lb break="no" ed="#P" n="30"/>pterea dictae sunt Threni, quod lamentationes 
-          conti<lb break="no" ed="#P" n="31"/>neant. Apud Graecos namque6pivo; planctus est. Sic
-          <lb ed="#P" n="32"/>itaque historia, quae quindecim iliis diebus 
+          conti<lb break="no" ed="#P" n="31"/>neant. Apud Graecos namque <foreign>θρῆνος</foreign> planctus est. Sic
+          <lb ed="#P" n="32"/>itaque historia, quae quindecim illis diebus 
           narra<lb break="no" ed="#P" n="33"/>tur, sumpta est partim ex libro Jeremiae, partim ex
-          <lb ed="#P" n="34"/>passione Domini in Evangclio. Nunc transeamus ad
-          <lb ed="#P" n="35"/>octavan Pentecostes, ut ordincm Veteris Testamenti
+          <lb ed="#P" n="34"/>passione Domini in Evangelio. Nunc transeamus ad
+          <lb ed="#P" n="35"/>octavam Pentecostes, ut ordinem Veteris Testamenti
           <lb ed="#P" n="36"/>simili ratione persequamur.
         </p>
       </div>
