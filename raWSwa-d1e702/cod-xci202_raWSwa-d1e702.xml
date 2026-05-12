@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,10 +68,10 @@
         </p>
         <p xml:id="raWSwa-d1e702-d1e113">
           <lb ed="#P" n="6"/>Quatuor psalmi cantantur in completorio, ad
-          <lb ed="#P" n="7"/>significandam perfectionem : cum enim quodammodo
-          <lb ed="#P" n="8"/>os-endimus peccata, quae per quinque sensus 
+          <lb ed="#P" n="7"/>significandam perfectionem: cum enim quodammodo
+          <lb ed="#P" n="8"/>ostendimus peccata, quae per quinque sensus 
           cor<lb break="no" ed="#P" n="9"/>pereos perniciosissimos satellites admiserimus,
-          <lb ed="#P" n="10"/>jum esse quinque psalmis praecedentibus remissa.
+          <lb ed="#P" n="10"/>jam esse quinque psalmis praecedentibus remissa.
           <lb ed="#P" n="11"/>Alia ratio est, quod diabolus semper nostro 
           insi<lb break="no" ed="#P" n="12"/>dietur calcaneo, ita ut postea nec loqui cum aliis
           <lb ed="#P" n="13"/>debeamus, nec aliud dicere nisi orationes. Quod
@@ -76,12 +81,12 @@
           per<lb break="no" ed="#P" n="17"/>curramus, post psalmos sequitur capitulum et 
           ver<lb break="no" ed="#P" n="18"/>sus, et deinde hymnus, eoque finito, antiphona ac
           <lb ed="#P" n="19"/>Nunc dimittis. Postea vero Dominica legitur Oratio,
-          <lb ed="#P" n="20"/>ac fidei nostrae symbolum, quibus. posteaquam nos
+          <lb ed="#P" n="20"/>ac fidei nostrae symbolum, quibus posteaquam nos
           <lb ed="#P" n="21"/>collectam annexuimus, statim subjungi oportet
-          <lb ed="#P" n="22"/>lenedicamus. Atque hoc quidem in vesperis, ut a
-          <lb ed="#P" n="23"/>puero canatur omnino consentaneum est, ut per loc
-          <lb ed="#P" n="24"/>demonstretur nos esse pueros, nimiru:n ad laudes
-          <lb ed="#P" n="25"/>Deo refercudas.
+          <lb ed="#P" n="22"/>Benedicamus. Atque hoc quidem in vesperis, ut a
+          <lb ed="#P" n="23"/>puero canatur omnino consentaneum est, ut per hoc
+          <lb ed="#P" n="24"/>demonstretur nos esse pueros, nimirum ad laudes
+          <lb ed="#P" n="25"/>Deo referendas.
         </p>
       </div>
     </body>
