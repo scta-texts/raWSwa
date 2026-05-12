@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -70,30 +75,30 @@
           inter<lb break="no" ed="#P" n="3"/>mittuntur, quaedam variantur, et quaedam pro aliis
           <lb ed="#P" n="4"/>mutantur. Intermittuntur tria cantica laudis, 
           scili<lb break="no" ed="#P" n="5"/>cet, Alleluia, Gloria in excelsis, et Te Deum 
-          lauda<lb break="no" ed="#P" n="6"/>mus, excepao tamen quod in Cathedra beati Petri
-          <lb ed="#P" n="7"/>canimus : Te Deum laudamus, cum hymnus ille
+          lauda<lb break="no" ed="#P" n="6"/>mus, excepto tamen quod in Cathedra beati Petri
+          <lb ed="#P" n="7"/>canimus: Te Deum laudamus, cum hymnus ille
           <lb ed="#P" n="8"/>intronizandorum proprius sit, et ideo eum 
-          cante<lb break="no" ed="#P" n="9"/>mus. (juemadmodum in die Coenae (quod etiam 
-          ex<lb break="no" ed="#P" n="10"/>cipitur) Gloria in excelsis dicimus, et lte, missa est,
-          <lb ed="#P" n="11"/>aque in ipso Sabbato Paschae similiter Gloria in
-          <lb ed="#P" n="12"/>excelsis Deo, sed non lte, missa est, nec Te Deum
-          <lb ed="#P" n="13"/>laudassus. Alleluia a Septuagesima usque ad 
+          cante<lb break="no" ed="#P" n="9"/>mus. Quemadmodum in die Coenae (quod etiam 
+          ex<lb break="no" ed="#P" n="10"/>cipitur) Gloria in excelsis dicimus, et Ite, missa est,
+          <lb ed="#P" n="11"/>atque in ipso Sabbato Paschae similiter Gloria in
+          <lb ed="#P" n="12"/>excelsis Deo, sed non Ite, missa est, nec Te Deum
+          <lb ed="#P" n="13"/>laudamus. Alleluia a Septuagesima usque ad 
           Pa<lb break="no" ed="#P" n="14"/>scha non proferimus, sed voces quasdam loco ejus
-          <lb ed="#P" n="15"/>vsurpamus. In principiis enim precum horariarum,
-          <lb ed="#P" n="16"/>Laus tibi, Domine, Rex aterna glorim; et in 
-          anti<lb break="no" ed="#P" n="17"/>phonis, ac responsoriis pro Alleluia dicimus, (In
-          <lb ed="#P" n="18"/>eternum. In missa loco Alleluia cum suo versiculo,
+          <lb ed="#P" n="15"/>usurpamus. In principiis enim precum horariarum,
+          <lb ed="#P" n="16"/>Laus tibi, Domine, Rex aeternae gloriae; et in 
+          anti<lb break="no" ed="#P" n="17"/>phonis, ac responsoriis pro Alleluia dicimus, In
+          <lb ed="#P" n="18"/>aeternum. In missa loco Alleluia cum suo versiculo,
           <lb ed="#P" n="19"/>canimus tractum, ut nos dicimus. Quanquam vero
           <lb ed="#P" n="20"/>vox haec : Laus tibi, Domine, etc., videtur 
-          aequipol<lb break="no" ed="#P" n="21"/>lere voci huic Alleluia, magnum tamen inter 
-          utram<lb break="no" ed="#P" n="22"/>que statuitur discrimen, quod vox hac Alleluia 
+          aequipo<lb break="no" ed="#P" n="21"/>lere voci huic Alleluia, magnum tamen inter 
+          utram<lb break="no" ed="#P" n="22"/>que statuitur discrimen, quod vox haec Alleluia 
           an<lb break="no" ed="#P" n="23"/>gelica sit, illa humana; atque haec majorem habeat
           <lb ed="#P" n="24"/>auctoritatem propter Hebraici sermonis dignitatem,
-          <lb ed="#P" n="25"/>illa vero minorem, ob Latina lingua inopiam et
+          <lb ed="#P" n="25"/>illa vero minorem, ob Latinae linguae inopiam et
           <lb ed="#P" n="26"/>paupertatem. Atque in his quidem generatim 
-          ob<lb break="no" ed="#P" n="27"/>servandum illud est quod duo haec Flectamus 
-          ge<lb break="no" ed="#P" n="28"/>nua ; et, Inclinate capita, sese mutuo comitentur;
-          <lb ed="#P" n="29"/>aeutrumque dici debeat die Dominica.
+          ob<lb break="no" ed="#P" n="27"/>servandum illud est quod duo haec: Flectamus 
+          ge<lb break="no" ed="#P" n="28"/>nua; et, Inclinate capita, sese mutuo comitentur;
+          <lb ed="#P" n="29"/>neutrumque dici debeat die Dominica.
         </p>
       </div>
     </body>
