@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -64,22 +69,22 @@
         <p xml:id="raWSwa-d1e921-d1e113">
           <lb ed="#P" n="87"/>In Circumcisione duo simul facta concurrunt, 
           pa<lb break="no" ed="#P" n="88"/>rientis scilicet et partus, propter octavas. Unde sane
-          <lb ed="#P" n="89"/>est quod eo die duas missas celebrare débeamus:
+          <lb ed="#P" n="89"/>est quod eo die duas missas celebrare debeamus:
           <lb ed="#P" n="90"/>prima de Beata Virgine, scilicet, Vultum tuum;
           <lb ed="#P" n="91"/>aliam de Octavis, nimirum Puer natus est nobis, et
           <lb ed="#P" n="92"/>dicitur illo die evangelium Lucae : Postquam impleti
-          <lb ed="#P" n="93"/>sunt dies octo (Luc. u), etc. Sunt nonnulli alii, qui
+          <lb ed="#P" n="93"/>sunt dies octo (Luc. ii), etc. Sunt nonnulli alii, qui
           <lb ed="#P" n="94"/>tria huc festa concurrere arbitrentur, de B. Virgine,
           <lb ed="#P" n="95"/>de octavis, et de Circumcisione. Nam etiamsi tum
-          <lb ed="#P" n="96"/>circumcisus non fuisset, nihilominus tamen flerent
+          <lb ed="#P" n="96"/>circumcisus non fuisset, nihilominus tamen fierent
           <lb ed="#P" n="97"/>octavae. Sed quoniam modo de octavis mentionem
           <lb ed="#P" n="98"/>fecimus non incommodum erit, si eas paulo plenius
-          <lb ed="#P" n="99"/>persequamur. Sunt enim nonnulla octava 
+          <lb ed="#P" n="99"/>persequamur. Sunt enim nonnullae octavae 
           institu<lb break="no" ed="#P" n="100"/>tionis, ut sunt eorum qui habent vigilias, nonnullae
           <lb ed="#P" n="101"/>devotionis, cujusmodi fieri possunt in honorem 
           cu<lb break="no" ed="#P" n="102"/>juslibet sancti; nonnullae etiam venerationis, ut sunt
-          <lb ed="#P" n="103"/>ese quae solius Dei esse dicuntur. Nam octavae 
-          Na<lb break="no" ed="#P" n="104"/>tivitatis , Paschae et Pentecostes sunt venerationis
+          <lb ed="#P" n="103"/>eae quae solius Dei esse dicuntur. Nam octavae 
+          Na<lb break="no" ed="#P" n="104"/>tivitatis, Paschae et Pentecostes sunt venerationis
           <lb ed="#P" n="105"/>Christi. Sunt item et octavae significationis, ut 
           In<lb break="no" ed="#P" n="106"/>nocentium, per quas nostra significatur resurrectio,
           <lb ed="#P" n="107"/>quo quidem fit ut tunc laetitiae sive laudis canantur
@@ -90,8 +95,8 @@
           tem<lb break="no" ed="#P" n="112"/>pus, quod est ad purificationem usque tractat 
           in<lb break="no" ed="#P" n="113"/>fantiam Salvatoris, ita ut hinc aliorum sanctorum
           <lb ed="#P" n="114"/>commemorationes fieri non debeant, et quidem
-          <lb ed="#P" n="115"/>maxime sanctae crucis, juxta illud vulgare dictum;
-          <lb ed="#P" n="116"/>Non coques hadum in lacte matris ( Exod. xxxiw).
+          <lb ed="#P" n="115"/>maxime sanctae crucis, juxta illud vulgare dictum:
+          <lb ed="#P" n="116"/>Non coques hoedum in lacte matris (Exod. xxxiv).
         </p>
       </div>
     </body>
