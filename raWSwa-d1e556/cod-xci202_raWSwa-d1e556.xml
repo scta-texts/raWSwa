@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,38 +68,38 @@
         </p>
         <p xml:id="raWSwa-d1e556-d1e113">
           <lb ed="#P" n="84"/>Dicto symbolo cantatur offertorium sive 
-          offcren<lb break="no" ed="#P" n="85"/>da, ut aliqui dicunt. Appellatur autem offertorium
-          <lb ed="#P" n="86"/>ab offerendo, quia tunc offerimus. Sed necessario.
-          <lb ed="#P" n="87"/>hie considerandum est tria omnino essc qua- 
-          of<lb break="no" ed="#P" n="88"/>ferre debemus : primo, nosmctipsos. ac deindc ca
+          offe<lb break="no" ed="#P" n="85"/>renda, ut aliqui dicunt. Appellatur autem offertorium
+          <lb ed="#P" n="86"/>ab offerendo, quia tunc offerimus. Sed necessario
+          <lb ed="#P" n="87"/>hic considerandum est tria omnino esse quae 
+          of<lb break="no" ed="#P" n="88"/>ferre debemus : primo, nosmetipsos, ac deinde ea
           <lb ed="#P" n="89"/>quae sacrificio sunt necessaria, scilicet panem, 
           vi<lb break="no" ed="#P" n="90"/>num et aquam, et si qua sunt alia sacrificio apta.
-          <lb ed="#P" n="91"/>Obiter tamen hic diccre possumus panem hunc
-          <lb ed="#P" n="92"/>quasi pominatum esse a Graeco vocabulo nav, rvróc,
-          <lb ed="#P" n="93"/>quod omnc vcel totum significat. Quoniam cum hic,
-          <lb ed="#P" n="94"/>tum in futuro seculo panis istc tota vita nostra est.
-          <lb ed="#P" n="95"/>Yinum autem a vite simili fcere modo deducere 
-          lice<lb break="no" ed="#P" n="96"/>bit, cui Dominus in Evangelio sc comparat, hoc
-          <lb ed="#P" n="97"/>pacto inquicns : Ego sum titis vera (Joan. xv). Nec
-          <lb ed="#P" n="98"/>cenique ignotum essc puto aquam ab aqualitate
-          <lb ed="#P" n="99"/>dictam csse, quia per hoc sacramentum nos angelis
-          <lb ed="#P" n="100"/>aequalcs fore certo et credimus et speramus, 
-          quan<lb break="no" ed="#P" n="101"/>quam vero intcrdum aqua significet populum. Unde:
-          <lb ed="#P" n="102"/>Aqua multa, populi multi (Apoc. xvi). Quia nec
-          <lb ed="#P" n="103"/>sanguis sinc salute populi, nec salus populi potuit
-          <lb ed="#P" n="104"/>essc sine sanguine. Tum vero aqua benedicitur,
-          <lb ed="#P" n="105"/>quando admiscetur vino : sed haudquaquam vinum,
-          <lb ed="#P" n="106"/>quoniam peculiarem suam exspectat bencdictionem.
+          <lb ed="#P" n="91"/>Obiter tamen hic dicere possumus panem hunc
+          <lb ed="#P" n="92"/>quasi nominatum esse a Graeco vocabulo <foreign>πὰν, παντὸς,</foreign>
+          <lb ed="#P" n="93"/>quod omne vel totum significat. Quoniam cum hic,
+          <lb ed="#P" n="94"/>tum in futuro saeculo panis iste tota vita nostra est.
+          <lb ed="#P" n="95"/>Vinum autem a vite simili fere modo deducere 
+          lice<lb break="no" ed="#P" n="96"/>bit, cui Dominus in Evangelio se comparat, hoc
+          <lb ed="#P" n="97"/>pacto inquiens: Ego sum vitis vera (Joan. xv). Nec
+          <lb ed="#P" n="98"/>denique ignotum esse puto aquam ab aequalitate
+          <lb ed="#P" n="99"/>dictam esse, quia per hoc sacramentum nos angelis
+          <lb ed="#P" n="100"/>aequales fore certo et credimus et speramus, 
+          quan<lb break="no" ed="#P" n="101"/>quam vero interdum aqua significet populum. Unde:
+          <lb ed="#P" n="102"/>Aquae multae, populi multi (Apoc. xvi). Quia nec
+          <lb ed="#P" n="103"/>sanguis sine salute populi, nec salus populi potuit
+          <lb ed="#P" n="104"/>esse sine sanguine. Tum vero aqua benedicitur,
+          <lb ed="#P" n="105"/>quando admiscetur vino: sed haudquaquam vinum,
+          <lb ed="#P" n="106"/>quoniam peculiarem suam exspectat benedictionem.
           <lb ed="#P" n="107"/>In quibusdam Ecclesiis in magnis solemnitatibus
           <lb ed="#P" n="108"/>pretiosa offeruntur ecclesiae utensilia, et in altari
           <lb ed="#P" n="109"/>ponuntur vel in locis competentibus. Tertio demum
           <lb ed="#P" n="110"/>sequuntur manuales laicorum oblationes. Clerici
-          <lb ed="#P" n="111"/>enim non offerunt, nisi in exsequiis mortuorum ct
-          <lb ed="#P" n="112"/>in nova cclebratione sacerdotis. Nam inhumanum
+          <lb ed="#P" n="111"/>enim non offerunt, nisi in exsequiis mortuorum et
+          <lb ed="#P" n="112"/>in nova celebratione sacerdotis. Nam inhumanum
           <lb ed="#P" n="113"/>videretur, si ii offerre tenerentur, qui ex 
           oblationi<lb break="no" ed="#P" n="114"/>bus vivunt aliorum. In offertorio nulla ratione 
-          per<lb break="no" ed="#P" n="115"/>mittitur saccrdoti, ut pyxidem aut aliud hujusmodi
-          <lb ed="#P" n="116"/>manu tencat, quo omnem avaritiae effugiat 
+          per<lb break="no" ed="#P" n="115"/>mittitur sacerdoti, ut pyxidem aut aliud hujusmodi
+          <lb ed="#P" n="116"/>manu teneat, quo omnem avaritiae effugiat 
           suspicio<lb break="no" ed="#P" n="117"/>nem.
         </p>
       </div>
