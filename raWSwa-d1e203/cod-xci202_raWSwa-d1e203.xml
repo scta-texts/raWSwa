@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,79 +68,79 @@
         </p>
         <p xml:id="raWSwa-d1e203-d1e113">
           <lb ed="#P" n="53"/>Postquam de temporibus Deo spiritualiter dicatis
-          <lb ed="#P" n="54"/>bunc usque a nobis dictum sit, res ipsa postulat ut
-          <lb ed="#P" n="55"/>eodem modo de personis divinis offleiia addictis, hoc
-          <lb ed="#P" n="56"/>est ecclesiasticis, deinceps dicamns. Ad cujus rei
-          <lb ed="#P" n="57"/>majorem declarationem sciendum estin primis tres
+          <lb ed="#P" n="54"/>hunc usque a nobis dictum sit, res ipsa postulat ut
+          <lb ed="#P" n="55"/>eodem modo de personis divinis officiia addictis, hoc
+          <lb ed="#P" n="56"/>est ecclesiasticis, deinceps dicamus. Ad cujus rei
+          <lb ed="#P" n="57"/>majorem declarationem sciendum est in primis tres
           <lb ed="#P" n="58"/>esse sectas, quae hominibus maxime probantur, 
-          qua<lb break="no" ed="#P" n="59"/>rum una est ethnicorum seu paganorum, altera He-
+          qua<lb break="no" ed="#P" n="59"/>rum una est ethnicorum seu paganorum, altera
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>braeorum, teitia Christianorum. Prima est erroriu,
+          He<lb ed="#P" n="60"/>braeorum, teitia Christianorum. Prima est erroris,
           <lb ed="#P" n="61"/>secunda veritatis, tertia salutis. In prima naufragium
-          <lb ed="#P" n="62"/>patimur, in secunda a periculo quidem eripimur,.
+          <lb ed="#P" n="62"/>patimur, in secunda a periculo quidem eripimur,
           <lb ed="#P" n="63"/>sed in tertia salvamur. Prima rursum nos a Deo 
           se<lb break="no" ed="#P" n="64"/>cat et separat, secunda illuminat, tertia autem 
-          peni<lb break="no" ed="#P" n="65"/>tus salvat et liberat. Verum mos paganorutn 
-          conser<lb break="no" ed="#P" n="66"/>sus est in ritum Christianorum. Quaee Dei Opt. Mas.
-          <lb ed="#P" n="67"/>niutatio sane pulcherrima est. Christianorum cnim
+          peni<lb break="no" ed="#P" n="65"/>tus salvat et liberat. Verum mos paganorum 
+          conser<lb break="no" ed="#P" n="66"/>sus est in ritum Christianorum. Quae Dei Opt. Max.
+          <lb ed="#P" n="67"/>mutatio sane pulcherrima est. Christianorum enim
           <lb ed="#P" n="68"/>personae, tam saeculares quam ecclesiasticae, ab aliis
-          <lb ed="#P" n="69"/>duabus sectis, nimirum ab Hlebraea atque etbnica,
+          <lb ed="#P" n="69"/>duabus sectis, nimirum ab Hebraea atque etbnica,
           <lb ed="#P" n="70"/>desumptae sunt. Quemadmodum enim apud nos duo
           <lb ed="#P" n="71"/>sunt personarum genera, laicales videlicet sive 
-          po<lb break="no" ed="#P" n="72"/>pulares (Qjouxoc enim populus est) et ecclesiasticae:
-          <lb ed="#P" n="73"/>sic apud ethnicos et Hebraeos, a quibus nostra: 
-          ha<lb break="no" ed="#P" n="74"/>buerunt initium. Apud cthnicos personae saeculares
+          po<lb break="no" ed="#P" n="72"/>pulares (<foreign>λαικὸς</foreign> enim populus est) et ecclesiasticae:
+          <lb ed="#P" n="73"/>sic apud ethnicos et Hebraeos, a quibus nostrae 
+          ha<lb break="no" ed="#P" n="74"/>buerunt initium. Apud ethnicos personae saeculares
           <lb ed="#P" n="75"/>eraut hae : monarcha, scilicet Romanus imperator,
           <lb ed="#P" n="76"/>patricii, qui et senatores dicebantur, quorum arbitrio
           <lb ed="#P" n="77"/>universa ordinabantur; reges, duces, praesides, 
           prae<lb break="no" ed="#P" n="78"/>fecti, tribuni plebis, tribuni militum, praetores, 
           cen<lb break="no" ed="#P" n="79"/>turiones, decuriones, quaterniones, tribuni, 
-          quie<lb break="no" ed="#P" n="80"/>stores, aediles, aulae janitores. In ritu vero 
+          quae<lb break="no" ed="#P" n="80"/>stores, aediles, aulae janitores. In ritu vero 
           templo<lb break="no" ed="#P" n="81"/>rum erant archiflamines, flamines, sacerdotes in
           <lb ed="#P" n="82"/>utroque sexu. Namque apud illos non aliter, atque
-          <lb ed="#P" n="83"/>modo apud nos, erant et mulierum et virorun 
+          <lb ed="#P" n="83"/>modo apud nos, erant et mulierum et virorum 
           re<lb break="no" ed="#P" n="84"/>ligiosi conventus. Inter poetas erant carminum 
-          ju<lb break="no" ed="#P" n="85"/>dices, comoaedi, tragaedi , historiographi. Apud 
-          He<lb break="no" ed="#P" n="86"/>braos porro cadem fuit personarum diversitas.
+          ju<lb break="no" ed="#P" n="85"/>dices, comoedi, tragaedi, historiographi. Apud 
+          He<lb break="no" ed="#P" n="86"/>breaos porro eadem fuit personarum diversitas.
           <lb ed="#P" n="87"/>Erant enim quaedam saeculares, quaedam vero cultui
-          <lb ed="#P" n="88"/>divino in templis perpetuo addictae. Et personse
+          <lb ed="#P" n="88"/>divino in templis perpetuo addictae. Et personae
           <lb ed="#P" n="89"/>quidem in templis erant hae : summus sacerdos, et
-          <lb ed="#P" n="90"/>mipores sacerdutes, levitae, nathinaei, luminum 
-          escup<lb break="no" ed="#P" n="91"/>ctores, exorcistae, janitores vel aeditui, et cantores.
+          <lb ed="#P" n="90"/>minores sacerdotes, levitae, nathinaei, luminum 
+          emun<lb break="no" ed="#P" n="91"/>ctores, exorcistae, janitores vel aeditui, et cantores.
           <lb ed="#P" n="92"/>Inter saeculares vero in primis dux populi erat ao
-          <lb ed="#P" n="93"/>regcndum Moses, et sub eo, quos ipse ad consilium
+          <lb ed="#P" n="93"/>regendum Moses, et sub eo, quos ipse ad consilium
           <lb ed="#P" n="94"/>soceri sui Jethro coustituerat, nempe erant hi : 
           chi<lb break="no" ed="#P" n="95"/>liarchi, hecatotarchi, pentecontarchi seu 
-          pentece<lb break="no" ed="#P" n="96"/>siarchi, et decarchi, hoc est, millenarii, centenars,
-          <lb ed="#P" n="97"/>sive centuriones, quintagenarii, decani; yoi« eni
-          <lb ed="#P" n="98"/>millenarium numerum exprimit, épyo» principem,
-          <lb ed="#P" n="99"/>unde yoispyoc dicitur qui praest mille. Sic ixeá»
+          penteco<lb break="no" ed="#P" n="96"/>siarchi, et decarchi, hoc est, millenarii, centenarii,
+          <lb ed="#P" n="97"/>sive centuriones, quintagenarii, decani; <foreign>χιλία</foreign> enim
+          <lb ed="#P" n="98"/>millenarium numerum exprimit, <foreign>ἀρχὼν</foreign> principem,
+          <lb ed="#P" n="99"/>unde <foreign>χιλίαρχος</foreign> dicitur qui praest mille. Sic <foreign>ἑκατὸν</foreign>
           <lb ed="#P" n="100"/>significat centum, unde hecatoncarchus est cui 
           cen<lb break="no" ed="#P" n="101"/>tum parent, et pentacontarchus cui quinquaginta.
-          <lb ed="#P" n="102"/>Nam ravorxorea quinquaginta sonat. Qui autem 
-          dc<lb break="no" ed="#P" n="103"/>cem in potestate habent, recte appellantur decani a
-          <lb ed="#P" n="104"/>Gixa decem, quod sint supra denos. Apud 
-          Christia<lb break="no" ed="#P" n="105"/>nos quoque personze sunt partim populares, partim
-          <lb ed="#P" n="106"/>cicricales. Populares non sunt diversae ab iis quas.
+          <lb ed="#P" n="102"/>Nam <foreign>πεντήκοντα</foreign> quinquaginta sonat. Qui autem 
+          de<lb break="no" ed="#P" n="103"/>cem in potestate habent, recte appellantur decani a
+          <lb ed="#P" n="104"/><foreign>δέκα</foreign> decem, quod sint supra denos. Apud 
+          Christia<lb break="no" ed="#P" n="105"/>nos quoque personae sunt partim populares, partim
+          <lb ed="#P" n="106"/>clericales. Populares non sunt diversae ab iis quas
           <lb ed="#P" n="107"/>apud ethnicos esse dicimus, quamvis non ubique
           <lb ed="#P" n="108"/>clericales sunt, quae administrant ecclesiam, 
-          dicun<lb break="no" ed="#P" n="109"/>turque aó tou xapov, quod sors interpretatur, quasi
+          dicun<lb break="no" ed="#P" n="109"/>turque <foreign>ἀπὸ του κλῆρου</foreign>, quod sors interpretatur, quasi
           <lb ed="#P" n="110"/>sorte sint electae. In veteri namque testamento 
-          saeer<lb break="no" ed="#P" n="111"/>dotes sorte eligebantur. Quemadmodum ctiam 
+          sacer<lb break="no" ed="#P" n="111"/>dotes sorte eligebantur. Quemadmodum etiam 
           eth<lb break="no" ed="#P" n="112"/>nici sortitione unum ex liberis suis ad clericatum
-          <lb ed="#P" n="113"/>cligebant. Possunt nihilominus dici clericales, quia
+          <lb ed="#P" n="113"/>eligebant. Possunt nihilominus dici clericales, quia
           <lb ed="#P" n="114"/>ipsi accipiunt haereditatem Domini, nimirum 
-          deci<lb break="no" ed="#P" n="115"/>mas et oblationes, Nam xapec Graecis non solum
-          <lb ed="#P" n="116"/>est quod nobis sors, sed et hereditas. Est epim
-          <lb ed="#P" n="117"/>iis iequivocum, unoquoque nomine duo heec 
-          signifi<lb break="no" ed="#P" n="118"/>cat, l'crsonae autero ciericaes dvyduptux Yo woo
+          deci<lb break="no" ed="#P" n="115"/>mas et oblationes. Nam <foreign>κλῆρος</foreign> Graecis non solum
+          <lb ed="#P" n="116"/>est quod nobis sors, sed et haereditas. Est enim
+          <lb ed="#P" n="117"/>iis aequivocum, unoquoque nomine duo heec 
+          signifi<lb break="no" ed="#P" n="118"/>cat. Personae autero clericaes dividuntur in mona
           <pb ed="#P" n="14"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>chos, quasi sint soli viventes a novo: solus, et eye
-          <lb ed="#P" n="2"/>habeo, quod ab aliis scorsim soli habitare debeant,
-          <lb ed="#P" n="3"/>et ecclesiasticos. Quae st porro personarum 
+          chos,<lb ed="#P" n="1"/>quasi sint soli viventes a <foreign>μόνος</foreign> solus, et <foreign>ἔχω</foreign>
+          <lb ed="#P" n="2"/>habeo, quod ab aliis seorsim soli habitare debeant,
+          <lb ed="#P" n="3"/>et ecclesiasticos. Quae et porro personarum 
           diver<lb break="no" ed="#P" n="4"/>sitas inter monachos equidem satis notum esse 
-          exi<lb break="no" ed="#P" n="5"/>stimo. Totum enim illud ab ordinum varictate 
+          exi<lb break="no" ed="#P" n="5"/>stimo. Totum enim illud ab ordinum varietate 
           pe<lb break="no" ed="#P" n="6"/>tendum est, quam alii albi sive candidi, alii nigri
           <lb ed="#P" n="7"/>appellantur.
         </p>
