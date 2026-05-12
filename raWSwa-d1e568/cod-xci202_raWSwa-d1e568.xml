@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,30 +66,30 @@
           <lb ed="#P" n="1"/>CAPUT XLII.
           <lb ed="#P" n="2"/>De sacrificio.
         </p>
-        <p xml:id="raWSwa-d1e568-d1e117">
+       <p xml:id="raWSwa-d1e568-d1e117">
           <lb ed="#P" n="3"/>Sacrificium dicitur quasi quo sacrum efficitur,
           <lb ed="#P" n="4"/>ubi cognoscendum est quod olim sacrificium ab
           <lb ed="#P" n="5"/>apostolis et viris apostolicis in primitiva Ecclesia
           <lb ed="#P" n="6"/>vasis ligneis ac vulgaribus vestibus celebrabatur.
-          <lb ed="#P" n="7"/>Tum enim erant, ut dici solitum est, lignei caliceg
+          <lb ed="#P" n="7"/>Tum enim erant, ut dici solitum est, lignei calices
           <lb ed="#P" n="8"/>et aurei sacerdotes. Nunc vero est econtra. Paulo
           <lb ed="#P" n="9"/>tamen post, Severinus papa instituit idem vitreis
           <lb ed="#P" n="10"/>fieri vasis. Sed quia erant fragilia, Urbanus papa
           <lb ed="#P" n="11"/>voluit ut argenteis vel aureis sacrificaretur, vel
           <lb ed="#P" n="12"/>etiam ob paupertatem stanneis, quae tamen non 
-          fa<lb break="no" ed="#P" n="13"/>eile aeruginantur. Hostia secundum Hebraos ab
+          fa<lb break="no" ed="#P" n="13"/>cile aeruginantur. Hostia secundum Hebraeos ab
           <lb ed="#P" n="14"/>ostio nuncupata est, quia ad ostium tabernaculi
-          <lb ed="#P" n="15"/>offerebatur. Secundum etbnicos vero ab hoste 
+          <lb ed="#P" n="15"/>offerebatur. Secundum ethnicos vero ab hoste 
           deri<lb break="no" ed="#P" n="16"/>vata est. Nam ab hostibus domitis, ut ille ait, hostia
           <lb ed="#P" n="17"/>nomen habet. Dicta est etiam victima a vincendo;
           <lb ed="#P" n="18"/>et immolatio, quod isthic Christus sacramentaliter
-          <lb ed="#P" n="19"/>inmoletur, quod in veritate semel pro peccatis 
+          <lb ed="#P" n="19"/>immoletur, quod in veritate semel pro peccatis 
           no<lb break="no" ed="#P" n="20"/>stris in cruce est immolatus. Appellata autem est
-          <lb ed="#P" n="21"/>immolatio a mola, qua in sacrificiis conteri solebae
+          <lb ed="#P" n="21"/>immolatio a mola, qua in sacrificiis conteri solebat
           <lb ed="#P" n="22"/>genus quoddam frumenti, quod far vel ador dicitur.
           <lb ed="#P" n="23"/>Unde:
-          <lb ed="#P" n="24"/>Et aderea liba per herbam.
-          <lb ed="#P" n="25"/>(Vinc. An., l. vii, 109.)
+          <lb ed="#P" n="24"/>Et adorea liba per herbam.
+          <lb ed="#P" n="25"/>(Virg. Aen., l. vii, 109.)
           <lb ed="#P" n="26"/>Ponebatur enim inter cornua altaris vel animalis
           <lb ed="#P" n="27"/>cultro isthic facto foramine. Mola vero in altari 
           dici<lb break="no" ed="#P" n="28"/>tur pars media sub qua reliquiae sigillantur, et cui
