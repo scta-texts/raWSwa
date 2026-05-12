@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -55,39 +60,39 @@
       <div xml:id="raWSwa-d1e653"><!-- raWSwa-c49 -->
         <head xml:id="raWSwa-d1e653-Hd1e101">Caput 49</head>
         <head xml:id="raWSwa-d1e653-Hd1e103" type="question-title">
-          De ultima parte missa.
+          De ultima parte missae.
         </head>
         <p xml:id="raWSwa-d1e653-d1e106">
           <lb ed="#P" n="55"/>CAPUT XLIX.
-          <lb ed="#P" n="56"/>De ultima parte missa.
+          <lb ed="#P" n="56"/>De ultima parte missae.
         </p>
         <p xml:id="raWSwa-d1e653-d1e113">
           <lb ed="#P" n="57"/>Ultima pars missae modo sequitur, quae dicitur
           <lb ed="#P" n="58"/>gratiarum actio, atque incipit a communione. 
-          Yoca<lb break="no" ed="#P" n="59"/>ur autem communio, quasi participatio, quam ideo
+          Vo<lb break="no" ed="#P" n="59"/>catur autem communio, quasi participatio, quam ideo
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>canimus, ut per eam cum sancitis divinae gratiae 
+          <lb ed="#P" n="60"/>canimus, ut per eam cum sanctis divinae gratiae 
           par<lb break="no" ed="#P" n="61"/>ticipes efficiamur. Appellatur etiam completio, 
           quo<lb break="no" ed="#P" n="62"/>niam per illam missa, ut sic dicam, completur.
-          <lb ed="#P" n="63"/>Tribus vero modis finitur missa, primo per lIte,
-          <lb ed="#P" n="64"/>missa est in solemnitatibus, quod est quasi abenndi
-          <lb ed="#P" n="65"/>licentia, ac sumptum est ab Exodo (Exod. xn). Non
-          <lb ed="#P" n="66"/>quidcm secundum verba, sed juxta mentem et rei
+          <lb ed="#P" n="63"/>Tribus vero modis finitur missa, primo per Ite,
+          <lb ed="#P" n="64"/>missa est in solemnitatibus, quod est quasi abeundi
+          <lb ed="#P" n="65"/>licentia, ac sumptum est ab Exodo (Exod. xii). Non
+          <lb ed="#P" n="66"/>quidem secundum verba, sed juxta mentem et rei
           <lb ed="#P" n="67"/>intelligentiam, quando Israeliticus populus ex 
-          Agy<lb break="no" ed="#P" n="68"/>pto permissu Pharaonis egressus est. Vel etiam
-          <lb ed="#P" n="69"/>quando e Babylonica captivitute, permittente Cyro,
+          Ae<lb break="no" ed="#P" n="68"/>gypto permissu Pharaonis egressus est. Vel etiam
+          <lb ed="#P" n="69"/>quando e Babylonica captivitate, permittente Cyro,
           <lb ed="#P" n="70"/>ad propria regressus est, Deo referens gratias. Sic
           <lb ed="#P" n="71"/>et nos accepta benedictione ultima, ad caelestem 
-          pa<lb break="no" ed="#P" n="72"/>triam remeare debeimnus, ubi in gratiarum actione
-          <lb ed="#P" n="73"/>semper feliciter vivemus.fDicitur autem, He, missa
-          <lb ed="#P" n="74"/>est, quoties cantatur, Te Deum laudamus, Cloria in
-          <lb ed="#P" n="75"/>| excelsis, et Alleluia. Pronuntiato Ite, missa est, 
+          pa<lb break="no" ed="#P" n="72"/>triam remeare debemus, ubi in gratiarum actione
+          <lb ed="#P" n="73"/>semper feliciter vivemus. Dicitur autem, Ite, missa
+          <lb ed="#P" n="74"/>est, quoties cantatur, Te Deum laudamus, Gloria in
+          <lb ed="#P" n="75"/>excelsis, et Alleluia. Pronuntiato Ite, missa est, 
           opor<lb break="no" ed="#P" n="76"/>tet nos respondere Deo gratias, quae vox est 
           gra<lb break="no" ed="#P" n="77"/>tulantis. Secundo vero diebus profestis, dicitur, 
-          De<lb break="no" ed="#P" n="78"/>nedicamus Domino, ac petitum est ab Apostolo
-          <lb ed="#P" n="79"/>(Ephes. 1). Tertio denique in missa pro defunctis
+          Be<lb break="no" ed="#P" n="78"/>nedicamus Domino, ac petitum est ab Apostolo
+          <lb ed="#P" n="79"/>(Ephes. i). Tertio denique in missa pro defunctis
           <lb ed="#P" n="80"/>Requiescant in pace, quod ex sola consuetudine 
-          gene<lb break="no" ed="#P" n="81"/>rali natum est. Cum ergo dicitur, He, missa est,
+          gene<lb break="no" ed="#P" n="81"/>rali natum est. Cum ergo dicitur, Ite, missa est,
           <lb ed="#P" n="82"/>debet sacerdos vultum dirigere ad populum; 
           quan<lb break="no" ed="#P" n="83"/>do autem Benedicamus Domino, vel Requiescant
           <lb ed="#P" n="84"/>in pace, versus orientem. Necesse tamen est ut haec
