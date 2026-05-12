@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,23 +66,23 @@
           <lb ed="#P" n="82"/>CAPUT XXLVII.
           <lb ed="#P" n="83"/>De Oratione Dominica.
         </p>
-        <p xml:id="raWSwa-d1e629-d1e113">
+       <p xml:id="raWSwa-d1e629-d1e113">
           <lb ed="#P" n="84"/>Nunc dicendum est de Oratione Dominica, in qua
-          <lb ed="#P" n="85"/>continentur septem petitiones. Quod autem praemit
+          <lb ed="#P" n="85"/>continentur septem petitiones. Quod autem praemit-
           <lb ed="#P" n="86"/>titur, est quasi benevolentiae captatio. Tres priores
-          <lb ed="#P" n="87"/>ad futuram vitam pertinent ; quatuor posteriores
+          <lb ed="#P" n="87"/>ad futuram vitam pertinent; quatuor posteriores
           <lb ed="#P" n="88"/>quae sequuntur, ad praesentem. Media autem, ut
           <lb ed="#P" n="89"/>nonnulli volunt, a communi sumi potest, ita ut ad
           <lb ed="#P" n="90"/>utramque referatur, quam videlicet dicimus : Panem
-          <lb ed="#P" n="91"/>nostrum quotidianum, quem krtooctos Graci, segola.
-          <lb ed="#P" n="92"/>Hebrai, nos appellamus aut superesscntialem , aut
-          <lb ed="#P" n="93"/>egregium, aut eliam familiarem. Sed animadvertere
-          <lb ed="#P" n="94"/>oportet, cum sacerdos ait : Oremus, Pra-ceptis, etc.
-          <lb ed="#P" n="95"/>nos debere prostratos orare usquce ad finem 
-          Oratio<lb break="no" ed="#P" n="96"/>nis Dominicae, si dies fucrint profesti. Si vero festum
+          <lb ed="#P" n="91"/>nostrum quotidianum, quem <foreign>ἐπιοὺσιον</foreign> Graeci, segola
+          <lb ed="#P" n="92"/>Hebraei, nos appellamus aut superessentialem, aut
+          <lb ed="#P" n="93"/>egregium, aut etiam familiarem. Sed animadvertere
+          <lb ed="#P" n="94"/>oportet, cum sacerdos ait : Oremus, Praeceptis, etc.
+          <lb ed="#P" n="95"/>nos debere prostratos orare usque ad finem 
+          Oratio<lb break="no" ed="#P" n="96"/>nis Dominicae, si dies fuerint profesti. Si vero festum
           <lb ed="#P" n="97"/>sit, aut dies paschalis, certe non prostrati, sed
           <lb ed="#P" n="98"/>stantes orare debemus, ac respondere : Sed libera
-          <lb ed="#P" n="99"/>nos a malo. Amen. Quod autem Dominicam lanc
+          <lb ed="#P" n="99"/>nos a malo. Amen. Quod autem Dominicam hanc
           <lb ed="#P" n="100"/>Orationem non tacite aut sub silentio dicat 
           sacer<lb break="no" ed="#P" n="101"/>dos, ratio est quoniam ex Evangelio petitum est.
         </p>
