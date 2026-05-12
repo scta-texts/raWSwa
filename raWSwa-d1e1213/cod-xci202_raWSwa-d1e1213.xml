@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,53 +66,53 @@
           <lb ed="#P" n="35"/>CAPUT XCV
           <lb ed="#P" n="36"/>De quinta feria.
         </p>
-        <p xml:id="raWSwa-d1e1213-d1e113">
-          <lb ed="#P" n="37"/>Feria quinta, quae Caena Domini appellata est,
-          <lb ed="#P" n="38"/>quatuor insignitur privilegiis , quorum primum est
-          <lb ed="#P" n="39"/>pornitentium jam in Ecclesiam redeuntium. Tunc
-          <lb ed="#P" n="40"/>enim Ecclesia ad se recipit poenitentes, quos antc
+          <p xml:id="raWSwa-d1e1213-d1e113">
+          <lb ed="#P" n="37"/>Feria quinta, quae Coena Domini appellata est,
+          <lb ed="#P" n="38"/>quatuor insignitur privilegiis, quorum primum est
+          <lb ed="#P" n="39"/>poenitentium jam in Ecclesiam redeuntium. Tunc
+          <lb ed="#P" n="40"/>enim Ecclesia ad se recipit poenitentes, quos ante
           <lb ed="#P" n="41"/>primo die jejuniorum ejecerat. Recipiuntur autem
-          <lb ed="#P" n="42"/>poenitentes in Ecclesiam et separantur a malis 
+          <lb ed="#P" n="42"/>poenitentes in Ecclesiam et separantur a malis
           poe<lb break="no" ed="#P" n="43"/>nitentibus : quinta potissimum feria, quod Deus
           <lb ed="#P" n="44"/>volucres fecerit quinta feria ex aquis. Qua ratione
-          <lb ed="#P" n="45"/>etiam fit, ut quod quasdam in aquam renuserit,
-          <lb ed="#P" n="46"/>significeinus malos in carnalibus rehus sese 
-          oble<lb break="no" ed="#P" n="47"/>ctantes, et quod quasdam in aera sustulerit, 
-          intelli<lb break="no" ed="#P" n="48"/>gainus bonos atque eos , quos delectant coclestia.
-          <lb ed="#P" n="49"/>Secundum privilegium est, quia novum 
+          <lb ed="#P" n="45"/>etiam fit, ut quod quasdam in aquam remiserit,
+          <lb ed="#P" n="46"/>significemus malos in carnalibus rebus sese
+          oble<lb break="no" ed="#P" n="47"/>ctantes, et quod quasdam in aera sustulerit,
+          intelli<lb break="no" ed="#P" n="48"/>gamus bonos atque eos, quos delectant coelestia.
+          <lb ed="#P" n="49"/>Secundum privilegium est, quia novum
           Testamen<lb break="no" ed="#P" n="50"/>tum tum incoepit, et vetus fuit terminatum. Tertium
           <lb ed="#P" n="51"/>autem privilegium hujus diei est olei consecratio.
-          <lb ed="#P" n="52"/>Verum eninvero tres sunt potissimum in Ecclesia
-          <lb ed="#P" n="53"/>Dei sacrae unctionis species, chrisma, oleum 
-          infir<lb break="no" ed="#P" n="54"/>morun, et oleum quo ungantur baptizati. Chrisma
-          <lb ed="#P" n="55"/>conficitur ex balsamo mundissimo atque olco 
+          <lb ed="#P" n="52"/>Verum enimvero tres sunt potissimum in Ecclesia
+          <lb ed="#P" n="53"/>Dei sacrae unctionis species, chrisma, oleum
+          infir<lb break="no" ed="#P" n="54"/>morum, et oleum quo ungantur baptizati. Chrisma
+          <lb ed="#P" n="55"/>conficitur ex balsamo mundissimo atque oleo
           puris<lb break="no" ed="#P" n="56"/>simo. Namque oleum claritate alios liquores facile
-          <lb ed="#P" n="57"/>superat et balsamum odore. (uod autcm olcum alio
-          <lb ed="#P" n="58"/>liquore sit clarius, hoc pacto ostendi potest : Nauta
-          <lb ed="#P" n="59"/>quandoque mittit anchoram in marec, et si forte illa
+          <lb ed="#P" n="57"/>superat et balsamum odore. Quod autem oleum alio
+          <lb ed="#P" n="58"/>liquore sit clarius, hoc pacto ostendi potest: Nauta
+          <lb ed="#P" n="59"/>quandoque mittit anchoram in mare, et si forte illa
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>lapidi affigatur, ita ut extrahi non possit, tune
+          <lb ed="#P" n="60"/>lapidi affigatur, ita ut extrahi non possit, tunc
           <lb ed="#P" n="61"/>nauta illuc descendit, habens os suum plenum oleo
-          <lb ed="#P" n="62"/>in eum usum , ut si fortassis non possit lapidem 
+          <lb ed="#P" n="62"/>in eum usum, ut si fortassis non possit lapidem 
           il<lb break="no" ed="#P" n="63"/>lum videre, cui anchora adhaeret, ob turbulentam et
           <lb ed="#P" n="64"/>tenebrosam aquam, effundit oleum. Quo facto tanta
-          <lb ed="#P" n="65"/>isthic nascitur claritas , redditurque aquarum 
+          <lb ed="#P" n="65"/>isthic nascitur claritas, redditurque aquarum 
           per<lb break="no" ed="#P" n="66"/>lucida propter oleum effusum, ut lapidem nauta
           <lb ed="#P" n="67"/>facile videre queat. Chrisma initium traxit a Veteri
-          <lb ed="#P" n="68"/>Testamento, quandoDominui praecepit Mosi ut 
+          <lb ed="#P" n="68"/>Testamento, quando Dominus praecepit Mosi ut 
           con<lb break="no" ed="#P" n="69"/>ficeret chrisma, quo ungeret tabernaculum in 
           dedi<lb break="no" ed="#P" n="70"/>catione, et arcam testamenti. Atque Aaron et 
-          sacer<lb break="no" ed="#P" n="71"/>dotes illo similiter ungehantur, et reges. Moses
-          <lb ed="#P" n="72"/>tamen non lcegitur unctus fuisse, nisi unctione 
+          sacer<lb break="no" ed="#P" n="71"/>dotes illo similiter ungebantur, et reges. Moses
+          <lb ed="#P" n="72"/>tamen non legitur unctus fuisse, nisi unctione 
           spi<lb break="no" ed="#P" n="73"/>rituali, quemadmodum et Christus. Voluit 
-          nibilomi<lb break="no" ed="#P" n="74"/>nus Christus materiali nos inungi unctione, ut per
+          nihilomi<lb break="no" ed="#P" n="74"/>nus Christus materiali nos inungi unctione, ut per
           <lb ed="#P" n="75"/>illam materialem consequamur spiritualem. 
           Inun<lb break="no" ed="#P" n="76"/>gitur enim quilibet chrismate bis in vertice a 
           com<lb break="no" ed="#P" n="77"/>muni sacerdote, et in fronte ab episcopo. Caeterum
           <lb ed="#P" n="78"/>ideo bis, quia post resurrectionem duabus vicibus
           <lb ed="#P" n="79"/>datus fuit Spiritus sanctus, tum etiam quando 
           Chri<lb break="no" ed="#P" n="80"/>stus insufflavit discipulis, inquiens : Accipite 
-          Spiri<lb break="no" ed="#P" n="81"/>tum sanctum (Joan. xxi), tum etiam quando missus
+          Spiri<lb break="no" ed="#P" n="81"/>tum sanctum (Joan. xx), tum etiam quando missus
           <lb ed="#P" n="82"/>est eis idem e coelo in igneis videlicet linguis.
           <lb ed="#P" n="83"/>Cum igitur aliquis istiusmodi oleo sancto 
           inun<lb break="no" ed="#P" n="84"/>gitur, necesse est ut illud fiat in scapulis, et in
@@ -119,57 +124,57 @@
           <lb ed="#P" n="90"/>inunguntur aegri atque infirmi. De qua sane unctione
           <lb ed="#P" n="91"/>ait B. Jacobus in sua Epistola: Si quis infirmatur
           <lb ed="#P" n="92"/>inducat sacerdotes et orent super eum, et inungant
-          <lb ed="#P" n="93"/>eum oleo sancto , et alleviabitur ejus infirmitas, si
+          <lb ed="#P" n="93"/>eum oleo sancto, et alleviabitur ejus infirmitas, si
           <lb ed="#P" n="94"/>nimirum ei expediat et utile sit, et remittentur ei
           <lb ed="#P" n="95"/>peccata (Jac. v), videlicet venialia, vel si non fuerit
-          <lb ed="#P" n="96"/>in mortali peccato. Potest tamen fieri bujusmodi
-          <lb ed="#P" n="97"/>inunctio per unum sacerdotem ; sed bhoc fieri non
-          <lb ed="#P" n="98"/>debet, si plures possint adessc. Quartum demum
+          <lb ed="#P" n="96"/>in mortali peccato. Potest tamen fieri hujusmodi
+          <lb ed="#P" n="97"/>inunctio per unum sacerdotem ; sed hoc fieri non
+          <lb ed="#P" n="98"/>debet, si plures possint adesse. Quartum demum
           <lb ed="#P" n="99"/>hujus diei privilegium est mandatum. Est autem
-          <lb ed="#P" n="100"/>differentia inter hoc mandatum et itlud quod fi
-          <lb ed="#P" n="101"/>Sabbato praecedenti. lllud enim fit a praelatis, et
-          <lb ed="#P" n="102"/>Ecclesia magnatibus, repraesentatque illud, quod
-          <lb ed="#P" n="103"/>fecit Christus : hoc vero quilibet sacerdos facere
-          <lb ed="#P" n="104"/>debet, idque hoc modo : Primo oportet ut reficiant
+          <lb ed="#P" n="100"/>differentia inter hoc mandatum et illud quod fit
+          <lb ed="#P" n="101"/>Sabbato praecedenti. Illud enim fit a praelatis, et
+          <lb ed="#P" n="102"/>Ecclesiae magnatibus, repraesentatque illud, quod
+          <lb ed="#P" n="103"/>fecit Christus: hoc vero quilibet sacerdos facere
+          <lb ed="#P" n="104"/>debet, idque hoc modo: Primo oportet ut reficiant
           <lb ed="#P" n="105"/>pauperes, ac postea parum comedant, nec ultra 
           ta<lb break="no" ed="#P" n="106"/>men quam consuetum est. Deinde debent surgere a
-          <lb ed="#P" n="107"/>mensa. ac pauperum pedes lavare. Quo facto 
+          <lb ed="#P" n="107"/>mensa, ac pauperum pedes lavare. Quo facto 
           pos<lb break="no" ed="#P" n="108"/>sunt sese ad mensam recipere, atque iterum 
-          come<lb break="no" ed="#P" n="109"/>dere : quod jejunium non frangit, sed interrumpit.
+          come<lb break="no" ed="#P" n="109"/>dere: quod jejunium non frangit, sed interrumpit.
           <lb ed="#P" n="110"/>Non enim debet quispiam eo die bis comedere, ne
-          <lb ed="#P" n="111"/>jejunium frangatur, tam respectu unius borae, quam
+          <lb ed="#P" n="111"/>jejunium frangatur, tam respectu unius horae, quam
           <lb ed="#P" n="112"/>totius septimanae, quamvis tamen et in multis locis
           <lb ed="#P" n="113"/>ita fiat. Est autem iste dies omni alia solemnitate
-          <lb ed="#P" n="114"/>solemnior, cxceptis tamen solemnitatibus Trinitatis,
+          <lb ed="#P" n="114"/>solemnior, exceptis tamen solemnitatibus Trinitatis,
           <lb ed="#P" n="115"/>usque adeo ut qui possint solemnes vestes induere,
           <lb ed="#P" n="116"/>debeant non secus atque in aliis solemnitatibus.
           <lb ed="#P" n="117"/>Quocirca etiam hoc die omnia laetitiae cantica 
-          ca<lb break="no" ed="#P" n="118"/>nuntur, quemadmodum in caeteris solemnitatibus ,
+          ca<lb break="no" ed="#P" n="118"/>nuntur, quemadmodum in caeteris solemnitatibus,
           <pb ed="#P" n="49"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>praeter Alleluia. Nec dicitur veru Dona nobis pacem,
-          <lb ed="#P" n="2"/>ob cam rem quod nocte sequenti osculo Judas 
+          <lb ed="#P" n="1"/>praeter Alleluia. Nec dicitur vero Dona nobis pacem,
+          <lb ed="#P" n="2"/>ob eam rem quod nocte sequenti osculo Judas 
           Chri<lb break="no" ed="#P" n="3"/>stum tradiderit. Atque hic animadverte tempus 
           re<lb break="no" ed="#P" n="4"/>creationis incoepisse ab illa hora qua Adamus e
           <lb ed="#P" n="5"/>paradiso ejectus fuit, et adhuc est, duratque usque
           <lb ed="#P" n="6"/>ad uniuscujusque obitum. Quo quidem patet majus
           <lb ed="#P" n="7"/>esse recreare quam creare, ita ut hinc etiam 
-          di<lb break="no" ed="#P" n="8"/>cium sit gravius esse ac majus ex impio facere
+          di<lb break="no" ed="#P" n="8"/>ctum sit gravius esse ac majus ex impio facere
           <lb ed="#P" n="9"/>pium quam creare coelum et terram, ac majus fuisse
-          <lb ed="#P" n="10"/>paulum suscitare in mentc quam Lazarum in 
+          <lb ed="#P" n="10"/>paulum suscitare in mente quam Lazarum in 
           cor<lb break="no" ed="#P" n="11"/>pore. Itemque et hoc animadvertas Natale Domini
-          <lb ed="#P" n="12"/>fesium esse Patris, cum per eum Pater innotuit
-          <lb ed="#P" n="13"/>mnundo. Quanquam vero, quod festum Patris est,
+          <lb ed="#P" n="12"/>festum esse Patris, cum per eum Pater innotuit
+          <lb ed="#P" n="13"/>mundo. Quanquam vero, quod festum Patris est,
           <lb ed="#P" n="14"/>festum etiam sit Filii, et Spiritus sancti. In hoc
           <lb ed="#P" n="15"/>enim, quod dicitur Verbum intelligitur Pater Verbi.
           <lb ed="#P" n="16"/>Aut etiam hac alia ratione, quod Filius Patrem 
-          om<lb break="no" ed="#P" n="17"/>niLos manifestaverit. Pascha autem est festum
+          om<lb break="no" ed="#P" n="17"/>nibus manifestaverit. Pascha autem est festum
           <lb ed="#P" n="18"/>Filii, quia tunc a mortuis resurrexit, et verus Deus
           <lb ed="#P" n="19"/>apparuit. Pentecoste vero festum est Spiritus 
-          san<lb break="no" ed="#P" n="20"/>cii. lstarum tamen solemnitatum quaelibet festum
+          san<lb break="no" ed="#P" n="20"/>cti. Istorum tamen solemnitatum quaelibet festum
           <lb ed="#P" n="21"/>dicitur totius Trinitatis. Indivisa enim sunt opera
-          <lb ed="#P" n="22"/>Trinitatis, sed ita tamen ut quaedam mayis 
-          videan<lb break="no" ed="#P" n="23"/>iur propria esse uni quam alteri.
+          <lb ed="#P" n="22"/>Trinitatis, sed ita tamen ut quaedam magis 
+          videan<lb break="no" ed="#P" n="23"/>tur propria esse uni quam alteri.
         </p>
       </div>
     </body>
