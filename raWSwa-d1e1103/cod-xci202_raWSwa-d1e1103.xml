@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,35 +66,35 @@
           <lb ed="#P" n="70"/>CAPUT LXXXVI
           <lb ed="#P" n="71"/>Quomodo sit pulsandum in Quadragesima.
         </p>
-        <p xml:id="raWSwa-d1e1103-d1e113">
+          <p xml:id="raWSwa-d1e1103-d1e113">
           <lb ed="#P" n="72"/>Nunc quemadmodum in ecclesia pulsandum sit,
           <lb ed="#P" n="73"/>paucis etiam exponamus. Quod ut melius pateat,
-          <lb ed="#P" n="74"/>primo scicndum est sex esse instrumentorum 
-          ge<lb break="no" ed="#P" n="75"/>nera, quibus pulsatur : tintinnabulum , cymbalum,
-          <lb ed="#P" n="76"/>nola, nolula, campana, et signa. Tintinnabulum
+          <lb ed="#P" n="74"/>primo sciendum est sex esse instrumentorum 
+          ge<lb break="no" ed="#P" n="75"/>nera, quibus pulsatur: tintinnabulum, cymbalum,
+          <lb ed="#P" n="76"/>nola, nolula, campana, et signum. Tintinnabulum
           <lb ed="#P" n="77"/>pulsatur in triclinio et in refectorio; cymbalum in
           <lb ed="#P" n="78"/>choro, nola in monasterio, nolula in horologio,
           <lb ed="#P" n="79"/>campana in turribus, cujus diminutivum 
-          Hierony<lb break="no" ed="#P" n="80"/>mus ad Eustochium in coenobium esse ait: « 
-          Quo<lb break="no" ed="#P" n="81"/>usque campanula in claustro pulsabitur. » Signa
+          Hierony<lb break="no" ed="#P" n="80"/>mus ad Eustochium in coenobium esse ait: 
+          « Quo<lb break="no" ed="#P" n="81"/>usque campanula in claustro pulsabitur. » Signum
           <lb ed="#P" n="82"/>autem pro quibus pulsandis instrumentis accipi
-          <lb ed="#P" n="83"/>possunt, ut quibus quidpiam significetur. 
+          <lb ed="#P" n="83"/>potest, ut quibus quidpiam significetur. 
           Genera<lb break="no" ed="#P" n="84"/>liter ergo cognoscendum est, quod non debeamus
           <lb ed="#P" n="85"/>in tota Quadragesima diebus profestis compulsare,
           <lb ed="#P" n="86"/>nec depulsare (liceat enim hic vulgaribus et 
           con<lb break="no" ed="#P" n="87"/>suetis uti vocabulis), sed simpulsare, id est, 
           sim<lb break="no" ed="#P" n="88"/>pliciter pulsare ad horas vel matutinas. Atque in
-          <lb ed="#P" n="89"/>bene constitutis ecclesiis ad primam pulaatur 
+          <lb ed="#P" n="89"/>bene constitutis ecclesiis ad primam pulsatur 
           dua<lb break="no" ed="#P" n="90"/>bus campanis, una ad invocandum, altera ad 
           incho<lb break="no" ed="#P" n="91"/>andum. In tertia autem pulsatur tribus juxta 
-          hora<lb break="no" ed="#P" n="92"/>rum numerum, quae sub illa cantantur, una ad
+          ho<lb break="no" ed="#P" n="92"/>rarum numerum, quae sub illa cantantur, una ad
           <lb ed="#P" n="93"/>mutandum, altera ad congregandum, tertia ad 
           in<lb break="no" ed="#P" n="94"/>choandum. Pari modo fit in sexta et nona, sed et
           <lb ed="#P" n="95"/>eodem ordine eaedem campanae pulsantur 
           simpli<lb break="no" ed="#P" n="96"/>citer ad matutinas. Ad missam vero et ad vesperas
           <lb ed="#P" n="97"/>duabus pulsatur campanis. In minoribus autem 
           ec<lb break="no" ed="#P" n="98"/>clesiis solummodo pulsandum est simpliciter. Diebus
-          <lb ed="#P" n="99"/>vero Dominicis et in solemnitatibus , prout in aliia
+          <lb ed="#P" n="99"/>vero Dominicis et in solemnitatibus, prout in aliis
           <lb ed="#P" n="100"/>temporibus compulsatur. Sed de his in sequentibus
           <lb ed="#P" n="101"/>latius dicturi sumus.
         </p>
