@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,17 +67,17 @@
           <lb ed="#P" n="23"/>De Dominica post octavas Epiphaniae.
         </p>
         <p xml:id="raWSwa-d1e982-d1e113">
-          <lb ed="#P" n="24"/>Dominica post octavas Epiphania canitur : Omnis
-          <lb ed="#P" n="25"/>terra adoret te (Psal. Lxv). Quare autem hoc fiat,
-          <lb ed="#P" n="26"/>raiionem tradunt hujusmodi : Cum enim Augustus
+          <lb ed="#P" n="24"/>Dominica post octavas Epiphaniae canitur: Omnis
+          <lb ed="#P" n="25"/>terra adoret te (Psal. lxv). Quare autem hoc fiat,
+          <lb ed="#P" n="26"/>rationem tradunt hujusmodi : Cum enim Augustus
           <lb ed="#P" n="27"/>universo orbi imperaret ad gloriam Romani imperii,
-          <lb ed="#P" n="28"/>bujusmodi edictum proposuit et promulgavit ut
-          <lb ed="#P" n="29"/>quoque anno e singulis mundi civitatibus Romam
+          <lb ed="#P" n="28"/>hujusmodi edictum proposuit et promulgavit ut
+          <lb ed="#P" n="29"/>quolibet anno e singulis mundi civitatibus Romam
           <lb ed="#P" n="30"/>aliquis veniret, tantum terrae secum afferens 
           quan<lb break="no" ed="#P" n="31"/>tum complexu pugni comprehendere posset. Quod
           <lb ed="#P" n="32"/>quidem ideo factum est, ut per hoc certo atque 
           evi<lb break="no" ed="#P" n="33"/>denter constaret omnes subjectos esse Romano 
-          im<lb break="no" ed="#P" n="34"/>perio. Sed postea cum enx illa terra factus esset
+          im<lb break="no" ed="#P" n="34"/>perio. Sed postea cum ex illa terra factus esset
           <lb ed="#P" n="35"/>quasi monticulus quidam, in hoc a Romanis ad
           <lb ed="#P" n="36"/>fidem conversis, Ecclesia in honorem Dei fundata
           <lb ed="#P" n="37"/>est illa Dominica. Ad cujus dedicationem Christiani
