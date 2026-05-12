@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -65,17 +70,17 @@
           <lb ed="#P" n="18"/>Post haec vero tradendum est qui dies sint velut
           <lb ed="#P" n="19"/>privilegiati, qui hoc potissimum tempore 
           compre<lb break="no" ed="#P" n="20"/>henduntur. Sunt enim privilegiati dies quatuor
-          <lb ed="#P" n="21"/>quarta feriae, quatuor Sabbata, tres dies Dominici,
-          <lb ed="#P" n="22"/>una quinta feria, unaque sexta fceria, atque una
-          <lb ed="#P" n="23"/>integra septimana. Quartae feriae sunt hae : Prima
+          <lb ed="#P" n="21"/>quartae feriae, quatuor Sabbata, tres dies Dominici,
+          <lb ed="#P" n="22"/>una quinta feria, unaque sexta feria, atque una
+          <lb ed="#P" n="23"/>integra septimana. Quartae feriae sunt hae: Prima
           <lb ed="#P" n="24"/>est qua nos incipimus jejunare in Quadragesima;
-          <lb ed="#P" n="25"/>secunda septimana, sequenti; tertia, in hebdomada
-          <lb ed="#P" n="26"/>post Lattare Jerusalem; quarta, in ultima 
-          septima<lb break="no" ed="#P" n="27"/>na. Quatuor vero Sabbata haec sunt : Sabbatum 
+          <lb ed="#P" n="25"/>secunda septimana sequenti; tertia, in hebdomada
+          <lb ed="#P" n="26"/>post Laetare Jerusalem; quarta, in ultima 
+          septima<lb break="no" ed="#P" n="27"/>na. Quatuor vero Sabbata haec sunt: Sabbatum 
           pri<lb break="no" ed="#P" n="28"/>mae septimanae, quando celebrantur ordines; 
           Sab<lb break="no" ed="#P" n="29"/>batum quartae, Sabbatum quintae et Sabbatum in
-          <lb ed="#P" n="30"/>vigilia Pascha. Sic Dominicae dies sunt hae tres;
-          <lb ed="#P" n="31"/>Invocavit me; Latare, Jerusalem, et Dominica in
+          <lb ed="#P" n="30"/>vigilia Paschae. Sic Dominicae dies sunt hae tres:
+          <lb ed="#P" n="31"/>Invocavit me; Laetare, Jerusalem, et Dominica in
           <lb ed="#P" n="32"/>Ramis palmarum. Sed quinta feria est in Parasceve.
           <lb ed="#P" n="33"/>Septimo denique privilegiata est ultima septimana
           <lb ed="#P" n="34"/>Quadragesimae, quae vel ob id major dicitur quod
