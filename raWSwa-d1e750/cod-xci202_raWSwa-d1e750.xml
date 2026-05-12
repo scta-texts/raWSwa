@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -64,54 +69,54 @@
           <lb ed="#P" n="46"/>diebus.
         </p>
         <p xml:id="raWSwa-d1e750-d1e115">
-          <lb ed="#P" n="47"/>Haec autem ecclesiastica officia, ut dictun est,
+          <lb ed="#P" n="47"/>Haec autem ecclesiastica officia, ut dictum est,
           <lb ed="#P" n="48"/>instituit B. Hieronymus rogatu Damasi papae, et
           <lb ed="#P" n="49"/>quaecunque etiam alia ex Veteri et Novo 
-          Testa<lb break="no" ed="#P" n="50"/>wento leguntur in Ecclcsia. Gregorius tamen 
-          quos<lb break="no" ed="#P" n="51"/>dam cantus appusuit, Gelasius quosdam bymnos,
+          Testa<lb break="no" ed="#P" n="50"/>mento leguntur in Ecclesia. Gregorius tamen 
+          quos<lb break="no" ed="#P" n="51"/>dam cantus apposuit, Gelasius quosdam hymnos,
           <lb ed="#P" n="52"/>et alii alia. Tempore siquidem Theodosii 
-          impera<lb break="no" ed="#P" n="53"/>teris inordinate psallebant, qui rogavit Damasum
-          <lb ed="#P" n="54"/>pspam, ut curaret sapienter ordinare oflicium 
-          ec<lb break="no" ed="#P" n="55"/>clesiasticum. Quod diligenter ille cffecit, ut supra
+          impe<lb break="no" ed="#P" n="53"/>ratoris inordinate psallebant, qui rogavit Damasum
+          <lb ed="#P" n="54"/>papam, ut curaret sapienter ordinare officium 
+          ec<lb break="no" ed="#P" n="55"/>clesiasticum. Quod diligenter ille effecit, ut supra
           <lb ed="#P" n="56"/>diximus. Sunt autem in praedictis temporibus dies
           <lb ed="#P" n="57"/>quidam duplices, ut pote si quando simul festa 
-          con<lb break="no" ed="#P" n="58"/>currant, in quibus illud obscrvandum est quod in
-          <lb ed="#P" n="59"/>morali philosophia dici solet: « Ccde majori, ct
+          con<lb break="no" ed="#P" n="58"/>currant, in quibus illud observandum est quod in
+          <lb ed="#P" n="59"/>morali philosophia dici solet : « Cede majori, et
           <lb ed="#P" n="60"/>locum da melioribus. » Hoc est, ut excellentius
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="61"/>celebretur oflicium, ac duataxat de minori fiat 
+          <lb ed="#P" n="61"/>celebretur officium, ac duntaxat de minori fiat 
           com<lb break="no" ed="#P" n="62"/>memoratio ipso die, et suum officium reservetur in
           <lb ed="#P" n="63"/>crastinum; ut de Petro et Paulo in quibusdam 
-          Eccle<lb break="no" ed="#P" n="64"/>siis diebus Dominicis. Nam primo quidem celebratur
+          Ec<lb break="no" ed="#P" n="64"/>clesiis diebus Dominicis. Nam primo quidem celebratur
           <lb ed="#P" n="65"/>de Petro, quod princeps fuerit apostolorum ; 
           se<lb break="no" ed="#P" n="66"/>quenti vero die de Paulo. Sic de quibusdam aliis
-          <lb ed="#P" n="67"/>in diebus Dominicis , ita ut Dominica debeat 
-          quie<lb break="no" ed="#P" n="68"/>sccre, ac postea in hebdomada peragi. 
+          <lb ed="#P" n="67"/>in diebus Dominicis, ita ut Dominica debeat 
+          quie<lb break="no" ed="#P" n="68"/>scere, ac postea in hebdomada peragi. 
           Quemadmo<lb break="no" ed="#P" n="69"/>dum sane factum videmus in Testamento Veteri.
           <lb ed="#P" n="70"/>Cum enim Salomon templum dedicasset duodecimo
-          <lb ed="#P" n="71"/>die mensi , quo occurrebat scenopegia, celebravit
+          <lb ed="#P" n="71"/>die mensis, quo occurrebat scenopegia, celebravit
           <lb ed="#P" n="72"/>dedicationem templi septem diebus continuis, et post
           <lb ed="#P" n="73"/>dedicationem distulit scenopegiam. Sunt propterea
-          <lb ed="#P" n="74"/>in supra di«ts temporibus quaedan principales
+          <lb ed="#P" n="74"/>in supra dictis temporibus quaedam principales
           <lb ed="#P" n="75"/>Dominicae, quibus caetera cedunt festa praeter Pascha
-          <lb ed="#P" n="76"/>et Pentecosten, quae praeter resurrectioncm et S.
+          <lb ed="#P" n="76"/>et Pentecosten, quae praeter resurrectionem et S.
           <lb ed="#P" n="77"/>Spiritus missionem sunt aliis longe superiores. 
           At<lb break="no" ed="#P" n="78"/>que earum quidem aliquae ut sunt praestantiores et
-          <lb ed="#P" n="79"/>sulcmniores, ita in iis mutantur officia, cujusmodi
+          <lb ed="#P" n="79"/>solemniores, ita in iis mutantur officia, cujusmodi
           <lb ed="#P" n="80"/>sunt Dominica in principio Adventus et 
-          Septuage<lb break="no" ed="#P" n="81"/>sima, ac illa qua: est in octava Paschae. Aliquae
+          Septua<lb break="no" ed="#P" n="81"/>gesima, ac illa quae est in octava Paschae. Aliquae
           <lb ed="#P" n="82"/>vero non sunt ita praestantes, quales duae hae sunt,
-          <lb ed="#P" n="83"/>videlicet quam vulgari nomine appellamus: Letare,
-          <lb ed="#P" n="84"/>Jerusalem, et Dominica in Ramis palmarumn. Nam
+          <lb ed="#P" n="83"/>videlicet quam vulgari nomine appellamus: Laetare,
+          <lb ed="#P" n="84"/>Jerusalem, et Dominica in Ramis palmarum. Nam
           <lb ed="#P" n="85"/>si contingat dies Annuntiationis in Ramis 
-          palma<lb break="no" ed="#P" n="86"/>rum, aut ipso dic Resurrcctionis, de eo penitus 
+          palma<lb break="no" ed="#P" n="86"/>rum, aut ipso die Resurrectionis, de eo penitus 
           ta<lb break="no" ed="#P" n="87"/>cebitur, ac die sabbato, qui praecedit Dominicam,
           <lb ed="#P" n="88"/>quam in Ramis palmarum vocatam diximus, 
-          uni<lb break="no" ed="#P" n="89"/>versum Annuntiationis fiet mystcrium. lpsum enin
-          <lb ed="#P" n="90"/>sabbatum jus suum majori facile cedit. Ad cumdeza
-          <lb ed="#P" n="91"/>sane modum si cveniat ut ipsa Domini passione fit
-          <lb ed="#P" n="92"/>fegtum dedicationis, certe omni jure ejus mysterium
-          <lb ed="#P" n="93"/>eelebratur in bebdomada sequenti, ut inÁscensionc,
+          uni<lb break="no" ed="#P" n="89"/>versum Annuntiationis fiet mysterium. Ipsum enim
+          <lb ed="#P" n="90"/>sabbatum jus suum majori facile cedit. Ad eumdem
+          <lb ed="#P" n="91"/>sane modum si eveniat ut ipsa Domini passione fit
+          <lb ed="#P" n="92"/>festum dedicationis, certe omni jure ejus mysterium
+          <lb ed="#P" n="93"/>celebratur in hebdomada sequenti, ut in Ascensione,
           <lb ed="#P" n="94"/>si idem festum fuerit. Necesse enim est ut in aliud
           <lb ed="#P" n="95"/>tempus differatur.
         </p>
