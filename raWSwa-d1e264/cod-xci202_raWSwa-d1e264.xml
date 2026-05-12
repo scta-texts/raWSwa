@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,26 +68,26 @@
         </p>
         <p xml:id="raWSwa-d1e264-d1e113">
           <lb ed="#P" n="79"/>Nunc de oblationibus. Sicut in lege veteri 
-          popu<lb break="no" ed="#P" n="80"/>lus Ilierosolymam ad magnas quasdam solemnitatos
-          <lb ed="#P" n="81"/>convcnicbat , nimirum ad Paschatis, l'entecostes
-          <lb ed="#P" n="82"/>et Scenopegiarum fcsta, ut orarent in templo, ubi
-          <lb ed="#P" n="83"/>ctiam ex debito universi offcrre obligabantur, ita
+          popu<lb break="no" ed="#P" n="80"/>lus Hierosolymam ad magnas quasdam solemnitates
+          <lb ed="#P" n="81"/>conveniebat, nimirum ad Paschatis, Pentecostes
+          <lb ed="#P" n="82"/>et Scenopegiarum festa, ut orarent in templo, ubi
+          <lb ed="#P" n="83"/>etiam ex debito universi offerre obligabantur, ita
           <lb ed="#P" n="84"/>omnes Christiani, ex institutione sanctorum 
-          Pa<lb break="no" ed="#P" n="85"/>trum, tenentur offerre, juxtà modum suarum 
+          Pa<lb break="no" ed="#P" n="85"/>trum, tenentur offerre, juxta modum suarum 
           fa<lb break="no" ed="#P" n="86"/>cultatum, in quatuor principalibus solemnitatibus,
-          <lb ed="#P" n="87"/>nempe Natali Domnini, Paschate, Pentecoste, et in
-          <lb ed="#P" n="88"/>fcsto Omnium Sanctorum, ut inde sibi victum 
-          ha<lb break="no" ed="#P" n="89"/>l:cant sacerdotes. Praeterca offerre debent, quo
+          <lb ed="#P" n="87"/>nempe Natali Domini, Paschate, Pentecoste, et in
+          <lb ed="#P" n="88"/>festo Omnium Sanctorum, ut inde sibi victum 
+          ha<lb break="no" ed="#P" n="89"/>beant sacerdotes. Praeterea offerre debent, quo
           <lb ed="#P" n="90"/>paschalis illa candela cerea ematur, quoque cum
-          <lb ed="#P" n="91"/>oleum, tum cera ad ccclesiae illuminationem 
-          compa<lb break="no" ed="#P" n="92"/>retur. Alias autein nemo ad oblationcs compellendus
-          <lb ed="#P" n="93"/>est. Si tamen fiant, spontanca sunt, queniadmo -
-          <lb ed="#P" n="94"/>dim 6 ifle, quic post confessiones dari 
-          consucve<lb break="no" ed="#P" n="95"/>ruht. Qued sero in iWilamsdam Ecclesiis vendantur
-          <lb ed="#P" n="96"/>sepulturae, et pró canipanatum pulsatione 
-          donatio<lb break="no" ed="#P" n="97"/>res exigantur, perinde est ac si Ecclesia 
-          sacra<lb break="no" ed="#P" n="98"/>menta venderentur
-        </p>
+          <lb ed="#P" n="91"/>oleum, tum cera ad ecclesiae illuminationem 
+          compa<lb break="no" ed="#P" n="92"/>retur. Alias autem nemo ad oblationes compellendus
+          <lb ed="#P" n="93"/>est. Si tamen fiant, spontaneae sunt, quemadmo-
+          <lb ed="#P" n="94"/>dum et illae, quae post confessiones dari 
+          consue<lb break="no" ed="#P" n="95"/>verunt. Quod vero in quibusdam Ecclesiis vendantur
+          <lb ed="#P" n="96"/>sepulturae, et pro campanarum pulsatione 
+          donatio<lb break="no" ed="#P" n="97"/>nes exigantur, perinde est ac si Ecclesiae 
+          sacra<lb break="no" ed="#P" n="98"/>menta venderentur.
+          </p>
       </div>
     </body>
   </text>
