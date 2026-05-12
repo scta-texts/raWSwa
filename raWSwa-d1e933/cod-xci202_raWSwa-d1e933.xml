@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,16 +68,16 @@
         </p>
         <p xml:id="raWSwa-d1e933-d1e117">
           <lb ed="#P" n="3"/>Festum hypodiaconorum, quod vocamus 
-          stulto<lb break="no" ed="#P" n="4"/>rum , a quibusdam perficitur in Circumcisione, a
-          <lb ed="#P" n="5"/>quibusdam vero in Epiphania, vel in ejus octavis
-          <lb ed="#P" n="6"/>(5). Fiunt autem quatuor tripudia post Nativitatem
+          stulto<lb break="no" ed="#P" n="4"/>rum, a quibusdam perficitur in Circumcisione, a
+          <lb ed="#P" n="5"/>quibusdam vero in Epiphania, vel in ejus octavis.
+          <lb ed="#P" n="6"/>Fiunt autem quatuor tripudia post Nativitatem
           <lb ed="#P" n="7"/>Domini in Ecclesia, levitarum scilicet, sacerdotum,
           <lb ed="#P" n="8"/>puerorum, id est minorum aetate et ordine, et 
-          hypo<lb break="no" ed="#P" n="9"/>disconorum , qui ordo incertus est. Unde fit ut ille
-          <lb ed="#P" n="10"/>quandeque annumeretur, inter sacros ordines,
+          hypo<lb break="no" ed="#P" n="9"/>diaconorum, qui ordo incertus est. Unde fit ut ille
+          <lb ed="#P" n="10"/>quandoque annumeretur inter sacros ordines,
           <lb ed="#P" n="11"/>quandoque non, quod expresse ex eo intelligitur
           <lb ed="#P" n="12"/>quod certum tempus non habeat, et officio 
-          celebre<lb break="no" ed="#P" n="13"/>tur confuso. .
+          celebre<lb break="no" ed="#P" n="13"/>tur confuso.
         </p>
       </div>
     </body>
