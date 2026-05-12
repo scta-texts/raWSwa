@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -66,15 +71,15 @@
           <lb ed="#P" n="33"/>habet missam, et propriam in ea collectam, quae
           <lb ed="#P" n="34"/>item in vesperis dici debet, quod item observatur
           <lb ed="#P" n="35"/>in aliis vigiliis. Sin contra fuerit, hoc est, si vigilia
-          <lb ed="#P" n="36"/>peculiarc officium nomn habuerit, collecta in 
+          <lb ed="#P" n="36"/>peculiare officium non habuerit, collecta in 
           vespe<lb break="no" ed="#P" n="37"/>ris de sequenti festo dici oportet. Cantantur ergo
-          <lb ed="#P" n="38"/>in vigilia Natalis Domini hiPsalmi : Laudate, pueri,
-          <lb ed="#P" n="39"/>Dominum (Psal. cxu), Laudate Dominum, omnes
-          <lb ed="#P" n="40"/>gentes (Psal. cxvi), Lauda, animu mea, Dominum
-          <lb ed="#P" n="41"/>(Psal. cxiv), Laudate Dominum, quoniam bonus
-          <lb ed="#P" n="42"/>(Psal. cxivi), Lauda, Jerusalem, Dominum (Psal.
-          <lb ed="#P" n="43"/>CXLvil), sed in complctorio cani debet hymnus Veni,
-          <lb ed="#P" n="44"/>dRedemptor gentium.
+          <lb ed="#P" n="38"/>in vigilia Natalis Domini hi Psalmi: Laudate, pueri,
+          <lb ed="#P" n="39"/>Dominum (Psal. cxii), Laudate Dominum, omnes
+          <lb ed="#P" n="40"/>gentes (Psal. cxvi), Lauda, anima mea, Dominum
+          <lb ed="#P" n="41"/>(Psal. cxlv), Laudate Dominum, quoniam bonus
+          <lb ed="#P" n="42"/>(Psal. cxlvi), Lauda, Jerusalem, Dominum (Psal.
+          <lb ed="#P" n="43"/>cxlvii), sed in completorio cani debet hymnus Veni,
+          <lb ed="#P" n="44"/>Redemptor gentium.
         </p>
       </div>
     </body>
