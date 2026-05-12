@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -67,9 +72,9 @@
           tem<lb break="no" ed="#P" n="12"/>pore in rupe quadam latitans hominibus ad se 
           ve<lb break="no" ed="#P" n="13"/>nientibus medebatur, atque eos sanabat. Simili
           <lb ed="#P" n="14"/>ratione, si quae sua animalia ad eum ducebant 
-          a<lb break="no" ed="#P" n="15"/>grota, ea illico curabat. Tandem cum factus esset
+          ae<lb break="no" ed="#P" n="15"/>grota, ea illico curabat. Tandem cum factus esset
           <lb ed="#P" n="16"/>episcopus urbis Sebastae, captus fuit et in carcerem
-          <lb ed="#P" n="17"/>inclusus, in quem pia quaedam mulier cibum ci
+          <lb ed="#P" n="17"/>inclusus, in quem pia quaedam mulier cibum ei
           <lb ed="#P" n="18"/>multo tempore cum candela attulit. Cum autem ille
           <lb ed="#P" n="19"/>mortis suae diem jam imminere praesciret, dixit
           <lb ed="#P" n="20"/>huic mulieri ut, quandiu viveret, singulis annis
@@ -77,7 +82,7 @@
           of<lb break="no" ed="#P" n="22"/>ferret, Deus ab infirmitatibus eam tutaretur, atque
           <lb ed="#P" n="23"/>in magna prosperitate conservaret. Quod quidem
           <lb ed="#P" n="24"/>ita factum est. Multi ergo similiter ita fecerunt si
-          <lb ed="#P" n="25"/>forte infirmarentur, et valetudinem -eceperunt.
+          <lb ed="#P" n="25"/>forte infirmarentur, et valetudinem receperunt.
           <lb ed="#P" n="26"/>Inde apud omnes passim in consuetudinem abiit ut
           <lb ed="#P" n="27"/>si forte ex dentibus laborat, vel ex aliqua alia
           <lb ed="#P" n="28"/>sui parte, vel etiam si sua aegrotarent animalia,
