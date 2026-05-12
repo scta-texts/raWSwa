@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -67,15 +72,15 @@
           ora<lb break="no" ed="#P" n="35"/>tionis esse diximus. Nam prima pars, de qua 
           hacte<lb break="no" ed="#P" n="36"/>nus dictum est, vocatur obsecrationis. Haec ergo
           <lb ed="#P" n="37"/>pars missae, ut missam appellemus totum officium
-          <lb ed="#P" n="38"/>ab introitu usque ad I:e, missa est, si strictim 
+          <lb ed="#P" n="38"/>ab introitu usque ad Ite, missa est, si strictim 
           acci<lb break="no" ed="#P" n="39"/>piatur, proprio nomine missa appellata est. Habet
           <lb ed="#P" n="40"/>autem ea quatuor distinctiones. Prima dicitur 
           se<lb break="no" ed="#P" n="41"/>creta, altera praefatio, tertia canon, quarta oratio
           <lb ed="#P" n="42"/>Dominica cum sua praefatione. Atque haec quidem
-          <lb ed="#P" n="43"/>pars extenditur usque ad Dominicae orationpis finem,
+          <lb ed="#P" n="43"/>pars extenditur usque ad Dominicae orationis finem,
           <lb ed="#P" n="44"/>Sed libera nos a malo, Amen, quod tacite a sacerdote
           <lb ed="#P" n="45"/>proferri debet. Hic itaque considerandum est tot
-          <lb ed="#P" n="46"/>dehere dici collectas, eodemque ordine, ac de 
+          <lb ed="#P" n="46"/>debere dici collectas, eodemque ordine, ac de 
           eis<lb break="no" ed="#P" n="47"/>dem in secreta post communionem, quot 
           praecesse<lb break="no" ed="#P" n="48"/>runt in obsecratione ante epistolam in exordio
           <lb ed="#P" n="49"/>missae, nec plures, nec etiam pauciores, hoc 
@@ -86,7 +91,7 @@
           Quo<lb break="no" ed="#P" n="54"/>niam finis ad suum debet retorqueri principium. Ad
           <lb ed="#P" n="55"/>postremum generaliter cognoscendum est quod in
           <lb ed="#P" n="56"/>missa pro defunctis nulla debeat pro vivis oratio
-          <lb ed="#P" n="57"/>intermisceri, hac tamen communi excepta, Dewus,
+          <lb ed="#P" n="57"/>intermisceri, hac tamen communi excepta, Deus,
           <lb ed="#P" n="58"/>qui vivorum dominaris simul et mortuorum.
         </p>
       </div>
