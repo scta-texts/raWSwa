@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,28 +67,28 @@
           <lb ed="#P" n="84"/>De Dominicis diebus privilegiatis.
         </p>
         <p xml:id="raWSwa-d1e1188-d1e113">
-          <lb ed="#P" n="85"/>Sequitur de diebus Dominicis : et quidem prima
-          <lb ed="#P" n="86"/>Dominica Quadragesima in hoc est privilegiata,
+          <lb ed="#P" n="85"/>Sequitur de diebus Dominicis: et quidem prima
+          <lb ed="#P" n="86"/>Dominica Quadragesimae in hoc est privilegiata,
           <lb ed="#P" n="87"/>quoniam inde inchoatur ipsa Quadragesima, quae
           <lb ed="#P" n="88"/>repraesentat tempus illud, quo morati sint atque
           <lb ed="#P" n="89"/>haeserint in deserto filii Israel. Sicut enim illi isthic
           <lb ed="#P" n="90"/>morati sunt per quadraginta duas mansiones manna
           <lb ed="#P" n="91"/>cibati, ita nos quoque ab hac Dominica usque ad
           <lb ed="#P" n="92"/>Pascha per quadraginta duos dies a deliciis 
-          corpo<lb break="no" ed="#P" n="93"/>reis abstinentes verbo vitse reficimur, et orationt
+          corpo<lb break="no" ed="#P" n="93"/>reis abstinentes verbo vitae reficimur, et orationi
           <lb ed="#P" n="94"/>vacamus ; ut per Christum in terram viventium 
           in<lb break="no" ed="#P" n="95"/>troducamur, quemadmodum illi introducti per Jesum
-          <lb ed="#P" n="96"/>Nave filium, sive per Josue in terram promissionis. .
+          <lb ed="#P" n="96"/>Nave filium, sive per Josue in terram promissionis.
           <lb ed="#P" n="97"/>Tria notanda sunt in populo Israelitico, scilicet
-          <lb ed="#P" n="98"/>peregrinatio, quae fuit in gypto, quando Jacob et
-          <lb ed="#P" n="99"/>filii ejus profecti sunt in ZEgyptum; captivitas quae
+          <lb ed="#P" n="98"/>peregrinatio, quae fuit in Aegypto, quando Jacob et
+          <lb ed="#P" n="99"/>filii ejus profecti sunt in Aegyptum; captivitas quae
           <lb ed="#P" n="100"/>in Babylone contigit : atque horum duorum nos
           <lb ed="#P" n="101"/>meminimus. Tertium fuit dispersio, et adhuc est per
           <lb ed="#P" n="102"/>universum orbem. Cujus quidem nos mentionem
           <lb ed="#P" n="103"/>non facimus, quia ab illa nunquam revocabuntur,
           <lb ed="#P" n="104"/>quae facta fuit Tito et Vespasiano. Unde dictum
           <lb ed="#P" n="105"/>est : Tradam eos in manu, de qua non poterunt 
-          sur<lb break="no" ed="#P" n="106"/>gere (Thren. ). Dominica vero Latare Jerusalem,
+          sur<lb break="no" ed="#P" n="106"/>gere (Thren. i). Dominica vero Laetare Jerusalem,
           <lb ed="#P" n="107"/>quae septima est a prima Dominica Septuagesimae,
           <lb ed="#P" n="108"/>ob id privilegio insignita est, quod libertatem nobis
           <lb ed="#P" n="109"/>exprimat redeundi, quae fuit concessa filiis Israel
@@ -92,7 +97,7 @@
           <lb ed="#P" n="112"/>ejus diei officium de laetitia est, ut partim illorum
           <lb ed="#P" n="113"/>exprimamus laetitiam, partim etiam nostram, quam
           <lb ed="#P" n="114"/>finitis septem aetatibus, a mundi exsilio liberati 
-          ha<lb break="no" ed="#P" n="115"/>bebimus, cum coalestem paradisum, quae vere patria
+          ha<lb break="no" ed="#P" n="115"/>bebimus, cum coelestem paradisum, quae vere patria
           <lb ed="#P" n="116"/>nostra est, intrabimus.
         </p>
       </div>
