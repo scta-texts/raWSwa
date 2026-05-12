@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -66,75 +71,75 @@
           fa<lb break="no" ed="#P" n="63"/>cile laicis teneretur. Contigit ergo ut quodam 
           tem<lb break="no" ed="#P" n="64"/>pore pastores panem super lapidem quemdam 
           pone<lb break="no" ed="#P" n="65"/>rent, qui, dum hujus secretae verba proferrent, in
-          <lb ed="#P" n="66"/>carnem conversus est,ct forsitan transsubstantiatus,
-          <lb ed="#P" n="67"/>ut sic loquar, in corpus Christi. In quos divinitus.
-          <lb ed="#P" n="68"/>facta est acerrima vindicta. Nam ad nnum omnes
+          <lb ed="#P" n="66"/>carnem conversus est, et forsitan transsubstantiatus,
+          <lb ed="#P" n="67"/>ut sic loquar, in corpus Christi. In quos divinitus
+          <lb ed="#P" n="68"/>facta est acerrima vindicta. Nam ad unum omnes
           <lb ed="#P" n="69"/>percussi sunt divino judicio coelitus misso. Ex quo
           <lb ed="#P" n="70"/>quidem facto statutum fuit, ut posthac tacite ac
-          <lb ed="#P" n="71"/>submisse diceretur, aut ideu sane occulte et quasi
+          <lb ed="#P" n="71"/>submisse diceretur, aut ideo sane occulte et quasi
           <lb ed="#P" n="72"/>sub silentio dicitur, ne scilicet vilescat, sicut ob
-          <lb ed="#P" n="73"/>eamdem causam sacra litterae dicunturesse obscurae;
+          <lb ed="#P" n="73"/>eamdem causam sacrae litterae dicuntur esse obscurae;
           <lb ed="#P" n="74"/>aut tandem ne a laicis cognoscatur, ita ut hinc 
-          tri<lb break="no" ed="#P" n="75"/>plex silentii sit ratio. Cum autem ait sacerdos :
+          tri<lb break="no" ed="#P" n="75"/>plex silentii sit ratio. Cum autem ait sacerdos:
           <lb ed="#P" n="76"/>Orate, fratres, statim incipit orare; et nos similiter
-          <lb ed="#P" n="77"/>hoc audientes secreto orare debemus, ae duos 
-          psal<lb break="no" ed="#P" n="78"/>mos canere, nempe : Exaudiat te Dominus, et 
+          <lb ed="#P" n="77"/>hoc audientes secreto orare debemus, ac duos 
+          psal<lb break="no" ed="#P" n="78"/>mos canere, nempe: Exaudiat te Dominus, et 
           se<lb break="no" ed="#P" n="79"/>quentem. Sed quando interim dicit, Orate, fratres,
           <lb ed="#P" n="80"/>perinde est ac si diceret : Dominus vobiscum tacite,
-          <lb ed="#P" n="81"/>cum sese vertat ad populum. Quare meminerimusg
+          <lb ed="#P" n="81"/>cum sese vertat ad populum. Quare meminerimus
           <lb ed="#P" n="82"/>sacerdotem se quinquies ad populum convertere
           <lb ed="#P" n="83"/>dicendo Dominus vobiscum, propter quinque 
           appa<lb break="no" ed="#P" n="84"/>ritiones quae fuere ipso die Paschatis. Et quia una
-          <lb ed="#P" n="85"/>apparitio. fuit non manifesta, quando apparuit B.
-          <lb ed="#P" n="86"/>Marix Magdalenae, ut plcrique sentiunt, ideo 
+          <lb ed="#P" n="85"/>apparitio fuit non manifesta, quando apparuit B.
+          <lb ed="#P" n="86"/>Mariae Magdalenae, ut plerique sentiunt, ideo 
           oc<lb break="no" ed="#P" n="87"/>culte et quasi sub silentio ait, Dominus vobiscum
           <lb ed="#P" n="88"/>tunc, cum aperte satis dicit : Orate, fratres. Per
-          <lb ed="#P" n="89"/>omnia secula seculorum, id est per saecula sibi 
+          <lb ed="#P" n="89"/>omnia saecula saeculorum, id est per saecula sibi 
           mu<lb break="no" ed="#P" n="90"/>tuo succedentia. Vel dicuntur saecula per 
           antono<lb break="no" ed="#P" n="91"/>masiam, sicut Cantica canticorum. Quaesitum est
           <lb ed="#P" n="92"/>cur secreto dicantur orationes quae sequuntur post
           <lb ed="#P" n="93"/>oblationes. Sed nos ideo hoc fieri respondemus,
-          <lb ed="#P" n="94"/>quod Judai post suscitationem Lazari, statim 
+          <lb ed="#P" n="94"/>quod Judaei post suscitationem Lazari, statim 
           Je<lb break="no" ed="#P" n="95"/>sum voluerunt occidere, qui sese occultavit in 
-          civi<lb break="no" ed="#P" n="96"/>tate Epbrem in solitudine (Joan. x), et a 
+          civi<lb break="no" ed="#P" n="96"/>tate Ephrem in solitudine (Joan. x), et a 
           praedica<lb break="no" ed="#P" n="97"/>tione ac miraculorum operatione penitus quievit et
           <lb ed="#P" n="98"/>tacuit in Sabbatum usque, quod est ante Dominicam
           <lb ed="#P" n="99"/>in Ramis palmarum, quo venit in domum Simonis
-          <lb ed="#P" n="100"/>leprosi, et aperte praedicavit (Matth. xxvi). Atquc
+          <lb ed="#P" n="100"/>leprosi, et aperte praedicavit (Matth. xxvi). Atque
           <lb ed="#P" n="101"/>hoc quidem expresse indicat sacerdotis illa vocis
-          <lb ed="#P" n="102"/>exsultatio, qua inquit, Per omnia sacula saculorum.
+          <lb ed="#P" n="102"/>exsultatio, qua inquit, Per omnia saecula saeculorum.
           <lb ed="#P" n="103"/>Cui subditur, Amen, propterea, ut quae a sacerdote
           <lb ed="#P" n="104"/>dicta sint, liquido confirmemus, quia per Christum
-          <lb ed="#P" n="105"/>saculum creatum est. Amen namque nomen Dei
-          <lb ed="#P" n="106"/>est. Unde in Apocalypsi : Ego sum Amen, testis 
-          fide<lb break="no" ed="#P" n="107"/>lis (Apoc. ). Subjungitur porro, Dominus 
+          <lb ed="#P" n="105"/>saeculum creatum est. Amen namque nomen Dei
+          <lb ed="#P" n="106"/>est. Unde in Apocalypsi: Ego sum Amen, testis 
+          fide<lb break="no" ed="#P" n="107"/>lis (Apoc. iii). Subjungitur porro, Dominus 
           vobis<lb break="no" ed="#P" n="108"/>cum, ac deinde, Sursum corda, quae scilicet sursum
           <lb ed="#P" n="109"/>habere debemus ad Dominum in coelestibus, non in
           <lb ed="#P" n="110"/>terrenis, ut non quaeramus benedictionem Esau,
           <lb ed="#P" n="111"/>quae ut caduca ac debilis est, ita in terrenis plane
-          <lb ed="#P" n="112"/>sita est. Idem prorsus nobis manifceste signiflcant
+          <lb ed="#P" n="112"/>sita est. Idem prorsus nobis manifeste significant
           <lb ed="#P" n="113"/>episcopi sandalia, quae cum superius sint aperta,
           <lb ed="#P" n="114"/>iis admonemur, ut semper corda hactenus erecta
-          <lb ed="#P" n="115"/>ad Dominurm, cumque inferius sint solida, volunt ut
-          <lb ed="#P" n="116"/>haboamus in terrenis menten omnnino obtusam,
-          <lb ed="#P" n="117"/>quasi non debeamus quaerere benedictionen quae wn
+          <lb ed="#P" n="115"/>ad Dominum, cumque inferius sint solida, volunt ut
+          <lb ed="#P" n="116"/>habeamus in terrenis mentem omnino obtusam,
+          <lb ed="#P" n="117"/>quasi non debeamus quaerere benedictionem quae in
           <pb ed="#P" n="27"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>terrenis est, sed benedictionem Jacob, quae est in
-          <lb ed="#P" n="2"/>caelis. Postea sequitur : Gratias agamus Domino Deo
-          <lb ed="#P" n="3"/>nostre. Quia pro omnibus beneficiis, quae ille in nos
+          <lb ed="#P" n="2"/>caelis. Postea sequitur: Gratias agamus Domino Deo
+          <lb ed="#P" n="3"/>nostro. Quia pro omnibus beneficiis, quae ille in nos
           <lb ed="#P" n="4"/>benigne contulit, gratias ei merito rependere 
-          de<lb break="no" ed="#P" n="5"/>bemus. Invenitur autem ibi quaedam figura (2) ad
-          <lb ed="#P" n="6"/>similiudinem nostrorum delta, D scilicet undique
-          <lb ed="#P" n="7"/>clausum, qued in parte yraecedenti V nostrum 
+          de<lb break="no" ed="#P" n="5"/>bemus. Invenitur autem ibi quaedam figura ad
+          <lb ed="#P" n="6"/>similitudinem nostrorum delta, D scilicet undique
+          <lb ed="#P" n="7"/>clausum, quod in parte praecedenti V nostrum 
           com<lb break="no" ed="#P" n="8"/>plectitur, quod in summitate apertum est, in 
           quo<lb break="no" ed="#P" n="9"/>rum parte media tractulus per transversum 
-          duci<lb break="no" ed="#P" n="10"/>tur, utramque in modum crucis partem cepulans.
+          duci<lb break="no" ed="#P" n="10"/>tur, utramque in modum crucis partem copulans.
           <lb ed="#P" n="11"/>Quod quidem non sine causa factum est. Per delta
           <lb ed="#P" n="12"/>enim circulariter clausum, divina figuratur natura,
           <lb ed="#P" n="13"/>quae nec principium nec finem habuit. Per V 
           expri<lb break="no" ed="#P" n="14"/>mitur humana Christi natura, quae principium in
-          <lb ed="#P" n="15"/>Virgine babuit, sed fine carebit. At vero tractulus
+          <lb ed="#P" n="15"/>Virgine habuit, sed fine carebit. At vero tractulus
           <lb ed="#P" n="16"/>in medio utramque partem conjungens, crux est per
           <lb ed="#P" n="17"/>quam humana sociantur divinis.
         </p>
