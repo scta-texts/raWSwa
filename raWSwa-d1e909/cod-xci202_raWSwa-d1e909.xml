@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,62 +66,62 @@
           <lb ed="#P" n="19"/>CAPUT LXX.
           <lb ed="#P" n="20"/>De festis Nativitatem sequentibus.
         </p>
-        <p xml:id="raWSwa-d1e909-d1e113">
+       <p xml:id="raWSwa-d1e909-d1e113">
           <lb ed="#P" n="21"/>Deinceps sequitur ordine convenienti, ut de iis
-          <lb ed="#P" n="22"/>lestivitatibus modo tractemus, quae Christi 
-          Nativi<lb break="no" ed="#P" n="23"/>tatem proxime sequuntur. Debent ergo vesperae 
+          <lb ed="#P" n="22"/>festivitatibus modo tractemus, quae Christi 
+          Nati<lb break="no" ed="#P" n="23"/>vitatem proxime sequuntur. Debent ergo vesperae 
           Na<lb break="no" ed="#P" n="24"/>talis primo integre celebrari, ac postea conveniunt
           <lb ed="#P" n="25"/>diaconi quasi in tripudio, cantantque Magnificat
           <lb ed="#P" n="26"/>cum antiphona de S. Stephano, sed sacerdos recitat
-          <lb ed="#P" n="27"/>collectam. Nocturnos et universum offlcium 
+          <lb ed="#P" n="27"/>collectam. Nocturnos et universum officium 
           crasti<lb break="no" ed="#P" n="28"/>num celebrant diaconi, quod Stephanus fuerit 
           dia<lb break="no" ed="#P" n="29"/>conus, et ad lectiones concedunt benedictiones, ita
           <lb ed="#P" n="30"/>tamen, ut ejus diei missam celebret hebdomadarius,
-          <lb ed="#P" n="31"/>boc est ille cujus tum vices fuerint ceam exsequi.
+          <lb ed="#P" n="31"/>hoc est ille cujus tum vices fuerint eam exsequi.
           <lb ed="#P" n="32"/>Sic eodem modo omne officium perficient 
           sacerdo<lb break="no" ed="#P" n="33"/>tes ipso die B. Joannis, quod hic sacerdos fuerit,
           <lb ed="#P" n="34"/>et pueri in ipso festo Innocentium, quia innocentes
-          <lb ed="#P" n="35"/>pro €hristo occisi sunt. Scd ignorandum non est
-          <lb ed="#P" n="36"/>passionem bcati Stephani factam fuisse in Augusto,
+          <lb ed="#P" n="35"/>pro Christo occisi sunt. Sed ignorandum non est
+          <lb ed="#P" n="36"/>passionem beati Stephani factam fuisse in Augusto,
           <lb ed="#P" n="37"/>illo die, quo ejus celebratur inventio; econtra 
-          in<lb break="no" ed="#P" n="38"/>ventionem ejusdem fuisse postcero die nativitatis
+          in<lb break="no" ed="#P" n="38"/>ventionem ejusdem fuisse postero die nativitatis
           <lb ed="#P" n="39"/>Domini. Verum enimvero cum dignius et 
           praestan<lb break="no" ed="#P" n="40"/>tius sit festum Passionis inventione, idcirco 
-          trans<lb break="no" ed="#P" n="41"/>Istum est ad tempus Natalis Domini. Vel ctiam ob
-          <lb ed="#P" n="42"/>banc rem, quod ei eodem hoc die dedicata sit 
+          trans<lb break="no" ed="#P" n="41"/>latum est ad tempus Natalis Domini. Vel etiam ob
+          <lb ed="#P" n="42"/>hanc rem, quod ei eodem hoc die dedicata sit 
           basi<lb break="no" ed="#P" n="43"/>lica. Poterit tamen et alia esse ratio, quoniam 
           Ste<lb break="no" ed="#P" n="44"/>phanus post Domini passionem pro Christo primus
-          <lb ed="#P" n="45"/>martyriurm perpessus est, quod nasci dicitur in 
-          cae<lb break="no" ed="#P" n="46"/>lis, cujusmodi natalem nobis Christi nativitas in
+          <lb ed="#P" n="45"/>martyrium perpessus est, quod nasci dicitur in 
+          coe<lb break="no" ed="#P" n="46"/>lis, cujusmodi natalem nobis Christi nativitas in
           <lb ed="#P" n="47"/>carne contulit. Consentaneum ergo fuit ut 
           Nativi<lb break="no" ed="#P" n="48"/>tati Christi continuaretur Natale S. Stephani, quo
           <lb ed="#P" n="49"/>per hoc notaretur, nativitatem unam sequi ex alia.
-          <lb ed="#P" n="50"/>Unde etiam est, quod in ipsius Vita legitur : Heri
+          <lb ed="#P" n="50"/>Unde etiam est, quod in ipsius Vita legitur: Heri
           <lb ed="#P" n="51"/>Christus natus est in terris, ut Stephanus hodie 
-          na<lb break="no" ed="#P" n="52"/>sceretur in catis. Eodem fere modo de festo S. 
+          na<lb break="no" ed="#P" n="52"/>sceretur in caelis. Eodem fere modo de festo S. 
           Joan<lb break="no" ed="#P" n="53"/>nis Evangelistae censendum est, quod cum ille dies
           <lb ed="#P" n="54"/>quo se deposuit in foveam post celebrationem 
           sa<lb break="no" ed="#P" n="55"/>crorum, Natalis fuerit sancto Joanni Baptistae, hic
-          <lb ed="#P" n="56"/>tamen cum illi cessit, de quo dictum erat a Domino:
-          <lb ed="#P" n="57"/>Inter natos mulierumpon surrexit major, etc. (Luc.7),
+          <lb ed="#P" n="56"/>tamen eum illi cessit, de quo dictum erat a Domino:
+          <lb ed="#P" n="57"/>Inter natos mulierum non surrexit major, etc. (Luc. 7)
           <lb ed="#P" n="58"/>atque festum hujus translatum est ad tertium diem
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="59"/>Natalis Domini, ut omnes suos comites habcret
+          <lb ed="#P" n="59"/>Natalis Domini, ut omnes suos comites haberet
           <lb ed="#P" n="60"/>sponsus, qui rubicundus est et candidus. Vel ob id
-          <lb ed="#P" n="61"/>ctiam, quod eo die ipsi dedicata sit basilica, vel 
+          <lb ed="#P" n="61"/>etiam, quod eo die ipsi dedicata sit basilica, vel 
           tan<lb break="no" ed="#P" n="62"/>dem quia eo die insulatus est : Fuit enim patriarcha
-          <lb ed="#P" n="63"/>Ephesinus. Tunc autcm scripsit Evangelium de quo
-          <lb ed="#P" n="64"/>Beda inquit « Quod si paulo altius intonasset, 
-          uni<lb break="no" ed="#P" n="65"/>versus mundus vix capere potuisset. » lta ut hinc
-          <lb ed="#P" n="66"/>quoque Hieronymus cum vocitet vocem aquila. 
+          <lb ed="#P" n="63"/>Ephesinus. Tunc autem scripsit Evangelium de quo
+          <lb ed="#P" n="64"/>Beda inquit : « Quod si paulo altius intonasset, 
+          uni<lb break="no" ed="#P" n="65"/>versus mundus vix capere potuisset. » Ita ut hinc
+          <lb ed="#P" n="66"/>quoque Hieronymus eum vocitet vocem aquilae. 
           Si<lb break="no" ed="#P" n="67"/>mili ratione Innocentes non statim quidem quarto
           <lb ed="#P" n="68"/>die post passi sunt, sed quarto die anno revoluto,
-          <lb ed="#P" n="69"/>quandoquidem, cum Heruodes a filiis suis accusatus
+          <lb ed="#P" n="69"/>quandoquidem, cum Herodes a filiis suis accusatus
           <lb ed="#P" n="70"/>erat, debuit Romam proficisci, ibique coram 
-          Au<lb break="no" ed="#P" n="71"/>gusto Caesare causam suam éefendere, ita ut 
-          simul<lb break="no" ed="#P" n="72"/>atque causam obtinuisset, ac jam rediisset, 
+          Au<lb break="no" ed="#P" n="71"/>gusto Caesare causam suam defendere, ita ut simul
+          <lb ed="#P" n="72"/>atque causam obtinuisset, ac jam rediisset, 
           imma<lb break="no" ed="#P" n="73"/>ne istud facinus perpetraverit, omnes interimens
-          <lb ed="#P" n="74"/>pucros a bimatu et infra (Matth. n). Credebat enim
+          <lb ed="#P" n="74"/>pueros a bimatu et infra (Matth. ii). Credebat enim
           <lb ed="#P" n="75"/>puerum natum magnum fore, cui astra 
           famulaban<lb break="no" ed="#P" n="76"/>tur, et timebat ne per illum regnum suum 
           amitte<lb break="no" ed="#P" n="77"/>ret, de quo plenius in Matthaeo legitur. In festo 
