@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -64,19 +69,19 @@
         <p xml:id="raWSwa-d1e957-d1e113">
           <lb ed="#P" n="96"/>Sunt autem tria Evangelia hujus festivitatis,
           <lb ed="#P" n="97"/>unum de baptismo, scilicet Factum est, cum 
-          bapti<lb break="no" ed="#P" n="98"/>zaretur (Luc. u), secundum de magis, nempe Cum
-          <lb ed="#P" n="99"/>natus esset Jesus (Matth. 1); tertium de nuptiis
-          <lb ed="#P" n="100"/>(Joan. n), atque hoc quidem legitur Dominica 
+          bapti<lb break="no" ed="#P" n="98"/>zaretur (Luc. iii), secundum de magis, nempe Cum
+          <lb ed="#P" n="99"/>natus esset Jesus (Matth. ii); tertium de nuptiis
+          <lb ed="#P" n="100"/>(Joan. ii), atque hoc quidem legitur Dominica 
           se<lb break="no" ed="#P" n="101"/>quenti. Caeterum illud nos latere non debet duo
           <lb ed="#P" n="102"/>evangelia de Christi generatione legi nocte, alterum
-          <lb ed="#P" n="103"/>videlicet in Nativitate , alterum vero in Epiphania.
-          <lb ed="#P" n="104"/>Quoniam utraque Christi generatio erat nocte, hoz
-          <lb ed="#P" n="105"/>est, obscura et quae primurum Patrum sensibus
+          <lb ed="#P" n="103"/>videlicet in Nativitate, alterum vero in Epiphania.
+          <lb ed="#P" n="104"/>Quoniam utraque Christi generatio erat nocte, hoc
+          <lb ed="#P" n="105"/>est, obscura et quae primorum Patrum sensibus
           <lb ed="#P" n="106"/>percipi non poterat. Una generatio fit descendendo,
           <lb ed="#P" n="107"/>altera ascendendo, quod una sit carnalis, altera 
-          spi<lb break="no" ed="#P" n="108"/>ritualis. In una ponitur , Genuit (Matth. 1), ut 
+          spi<lb break="no" ed="#P" n="108"/>ritualis. In una ponitur, Genuit (Matth. i), ut 
           car<lb break="no" ed="#P" n="109"/>nalis et temporalis generationis exprimatur 
-          succes<lb break="no" ed="#P" n="110"/>sio : in altera ponitur, Qui fuit (Luc. m): ut 
+          succes<lb break="no" ed="#P" n="110"/>sio: in altera ponitur, Qui fuit (Luc. iii): ut 
           done<lb break="no" ed="#P" n="111"/>tur spiritualis generationis adoptio. Prima terminata
           <lb ed="#P" n="112"/>est in Virginis partu, secunda inchoata est per
           <lb ed="#P" n="113"/>baptismum. Inter octavas Epiphaniae et 
@@ -84,7 +89,7 @@
           <pb ed="#P" n="41"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>sic dicuntur, quoniam lectionibus debent 
-          respon<lb break="no" ed="#P" n="2"/>dere et convenire, cum tamen psalmi noa debeant
+          respon<lb break="no" ed="#P" n="2"/>dere et convenire, cum tamen psalmi non debeant
           <lb ed="#P" n="3"/>legi nisi illo triduo ante Pascha.
         </p>
       </div>
