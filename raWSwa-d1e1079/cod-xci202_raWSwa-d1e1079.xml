@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -65,34 +70,34 @@
         </p>
         <p xml:id="raWSwa-d1e1079-d1e115">
           <lb ed="#P" n="65"/>Ut autem de omnibus magnis solemnitatibus,
-          <lb ed="#P" n="66"/>qu:ie infro Septuagesimam celebrantur, sive ipso
-          <lb ed="#P" n="67"/>passionis tempore, siveante, nos simul expediamus,
+          <lb ed="#P" n="66"/>quae infra Septuagesimam celebrantur, sive ipso
+          <lb ed="#P" n="67"/>passionis tempore, sive ante, nos simul expediamus,
           <lb ed="#P" n="68"/>ut sunt tria illa festa praedicta beatae Agathae, S.
-          <lb ed="#P" n="69"/>Mauhia, Annuntiationis Domini, S. Gregorii , et si
+          <lb ed="#P" n="69"/>Matthiae, Annuntiationis Domini, S. Gregorii, et si
           <lb ed="#P" n="70"/>forte contingat festum ipsius patroni Ecclesiae vel
-          <lb ed="#P" n="71"/>ejus annjversarium vel Pascha alicujus annotinum,
+          <lb ed="#P" n="71"/>ejus anniversarium vel Pascha alicujus annotinum,
           <lb ed="#P" n="72"/>dicimus generaliter quod cantica laudis, scilicet Te
-          <lb ed="#P" n="73"/>Deum laudamus, CGloria in excelsis, et lIte, missa
+          <lb ed="#P" n="73"/>Deum laudamus, Gloria in excelsis, et Ite, missa
           <lb ed="#P" n="74"/>est, et alia, quae si aliis temporibus contingerent,
-          <lb ed="#P" n="75"/>cantarentur, in iis cani debent, preeter Alleluia.
+          <lb ed="#P" n="75"/>cantarentur, in iis cani debent, praeter Alleluia.
           <lb ed="#P" n="76"/>Nam hujusmodi festa ad paschale tempus generatim
           <lb ed="#P" n="77"/>videntur pertinere. Si vero hic objiciatur quod in
           <lb ed="#P" n="78"/>Annuntiatione Domini, Gloria in excelsis, quod 
           can<lb break="no" ed="#P" n="79"/>ticum est proprium Natalis Domini, et Ite, missa
-          <lb ed="#P" n="80"/>est, quod proprium est resurrectionis , et Te Deum
-          <lb ed="#P" n="81"/>luudamus, quod gaudium drachmae inventae 
-          desi<lb break="no" ed="#P" n="82"/>gnat, cantari non debeant, quoniam haec in 
-          Annun<lb break="no" ed="#P" n="83"/>tiatione Domini illa tempora non habebant, 
+          <lb ed="#P" n="80"/>est, quod proprium est resurrectionis, et Te Deum
+          <lb ed="#P" n="81"/>laudamus, quod gaudium drachmae inventae 
+          de<lb break="no" ed="#P" n="82"/>signat, cantari non debeant, quoniam haec in 
+          An<lb break="no" ed="#P" n="83"/>nuntiatione Domini illa tempora non habebant, 
           dici<lb break="no" ed="#P" n="84"/>mus breviter quod, etiam si Natalis Domini, vel
-          <lb ed="#P" n="85"/>passie, vel drachmae inventio, necdum revera erant,
+          <lb ed="#P" n="85"/>passio, vel drachmae inventio, necdum revera erant,
           <lb ed="#P" n="86"/>tamen jam certo fore sperabantur. Nam hoc festum
           <lb ed="#P" n="87"/>est quasi fons et initium festorum Christi. Vocatur
           <lb ed="#P" n="88"/>autem Pascha annotinum, quando aliquis diem,
-          <lb ed="#P" n="89"/>quo baptisma suscepit, annuatim celebrat , atque
+          <lb ed="#P" n="89"/>quo baptisma suscepit, annuatim celebrat, atque
           <lb ed="#P" n="90"/>eorum ipsius diei Paschae officium integre cantari
-          <lb ed="#P" n="91"/>dehet, praeter Alleluia, si accidat tempore 
+          <lb ed="#P" n="91"/>debet, praeter Alleluia, si accidat tempore 
           Quadra<lb break="no" ed="#P" n="92"/>gesimae. Sed certus interim sis Ecclesiam 
-          Lugdu<lb break="no" ed="#P" n="93"/>nensem et Mediolanensem ubi Anbrosius 
+          Lugdu<lb break="no" ed="#P" n="93"/>nensem et Mediolanensem ubi Ambrosius 
           archiprae<lb break="no" ed="#P" n="94"/>sulatum obtinuit, tempore passionis nullam 
           cele<lb break="no" ed="#P" n="95"/>brare solemnitatem, verum duntaxat facere 
           com<lb break="no" ed="#P" n="96"/>memorationem.
