@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,33 +67,33 @@
           <lb ed="#P" n="11"/>De officio tenebrarum.
         </p>
         <p xml:id="raWSwa-d1e1274-d1e113">
-          <lb ed="#P" n="12"/>Tunc vero considerandum est quamobrem tribus
-          <lb ed="#P" n="13"/>soctibus continuis officium quod tenebrae 
-          appella<lb break="no" ed="#P" n="14"/>tur celebremus, quemadmodum ad illud ofticium
+          <lb ed="#P" n="12"/>Nunc vero considerandum est quamobrem tribus
+          <lb ed="#P" n="13"/>noctibus continuis officium quod tenebrae 
+          appella<lb break="no" ed="#P" n="14"/>tur celebremus, quemadmodum ad illud officium
           <lb ed="#P" n="15"/>pulsandum sit, quare et quot candelae accendantur,
-          <lb ed="#P" n="16"/>e quomodo eae exstinguantur, et deinde etiam de
-          <lb ed="#P" n="17"/>eflcii qualitate. Posito itaque Christo in cruce 
+          <lb ed="#P" n="16"/>et quomodo eae exstinguantur, et deinde etiam de
+          <lb ed="#P" n="17"/>officii qualitate. Posito itaque Christo in cruce 
           tri<lb break="no" ed="#P" n="18"/>bus horis fuerunt tenebrae, a sexta usque ad nonam,
           <lb ed="#P" n="19"/>ita ut complectamur sextam et nonam, dum sol 
           pa<lb break="no" ed="#P" n="20"/>tiebatur eclipsim, non quidem naturalem, sed 
-          mira<lb break="no" ed="#P" n="21"/>culosam, quanquam eam infideles juxia naturam
+          mira<lb break="no" ed="#P" n="21"/>culosam, quanquam eam infideles juxta naturam
           <lb ed="#P" n="22"/>ita accidisse mentiebantur. Quamobrem sane 
           prop<lb break="no" ed="#P" n="23"/>ter tanti illius miraculi memoriam, per noctes tres
-          <lb ed="#P" n="24"/>illas boras repraesentamus. Ad officium tenebrarum
+          <lb ed="#P" n="24"/>illas horas repraesentamus. Ad officium tenebrarum
           <lb ed="#P" n="25"/>non campanis pulsandum est, sed ligneis tabulis.
           <lb ed="#P" n="26"/>Campanae enim significant, ut dictum est, 
-          conciona<lb break="no" ed="#P" n="27"/>tores. Atque ideu campanis non pulsatur, quia 
+          conciona<lb break="no" ed="#P" n="27"/>tores. Atque ideo campanis non pulsatur, quia 
           con<lb break="no" ed="#P" n="28"/>cionatores, hoc est discipuli Domini, non solum
           <lb ed="#P" n="29"/>nomen ejus non praedicarunt, sed et negaverunt, ut
-          <lb ed="#P" n="30"/>Petrus et fugerunt. Scriptum est enim : Percutiam
-          <lb ed="#P" n="31"/>pastorem, et dispergeniur oves gregis (Matth. xxvi).
+          <lb ed="#P" n="30"/>Petrus et fugerunt. Scriptum est enim: Percutiam
+          <lb ed="#P" n="31"/>pastorem, et dispergentur oves gregis (Matth. xxvi).
           <lb ed="#P" n="32"/>Unde Dominus videns eos ad fugam paratos ait:
-          <lb ed="#P" n="33"/>Quem quaritis ? (Joan. xvm). Quasi diceret : Si me
-          <lb ed="#P" n="34"/>quaritis, sinite cos abirc (ibid.). Magnus tamen ex
+          <lb ed="#P" n="33"/>Quem quaeritis? (Joan. xviii). Quasi diceret: Si me
+          <lb ed="#P" n="34"/>quaeritis, sinite eos abire (ibid.). Magnus tamen ex
           <lb ed="#P" n="35"/>ligno editur sonus. Tabula lignea Christum 
           signifi<lb break="no" ed="#P" n="36"/>cat qui in ligno clamabat, praedicabat et orabat,
-          <lb ed="#P" n="37"/>dicens : Pater, dimitte cis, quia nesciunt quid faciunt
-          <lb ed="#P" n="38"/>(Luc. xxun). Pulsatur igitur ligno, quod tum solus
+          <lb ed="#P" n="37"/>dicens: Pater, dimitte eis, quia nesciunt quid faciunt
+          <lb ed="#P" n="38"/>(Luc. xxiii). Pulsatur igitur ligno, quod tum solus
           <lb ed="#P" n="39"/>Christus exstitit concionator.
         </p>
       </div>
