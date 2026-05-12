@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -64,51 +69,51 @@
           <lb ed="#P" n="81"/>de Purificatione B. Mariae.
         </p>
         <p xml:id="raWSwa-d1e1042-d1e115">
-          <lb ed="#P" n="82"/>Nunc dicendum est de duobus festis, quae ip
+          <lb ed="#P" n="82"/>Nunc dicendum est de duobus festis, quae in
           <lb ed="#P" n="83"/>principio Septuagesimae quandoque contingunt 
           ce<lb break="no" ed="#P" n="84"/>lebrari, de festo videlicet B. Mariae et S. Blasii.
-          <lb ed="#P" n="85"/>Festum autem B. Maria tribus nuncupatur 
-          nomi<lb break="no" ed="#P" n="86"/>nibus. Dicitur enim vel Purificatio B. Mariae, vek
-          <lb ed="#P" n="87"/>Candelaria, vel 0n«vcen Domini. Purificatio B. 
-          Ma<lb break="no" ed="#P" n="88"/>ria appellatur, quoniam illo die, qui est quadra--
-          <lb ed="#P" n="89"/>gesimus a Natali Domini, venit ad templum 
-          virgo<lb break="no" ed="#P" n="90"/>Maria secundum consuetudinem legis, ut 
+          <lb ed="#P" n="85"/>Festum autem B. Mariae tribus nuncupatur 
+          nomi<lb break="no" ed="#P" n="86"/>nibus. Dicitur enim vel Purificatio B. Mariae, vel
+          <lb ed="#P" n="87"/>Candelaria, vel ὑπαντὴ Domini. Purificatio B. 
+          Ma<lb break="no" ed="#P" n="88"/>riae appellatur, quoniam illo die, qui est quadra-
+          <lb ed="#P" n="89"/>gesimus a Natali Domini, venit ad templum virgo
+          <lb ed="#P" n="90"/>Maria secundum consuetudinem legis, ut 
           purifica<lb break="no" ed="#P" n="91"/>retur. Non quod immunda esset, sed propter 
           par<lb break="no" ed="#P" n="92"/>tum, more aliarum mulierum. Non enim erat 
-          ob<lb break="no" ed="#P" n="93"/>noxia legi, quae hoc pacto praecipit : Mulier, si 
-          sus<lb break="no" ed="#P" n="94"/>cepto semine masculum pepererit, ab ingressu tem--
-          <lb ed="#P" n="95"/>pli immunda erit diebus triginta tribus ( Levit. xu),
-          <lb ed="#P" n="96"/>a consortio hominum septem. Beata autem virgo.
+          ob<lb break="no" ed="#P" n="93"/>noxia legi, quae hoc pacto praecipit: Mulier, si 
+          sus<lb break="no" ed="#P" n="94"/>cepto semine masculum pepererit, ab ingressu
+          tem<lb break="no" ed="#P" n="95"/>pli immunda erit diebus triginta tribus (Levit. xii),
+          <lb ed="#P" n="96"/>a consortio hominum septem. Beata autem virgo
           <lb ed="#P" n="97"/>Maria non pepererat ex suscepto semine, juxta 
-          il<lb break="no" ed="#P" n="98"/>lud, non ex viri semine, etc., voluit tamen legis.
+          il<lb break="no" ed="#P" n="98"/>lud, non ex viri semine, etc., voluit tamen legis
           <lb ed="#P" n="99"/>consuetudinem observare, quoniam non venit 
-          Chri<lb break="no" ed="#P" n="100"/>stus legem solvere, sed adimplere (Matth. v). Quare:
-          <lb ed="#P" n="101"/>autem Candelaria vocetur aliam auctoritatem non;
+          Chri<lb break="no" ed="#P" n="100"/>stus legem solvere, sed adimplere (Matth. v). Quare
+          <lb ed="#P" n="101"/>autem Candelaria vocetur aliam auctoritatem non
           <lb ed="#P" n="102"/>habet, sed potius fluxum est ab antiqua 
-          consuetu<lb break="no" ed="#P" n="103"/>dine ethnicorum sive gentilium. Erat enim antiqui-.
+          consuetu<lb break="no" ed="#P" n="103"/>dine ethnicorum sive gentilium. Erat enim antiqui-
           <lb ed="#P" n="104"/>tus Romae consuetudo, ut circa hoc tempus in 
-          prin<lb break="no" ed="#P" n="105"/>cipio Februarii urbem lustrarent, eam 
-          ambiendo<lb break="no" ed="#P" n="106"/>cum suis processionibus gestantes singuli 
-          candelas<lb break="no" ed="#P" n="107"/>ardentes, et vocabatur illud; amburbale. Atque ita
-          <lb ed="#P" n="108"/>ab hujusmodi consuetudine illud. quod fiebat ab.
-          <lb ed="#P" n="109"/>ethnicis. in usus indiscretos circiter initium 
+          prin<lb break="no" ed="#P" n="105"/>cipio Februarii urbem lustrarent, eam ambiendo 
+          <lb ed="#P" n="106"/>cum suis processionibus gestantes singuli candelas
+          <lb ed="#P" n="107"/> ardentes, et vocabatur illud amburbale. Atque ita
+          <lb ed="#P" n="108"/>ab hujusmodi consuetudine illud quod fiebat ab
+          <lb ed="#P" n="109"/>ethnicis in usus indiscretos circiter initium 
           Fe<lb break="no" ed="#P" n="110"/>bruarii, a Christianis modo fit in festo beatae Mariae
           <lb ed="#P" n="111"/>ad laudem et venerationem ipsius. Vel ideo 
           cande<lb break="no" ed="#P" n="112"/>las portamus, ut per hoc imitemur sanctas 
-          virgi<lb break="no" ed="#P" n="113"/>nes, quarum beata Virge Maria caput est, ut 
-          nimi<lb break="no" ed="#P" n="114"/>rum aecensa nobis lampade castitatis, cum ea 
-          tem<lb break="no" ed="#P" n="115"/>plum gloriae ad verum sponsum ingredi niereamur..
-          <lb ed="#P" n="116"/>Vel etiam appellata estCandelaria, propter 
+          virgi<lb break="no" ed="#P" n="113"/>nes, quarum beata Virgo Maria caput est, ut 
+          nimi<lb break="no" ed="#P" n="114"/>rum accensa nobis lampade castitatis, cum ea 
+          tem<lb break="no" ed="#P" n="115"/>plum gloriae ad verum sponsum ingredi mereamur.
+          <lb ed="#P" n="116"/>Vel etiam appellata est Candelaria, propter 
           multitu<lb break="no" ed="#P" n="117"/>dinem candelarum, et significationem quae in eis
           <lb ed="#P" n="118"/>est. In candela enim est cera, ignis et lignum. Cera
           <pb ed="#P" n="44"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>connotat carnem Christi et virginitatem ; ignis, 
           Spi<lb break="no" ed="#P" n="2"/>ritum sanctum; lignum, deitatem in carne latentem.
-          <lb ed="#P" n="3"/>Tavrà Domini ideo dicitur hoc festum, quod 
-          Si<lb break="no" ed="#P" n="4"/>meon atque Ánna prophetissa Christo venerint 
+          <lb ed="#P" n="3"/><foreign>Ὑπαντὴ</foreign> Domini ideo dicitur hoc festum, quod 
+          Si<lb break="no" ed="#P" n="4"/>meon atque Anna prophetissa Christo venerint 
           ob<lb break="no" ed="#P" n="5"/>viam, cum a suis parentibus afferretur in templum
-          <lb ed="#P" n="6"/>ut praesentaretur. T'raves enim oblatio sive 
+          <lb ed="#P" n="6"/>ut praesentaretur. <foreign>Ὑπαντὴ</foreign> enim oblatio sive 
           prae<lb break="no" ed="#P" n="7"/>sentatio dicta est.
         </p>
       </div>
