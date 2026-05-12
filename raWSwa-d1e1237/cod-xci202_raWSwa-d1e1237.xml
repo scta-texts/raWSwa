@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -65,34 +70,34 @@
         </p>
         <p xml:id="raWSwa-d1e1237-d1e115">
           <lb ed="#P" n="55"/>Corpus Christi non conficitur hoc die quatuor de
-          <lb ed="#P" n="56"/>causis : prima est quia Christus hoc die pro nobis
+          <lb ed="#P" n="56"/>causis: prima est quia Christus hoc die pro nobis
           <lb ed="#P" n="57"/>revera immolatus est et, veritate veniente, debet
           <lb ed="#P" n="58"/>cessare figura, ac ei dare locum; secunda, quod
-          <lb ed="#P" n="59"/>istiusmodi die reipsa Ecclesia Sponsus sublatus
+          <lb ed="#P" n="59"/>istiusmodi die reipsa Ecclesiae Sponsus sublatus
           <cb ed="#P" n="b"/>
           <lb ed="#P" n="60"/>sit, descendit enim ad inferos; tertia est quoniam
           <lb ed="#P" n="61"/>tum temporis velum templi disruptum est, et cornua
           <lb ed="#P" n="62"/>altaris sunt transversa, ita ut nobis non esset ubi
           <lb ed="#P" n="63"/>corpus Christi conficeretur; quarta, quia Moyses
-          <lb ed="#P" n="64"/>dixit in Exodo : Alius pugnabit pro vobis, et vos 
-          tu<lb break="no" ed="#P" n="65"/>cebitis (Exod. xiv); alius, id est Christus. Sequitur
+          <lb ed="#P" n="64"/>dixit in Exodo: Alius pugnabit pro vobis, et vos 
+          ta<lb break="no" ed="#P" n="65"/>cebitis (Exod. xiv); alius, id est Christus. Sequitur
           <lb ed="#P" n="66"/>ut de ordine officii hujus diei dispiciamus. Nam
-          <lb ed="#P" n="67"/>primo leguntur dua lectiones ex Veteri Testamento,
+          <lb ed="#P" n="67"/>primo leguntur duae lectiones ex Veteri Testamento,
           <lb ed="#P" n="68"/>una ex rege, altera ex prophetis, scilicet ex Osee
-          <lb ed="#P" n="69"/>idque sine titulis. Deinde verotractus quem vocant,
+          <lb ed="#P" n="69"/>idque sine titulis. Deinde vero tractus quem vocant,
           <lb ed="#P" n="70"/>canitur unus quatuor versuum; alius plurium, post
           <lb ed="#P" n="71"/>quem legitur passio etiam sine titulo. Qua quidem
-          <lb ed="#P" n="72"/>absoluta flunt orationes pro omni gradu Ecclesiae,
-          <lb ed="#P" n="73"/>hoc est pro gentilibus sive etbnicis, pro Judais,
+          <lb ed="#P" n="72"/>absoluta fiunt orationes pro omni gradu Ecclesiae,
+          <lb ed="#P" n="73"/>hoc est pro gentilibus sive ethnicis, pro Judaeis,
           <lb ed="#P" n="74"/>pro haereticis et pro schismaticis. Atque ita 
-          dein<lb break="no" ed="#P" n="75"/>ceps crux extrahitur, ac cum ca ter in genua 
-          pro<lb break="no" ed="#P" n="76"/>cedimus, cantando ter Graece awog, et Latine sanctus
+          dein<lb break="no" ed="#P" n="75"/>ceps crux extrahitur, ac cum ea ter in genua 
+          pro<lb break="no" ed="#P" n="76"/>cedimus, cantando ter Graece <foreign>ἄγιος,</foreign> et Latine sanctus
           <lb ed="#P" n="77"/>Deus, etc., cum tribus versibus. Postea vero 
           Domi<lb break="no" ed="#P" n="78"/>nicum corpus, quod reservatum fuit ipso die Coenae,
           <lb ed="#P" n="79"/>altari imponitur, et cantata Dominica Oratione cum
-          <lb ed="#P" n="80"/>prafatione praeposita, scilicet : Oremus, pracceptis
+          <lb ed="#P" n="80"/>praefatione praeposita, scilicet: Oremus, praeceptis
           <lb ed="#P" n="81"/>salutaribus moniti, etc., communicatur, ac deinde
-          <lb ed="#P" n="82"/>vero psalmi vesperarum cantantur cum oratione :
+          <lb ed="#P" n="82"/>vero psalmi vesperarum cantantur cum oratione:
           <lb ed="#P" n="83"/>Respice, Domine. Atque ita tandem officium 
           termi<lb break="no" ed="#P" n="84"/>natur.
         </p>
