@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -65,7 +70,7 @@
           <lb ed="#P" n="92"/>praesentes, quantumvis majoris sint ordinis et 
           di<lb break="no" ed="#P" n="93"/>gnitatis. Per quod quidem intelligitur quod Christus
           <lb ed="#P" n="94"/>resurgens ex mortuis primo sese obtulerit et 
-          osten<lb break="no" ed="#P" n="95"/>derit :nulieribus, per quas, utpote quae erant scxus
+          osten<lb break="no" ed="#P" n="95"/>derit mulieribus, per quas, utpote quae erant sexus
           <lb ed="#P" n="96"/>debilioris, gloriam suae resurrectionis discipulis
           <lb ed="#P" n="97"/>suis nuntiavit. Sed nec illud temere fecit Dominus.
           <lb ed="#P" n="98"/>Nam quemadmodum principium mortis per feminam
@@ -74,7 +79,7 @@
           <lb ed="#P" n="101"/>mundo annuntiaretur. Unde profecto cursorie 
           con<lb break="no" ed="#P" n="102"/>siderandum est mulieres tribus gaudere privilegiis,
           <lb ed="#P" n="103"/>quorum primum est, quod in paradiso sit condita ac
-          <lb ed="#P" n="104"/>creata ; alterum, quod ex muliere natus sit Christus;
+          <lb ed="#P" n="104"/>creata; alterum, quod ex muliere natus sit Christus;
           <lb ed="#P" n="105"/>et tertium, quia resurgens a mortuis primo apparuit
           <lb ed="#P" n="106"/>mulieri (Joan. xx).
         </p>
