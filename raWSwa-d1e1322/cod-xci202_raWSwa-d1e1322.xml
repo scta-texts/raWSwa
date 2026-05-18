@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,35 +66,35 @@
           <lb ed="#P" n="5"/>CAPUT CIV.
           <lb ed="#P" n="6"/>De nudatione altaris
         </p>
-        <p xml:id="raWSwa-d1e1322-d1e113">
+       <p xml:id="raWSwa-d1e1322-d1e113">
           <lb ed="#P" n="7"/>Sequitur de nudatione altaris, quae pars est in
           <lb ed="#P" n="8"/>ecclesia dignior, usque adeo, ut si altare 
           removea<lb break="no" ed="#P" n="9"/>tur, ac rursus aedificetur tota ecclesia, iterum sit
           <lb ed="#P" n="10"/>consecranda. Verum contra, etiam si ecclesia 
-          remo<lb break="no" ed="#P" n="11"/>veatur , boc est pars ejus aliqua aut plures, altari
+          remo<lb break="no" ed="#P" n="11"/>veatur, hoc est pars ejus aliqua aut plures, altari
           <lb ed="#P" n="12"/>immoto, ecclesia non consecratur, sed alia 
-          sancti<lb break="no" ed="#P" n="13"/>beatione mundatur. Altare enim Christum significat.
-          <lb ed="#P" n="14"/>Praecepit namque Deus in lege : Altare de terra 
+          sancti<lb break="no" ed="#P" n="13"/>ficatione mundatur. Altare enim Christum significat.
+          <lb ed="#P" n="14"/>Praecepit namque Deus in lege: Altare de terra 
           fa<lb break="no" ed="#P" n="15"/>cietis mihi (Exod. xx). Altare de terra est Christus
-          <lb ed="#P" n="16"/>natus de Virgine. Unde dicitur : Veritas de terra
-          <lb ed="#P" n="17"/>orta est (Psal. vxxxw). Haec est terra quae dedit
-          <lb ed="#P" n="18"/>fructum suum , fructum sublimem, Christum 
-          vide<lb break="no" ed="#P" n="19"/>licet sublimatum super choros angelorum in calis.
-          <lb ed="#P" n="20"/>Nudatio ergo altaris declarat qued Christus in 
+          <lb ed="#P" n="16"/>natus de Virgine. Unde dicitur: Veritas de terra
+          <lb ed="#P" n="17"/>orta est (Psal. lxxxiv). Haec est terra quae dedit
+          <lb ed="#P" n="18"/>fructum suum, fructum sublimem, Christum 
+          vide<lb break="no" ed="#P" n="19"/>licet sublimatum super choros angelorum in coelis.
+          <lb ed="#P" n="20"/>Nudatio ergo altaris declarat quod Christus in 
           pas<lb break="no" ed="#P" n="21"/>sione sua denudatus visus sit, et despoliatus illis
           <lb ed="#P" n="22"/>signis quibus ante in faciendis miraculis 
-          apparue<lb break="no" ed="#P" n="23"/>rat gloriosus , cum solus vendentes atque ementes
+          apparue<lb break="no" ed="#P" n="23"/>rat gloriosus, cum solus vendentes atque ementes
           <lb ed="#P" n="24"/>e templo ejecerat, facie ejus splendoris radios 
           emit<lb break="no" ed="#P" n="25"/>tente. Qui enim prius tam potens tam gloriosus
-          <lb ed="#P" n="26"/>apparuerat, modu in passione visus est debilis et
+          <lb ed="#P" n="26"/>apparuerat, modo in passione visus est debilis et
           <lb ed="#P" n="27"/>abjectus. Unde Isaias: Vidimus, inquit, eum non
-          <lb ed="#P" n="28"/>babentem speciem neque decorem (Isa. vu); et 
-          Hila<lb break="no" ed="#P" n="29"/>rius : « Ante, ait, passionem apparuit Deus et homo,
+          <lb ed="#P" n="28"/>habentem speciem neque decorem (Isa. liii); et 
+          Hila<lb break="no" ed="#P" n="29"/>rius: «Ante, ait, passionem apparuit Deus et homo,
           <lb ed="#P" n="30"/>in passione totus homo, post passionem totus Deus.»
           <lb ed="#P" n="31"/>Vel etiam altaris nudatio repraesentat ipsam ac 
           ve<lb break="no" ed="#P" n="32"/>ram Christi nudationem, quando milites eum 
           spo<lb break="no" ed="#P" n="33"/>liaverunt, et ejus vestimenta partim sunt partiti,
-          <lb ed="#P" n="34"/>npartim sortitione abalienarunt. Aut certe vestem
+          <lb ed="#P" n="34"/>partim sortitione abalienarunt. Aut certe vestem
           <lb ed="#P" n="35"/>Christi apostolos esse dicimus, quibus Christus 
           tan<lb break="no" ed="#P" n="36"/>quam vestibus quibusdam ornabatur, et per quos
           <lb ed="#P" n="37"/>nomen illius erat magnificatum. Altare igitur 
@@ -103,12 +108,12 @@
           <lb ed="#P" n="45"/>cruce aspersum fuisse creditur. Rami autem asperi
           <lb ed="#P" n="46"/>quibus altare fricatur, significant spineam coronam,
           <lb ed="#P" n="47"/>qua coronatus est Christus, aut flagella amara, et
-          <lb ed="#P" n="48"/>ictuum vibices , et graves dolores quos in morte
-          <lb ed="#P" n="49"/>sustipuit. Sunt ideu rami hispidi sicut rami taxi,
+          <lb ed="#P" n="48"/>ictuum vibices, et graves dolores quos in morte
+          <lb ed="#P" n="49"/>sustinuit. Sunt ideo rami hispidi sicut rami taxi,
           <lb ed="#P" n="50"/>quibus pavimentum mundatur, quod nos debeamus
           <lb ed="#P" n="51"/>vitiis mundari, et in eleemosynis pauperibus 
-          provi<lb break="no" ed="#P" n="52"/>dere, quatenus bhi sint, qui nos in aeterna 
-          taberna<lb break="no" ed="#P" n="53"/>cula recipiant. Ipsorum enim est regnum caelorum,
+          provi<lb break="no" ed="#P" n="52"/>dere, quatenus hi sint, qui nos in aeterna 
+          taberna<lb break="no" ed="#P" n="53"/>cula recipiant. Ipsorum enim est regnum coelorum,
           <lb ed="#P" n="54"/>quod intelligendum est de pauperibus bonae 
           volun<lb break="no" ed="#P" n="55"/>tatis, sive spiritus.
         </p>
