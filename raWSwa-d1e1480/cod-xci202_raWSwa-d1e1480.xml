@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,30 +67,30 @@
           <lb ed="#P" n="30"/>De veneratione hujus temporis.
         </p>
         <p xml:id="raWSwa-d1e1480-d1e113">
-          <lb ed="#P" n="31"/>Vero nunc quoque de veneratione hujus 
-          tempo<lb break="no" ed="#P" n="32"/>ris pauca dicamus. Usque adeo tempus hoc 
+          <lb ed="#P" n="31"/>Vero nunc quoque de veneratione hujus
+          tempo<lb break="no" ed="#P" n="32"/>ris pauca dicamus. Usque adeo tempus hoc
           vene<lb break="no" ed="#P" n="33"/>randum et colendum est, ut omnia ergastula et
           <lb ed="#P" n="34"/>operatoria et officinas tam mulierum quam virorum
           <lb ed="#P" n="35"/>occludere debeamus, ac nulla venalia exponere,
-          <lb ed="#P" n="36"/>exceptis illis sine quibus coenari non posset. 
-          Prae<lb break="no" ed="#P" n="37"/>terea oportet nos latomias et caetera genera 
-          car<lb break="no" ed="#P" n="38"/>cerum relaxare, et captivos communi aeri 
-          resti<lb break="no" ed="#P" n="39"/>tuere integra liac septimana, ut gaudio nostro 
-          no<lb break="no" ed="#P" n="40"/>biscum communicent. Sunt autem latomise 
-          lapidi<lb break="no" ed="#P" n="41"/>cinze, in quibus caeduntur lapides, et ad quas 
-          dam<lb break="no" ed="#P" n="42"/>pari solebant ii qui in opus metalli damnabanuur.
+          <lb ed="#P" n="36"/>exceptis illis sine quibus coenari non posset.
+          Prae<lb break="no" ed="#P" n="37"/>terea oportet nos latomias et caetera genera
+          car<lb break="no" ed="#P" n="38"/>cerum relaxare, et captivos communi aeri
+          resti<lb break="no" ed="#P" n="39"/>tuere integra hac septimana, ut gaudio nostro
+          no<lb break="no" ed="#P" n="40"/>biscum communicent. Sunt autem latomiae
+          lapidi<lb break="no" ed="#P" n="41"/>cinae, in quibus caeduntur lapides, et ad quas
+          dam<lb break="no" ed="#P" n="42"/>nari solebant ii qui in opus metalli damnabantur.
           <lb ed="#P" n="43"/>Tametsi quidem et pro quovis carcere accipi possit,
-          <lb ed="#P" n="44"/>vel quod Roma: hujusmodi latomia in carcere prope
-          <lb ed="#P" n="45"/>Tullianum fuerit, vel quod lingua saeculorum 
+          <lb ed="#P" n="44"/>vel quod Romae hujusmodi latomia in carcere prope
+          <lb ed="#P" n="45"/>Tullianum fuerit, vel quod lingua saeculorum
           lato<lb break="no" ed="#P" n="46"/>mia Syracusis carcer appellabatur. Servos autem
-          <lb ed="#P" n="47"/>et ancillas ac omnes qui nostro servitio sunt 
+          <lb ed="#P" n="47"/>et ancillas ac omnes qui nostro servitio sunt
           addi<lb break="no" ed="#P" n="48"/>cti, profecto ab omni servitutis severitate eos hoc
-          <lb ed="#P" n="49"/>tempore laxare debemus, quemadmodum etiam 
+          <lb ed="#P" n="49"/>tempore laxare debemus, quemadmodum etiam
           no<lb break="no" ed="#P" n="50"/>stros pastores, sive sint equorum, sive porcorum,
           <lb ed="#P" n="51"/>sive armentorum, sive etiam ovium et caprarum,
-          <lb ed="#P" n="52"/>ut libere et secure omnes possint ad audiendum 
-          di<lb break="no" ed="#P" n="53"/>vinum officium convenire, et communicare. 
-          Inhu<lb break="no" ed="#P" n="54"/>manum quoque est hoc tempore debita a 
+          <lb ed="#P" n="52"/>ut libere et secure omnes possint ad audiendum
+          di<lb break="no" ed="#P" n="53"/>vinum officium convenire, et communicare.
+          Inhu<lb break="no" ed="#P" n="54"/>manum quoque est hoc tempore debita a
           debitori<lb break="no" ed="#P" n="55"/>bus exigere, ita ut vel hinc tum temporis pascua
           <lb ed="#P" n="56"/>communia esse dicantur.
         </p>
