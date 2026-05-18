@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -60,60 +65,60 @@
           <lb ed="#P" n="71"/>De reliquo officio in vigilia Paschatis,
         </p>
         <p xml:id="raWSwa-d1e1407-d1e113">
-          <lb ed="#P" n="72"/>Nunc ad propositum redcamus. Celebrato 
-          ba<lb break="no" ed="#P" n="73"/>ptismo reditur ad chorum cum litania, eaque 
-          can<lb break="no" ed="#P" n="74"/>tata, ipsum sacrum sive missa sine introitu 
+          <lb ed="#P" n="72"/>Nunc ad propositum redeamus. Celebrato
+          ba<lb break="no" ed="#P" n="73"/>ptismo reditur ad chorum cum litania, eaque
+          can<lb break="no" ed="#P" n="74"/>tata, ipsum sacrum sive missa sine introitu
           in<lb break="no" ed="#P" n="75"/>choatur a Kyrie eleison. Sed introitus propterea
-          <lb ed="#P" n="76"/>subticetur , quod caput nostrum videlicet Christus
-          <lb ed="#P" n="77"/>necdum nobis sit restitutus. À Kyrie eleison ideo
-          <lb ed="#P" n="78"/>incipitur, ut vetus inchoandarum missarum 
-          con<lb break="no" ed="#P" n="79"/>suctudo, qiae fuit ante Caclestinum summum 
-          pon<lb break="no" ed="#P" n="80"/>tificem , repraesentetur. Canitur autem ideo Cloria
+          <lb ed="#P" n="76"/>subticetur, quod caput nostrum videlicet Christus
+          <lb ed="#P" n="77"/>necdum nobis sit restitutum. A Kyrie eleison ideo
+          <lb ed="#P" n="78"/>incipitur, ut vetus inchoandarum missarum
+          con<lb break="no" ed="#P" n="79"/>suetudo, quae fuit ante Coelestinum summum
+          pon<lb break="no" ed="#P" n="80"/>tificem, repraesentetur. Canitur autem ideo Gloria
           <lb ed="#P" n="81"/>in excelsis, quia angeli ob renatos baptismate et
-          <lb ed="#P" n="82"/>neophytos in coelis gloriantur, qui Dominc jam
-          <lb ed="#P" n="83"/>nato hunc hymnum dccantarunt, Epistola vero
-          <lb ed="#P" n="84"/>Pauli tonu ac voce communi lcgi debet, quoniam
-          <lb ed="#P" n="85"/>doctrinam significat apostolorum, quae iodo 
-          bapti<lb break="no" ed="#P" n="86"/>zatis est praedicanda et apericnda. Sed lectiones
+          <lb ed="#P" n="82"/>neophytos in coelis gloriantur, qui Domino jam
+          <lb ed="#P" n="83"/>nato hunc hymnum decantarunt. Epistola vero
+          <lb ed="#P" n="84"/>Pauli tono ac voce communi legi debet, quoniam
+          <lb ed="#P" n="85"/>doctrinam significat apostolorum, quae modo
+          bapti<lb break="no" ed="#P" n="86"/>zatis est praedicanda et aperienda. Sed lectiones
           <lb ed="#P" n="87"/>praecedentes nocturno tono pronuntiantur, quod
-          <lb ed="#P" n="88"/>prophetas connotent. Graduale propterea non 
-          ca<lb break="no" ed="#P" n="89"/>nitur, quia baptizati nulla adhuc opera. nullumque
-          <lb ed="#P" n="90"/>gradum in virtutibus fecerunt. Alleluia , quae vox
-          <lb ed="#P" n="91"/>est. plane angelica, vel op id maxime cantatur,
-          <lb ed="#P" n="92"/>quod angeli letentur baptizatos ex servitute diaboli
-          <lb ed="#P" n="93"/>ereptos, et ad fidem conversos esse. Sced quonmiam
+          <lb ed="#P" n="88"/>prophetas connotent. Graduale propterea non
+          ca<lb break="no" ed="#P" n="89"/>nitur, quia baptizati nulla adhuc opera, nullumque
+          <lb ed="#P" n="90"/>gradum in virtutibus fecerunt. Alleluia, quae vox
+          <lb ed="#P" n="91"/>est plane angelica, vel ob id maxime cantatur,
+          <lb ed="#P" n="92"/>quod angeli laetentur baptizatos ex servitute diaboli
+          <lb ed="#P" n="93"/>ereptos, et ad fidem conversos esse. Sed quoniam
           <lb ed="#P" n="94"/>adhuc eis sit laborandum quandiu quidem in hac
-          <lb ed="#P" n="95"/>vita fuerint, idcirco tractus, scilicet, Laudate 
-          Do<lb break="no" ed="#P" n="96"/>minum, omnes gentes , confestim subjungitur. 
-          Sub<lb break="no" ed="#P" n="97"/>ticetur porro offoztorium, ut per hoc expressce 
-          indi<lb break="no" ed="#P" n="98"/>cemus mulieres tacite ad monumentum venissc.
-          <lb ed="#P" n="99"/>Tres enim Mariae stabant juxta scpulcrum cum
-          <lb ed="#P" n="100"/>silentio et voce compressa (Matth. xxvi). Nec 
-          pa<lb break="no" ed="#P" n="101"/>cem ad hanc missam dare debemus , qued Christus
-          <lb ed="#P" n="102"/>necdum resurrexit', qui nostra pax est, scd Agnus
-          <lb ed="#P" n="103"/>Dei ter dicitur cum Miserere nobis. Quod tamcn
-          <lb ed="#P" n="104"/>nunc de resurrcctione canitur sciendum est hoc
-          <lb ed="#P" n="105"/>ficri in gratiam renatorum, hoc est eorum qui sunt
-          <lb ed="#P" n="106"/>modo baptizati. Tacetur praetcrea et communio,
-          <lb ed="#P" n="107"/>quoniam baptizati nondum communicavcrunt. Nam
-          <lb ed="#P" n="108"/>ipso die Paschatis debent communicarc. Facta 
-          igi<lb break="no" ed="#P" n="109"/>tur communione statim antc collectam sivc 
-          oratio<lb break="no" ed="#P" n="110"/>nen cantantur vesperae cum uno psalmo duorum
-          <lb ed="#P" n="111"/>versuum , scilicet Laudate Dominum, omnes gentes,
-          <lb ed="#P" n="112"/>et cum hymno, vidclicet Magnificat , dicunturque
-          <lb ed="#P" n="113"/>ambo sine Gloria Patri. Breviores ideo sunt 
-          ve<lb break="no" ed="#P" n="114"/>sperae, ne ncophyti qui divinis nondum assueve-
+          <lb ed="#P" n="95"/>vita fuerint, idcirco tractus, scilicet, Laudate
+          Do<lb break="no" ed="#P" n="96"/>minum, omnes gentes, confestim subjungitur.
+          Sub<lb break="no" ed="#P" n="97"/>ticetur porro offortorium, ut per hoc expresse
+          indi<lb break="no" ed="#P" n="98"/>cemus mulieres tacite ad monumentum venisse.
+          <lb ed="#P" n="99"/>Tres enim Mariae stabant juxta sepulcrum cum
+          <lb ed="#P" n="100"/>silentio et voce compressa (Matth. xxvii). Nec
+          pa<lb break="no" ed="#P" n="101"/>cem ad hanc missam dare debemus, quod Christus
+          <lb ed="#P" n="102"/>necdum resurrexit, qui nostra pax est, sed Agnus
+          <lb ed="#P" n="103"/>Dei ter dicitur cum Miserere nobis. Quod tamen
+          <lb ed="#P" n="104"/>nunc de resurrectione canitur sciendum est hoc
+          <lb ed="#P" n="105"/>fieri in gratiam renatorum, hoc est eorum qui sunt
+          <lb ed="#P" n="106"/>modo baptizati. Tacetur praeterea et communio,
+          <lb ed="#P" n="107"/>quoniam baptizati nondum communicaverunt. Nam
+          <lb ed="#P" n="108"/>ipso die Paschatis debent communicare. Facta
+          igi<lb break="no" ed="#P" n="109"/>tur communione statim ante collectam sive
+          oratio<lb break="no" ed="#P" n="110"/>nem cantantur vesperae cum uno psalmo duorum
+          <lb ed="#P" n="111"/>versuum, scilicet Laudate Dominum, omnes gentes,
+          <lb ed="#P" n="112"/>et cum hymno, videlicet Magnificat, dicunturque
+          <lb ed="#P" n="113"/>ambo sine Gloria Patri. Breviores ideo sunt
+          ve<lb break="no" ed="#P" n="114"/>sperae, ne neophyti qui divinis nondum
           <pb ed="#P" n="59"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>runt , aliquo officii taedio afficiantur. Gloria Patri,
+          assueve<lb break="no" ed="#P" n="1"/>runt, aliquo officii taedio afficiantur. Gloria Patri,
           <lb ed="#P" n="2"/>ob eam causam non dicitur, quod Filius qui tertia
-          <lb ed="#P" n="3"/>in Trinitate persona est, nondum nobis sit 
-          reddi<lb break="no" ed="#P" n="4"/>tss. Sed ideo quoque vesperae ante orationem missae
-          <lb ed="#P" n="5"/>decantanuur , ne finita missa populus videatur 
-          ha<lb break="no" ed="#P" n="6"/>bere redeundi facultatem, quasi amplius nihil 
-          de<lb break="no" ed="#P" n="7"/>beat exspectare. Vel sane idcirco una oratione 
-          to<lb break="no" ed="#P" n="8"/>tum absolvitur officium, quoniam baptismi 
-          sacra<lb break="no" ed="#P" n="9"/>mentum universum in Christi passione 
+          <lb ed="#P" n="3"/>in Trinitate persona est, nondum nobis sit
+          reddi<lb break="no" ed="#P" n="4"/>tus. Sed ideo quoque vesperae ante orationem missae
+          <lb ed="#P" n="5"/>decantantur, ne finita missa populus videatur
+          ha<lb break="no" ed="#P" n="6"/>bere redeundi facultatem, quasi amplius nihil
+          de<lb break="no" ed="#P" n="7"/>beat exspectare. Vel sane idcirco una oratione
+          to<lb break="no" ed="#P" n="8"/>tum absolvitur officium, quoniam baptismi
+          sacra<lb break="no" ed="#P" n="9"/>mentum universum in Christi passione
           consumma<lb break="no" ed="#P" n="10"/>tur.
         </p>
       </div>
