@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,77 +67,77 @@
           <lb ed="#P" n="81"/>De litaniis.
         </p>
         <p xml:id="raWSwa-d1e1541-d1e113">
-          <lb ed="#P" n="82"/>Primo ergo videndum est quid sit litania, 
-          secun<lb break="no" ed="#P" n="83"/>do cum sint dme litanie, quare una dicatur major;
+          <lb ed="#P" n="82"/>Primo ergo videndum est quid sit litania,
+          secun<lb break="no" ed="#P" n="83"/>do cum sint duae litaniae, quare una dicatur major;
           <lb ed="#P" n="84"/>altera minor, tertio quamobrem fuerint institutae,
-          <lb ed="#P" n="85"/>quarto quemadmodum in his jejunandum sit et 
+          <lb ed="#P" n="85"/>quarto quemadmodum in his jejunandum sit et
           ve<lb break="no" ed="#P" n="86"/>stiendum, quinto et ultimo quid populus in litania
-          <lb ed="#P" n="87"/>debeat cantare. Litania interpretatur Latine 
-          supplica<lb break="no" ed="#P" n="88"/>tio sive rogatio. Supplicatio dicitur, quia tunc Deo
-          <lb ed="#P" n="89"/>supplicamus ut a morte subitanca et ab omni 
+          <lb ed="#P" n="87"/>debeat cantare. Litania interpretatur Latine
+          suppli<lb break="no" ed="#P" n="88"/>catio sive rogatio. Supplicatio dicitur, quia tunc Deo
+          <lb ed="#P" n="89"/>supplicamus ut a morte subitanea et ab omni
           ad<lb break="no" ed="#P" n="90"/>versitate nos defendat. Rogatio appellatur, quia
           <lb ed="#P" n="91"/>tunc sanctos rogamus, ut pro nobis ad Dominum
           <lb ed="#P" n="92"/>intercedant. Duae sunt litaniae, major et minor.
-          <lb ed="#P" n="93"/>Major fit in festo B. Marci evangelistae. Dicitur 
+          <lb ed="#P" n="93"/>Major fit in festo B. Marci evangelistae. Dicitur
           au<lb break="no" ed="#P" n="94"/>tem major, tum auctoritate institutionis, quod eam
           <lb ed="#P" n="95"/>instituit Gregorius papa ejus nominis primus, qui
-          <lb ed="#P" n="96"/>et magnus Gregorius dictus est, tum anctoritate
+          <lb ed="#P" n="96"/>et magnus Gregorius dictus est, tum auctoritate
           <lb ed="#P" n="97"/>loci. Fuit enim instituta Romae, et publico decreto
-          <lb ed="#P" n="98"/>sancitum ut ubique celebraretur. Alia litania 
+          <lb ed="#P" n="98"/>sancitum ut ubique celebraretur. Alia litania
           nomi<lb break="no" ed="#P" n="99"/>natur minor, quia a minori instituta fuit, scilicet a
           <lb ed="#P" n="100"/>B. Mamerto episcopo, idque Viennae. Atque haec non
           <lb ed="#P" n="101"/>celebratur nisi in Ecclesia Cisalpina. Quare autem
-          <lb ed="#P" n="102"/>fuerit instituta prior litapia, hanc reddit causam
+          <lb ed="#P" n="102"/>fuerit instituta prior litania, hanc reddit causam
           <lb ed="#P" n="103"/>Paulus Montiscasinii monachus, Longobardorum
-          <lb ed="#P" n="104"/>historiographus. « Nam, » ut inquit ille, « tempore
-          <lb ed="#P" n="105"/>Pelagii papae tanta fuit aquarum inundatio in 
+          <lb ed="#P" n="104"/>historiographus. «Nam,» ut inquit ille, «tempore
+          <lb ed="#P" n="105"/>Pelagii papae tanta fuit aquarum inundatio in
           uni<lb break="no" ed="#P" n="106"/>versa Italia, ut aqua ascenderet ad superiores usque
           <lb ed="#P" n="107"/>fenestras templi B. Zenonis, quod erat Veronae, nec
           <lb ed="#P" n="108"/>tamen miraculose aqua templum influit. Ex qua
           <lb ed="#P" n="109"/>inundatione per Tyberim affluxit in agros multitudo
           <lb ed="#P" n="110"/>serpentum, inter quos exstitit maximus draco, et
           <lb ed="#P" n="111"/>omnes per duo ostia Tyberis intrarunt mare. Ex
-          <lb ed="#P" n="112"/>borum serpentum venenato aflatu et maxime istius
+          <lb ed="#P" n="112"/>horum serpentum venenato afflatu et maxime istius
           <lb ed="#P" n="113"/>draconis, corruptus est aer et infectus usque adeo
           <lb ed="#P" n="114"/>ut inde gravissima pestis inguinaria nata sit, qua
           <lb ed="#P" n="115"/>homines passim moriebantur. Tum Pelagius papa
-          <lb ed="#P" n="116"/>indixit jejunium, et praecepit ut processionem 
-          insti<lb break="no" ed="#P" n="117"/>tuerent ; quod ita factum est. Sed in ipsa processione
-          <lb ed="#P" n="118"/>ipsemct cum septuaginta aliis exspiravit In ejus
+          <lb ed="#P" n="116"/>indixit jejunium, et praecepit ut processionem
+          insti<lb break="no" ed="#P" n="117"/>tuerent; quod ita factum est. Sed in ipsa processione
+          <lb ed="#P" n="118"/>ipsemet cum septuaginta aliis exspiravit. In ejus
           <pb ed="#P" n="65"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>autem jocum institutus est Gregorius magnus, qui .
-          <lb ed="#P" n="2"/>hujusmodi litaniam ubique terrarum observari 
-          prae<lb break="no" ed="#P" n="3"/>cepit
+          <lb ed="#P" n="1"/>autem locum institutus est Gregorius magnus, qui
+          <lb ed="#P" n="2"/>hujusmodi litaniam ubique terrarum observari
+          prae<lb break="no" ed="#P" n="3"/>cepit.
         </p>
         <p xml:id="raWSwa-d1e1541-d1e207">
-          <lb ed="#P" n="4"/>De secunda litania quae per triduum 
-          celebra<lb break="no" ed="#P" n="5"/>mr, ait Gregorius episcopus Turonensis, « quod
-          <lb ed="#P" n="6"/>empore Beati Mamerti Viennae et circa Viennam
-          <lb ed="#P" n="7"/>febant crebro terraemotus et tanti etiaun, ut vel 
-          ma<lb break="no" ed="#P" n="8"/>inz domus et multae ecclesiae inde collapsae sint
-          <lb ed="#P" n="9"/>e corruerint ; quae tempestas toto anno duravit.
-          <lb ed="#P" n="10"/>Sic etiam Sabbato pascbali, dum ipse Mamertus
+          <lb ed="#P" n="4"/>De secunda litania quae per triduum
+          celebra<lb break="no" ed="#P" n="5"/>tur, ait Gregorius episcopus Turonensis, «quod
+          <lb ed="#P" n="6"/>tempore Beati Mamerti Viennae et circa Viennam
+          <lb ed="#P" n="7"/>fiebant crebro terraemotus et tanti etiam, ut vel
+          ma<lb break="no" ed="#P" n="8"/>ximae domus et multae ecclesiae inde collapsae sint
+          <lb ed="#P" n="9"/>et corruerint ; quae tempestas toto anno duravit.
+          <lb ed="#P" n="10"/>Sic etiam Sabbato paschali, dum ipse Mamertus
           <lb ed="#P" n="11"/>divinum celebraret officium, igne coelitus demisso,
-          <lb ed="#P" n="12"/>conbustum est civitatis palatium. Praeterea bestiae,
+          <lb ed="#P" n="12"/>combustum est civitatis palatium. Praeterea bestiae,
           <lb ed="#P" n="13"/>ut lupi et apri ex silvis in civitatem exibant, atque
-          <lb ed="#P" n="14"/>bomines devorabant. Pro his ergo incommodis
-          <lb ed="#P" n="15"/>Beatus Mamertus triduanum indixit jejunium, 
-          adsi<lb break="no" ed="#P" n="16"/>nilitudinem Ninivitarum. praecepitque ut 
-          processio<lb break="no" ed="#P" n="17"/>pem facerent, ut quemadmodum illi per triduanum
-          <lb ed="#P" n="18"/>jjuniuum urbis evagerunt subversionem, ita hi 
-          li<lb break="no" ed="#P" n="19"/>lerarentur ab istiusmodi adversitatibus: quod ita
-          <lb ed="#P" n="20"/>fatum est. » Gregorius autem ille, cujus paulo
-          <lb ed="#P" n="21"/>nte mentionem fecimus, legitur statura fuisse 
-          ad<lb break="no" ed="#P" n="22"/>podum exigua, usque adeo ut cum forte Romam
-          <lb ed="#P" n="23"/>veuiret, omnes ipsum parvipenderent, atque ipse
-          <lb ed="#P" n="24"/>diam papa miratus fucrit quod tam parvus 
-          homun<lb break="no" ed="#P" n="25"/>do factus esset episcopus, ad quem ille honcste
-          <lb ed="#P" n="26"/>respondit : Ipse Deus fecit nos, et non ipsi nos (Psal.
-          <lb ed="#P" n="27"/>ixxiv). Simile quidpiam dixit beatus Hilarius cuie
-          <lb ed="#P" n="28"/>dam ipsum vocanti gallum : « Non sum, inquit, 
-          ua<lb break="no" ed="#P" n="29"/>tus Gallus, sed ex Gallia; et tu es Leo, sed uon ex
-          <lb ed="#P" n="30"/>vibu Juda; sic enim vocabatur
+          <lb ed="#P" n="14"/>homines devorabant. Pro his ergo incommodis
+          <lb ed="#P" n="15"/>Beatus Mamertus triduanum indixit jejunium, ad
+          si<lb break="no" ed="#P" n="16"/>militudinem Ninivitarum. praecepitque ut
+          processio<lb break="no" ed="#P" n="17"/>nem facerent, ut quemadmodum illi per triduanum
+          <lb ed="#P" n="18"/>jejunium urbis evaserunt subversionem, ita hi
+          li<lb break="no" ed="#P" n="19"/>berarentur ab istiusmodi adversitatibus: quod ita
+          <lb ed="#P" n="20"/>factum est.» Gregorius autem ille, cujus paulo
+          <lb ed="#P" n="21"/>ante mentionem fecimus, legitur statura fuisse
+          ad<lb break="no" ed="#P" n="22"/>modum exigua, usque adeo ut cum forte Romam
+          <lb ed="#P" n="23"/>veniret, omnes ipsum parvipenderent, atque ipse
+          <lb ed="#P" n="24"/>etiam papa miratus fuerit quod tam parvus
+          homun<lb break="no" ed="#P" n="25"/>cio factus esset episcopus, ad quem ille honeste
+          <lb ed="#P" n="26"/>respondit: Ipse Deus fecit nos, et non ipsi nos (Psal.
+          <lb ed="#P" n="27"/>lxxxiv). Simile quidpiam dixit beatus Hilarius cuidam
+          <lb ed="#P" n="28"/>ipsum vocanti gallum : «Non sum, inquit,
+          na<lb break="no" ed="#P" n="29"/>tus Gallus, sed ex Gallia; et tu es Leo, sed non ex
+          <lb ed="#P" n="30"/>tribu Juda; sic enim vocabatur.
         </p>
       </div>
     </body>
