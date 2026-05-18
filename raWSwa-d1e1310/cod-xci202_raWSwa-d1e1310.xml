@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,41 +67,41 @@
           <lb ed="#P" n="91"/>De purgatione pavimenti.
         </p>
         <p xml:id="raWSwa-d1e1310-d1e113">
-          <lb ed="#P" n="92"/>Post haec dicendum est, cur Quinta feriaecelesiae 
+          <lb ed="#P" n="92"/>Post haec dicendum est, cur Quinta feria ecclesiae 
           pa<lb break="no" ed="#P" n="93"/>vimentum mundetur et altaria denudentur, ac deinde
           <lb ed="#P" n="94"/>quamobrem eadem feria ipsa altaria vino et aqua
           <lb ed="#P" n="95"/>laventur, atque asperis ramis, praesertim taxi aut
           <lb ed="#P" n="96"/>buxi quasi frixentur. Ad primum quidem prompte
           <lb ed="#P" n="97"/>intelligendum, oportet cognoscamus Ecclesiam esse
-          <lb ed="#P" n="98"/>corporalem , aliam spiritualem. Corporalis est 
+          <lb ed="#P" n="98"/>corporalem, aliam spiritualem. Corporalis est 
           do<lb break="no" ed="#P" n="99"/>mus in qua divinum officium perficitur; 
-          spiritua<lb break="no" ed="#P" n="100"/>lis vero est velut ;convocatio quaedam fidelium. Sicut
+          spiritua<lb break="no" ed="#P" n="100"/>lis vero est velut convocatio quaedam fidelium. Sicut
           <lb ed="#P" n="101"/>enim ecclesia corporalis lapidibus ex diversis locis
           <lb ed="#P" n="102"/>congregatis construitur, ita quoque spiritualis 
           Eccle<lb break="no" ed="#P" n="103"/>sia ex diversis convocatur hominibus, ita ut hinc
           <lb ed="#P" n="104"/>Ecclesia ipsa appellata sit convocatio, quanquam
           <lb ed="#P" n="105"/>nomen illud proprius ac verius spirituali Ecclesiae
           <lb ed="#P" n="106"/>conveniat quam corporali. Homines enim 
-          convocan<lb break="no" ed="#P" n="107"/>tur, non lapides. Sepenumero tamen fit ut nomen
+          convocan<lb break="no" ed="#P" n="107"/>tur, non lapides. Saepenumero tamen fit ut nomen
           <lb ed="#P" n="108"/>ejus, quod significatum est, significanti attribuatur.
           <lb ed="#P" n="109"/>In Ecclesia igitur spirituali sunt pavimentum Christi
           <lb ed="#P" n="110"/>pauperes, hoc est, pauperes spiritu, qui in omnibus
-          <lb ed="#P" n="111"/>sese humiliant, ut hinc propter bumilitatem 
+          <lb ed="#P" n="111"/>sese humiliant, ut hinc propter humilitatem 
           pavi<lb break="no" ed="#P" n="112"/>mento maxime assimilentur. Quare obiter notemus
           <lb ed="#P" n="113"/>tria esse genera paupertatis, quorum primum 
           pau<lb break="no" ed="#P" n="114"/>pertas dicitur necessitatis, quae est in egenis; 
           alte<lb break="no" ed="#P" n="115"/>rum simulationis, quae in hypocritis est; tertium
           <lb ed="#P" n="116"/>autem vocatur paupertas spiritualis, quae consistit
-          <lb ed="#P" n="117"/>in bonis. Prima paupertas tolerabilis est , secunda
+          <lb ed="#P" n="117"/>in bonis. Prima paupertas tolerabilis est, secunda
           <lb ed="#P" n="118"/>detestabilis, tertia laudabilis, ita ut omnibus iis
           <lb ed="#P" n="119"/>benefaciendum sit propter Dominum. Nec sane ullus
           <lb ed="#P" n="120"/>sit fortunae respectus quantum ad primam pauper
           <pb ed="#P" n="55"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>tatem. vel causse quantum ad secundum, sed naturae
-          <lb ed="#P" n="2"/>hominis. Pavimentum ergo ecclesixr mundat ille,
-          <lb ed="#P" n="3"/>qui pauperibus propter Douiinum pedes lavat 
-          cae<lb break="no" ed="#P" n="4"/>wraque misericordiax opera exhibet.
+          <lb ed="#P" n="1"/>tatem, vel causae quantum ad secundum, sed naturae
+          <lb ed="#P" n="2"/>hominis. Pavimentum ergo ecclesiae mundat ille,
+          <lb ed="#P" n="3"/>qui pauperibus propter Dominum pedes lavat 
+          cae<lb break="no" ed="#P" n="4"/>teraque misericordiae opera exhibet.
         </p>
       </div>
     </body>
