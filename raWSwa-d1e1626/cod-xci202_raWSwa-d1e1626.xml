@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,14 +68,14 @@
         </p>
         <p xml:id="raWSwa-d1e1626-d1e113">
           <lb ed="#P" n="93"/>De festo S. Michaelis dicimus, quod hoc tempore
-          <lb ed="#P" n="94"/>barbari Apuliam ingressi sint, eamque misere 
-          de<lb break="no" ed="#P" n="95"/>pspulati. Quare Christiani in dicto jejunio triduano
+          <lb ed="#P" n="94"/>barbari Apuliam ingressi sint, eamque misere
+          de<lb break="no" ed="#P" n="95"/>populati. Quare Christiani in dicto jejunio triduano
           <lb ed="#P" n="96"/>auxilium S. Michaelis imploraverunt. Et cum essent
           <lb ed="#P" n="97"/>congregati instructaque acie exercitum adversus
-          <lb ed="#P" n="98"/>hostes producerent, apparuit eis sanctus Michace!,
-          <lb ed="#P" n="99"/>quasi illis auxilium praestans : tum hostes versi sunt
-          <lb ed="#P" n="100"/>in fugam. Quia ergo per beatum Michaelem 
-          victo<lb break="no" ed="#P" n="101"/>riam obtinuerunt, ideo statutum est ut eo die 
+          <lb ed="#P" n="98"/>hostes producerent, apparuit eis sanctus Michael,
+          <lb ed="#P" n="99"/>quasi illis auxilium praestans: tum hostes versi sunt
+          <lb ed="#P" n="100"/>in fugam. Quia ergo per beatum Michaelem
+          victo<lb break="no" ed="#P" n="101"/>riam obtinuerunt, ideo statutum est ut eo die
           sem<lb break="no" ed="#P" n="102"/>per festum ejus celebraretur.
         </p>
       </div>
