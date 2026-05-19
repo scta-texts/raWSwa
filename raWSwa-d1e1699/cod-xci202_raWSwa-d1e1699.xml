@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,60 +66,59 @@
           <lb ed="#P" n="42"/>CAPUT CXXXV.
           <lb ed="#P" n="43"/>De tempore peregrinationis ac festis in eo contentis.
         </p>
-        <p xml:id="raWSwa-d1e1699-d1e113">
-          <lb ed="#P" n="44"/>Ab hoc ergo Sabbato incipit tempus 
-          peregrinatio<lb break="no" ed="#P" n="45"/>nis, quoniam sumus quidem in itinere quo venitur
-          <lb ed="#P" n="46"/>ad patriam, sed hostes et adversarios habemus 
+       <p xml:id="raWSwa-d1e1699-d1e113">
+          <lb ed="#P" n="44"/>Ab hoc ergo Sabbato incipit tempus
+          peregrina<lb break="no" ed="#P" n="45"/>tionis, quoniam sumus quidem in itinere quo venitur
+          <lb ed="#P" n="46"/>ad patriam, sed hostes et adversarios habemus
           an<lb break="no" ed="#P" n="47"/>tequam illuc perveniamus, nimirum carnem nostram,
           <lb ed="#P" n="48"/>mundum et diabolum. Legimus hoc tempore librum
-          <lb ed="#P" n="49"/>Regum, ubi bella nebis proponuntur et victoriae, ut
-          <lb ed="#P" n="50"/>et nos contra bostes fortiter pugnemus, et adepti
-          <lb ed="#P" n="51"/>victoriam in caelis tandem coronemur. Ft notemus
+          <lb ed="#P" n="49"/>Regum, ubi bella nobis proponuntur et victoriae, ut
+          <lb ed="#P" n="50"/>et nos contra hostes fortiter pugnemus, et adepti
+          <lb ed="#P" n="51"/>victoriam in caelis tandem coronemur. Et notemus
           <lb ed="#P" n="52"/>obiter apud auctores tribus potissimum nominibus
           <lb ed="#P" n="53"/>appellari Judaeos. Primo, quia vocantur recutiti,
-          <lb ed="#P" n="54"/>unde lsaias : Recutita, inquit, sabbata, id est 
-          Ju<lb break="no" ed="#P" n="55"/>daica, quoniamrecisam verendorum cutem habent.
-          <lb ed="#P" n="56"/>Appellantur etiam Palaestini : unde Ovidius :
+          <lb ed="#P" n="54"/>unde Isaias: Recutita, inquit, sabbata, id est
+          Ju<lb break="no" ed="#P" n="55"/>daica, quoniam recisam verendorum cutem habent.
+          <lb ed="#P" n="56"/>Appellantur etiam Palaestini: unde Ovidius:
         </p>
-        <p xml:id="raWSwa-d1e1699-d1e144">
-          <lb ed="#P" n="57"/>Terra Palastino septima culta viro.
-          <lb ed="#P" n="58"/>(Ovip. De Art. amat. lib. s, vers. 415.)
-          <lb ed="#P" n="59"/>(10) 25. q. x, c. Episcopus.
-        </p>
-        <p xml:id="raWSwa-d1e1699-d1e154">
+       <p xml:id="raWSwa-d1e1699-d1e144">
+          <lb ed="#P" n="57"/>Terra Palaestino septima culta viro.
+          <lb ed="#P" n="58"/>(Ovid. De Art. amat. lib. i, vers. 415.)
+       </p>
+       <p xml:id="raWSwa-d1e1699-d1e154">
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>Et communi n6mine Judaei ab Juda filio Jacob,
-          <lb ed="#P" n="61"/>qui unus fuit cx duodecim patriarchis. Quantumvis
-          <lb ed="#P" n="62"/>enim duodecim fuerint tribus, quae a duodecim 
-          fi<lb break="no" ed="#P" n="63"/>liis Jacob descenderunt, a Juda tamen Judaii ideo
-          <lb ed="#P" n="64"/>sunt appellati, quod de regno Judae hoc pacto 
-          pro<lb break="no" ed="#P" n="65"/>phetaverat Jacob : Non deficiet princeps de Juda,
-          <lb ed="#P" n="66"/>nec dux de femoribus ejus, donec veniat qui promissus
-          <lb ed="#P" n="67"/>est (Gen. xrix). De tribu autem Juda venit Dominus
-          <lb ed="#P" n="68"/>noster Jesus Christus. Notemus praeterea, quod 
-          ali<lb break="no" ed="#P" n="69"/>quae siut octavae devotionis,, ut sancti Nicolai, et
-          <lb ed="#P" n="70"/>sanctae Mariae Magdalenae, qui octavas non habent,
-          <lb ed="#P" n="71"/>sed quoniam sunt quarumdam ecclesiarum patroni,
-          <lb ed="#P" n="72"/>ideo eis fiunt octavae. Suntet octavae venerationis ut
-          <lb ed="#P" n="73"/>in magnis solemnitatibus ; et siguificationis, ut 
-          Pe<lb break="no" ed="#P" n="74"/>tri et Pauli quae secundam significant stolam quam
-          <lb ed="#P" n="75"/>habituri sunt, videlicet corporis glorificationem.
-          <lb ed="#P" n="76"/>Paulus historiographus diaconus Romanae curiae,
-          <lb ed="#P" n="77"/>monachus Cassiniensis, cum die quodam paschalem
-          <lb ed="#P" n="78"/>cereum consecraret, fauces ejus raucae factae sunt,
-          <lb ed="#P" n="79"/>cum prius esset satis vocalis. Ut ergo vox ei 
-          resti<lb break="no" ed="#P" n="80"/>tueretur, in honorem S. Joannis hymnum hunc
-          <lb ed="#P" n="81"/>composuit : Dt queant laxis, «tc., unde in principio
-          <lb ed="#P" n="82"/>petit vocis restitutionem, sicut restituta est 
-          Zacba<lb break="no" ed="#P" n="83"/>riae merito S. Joannis. De quo quidem dicemus, si
-          <lb ed="#P" n="84"/>primo festum Gervasii ac Prothasii breviter 
-          expo<lb break="no" ed="#P" n="85"/>suetimus. Et quidem hoc uuum hic dicimus, quod
-          <lb ed="#P" n="86"/>in eorum officio cantatur : Loquetur Dominus pacem
-          <lb ed="#P" n="87"/>in plebem suam (Psal. Lxxxiv). Nec hoc sane sine
-          <lb ed="#P" n="88"/>causa tum temporis dicitur, quod in horum festo
-          <lb ed="#P" n="89"/>reformata fuerit concordia inter Longobardos et
-          <lb ed="#P" n="90"/>Romanum imperium. Caetera de illis historia plene
-          <lb ed="#P" n="91"/>perstringit.
+          <lb ed="#P" n="59"/>Et communi nomine Judaei ab Juda filio Jacob,
+          <lb ed="#P" n="60"/>qui unus fuit ex duodecim patriarchis. Quantumvis
+          <lb ed="#P" n="61"/>enim duodecim fuerint tribus, quae a duodecim
+          fi<lb break="no" ed="#P" n="62"/>liis Jacob descenderunt, a Juda tamen Judaei ideo
+          <lb ed="#P" n="63"/>sunt appellati, quod de regno Judae hoc pacto
+          pro<lb break="no" ed="#P" n="64"/>phetaverat Jacob : Non deficiet princeps de Juda,
+          <lb ed="#P" n="65"/>nec dux de femoribus ejus, donec veniat qui promissus
+          <lb ed="#P" n="66"/>est (Gen. xlix). De tribu autem Juda venit Dominus
+          <lb ed="#P" n="67"/>noster Jesus Christus. Notemus praeterea, quod
+          ali<lb break="no" ed="#P" n="68"/>quae sint octavae devotionis, ut sancti Nicolai, et
+          <lb ed="#P" n="69"/>sanctae Mariae Magdalenae, qui octavas non habent,
+          <lb ed="#P" n="70"/>sed quoniam sunt quarumdam ecclesiarum patroni,
+          <lb ed="#P" n="71"/>ideo eis fiunt octavae. Sunt et octavae venerationis ut
+          <lb ed="#P" n="72"/>in magnis solemnitatibus; et significationis, ut
+          Pe<lb break="no" ed="#P" n="73"/>tri et Pauli quae secundam significant stolam quam
+          <lb ed="#P" n="74"/>habituri sunt, videlicet corporis glorificationem.
+          <lb ed="#P" n="75"/>Paulus historiographus diaconus Romanae curiae,
+          <lb ed="#P" n="76"/>monachus Cassiniensis, cum die quodam paschalem
+          <lb ed="#P" n="77"/>cereum consecraret, fauces ejus raucae factae sunt,
+          <lb ed="#P" n="78"/>cum prius esset satis vocalis. Ut ergo vox ei
+          resti<lb break="no" ed="#P" n="79"/>tueretur, in honorem S. Joannis hymnum hunc
+          <lb ed="#P" n="80"/>composuit: Ut queant laxis, etc., unde in principio
+          <lb ed="#P" n="81"/>petit vocis restitutionem, sicut restituta est
+          Zacha<lb break="no" ed="#P" n="82"/>riae merito S. Joannis. De quo quidem dicemus, si
+          <lb ed="#P" n="83"/>primo festum Gervasii ac Prothasii breviter
+          expo<lb break="no" ed="#P" n="84"/>suerimus. Et quidem hoc unum hic dicimus, quod
+          <lb ed="#P" n="85"/>in eorum officio cantatur: Loquetur Dominus pacem
+          <lb ed="#P" n="86"/>in plebem suam (Psal. lxxxiv). Nec hoc sane sine
+          <lb ed="#P" n="87"/>causa tum temporis dicitur, quod in horum festo
+          <lb ed="#P" n="88"/>reformata fuerit concordia inter Longobardos et
+          <lb ed="#P" n="89"/>Romanum imperium. Caetera de illis historia plene
+          <lb ed="#P" n="90"/>perstringit.
         </p>
       </div>
     </body>
