@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,25 +67,25 @@
           <lb ed="#P" n="38"/>De beato Mauritio, ejusque sociis.
         </p>
         <p xml:id="raWSwa-d1e1906-d1e113">
-          <lb ed="#P" n="39"/>Sequitur videndum de festo B. Mauritii, et 
-          The<lb break="no" ed="#P" n="40"/>baea legione. Multae sunt Thebae, una in Agypto a
-          <lb ed="#P" n="41"/>Busiride rege JEgypti condita, dicta alio nomine 
+          <lb ed="#P" n="39"/>Sequitur videndum de festo B. Mauritii, et
+          The<lb break="no" ed="#P" n="40"/>baea legione. Multae sunt Thebae, una in Aegypto a
+          <lb ed="#P" n="41"/>Busiride rege Aegypti condita, dicta alio nomine
           He<lb break="no" ed="#P" n="42"/>liopolis. Ex hac oriundus fuit Mauritius atque inde
-          <lb ed="#P" n="43"/>dicuptur Thebaei. Alia est in Beotia a Cadmo 
+          <lb ed="#P" n="43"/>dicuntur Thebaei. Alia est in Beotia a Cadmo
           Age<lb break="no" ed="#P" n="44"/>noris filio condita, a qua dicti sunt Thebani. Tertia
           <lb ed="#P" n="45"/>est in Judaea, unde appellati sunt Thebites. Illi vero
-          <lb ed="#P" n="46"/>qui cum Mauritio mortui sunt, erant ex Thebe 
-          gy<lb break="no" ed="#P" n="47"/>puorum. Cum ergo Calli exercitum suum in 
-          Roma<lb break="no" ed="#P" n="48"/>nos eduzissent, dux AEgypti collegit exercitum in
-          <lb ed="#P" n="49"/>quo fuit beatus Mauritius, qui sub se habuit 
-          legio<lb break="no" ed="#P" n="50"/>Det, virorum scilicet sex millium sexcentorum et
+          <lb ed="#P" n="46"/>qui cum Mauritio mortui sunt, erant ex Thebe
+          Aegy<lb break="no" ed="#P" n="47"/>ptiorum. Cum ergo Galli exercitum suum in
+          Roma<lb break="no" ed="#P" n="48"/>nos eduxissent, dux Aegypti collegit exercitum in
+          <lb ed="#P" n="49"/>quo fuit beatus Mauritius, qui sub se habuit
+          legio<lb break="no" ed="#P" n="50"/>nem, virorum scilicet sex millium sexcentorum et
           <lb ed="#P" n="51"/>sexaginta sex. Verum cum jam essent in exercitu,
           <lb ed="#P" n="52"/>tyrannus voluit eos cogere ad adorandum idola, qui
           <lb ed="#P" n="53"/>ut non voluerunt, ita decimam accepit partem atque
-          <lb ed="#P" n="54"/>interfecit. Quod animadvertens Mauritius, 
+          <lb ed="#P" n="54"/>interfecit. Quod animadvertens Mauritius,
           sermo<lb break="no" ed="#P" n="55"/>nem suum convertit ad socios, orans ut viriliter
-          <lb ed="#P" n="56"/>agerent et starent, qui sic ab eocorroborati, 
-          marty<lb break="no" ed="#P" n="57"/>rium perpessi sunt. Sed illi priusquam Romam 
+          <lb ed="#P" n="56"/>agerent et starent, qui sic ab eo corroborati,
+          marty<lb break="no" ed="#P" n="57"/>rium perpessi sunt. Sed illi priusquam Romam
           ve<lb break="no" ed="#P" n="58"/>nissent sunt baptizati.
         </p>
       </div>
