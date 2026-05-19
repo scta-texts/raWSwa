@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,18 +66,18 @@
           <lb ed="#P" n="44"/>CAPUT CXXXII.
           <lb ed="#P" n="45"/>De jejuniis Quatuor Temporum.
         </p>
-        <p xml:id="raWSwa-d1e1675-d1e113">
+       <p xml:id="raWSwa-d1e1675-d1e113">
           <lb ed="#P" n="46"/>Dicendum modo est de jejuniis primitiarum, quae
-          <lb ed="#P" n="47"/>in septimana Pentecostes solent contingere. Et 
+          <lb ed="#P" n="47"/>in septimana Pentecostes solent contingere. Et
           pri<lb break="no" ed="#P" n="48"/>mo quidem de origine, secundo de institutione,
           <lb ed="#P" n="49"/>tertio de nomine et ejus ratione, deinde de officio,
-          <lb ed="#P" n="50"/>et uktimo de ordinibus qua in iis celebrantur,
-          <lb ed="#P" n="51"/>epertet dispiciamus. Origo istorum jejuniorum 
-          sum<lb break="no" ed="#P" n="52"/>pa est ex Veteri Testamento. Sicut enim populus
+          <lb ed="#P" n="50"/>et ultimo de ordinibus quae in iis celebrantur,
+          <lb ed="#P" n="51"/>oportet dispiciamus. Origo istorum jejuniorum
+          sum<lb break="no" ed="#P" n="52"/>pta est ex Veteri Testamento. Sicut enim populus
           <lb ed="#P" n="53"/>ille Deo ex omnibus rebus suis dabat primitias, sic
           <lb ed="#P" n="54"/>nos ex temporibus primitias, et non solum ex
           <lb ed="#P" n="55"/>temporibus, sed etiam ex omnibus quae possidemus
-          <lb ed="#P" n="56"/>éare debemas. Nunc sequitur de institutione.
+          <lb ed="#P" n="56"/>dare debemus. Nunc sequitur de institutione.
         </p>
       </div>
     </body>
