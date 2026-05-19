@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,113 +66,113 @@
           <lb ed="#P" n="26"/>CAPUT CXXXXI.
           <lb ed="#P" n="27"/>De Pentecoste.
         </p>
-        <p xml:id="raWSwa-d1e1651-d1e113">
+       <p xml:id="raWSwa-d1e1651-d1e113">
           <lb ed="#P" n="28"/>His breviter de Paschali tempore expositis, de
-          <lb ed="#P" n="29"/>Pentecoste Domini deinceps agenduim est. Populus
+          <lb ed="#P" n="29"/>Pentecoste Domini deinceps agendum est. Populus
           <lb ed="#P" n="30"/>Israeliticus quatuor praecipue celebrat solemnitates,
           <lb ed="#P" n="31"/>Pascha scilicet, quia tunc eos Dominus liberavit
-          <lb ed="#P" n="32"/>ab gyptiorum servitute, et a percussione angeli,
+          <lb ed="#P" n="32"/>ab Aegyptiorum servitute, et a percussione angeli,
           <lb ed="#P" n="33"/>aspersis immaculati agni sanguine postibus. Non
-          <lb ed="#P" n="34"/>cnim fuit domus alicujus JEgyptii, in qua non 
-          mor<lb break="no" ed="#P" n="35"/>iuus aliquis conspiceretur. In domibus vero 
+          <lb ed="#P" n="34"/>enim fuit domus alicujus Aegyptii, in qua non
+          mor<lb break="no" ed="#P" n="35"/>tuus aliquis conspiceretur. In domibus vero
           He<lb break="no" ed="#P" n="36"/>braeorum minime. Celebrant praeterea Pentecosten,
-          <lb ed="#P" n="37"/>quia tunc acceperunt legem, et Scenopcgiam in
-          <lb ed="#P" n="38"/>Septembri, qua interpretatur fixio tabernaculorum.
-          <lb ed="#P" n="39"/>Iu hieme denique celebrant Encaenia, id est 
-          dedica<lb break="no" ed="#P" n="40"/>tionem templi. Nos autem tantum duo istorum 
-          scr<lb break="no" ed="#P" n="41"/>vamus, Pascha videlicet et Pentecosten, sed alia
-          <lb ed="#P" n="42"/>ratione atque illi : illi enim celebrant Pascha, quod
-          <lb ed="#P" n="43"/>tunc ab Agyptia servitute fuerint liberati : nos ideo
-          <lb ed="#P" n="44"/>Pascha celebramus, quia tunc per Christum 
-          re<lb break="no" ed="#P" n="45"/>dempti sumus. llli celebrant Pentecosten, quod
-          <lb ed="#P" n="46"/>tum legem acceperunt; nos ideo, quia tunc 
-          acci<lb break="no" ed="#P" n="47"/>pimus Spiritum sanctum. llli acceperunt legem in
+          <lb ed="#P" n="37"/>quia tunc acceperunt legem, et Scenopegiam in
+          <lb ed="#P" n="38"/>Septembri, quae interpretatur fixio tabernaculorum.
+          <lb ed="#P" n="39"/>In hieme denique celebrant Encaenia, id est
+          dedica<lb break="no" ed="#P" n="40"/>tionem templi. Nos autem tantum duo istorum
+          ser<lb break="no" ed="#P" n="41"/>vamus, Pascha videlicet et Pentecosten, sed alia
+          <lb ed="#P" n="42"/>ratione atque illi: illi enim celebrant Pascha, quod
+          <lb ed="#P" n="43"/>tunc ab Aegyptia servitute fuerint liberati : nos ideo
+          <lb ed="#P" n="44"/>Pascha celebramus, quia tunc per Christum
+          re<lb break="no" ed="#P" n="45"/>dempti sumus. Illi celebrant Pentecosten, quod
+          <lb ed="#P" n="46"/>tum legem acceperunt; nos ideo, quia tunc
+          acci<lb break="no" ed="#P" n="47"/>pimus Spiritum sanctum. Illi acceperunt legem in
           <lb ed="#P" n="48"/>tabulis lapideis extrinsecus scriptam. In tabulis
           <lb ed="#P" n="49"/>quidem lapideis, ad designandum eorum duritiem;
           <lb ed="#P" n="50"/>extrinsecus vero scriptam, quod litterae spiritualem
-          <lb ed="#P" n="51"/>intelligentiam non pertingebant. Sed Spiritus 
+          <lb ed="#P" n="51"/>intelligentiam non pertingebant. Sed Spiritus
           san<lb break="no" ed="#P" n="52"/>ctus datus est septuaginta duobus discipulis, in
-          <lb ed="#P" n="53"/>corde digito Dei intus spiritoalem intelligentiam eis
-          <lb ed="#P" n="54"/>dictante. Yerum animadverte aliud esse 
-          Pente<lb break="no" ed="#P" n="55"/>costen, aliud quinquagcsimam, itemque 
-          quinqua<lb break="no" ed="#P" n="56"/>zesimam muttifariam accipi. Est enim 
-          quinqua<lb break="no" ed="#P" n="57"/>gcsima dierum annorum, psalmorum, personarum
+          <lb ed="#P" n="53"/>corde digito Dei intus spiritualem intelligentiam eis
+          <lb ed="#P" n="54"/>dictante. Verum animadverte aliud esse
+          Pente<lb break="no" ed="#P" n="55"/>costen, aliud quinquagesimam, itemque
+          quinqua<lb break="no" ed="#P" n="56"/>gesimam multifariam accipi. Est enim
+          quinqua<lb break="no" ed="#P" n="57"/>gesima dierum annorum, psalmorum, personarum
           <lb ed="#P" n="58"/>et denariorum. Rursus quinquagesima haec dierum
-          <lb ed="#P" n="59"/>triplex est. Est enim utia a Dominica, quae vulgo
+          <lb ed="#P" n="59"/>triplex est. Est enim una a Dominica, quae vulgo
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>appellatur Esto mihi, usque ad Pascbham; alia a
+          <lb ed="#P" n="60"/>appellatur Esto mihi, usque ad Pascham; alia a
           <lb ed="#P" n="61"/>Paschate ad Pentecosten, et tertia, a Sabbato in
           <lb ed="#P" n="62"/>Albis usque ad Sabbatum post Pentecosten. Prima
           <lb ed="#P" n="63"/>est poenitentiae et afflictionis, secunda laetitiae et
-          <lb ed="#P" n="64"/>cxsultationis, tertia velut figurae : praefigurat enim
+          <lb ed="#P" n="64"/>exsultationis, tertia velut figurae : praefigurat enim
           <lb ed="#P" n="65"/>octavam aetatem, in qua utraque stola induemur.
-          <lb ed="#P" n="66"/>Ex quo quidem fit quod duo Alleluia illa 
-          quinqua<lb break="no" ed="#P" n="67"/>gesima cantamus, quorum primum significat 
+          <lb ed="#P" n="66"/>Ex quo quidem fit quod duo Alleluia illa
+          quinqua<lb break="no" ed="#P" n="67"/>gesima cantamus, quorum primum significat
           cor<lb break="no" ed="#P" n="68"/>poris stolam, secundum animae. Sic quoque tres
-          <lb ed="#P" n="69"/>sunt psalmorum quinquagesimse, prima est a Deatus
-          <lb ed="#P" n="70"/>vir usque ad Miserere mei ; secunda a Miserere mci
+          <lb ed="#P" n="69"/>sunt psalmorum quinquagesimae, prima est a Beatus
+          <lb ed="#P" n="70"/>vir usque ad Miserere mei ; secunda a Miserere mei
           <lb ed="#P" n="71"/>usque ad Domine, exaudi; tertia denique a Domine
           <lb ed="#P" n="72"/>exaudi usque ad Omnis spiritus laudet Dominum.
-          <lb ed="#P" n="73"/>Ha quinquagesimae dies diluvii significant. Tot enim
+          <lb ed="#P" n="73"/>Hae quinquagesimae dies diluvii significant. Tot enim
           <lb ed="#P" n="74"/>diebus aquarum fuit inundatio, scilicet centum et
-          <lb ed="#P" n="75"/>quinquaginta diebus. Ideo autem tres 
-          quinquagc<lb break="no" ed="#P" n="76"/>simas psalmurum cantamus, ut Deus a tali nos 
+          <lb ed="#P" n="75"/>quinquaginta diebus. Ideo autem tres
+          quinquage<lb break="no" ed="#P" n="76"/>simas psalmorum cantamus, ut Deus a tali nos
           di<lb break="no" ed="#P" n="77"/>luvio et ab omni malo defendat. Quinquagesima
           <lb ed="#P" n="78"/>porro annorum erat jubileus. De quinquagesima
           <lb ed="#P" n="79"/>personarum habetur in Genesi, ubi Abraham in
           <lb ed="#P" n="80"/>hunc modum a Domino quaerit : Si septuaginta,
-          <lb ed="#P" n="81"/>inquit, in populo inveniantur justi, nunquid eis 
-          par<lb break="no" ed="#P" n="82"/>ces ? (Gen. xvin.) lHa, respondit Deus, et sic postea
+          <lb ed="#P" n="81"/>inquit, in populo inveniantur justi, nunquid eis
+          par<lb break="no" ed="#P" n="82"/>ces? (Gen. xviii). Ita, respondit Deus, et sic postea
           <lb ed="#P" n="83"/>de sexaginta, et quinquaginta, usque ad decem
-          <lb ed="#P" n="84"/>ibid.) De quinquagesima vcro denariorum habetur
-          <lb ed="#P" n="85"/>m Evangelio, ubi de duobus agitur debitoribus,
-          <lb ed="#P" n="86"/>euorum unus debebat centum denarios, alter 
+          <lb ed="#P" n="84"/>(ibid.). De quinquagesima vero denariorum habetur
+          <lb ed="#P" n="85"/>in Evangelio, ubi de duobus agitur debitoribus,
+          <lb ed="#P" n="86"/>quorum unus debebat centum denarios, alter
           quin<lb break="no" ed="#P" n="87"/>quaginta. Sed haec de illis dixisse satis sit.
         </p>
-        <p xml:id="raWSwa-d1e1651-d1e248">
-          <lb ed="#P" n="88"/>Dicitur ergo Pentecoste a aevrxovra quinquaginta,
-          <lb ed="#P" n="89"/>quod dies haec a resurrectione Domini distat 
-          quin<lb break="no" ed="#P" n="90"/>quaginta diebus. Hinc mnvraxoccoc Latine dicitür
-          <lb ed="#P" n="91"/>«qunquagesimus. Sicut cnim populus Israeliticus
+                <p xml:id="raWSwa-d1e1651-d1e248">
+          <lb ed="#P" n="88"/>Dicitur ergo Pentecoste a <foreign>πεντήκοντα</foreign> quinquaginta,
+          <lb ed="#P" n="89"/>quod dies haec a resurrectione Domini distat
+          quin<lb break="no" ed="#P" n="90"/>quaginta diebus. Hinc </foreign>πεντεκοστὸς</foreign> Latine dicitur
+          <lb ed="#P" n="91"/>quinquagesimus. Sicut enim populus Israeliticus
           <lb ed="#P" n="92"/>quinquagesimo die a Pascha, quod celebraverunt
           <lb ed="#P" n="93"/>in Ramasse, venerunt ad montem Dei Horeb vel
           <lb ed="#P" n="94"/>Sina, quod idem est, et legem tunc acceperunt
-          <lb ed="#P" n="95"/>(Exod. xx), ita die quinquagcsimo a passione Domini
+          <lb ed="#P" n="95"/>(Exod. xx), ita die quinquagesimo a passione Domini
           <lb ed="#P" n="96"/>Spiritus sanctus discipulis in superiori coenaculo
           <lb ed="#P" n="97"/>adventum ejus exspectantibus datus est in linguis
-          <lb ed="#P" n="98"/>igncis. Et in linguis utique, ut in omni genere 
-          lin<lb break="no" ed="#P" n="99"/>guarum et sermonum facundi essent (Act. i); in
-          <lb ed="#P" n="100"/>igneis vero ideo, ut inflammarentur amore 
+          <lb ed="#P" n="98"/>igneis. Et in linguis utique, ut in omni genere
+          lin<lb break="no" ed="#P" n="99"/>guarum et sermonum facundi essent (Act. ii); in
+          <lb ed="#P" n="100"/>igneis vero ideo, ut inflammarentur amore
           chari<lb break="no" ed="#P" n="101"/>tatis. Datus est igitur Spiritus sanctus discipulis,
           <lb ed="#P" n="102"/>cujus gratia est septiformis, quoniam numerum
-          <lb ed="#P" n="103"/>scilicet septenarium, maxime observant Judai in
+          <lb ed="#P" n="103"/>scilicet septenarium, maxime observant Judaei in
           <lb ed="#P" n="104"/>omnibus, idque non sine specie figurae. Ipsi enim
-          <lb ed="#P" n="105"/>cclebrant septimum diem, videlicet Sabbatum ; 
-          se<lb break="no" ed="#P" n="106"/>ptimam septimanam, nempe Pentecosten; scptimum
+          <lb ed="#P" n="105"/>celebrant septimum diem, videlicet Sabbatum;
+          se<lb break="no" ed="#P" n="106"/>ptimam septimanam, nempe Pentecosten; septimum
           <lb ed="#P" n="107"/>mensem, nimirum Septembrem, qui apud eos fere
-          <lb ed="#P" n="108"/>habetur celebris ; et septimum annum, utpote qui
-          <lb ed="#P" n="109"/>servi a Judaeis manu mittebanur, si vellent. Si
+          <lb ed="#P" n="108"/>habetur celebris; et septimum annum, utpote qui
+          <lb ed="#P" n="109"/>servi a Judaeis manu mittebantur, si vellent. Si
           <lb ed="#P" n="110"/>autem aliquis manumitti non vellet, sed in domini
           <lb ed="#P" n="111"/>servitute remanere, is ad postes tabernaculi vel
-          <lb ed="#P" n="112"/>templi ducebatur, atque ejus aures subula 
-          perfora<lb break="no" ed="#P" n="113"/>bantur, quod erat signum scrvitii, ne amplius 
-          manu<lb break="no" ed="#P" n="114"/>mitteretur, si forsitan postea ex scrvitute manumitti
+          <lb ed="#P" n="112"/>templi ducebatur, atque ejus aures subula
+          perfora<lb break="no" ed="#P" n="113"/>bantur, quod erat signum servitii, ne amplius
+          manu<lb break="no" ed="#P" n="114"/>mitteretur, si forsitan postea ex servitute manumitti
           <lb ed="#P" n="115"/>vellet. Sic quoque hoc anno quaecunque terra ex se
-          <lb ed="#P" n="116"/>gratis procreabat, erant communia. Non enim 
-          co<lb break="no" ed="#P" n="117"/>lebatur eo anno. Pari ratione nos septimo die, 
+          <lb ed="#P" n="116"/>gratis procreabat, erant communia. Non enim
+          co<lb break="no" ed="#P" n="117"/>lebatur eo anno. Pari ratione nos septimo die,
           vide<lb break="no" ed="#P" n="118"/>licet in Sabbato, baptismum celebramus. Sabbatum
-          <lb ed="#P" n="119"/>enimn requicm significat, et pos per baptismum sab-
+          <lb ed="#P" n="119"/>enim requiem significat, et nos per baptismum
           <pb ed="#P" n="69"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>batizamus, id est requiescimus , quoniam quando
+          sab<lb break="no" ed="#P" n="1"/>batizamus, id est requiescimus, quoniam quando
           <lb ed="#P" n="2"/>homo baptizatur, habet anima ejus quietem, cum
-          <lb ed="#P" n="3"/>per Spiritum a vitiis emundata infidei unitate 
+          <lb ed="#P" n="3"/>per Spiritum a vitiis emundata in fidei unitate
           quie<lb break="no" ed="#P" n="4"/>scit. Sciendum ergo est duobus tantum Sabbatis
           <lb ed="#P" n="5"/>regulariter baptismum celebrari. Sabbato videlicet
           <lb ed="#P" n="6"/>paschali, et Pentecostes : paschali quidem Sabbato,
           <lb ed="#P" n="7"/>quoniam in passione Christi omnes baptizamur,
-          <lb ed="#P" n="8"/>boc ess redimimur ; Sabbato vero Pentecostes, quia
-          <lb ed="#P" n="9"/>tunc per Spiritum sanctum mundamur et 
+          <lb ed="#P" n="8"/>hoc est redimimur ; Sabbato vero Pentecostes, quia
+          <lb ed="#P" n="9"/>tunc per Spiritum sanctum mundamur et
           sanctifi<lb break="no" ed="#P" n="10"/>camur. Atque hujus quidem Sabbati officium nunc
           <lb ed="#P" n="11"/>tractandum est.
         </p>
