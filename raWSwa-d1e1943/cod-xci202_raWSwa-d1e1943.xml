@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -64,7 +69,7 @@
         <p xml:id="raWSwa-d1e1943-d1e113">
           <lb ed="#P" n="14"/>Sanctus Remigius Gallorum dicitur pontifex, 
           quo<lb break="no" ed="#P" n="15"/>niam primus regem Gallorum inunxit, atque ideo in
-          <lb ed="#P" n="16"/>tanto honore et vencratione habetur in Francia, ut
+          <lb ed="#P" n="16"/>tanto honore et veneratione habetur in Francia, ut
           <lb ed="#P" n="17"/>festum illud obfuscet festum beati Michaelis.
         </p>
       </div>
