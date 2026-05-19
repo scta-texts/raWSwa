@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -55,43 +60,43 @@
       <div xml:id="raWSwa-d1e1785"><!-- raWSwa-c142 -->
         <head xml:id="raWSwa-d1e1785-Hd1e101">Caput 142</head>
         <head xml:id="raWSwa-d1e1785-Hd1e103" type="question-title">
-          De festo Machabaorum.
+          De festo Machabaeorum.
         </head>
         <p xml:id="raWSwa-d1e1785-d1e106">
           <lb ed="#P" n="79"/>CAPUT CXLII.
-          <lb ed="#P" n="80"/>De festo Machabaorum.
+          <lb ed="#P" n="80"/>De festo Machabaeorum.
         </p>
-        <p xml:id="raWSwa-d1e1785-d1e113">
-          <lb ed="#P" n="81"/>Hic animadvertendum est Machabaeos hos nona
+       <p xml:id="raWSwa-d1e1785-d1e113">
+          <lb ed="#P" n="81"/>Hic animadvertendum est Machabaeos hos non
           <lb ed="#P" n="82"/>illos esse ex quibus unus fuit Judas Machabaeus, sed
           <lb ed="#P" n="83"/>qui fuerunt filii Felicitatis, ut quibusdam placet.
           <lb ed="#P" n="84"/>Alii affirmant Felicitatem matrem fuisse aliorum
           <lb ed="#P" n="85"/>septem fratrum, qui Christi nomine passi sunt et
-          <lb ed="#P" n="86"/>quorum nomina ignorat Exclesia. Hanc Felicitatem
+          <lb ed="#P" n="86"/>quorum nomina ignorat Ecclesia. Hanc Felicitatem
           <lb ed="#P" n="87"/>vocat B. Gregorius plusquam martyrem, quod
           <lb ed="#P" n="88"/>septies passa sit in septem filiis, et octavo tandem
           <lb ed="#P" n="89"/>in proprio corpore. Certe illa Felicitas, cujus hi sunt
-          <lb ed="#P" n="90"/>liberi , quorum festum hic agitur, duplex sustinutt
-          <lb ed="#P" n="91"/>martyrium, vidit enim filios divcrsa pati tormenta,
+          <lb ed="#P" n="90"/>liberi, quorum festum hic agitur, duplex sustinuit
+          <lb ed="#P" n="91"/>martyrium, vidit enim filios diversa pati tormenta,
           <lb ed="#P" n="92"/>et deinde ipsa martyrium sustinuit. Erant enim ejus
           <lb ed="#P" n="93"/>septem filii, tametsi non hos fuisse quidam putent.
-          <lb ed="#P" n="94"/>Meminit autem eorum festum Ecclesia tam 
-          Orien<lb break="no" ed="#P" n="95"/>talis quam Occidentalis, quanquam nullius saucti
+          <lb ed="#P" n="94"/>Meminit autem eorum festum Ecclesia tam
+          Orien<lb break="no" ed="#P" n="95"/>talis quam Occidentalis, quanquam nullius sancti
           <lb ed="#P" n="96"/>Veteris Testamenti praeter hos, si ita sint, contra
           <lb ed="#P" n="97"/>multorum habet festa. Verum hos utraque colit
-          <lb ed="#P" n="98"/>Ecclesia, quod propter lcgis observationem passi
+          <lb ed="#P" n="98"/>Ecclesia, quod propter legis observationem passi
           <lb ed="#P" n="99"/>sint, cum carnem porcinam comedere recusarent.
-          <lb ed="#P" n="100"/>Est rursus alia ratio quoniam numero septem 
-          fue<lb break="no" ed="#P" n="101"/>runt. Atqui septenarius numerus, ut est praeter 
+          <lb ed="#P" n="100"/>Est rursus alia ratio quoniam numero septem
+          fue<lb break="no" ed="#P" n="101"/>runt. Atqui septenarius numerus, ut est praeter
           cae<lb break="no" ed="#P" n="102"/>teros plenus et perfectus, ita numerum exprimit
-          <lb ed="#P" n="103"/>universitatis. Quare in his septem significantur 
+          <lb ed="#P" n="103"/>universitatis. Quare in his septem significantur
           om<lb break="no" ed="#P" n="104"/>nes martyres, tam Veteris quam Novi Testamenti.
-          <lb ed="#P" n="105"/>Atque exhibentur martyribus Novi Testamenu in
-          <lb ed="#P" n="106"/>exeniplum, ut quemadmodum illi pro soa lege passi
-          <lb ed="#P" n="107"/>suBt, ita et nos vel mortis periculum pro nosta
-          <lb ed="#P" n="108"/>adire non horreamus, si necesse fuerit. Saue ergo
+          <lb ed="#P" n="105"/>Atque exhibentur martyribus Novi Testamenti in
+          <lb ed="#P" n="106"/>exemplum, ut quemadmodum illi pro sua lege passi
+          <lb ed="#P" n="107"/>sunt, ita et nos vel mortis periculum pro nostra
+          <lb ed="#P" n="108"/>adire non horreamus, si necesse fuerit. Sane ergo
           <lb ed="#P" n="109"/>hujusmodi festum magis celebratur gratia eorum
-          <lb ed="#P" n="110"/>qui significantur quam qui signilicant.
+          <lb ed="#P" n="110"/>qui significantur quam qui significant.
         </p>
       </div>
     </body>
