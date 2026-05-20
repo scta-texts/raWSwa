@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,51 +67,51 @@
           <lb ed="#P" n="88"/>De solemnitate beati Martini.
         </p>
         <p xml:id="raWSwa-d1e2040-d1e113">
-          <lb ed="#P" n="89"/>Sciendum vero est de B. Martino quod par et 
-          z<lb break="no" ed="#P" n="90"/>qualis apostolis sit appellatus pro suscitatione 
-          quo<lb break="no" ed="#P" n="91"/>remdam mortuorum, ut plerique arbitrantur, cum
-          <lb ed="#P" n="92"/>idem et multi alii martvres fecerunt et confessores
-          <lb ed="#P" n="93"/>Yerum potius ob quoddam miraculum quod 
-          con<lb break="no" ed="#P" n="94"/>tingit, cum Turonis esset episcopus. Nam cum 
-          hi<lb break="no" ed="#P" n="95"/>bernis mensibus pauper ei seminudus obviam 
-          ve<lb break="no" ed="#P" n="96"/>niret, orans sibi vestimentum dari : accersito 
+          <lb ed="#P" n="89"/>Sciendum vero est de B. Martino quod par et
+          ae<lb break="no" ed="#P" n="90"/>qualis apostolis sit appellatus pro suscitatione
+          quo<lb break="no" ed="#P" n="91"/>rundam mortuorum, ut plerique arbitrantur, cum
+          <lb ed="#P" n="92"/>idem et multi alii martyres fecerunt et confessores.
+          <lb ed="#P" n="93"/>Verum potius ob quoddam miraculum quod
+          con<lb break="no" ed="#P" n="94"/>tingit, cum Turonis esset episcopus. Nam cum
+          hi<lb break="no" ed="#P" n="95"/>bernis mensibus pauper ei seminudus obviam
+          ve<lb break="no" ed="#P" n="96"/>niret, orans sibi vestimentum dari: accersito
           ar<lb break="no" ed="#P" n="97"/>chidiacono statim algentem jussit vestiri. Quod
-          <lb ed="#P" n="98"/>cum archidiaconus facere distulisset, irrupit 
-          pau<lb break="no" ed="#P" n="99"/>per in sacrarium, quod intraverat Martinus 
-          con<lb break="no" ed="#P" n="100"/>querens se a clerico dissimulatum, atque aigere
+          <lb ed="#P" n="98"/>cum archidiaconus facere distulisset, irrupit
+          pau<lb break="no" ed="#P" n="99"/>per in sacrarium, quod intraverat Martinus
+          con<lb break="no" ed="#P" n="100"/>querens se a clerico dissimulatum, atque algere
           <lb ed="#P" n="101"/>deplorans. Eo audito Martinus illico occulte suam
-          <lb ed="#P" n="102"/>eduxit tunicam, ac suo concessit precatori, 
-          petiit<lb break="no" ed="#P" n="103"/>que ab archidiacono priusquam ccelebraret 
+          <lb ed="#P" n="102"/>eduxit tunicam, ac suo concessit precatori,
+          petiit<lb break="no" ed="#P" n="103"/>que ab archidiacono priusquam celebraret
           tuni<lb break="no" ed="#P" n="104"/>cam, quam pauperi emere jusserat, atque eam
-          <lb ed="#P" n="105"/>vilem, hispidam et brevem clanculum induit. 
-          At<lb break="no" ed="#P" n="106"/>que ita sane paravit se ad celebrandarum 
+          <lb ed="#P" n="105"/>vilem, hispidam et brevem clanculum induit.
+          At<lb break="no" ed="#P" n="106"/>que ita sane paravit se ad celebrandarum
           Missa<lb break="no" ed="#P" n="107"/>rum solemnia. Sed cum ante altare, ut moris est
-          <lb ed="#P" n="108"/>in praefatione, sisteret, manusque ad Dommnum
-          <lb ed="#P" n="109"/>sublevaret, ita ut brachia ejus faciie, ub 
+          <lb ed="#P" n="108"/>in praefatione, sisteret, manusque ad Dominum
+          <lb ed="#P" n="109"/>sublevaret, ita ut brachia ejus facile, ob
           amplitu<lb break="no" ed="#P" n="110"/>dinem et brevitatem manicarum, conspicerentur,
           <lb ed="#P" n="111"/>illico aurei torques ipsa honeste operuerunt, et
           <lb ed="#P" n="112"/>supra caput ejus igneus globus visus est. Quo
-          <lb ed="#P" n="113"/>quidem declaratum fuit Spiritum sanctum in cum
+          <lb ed="#P" n="113"/>quidem declaratum fuit Spiritum sanctum in eum
           <lb ed="#P" n="114"/>descendisse, ad confirmationem et robur, sicut
           <lb ed="#P" n="115"/>in apostolis ipso die Pentecostes. Quapropter ergo
           <lb ed="#P" n="116"/>non immerito dictus est par apostolis. Fuit autem
-          <lb ed="#P" n="117"/>oriunlus ex Pannonia, quae est prope Austriam,
-          <lb ed="#P" n="118"/>unde ctiam fuit Db. llieronymus. Fecit. praeterea
+          <lb ed="#P" n="117"/>oriundus ex Pannonia, quae est prope Austriam,
+          <lb ed="#P" n="118"/>unde etiam fuit B. Hieronymus. Fecit praeterea
           <pb ed="#P" n="83"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>multa signa et innumera miracuta, quae 
+          <lb ed="#P" n="1"/>multa signa et innumera miracula, quae
           conscri<lb break="no" ed="#P" n="2"/>pserunt Sulpitius et Fortunatus, ut qui ipsum
-          <lb ed="#P" n="3"/>multum adamarunt. Quod autem ad officium 
-          atti<lb break="no" ed="#P" n="4"/>net considerandum est, hunc solum inter 
-          confesso<lb break="no" ed="#P" n="5"/>res institutionis octavas dabere, sicut et beatus
+          <lb ed="#P" n="3"/>multum adamarunt. Quod autem ad officium
+          atti<lb break="no" ed="#P" n="4"/>net considerandum est, hunc solum inter
+          confesso<lb break="no" ed="#P" n="5"/>res institutionis octavas habere, sicut et beatus
           <lb ed="#P" n="6"/>Laurentius vigiliam, quod ipso die passionis suae
           <lb ed="#P" n="7"/>dixerit, quod in ejus festo repetit Ecclesia: Igne
           <lb ed="#P" n="8"/>me examinasti (Psal. xvi), etc. Sed Martinus in agone
-          <lb ed="#P" n="9"/>mortis dixit astanti daemoni: Nihil in me invenies 
+          <lb ed="#P" n="9"/>mortis dixit astanti daemoni: Nihil in me invenies
           cru<lb break="no" ed="#P" n="10"/>enta bestia. Ecce quam optime conveniunt merita.
-          <lb ed="#P" n="11"/>Ergo ille tanquam qui caeteros martyrio longe 
+          <lb ed="#P" n="11"/>Ergo ille tanquam qui caeteros martyrio longe
           supe<lb break="no" ed="#P" n="12"/>rarit, vigiliam habet atque hoc confessor caeteris item
-          <lb ed="#P" n="13"/>prastantior, solus habet octavas.
+          <lb ed="#P" n="13"/>praestantior, solus habet octavas.
         </p>
       </div>
     </body>
