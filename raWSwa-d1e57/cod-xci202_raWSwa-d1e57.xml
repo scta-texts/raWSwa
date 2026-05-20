@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,40 +68,40 @@
         <p xml:id="raWSwa-d1e57-d1e116">
           <cb ed="#P" n="c"/>
           <lb ed="#P" n="3"/>PROEMIUM
-          <lb ed="#P" n="4"/>AC BRETIS TOTIUS OPERIS PARTITIO. 
+          <lb ed="#P" n="4"/>AC BREVIS TOTIUS OPERIS PARTITIO. 
         </p>
         <p xml:id="raWSwa-d1e57-d1e125">
-          <lb ed="#P" n="5"/>In primitiva Ecclesia prohibitum erat ne quis 
-          lo<lb break="no" ed="#P" n="6"/>queretur, nisi esset qui interpretaretur. 
-          <lb ed="#P" n="7"/>obsecro, prodesset loqui, si non intelligeretur? 
+          <lb ed="#P" n="5"/>In primitiva Ecclesia prohibitum erat ne quis
+          lo<lb break="no" ed="#P" n="6"/>queretur, nisi esset qui interpretaretur.
+          <lb ed="#P" n="7"/>Quid enim, obsecro, prodesset loqui, si non intelligeretur?
           <cb ed="#P" n="d"/>
           <lb ed="#P" n="8"/>Certe nihil. Hinc illa laudabilis inolevit consuetudo
           <lb ed="#P" n="9"/>in quibusdam Ecclesiae partibus, ut pronuntiato
           <lb ed="#P" n="10"/>secundum litteram Evangelio, statim vulgari illud
-          <lb ed="#P" n="11"/>Quid enim, populo exponeretur. Quid vero de nostris 
+          <lb ed="#P" n="11"/>populo exponeretur. Quid vero de nostris
           tempori<lb break="no" ed="#P" n="12"/>bus dicemus, si vix ac ne vix quidem inveniatur
           <pb ed="#P" n="8"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>qui quae legerit vel audierit intelligat, quique 
-          sa<lb break="no" ed="#P" n="2"/>tis animadvertat quae viderit, aut egerit ? Unde 
-          pro<lb break="no" ed="#P" n="3"/>ecto illud verc dicere possumus, quod olim 
-          pro<lb break="no" ed="#P" n="4"/>pheta conquestus est : Perit sacerdos qnuasi e 
-          po<lb break="no" ed="#P" n="5"/>pulo unxs. Videtur ergo tacendum potius esse
-          <lb ed="#P" n="6"/>quam psallendum, silendum omnino quam 
-          tripu<lb break="no" ed="#P" n="7"/>diandum, si in banc temporum infelicitatem 
-          inci<lb break="no" ed="#P" n="8"/>dimus. Verum enimvero ne aliquando ora 
+          <lb ed="#P" n="1"/>qui quae legerit vel audierit intelligat, quique
+          sa<lb break="no" ed="#P" n="2"/>tis animadvertat quae viderit, aut egerit? Unde
+          pro<lb break="no" ed="#P" n="3"/>fecto illud vere dicere possumus, quod olim
+          pro<lb break="no" ed="#P" n="4"/>pheta conquestus est: Perit sacerdos quasi e
+          po<lb break="no" ed="#P" n="5"/>pulo unus. Videtur ergo tacendum potius esse
+          <lb ed="#P" n="6"/>quam psallendum, silendum omnino quam
+          tripu<lb break="no" ed="#P" n="7"/>diandum, si in hanc temporum infelicitatem
+          inci<lb break="no" ed="#P" n="8"/>dimus. Verum enimvero ne aliquando ora
           canen<lb break="no" ed="#P" n="9"/>tium ad te, Domine Deus, turpiter claudantur, ad
-          <lb ed="#P" n="10"/>hoc damnum evitandum triplex adhibebimus 
+          <lb ed="#P" n="10"/>hoc damnum evitandum triplex adhibebimus
           reme<lb break="no" ed="#P" n="11"/>dium, si primo de ecclesiasticis institutionibus,
           <lb ed="#P" n="12"/>deinde de expositionibus divinorum sermonum, ac
-          <lb ed="#P" n="13"/>tandem etiam de dierum ratiocinationibus, quam fleri
-          <lb ed="#P" n="14"/>potest brevissime, dixerimus. Ác primum quidem
-          <lb ed="#P" n="15"/>ad cos pertinere poterit qui modo incipiunt, 
+          <lb ed="#P" n="13"/>tandem etiam de dierum ratiocinationibus, quam fieri
+          <lb ed="#P" n="14"/>potest brevissime, dixerimus. Ac primum quidem
+          <lb ed="#P" n="15"/>ad eos pertinere poterit qui modo incipiunt,
           se<lb break="no" ed="#P" n="16"/>cundum vero ad eos qui jam profectum aliquem
-          <lb ed="#P" n="17"/>sentiunt, tertium denique ad illos qui ad 
-          perfectie<lb break="no" ed="#P" n="18"/>nem quamdam pervenerunt. De his igitur breviter
-          <lb ed="#P" n="19"/>et compendiose deinceps dicamus ut per nos 
-          alh<lb break="no" ed="#P" n="20"/>qua ex parte eorum consulatur ignorantie, qui
+          <lb ed="#P" n="17"/>sentiunt, tertium denique ad illos qui ad
+          perfectio<lb break="no" ed="#P" n="18"/>nem quamdam pervenerunt. De his igitur breviter
+          <lb ed="#P" n="19"/>et compendiose deinceps dicamus ut per nos
+          ali<lb break="no" ed="#P" n="20"/>qua ex parte eorum consulatur ignorantiae, qui
           <lb ed="#P" n="21"/>quemadmodum de his rebus sentiendum sit, vere
           <lb ed="#P" n="22"/>nesciunt.
         </p>
