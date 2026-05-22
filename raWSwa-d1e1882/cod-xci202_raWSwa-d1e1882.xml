@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,14 +67,14 @@
           <lb ed="#P" n="99"/>De sanctis Sapientia, Felice et Audacto.
         </p>
         <p xml:id="raWSwa-d1e1882-d1e113">
-          <lb ed="#P" n="100"/>Sapientia mulier fuit sancta quae tres habuit 
-          fi<lb break="no" ed="#P" n="101"/>lias : Fidem, Spem, Charitatem, quae ounes 
+          <lb ed="#P" n="100"/>Sapientia mulier fuit sancta quae tres habuit
+          fi<lb break="no" ed="#P" n="101"/>lias: Fidem, Spem, Charitatem, quae omnes
           marty<lb break="no" ed="#P" n="102"/>rium cum matre susceperunt. Sed de beatis Felice
           <lb ed="#P" n="103"/>et Audacto sciendum est quod, cum beatus Felix
-          <lb ed="#P" n="104"/>pro Cbristi nomine ad martyrium duceretur, 
+          <lb ed="#P" n="104"/>pro Christi nomine ad martyrium duceretur,
           qui<lb break="no" ed="#P" n="105"/>dam subito sese in medium protulit, inquiens : Et
-          <lb ed="#P" n="106"/>ego sum Christianus. Ad quem respondcerunt 
-          carni<lb break="no" ed="#P" n="107"/>fices : Ergo et tu venies. Cun: igitur nomen illius
+          <lb ed="#P" n="106"/>ego sum Christianus. Ad quem responderunt
+          carni<lb break="no" ed="#P" n="107"/>fices: Ergo et tu venies. Cum igitur nomen illius
           <lb ed="#P" n="108"/>ignoraretur, appellatus est Audactus, quasi beato
           <lb ed="#P" n="109"/>Felici audacter associatus.
         </p>
