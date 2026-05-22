@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,44 +66,44 @@
           <lb ed="#P" n="1"/>CAPUT CXXIV.
           <lb ed="#P" n="2"/>De festo apostolorum Philippi et Jacobi.
         </p>
-        <p xml:id="raWSwa-d1e1566-d1e117">
-          <lb ed="#P" n="3"/>Nunc dicendum est de quibusdam solemnitatibus ,
+<p xml:id="raWSwa-d1e1566-d1e117">
+          <lb ed="#P" n="3"/>Nunc dicendum est de quibusdam solemnitatibus,
           <lb ed="#P" n="4"/>quae hoc tempore in Ecclesiis celebrantur, videlicet
-          <lb ed="#P" n="5"/>de festo S. Philippi et Jacobi, et omnium 
+          <lb ed="#P" n="5"/>de festo S. Philippi et Jacobi, et omnium
           aposto<lb break="no" ed="#P" n="6"/>lorum (sic enim est in magnis et plenis kalendariis)
-          <lb ed="#P" n="7"/>de Inventione S. crucis, de festo Joannis ante 
-          Por<lb break="no" ed="#P" n="8"/>tam Latinam, et B. Mariae ad Martyres, et de 
+          <lb ed="#P" n="7"/>de Inventione S. crucis, de festo Joannis ante
+          Por<lb break="no" ed="#P" n="8"/>tam Latinam, et B. Mariae ad Martyres, et de
           com<lb break="no" ed="#P" n="9"/>memoratione sancti Michaelis. Hoc ergo tempus, ut
-          <lb ed="#P" n="10"/>praedictum est, significat octavam aetatem, ubi 
+          <lb ed="#P" n="10"/>praedictum est, significat octavam aetatem, ubi
           bo<lb break="no" ed="#P" n="11"/>num quod erit in dispari claritate singulorum,
-          <lb ed="#P" n="12"/>et futurum est omnium. Unusquisque enim 
+          <lb ed="#P" n="12"/>et futurum est omnium. Unusquisque enim
           gaude<lb break="no" ed="#P" n="13"/>bit perinde ob alterius bonum ac propter suum,
-          <lb ed="#P" n="14"/>bonum omnium erit singulorum. Quare cum 
+          <lb ed="#P" n="14"/>bonum omnium erit singulorum. Quare cum
           tem<lb break="no" ed="#P" n="15"/>pus hoc maxime solemnitatibus conveniat, cumque
-          <lb ed="#P" n="16"/>in primitiva Ecclesia apostoli non haberent 
-          parti<lb break="no" ed="#P" n="17"/>culares solemnitates , statutum fuit ut ipsis 
-          Kalen<lb break="no" ed="#P" n="18"/>dis Maii celebraretur solemnitas in honorem 
-          om<lb break="no" ed="#P" n="19"/>nium apostolorum. Hoc etiam die festum est 
-          Phi<lb break="no" ed="#P" n="20"/>lippi et Jacohi, idque adeo quia fortce illo die passi
+          <lb ed="#P" n="16"/>in primitiva Ecclesia apostoli non haberent
+          parti<lb break="no" ed="#P" n="17"/>culares solemnitates, statutum fuit ut ipsis
+          Kalen<lb break="no" ed="#P" n="18"/>dis Maii celebraretur solemnitas in honorem
+          om<lb break="no" ed="#P" n="19"/>nium apostolorum. Hoc etiam die festum est
+          Phi<lb break="no" ed="#P" n="20"/>lippi et Jacobi, idque adeo quia forte illo die passi
           <lb ed="#P" n="21"/>sunt. Hic Jacobus Minor appellatus est, non utique
-          <lb ed="#P" n="22"/>etate, sed vocatione, sicut fit inter monachos; ut
+          <lb ed="#P" n="22"/>aetate, sed vocatione, sicut fit inter monachos; ut
           <lb ed="#P" n="23"/>qui ante factus est monachus etiamsi vel puer sit,
-          <lb ed="#P" n="24"/>tamen praecedat eum, qui quantus sit postea 
-          coe<lb break="no" ed="#P" n="25"/>nobium ingressus est. Dictus est praeterea 
-          fra<lb break="no" ed="#P" n="26"/>ter Domini, vel quia similis erat ei faciei, ut 
-          di<lb break="no" ed="#P" n="27"/>citur, vel ideo, quia erat filius Alphaei, fratris 
-          Jo<lb break="no" ed="#P" n="28"/>sephi viri beatae Mariae, et Mariae sororis ejus. Ft
-          <lb ed="#P" n="29"/>qui ita ex utraque parte sanguinis sesc 
-          continge<lb break="no" ed="#P" n="30"/>bant, apud Judeos fratres vocabantur. Jesus autem
+          <lb ed="#P" n="24"/>tamen praecedat eum, qui quantus sit postea
+          coe<lb break="no" ed="#P" n="25"/>nobium ingressus est. Dictus est praeterea
+          fra<lb break="no" ed="#P" n="26"/>ter Domini, vel quia similis erat ei faciei, ut
+          di<lb break="no" ed="#P" n="27"/>citur, vel ideo, quia erat filius Alphaei, fratris
+          Jo<lb break="no" ed="#P" n="28"/>sephi viri beatae Mariae, et Mariae sororis ejus. Et
+          <lb ed="#P" n="29"/>qui ita ex utraque parte sanguinis sese
+          continge<lb break="no" ed="#P" n="30"/>bant, apud Judaeos fratres vocabantur. Jesus autem
           <lb ed="#P" n="31"/>putabatur esse Josephi filius. Hic Jacobus dictus est
           <lb ed="#P" n="32"/>primus post passionem Christi Jerosolymae missam
-          <lb ed="#P" n="33"/>celebrasse , et Petrus Antiochiae. Idein hic Jacobus
-          <lb ed="#P" n="34"/>factus est episcopus Jerosolymitanus, qui cum 
-          no<lb break="no" ed="#P" n="35"/>men Christi praedicaret, et publice fateretur, 
-          prae<lb break="no" ed="#P" n="36"/>cipita:us est a Judaeis e pinnaculo templi, et pertica
-          <lb ed="#P" n="37"/>fullonis interfectus. Alter vero Jacobus Major, 
-          ap<lb break="no" ed="#P" n="38"/>pellatus est, et vocatione et dignitate, quia 
-          lamilia<lb break="no" ed="#P" n="39"/>rior fuit Christo. Ad secreta enim sui operis eum
+          <lb ed="#P" n="33"/>celebrasse, et Petrus Antiochiae. Idem hic Jacobus
+          <lb ed="#P" n="34"/>factus est episcopus Jerosolymitanus, qui cum
+          no<lb break="no" ed="#P" n="35"/>men Christi praedicaret, et publice fateretur,
+          prae<lb break="no" ed="#P" n="36"/>cipitatus est a Judaeis e pinnaculo templi, et pertica
+          <lb ed="#P" n="37"/>fullonis interfectus. Alter vero Jacobus Major,
+          ap<lb break="no" ed="#P" n="38"/>pellatus est, et vocatione et dignitate, quia
+          familia<lb break="no" ed="#P" n="39"/>rior fuit Christo. Ad secreta enim sui operis eum
           <lb ed="#P" n="40"/>vocabat, ut quando transfiguratus est, et quando
           <lb ed="#P" n="41"/>mortuum suscitavit in domo.
         </p>
