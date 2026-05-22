@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -55,37 +60,37 @@
       <div xml:id="raWSwa-d1e1602"><!-- raWSwa-c127 -->
         <head xml:id="raWSwa-d1e1602-Hd1e101">Caput 127</head>
         <head xml:id="raWSwa-d1e1602-Hd1e103" type="question-title">
-          De festo B. Marie ad Martyres.
+          De festo B. Mariae ad Martyres.
         </head>
         <p xml:id="raWSwa-d1e1602-d1e106">
           <lb ed="#P" n="37"/>CAPUT CXXVII.
-          <lb ed="#P" n="38"/>De festo B. Marie ad Martyres.
+          <lb ed="#P" n="38"/>De festo B. Mariae ad Martyres.
         </p>
         <p xml:id="raWSwa-d1e1602-d1e113">
           <lb ed="#P" n="39"/>Cum singula Romanorum idola non possent
-          <lb ed="#P" n="40"/>tenplum Romae habere, fecerunt Romani unum
+          <lb ed="#P" n="40"/>templum Romae habere, fecerunt Romani unum
           <lb ed="#P" n="41"/>templum omnibus idolis, quod dictum est Pantheon.
-          <lb ed="#P" n="42"/>lliud templum imperavit dari Ecclesiae Christi 
-          Ro<lb break="no" ed="#P" n="43"/>Bifacius quartus Papa a Phoca Caesare 
+          <lb ed="#P" n="42"/>Illud templum imperavit dari Ecclesiae Christi
+          Bo<lb break="no" ed="#P" n="43"/>nifacius quartus Papa a Phoca Caesare
           Constanti<lb break="no" ed="#P" n="44"/>nopolitano imperatore, et illud, rejectis idolis
           <lb ed="#P" n="45"/>omnique eorum spurcitia, dedicavit in honorem
           <lb ed="#P" n="46"/>B. Mariae et omnium martyrum (nondum enim
-          <lb ed="#P" n="47"/>Sebant festa confessoribus) ; et statuit ut singulis
+          <lb ed="#P" n="47"/>fiebant festa confessoribus); et statuit ut singulis
           <lb ed="#P" n="48"/>annis celebraretur illo die festum martyrum, sicut
           <lb ed="#P" n="49"/>ipsis Kalendis Maii festum apostolorum. Sed quia
           <lb ed="#P" n="50"/>in illo mense non est tanta copia victualium, ut in
           <lb ed="#P" n="51"/>aliis (solet enim tunc annona deficere) et populus
           <lb ed="#P" n="52"/>qui confluebat ad illa solemnia, propter inopiam
           <lb ed="#P" n="53"/>ciborum quandoque non poterat bene celebrationi
-          <lb ed="#P" n="54"/>vacare ; iceo Gregorius Minor, qui ejus nominis
-          <lb ed="#P" n="55"/>quartus fuit, duo haec festa transtulit, et ea 
+          <lb ed="#P" n="54"/>vacare ; ideo Gregorius Minor, qui ejus nominis
+          <lb ed="#P" n="55"/>quartus fuit, duo haec festa transtulit, et ea
           Ka<lb break="no" ed="#P" n="56"/>lendis Novembris, quando major est rerum copia,
-          <lb ed="#P" n="57"/>feri instituit. Nec solum apostolorum et Martyrum,
-          <lb ed="#P" n="58"/>sed etiam Trinitatis, omnium angelorurb et 
-          archan<lb break="no" ed="#P" n="59"/>gelorum, patriarcharum, prophetarum et aliorun
+          <lb ed="#P" n="57"/>fieri instituit. Nec solum apostolorum et Martyrum,
+          <lb ed="#P" n="58"/>sed etiam Trinitatis, omnium angelorum et
+          archan<lb break="no" ed="#P" n="59"/>gelorum, patriarcharum, prophetarum et aliorum
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>sanctorum atque sanctarum, velut festum generali
-          <lb ed="#P" n="61"/>ejus oflicium ordinavjt,
+          <lb ed="#P" n="60"/>sanctorum atque sanctarum, velut festum generale,
+          <lb ed="#P" n="61"/>ejus officium ordinavit.
         </p>
       </div>
     </body>
