@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -60,10 +65,10 @@
         </p>
         <p xml:id="raWSwa-d1e2028-d1e110">
           <lb ed="#P" n="80"/>Fuerunt quidem novem, sed quatuor eorum 
-          di<lb break="no" ed="#P" n="81"/>cuntur Coronati, quod eorum nomina Lominibus
+          di<lb break="no" ed="#P" n="81"/>cuntur Coronati, quod eorum nomina hominibus
           <lb ed="#P" n="82"/>erant ignota. Hi fuerunt lapicidae, qui venerant ad
           <lb ed="#P" n="83"/>construendum templum Diocletiani, quod erat 
-          Ro<lb break="no" ed="#P" n="84"/>mae. Sed cum cognovisset eos esse Christianos.
+          Ro<lb break="no" ed="#P" n="84"/>mae. Sed cum cognovisset eos esse Christianos,
           <lb ed="#P" n="85"/>martvrio coronati sunt et cum nomina illorum 
           ne<lb break="no" ed="#P" n="86"/>scirentur, dicti sunt Coronati.
         </p>
