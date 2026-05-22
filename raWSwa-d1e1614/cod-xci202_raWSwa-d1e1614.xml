@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -69,26 +74,26 @@
           <lb ed="#P" n="67"/>cum illo in caelos ascenderunt. Debemus enim de
           <lb ed="#P" n="68"/>eorum glorificatione gaudere et solemnizare, sicut
           <lb ed="#P" n="69"/>de aliis sanctis, cum certi simus eos ascendisse.
-          <lb ed="#P" n="70"/>Verum ejns rei ratio talis est. De morte eorum non
-          <lb ed="#P" n="71"/>solemnizamus, quia ad inferos descenderunt ; de
+          <lb ed="#P" n="70"/>Verum ejus rei ratio talis est. De morte eorum non
+          <lb ed="#P" n="71"/>solemnizamus, quia ad inferos descenderunt; de
           <lb ed="#P" n="72"/>glorificatione autem in anima festum aut in Pascha
-          <lb ed="#P" n="73"/>aut saltem in ascensione Domini deberemus 
+          <lb ed="#P" n="73"/>aut saltem in ascensione Domini deberemus
           cele<lb break="no" ed="#P" n="74"/>brare, sed non possumus propter auctoritatem et
-          <lb ed="#P" n="75"/>magnitudinem officiorum illorum dierum. 
+          <lb ed="#P" n="75"/>magnitudinem officiorum illorum dierum.
           Obum<lb break="no" ed="#P" n="76"/>braretur enim eorum festivitas dignitate majoris
           <lb ed="#P" n="77"/>solemnitatis. Quemadmodum si cum rege veniret
           <lb ed="#P" n="78"/>alicujus familiaris, propter praesentiam regis non
-          <lb ed="#P" n="79"/>tam diligenter ei obsequeretur, quam si solus 
-          ve<lb break="no" ed="#P" n="80"/>niret. ldeo ergo statutum est ut aliis anni 
-          tempo<lb break="no" ed="#P" n="81"/>ribus, iis diebus quibus ecclesiae sibi dedicatae 
-          fuc<lb break="no" ed="#P" n="82"/>runt, festa illorum celebrentur, utfestivitas beati
-          <lb ed="#P" n="83"/>Joannis Daptistae sub flnem Augusti, qui tamen
+          <lb ed="#P" n="79"/>tam diligenter ei obsequeretur, quam si solus
+          ve<lb break="no" ed="#P" n="80"/>niret. Ideo ergo statutum est ut aliis anni
+          tempo<lb break="no" ed="#P" n="81"/>ribus, iis diebus quibus ecclesiae sibi dedicatae
+          fu<lb break="no" ed="#P" n="82"/>erunt, festa illorum celebrentur, ut festivitas beati
+          <lb ed="#P" n="83"/>Joannis Baptistae sub finem Augusti, qui tamen
           <lb ed="#P" n="84"/>circa Pascha mortuus est. Propter eamdem sane
-          <lb ed="#P" n="85"/>rationem festum beati Jacobi Compostella: in Julio
-          <lb ed="#P" n="86"/>ebservatur. De festo beati Petri ad Vincula alibi
+          <lb ed="#P" n="85"/>rationem festum beati Jacobi Compostellae in Julio
+          <lb ed="#P" n="86"/>observatur. De festo beati Petri ad Vincula alibi
           <lb ed="#P" n="87"/>dicetur. Animadverte ergo quod festa sanctorum
-          <lb ed="#P" n="88"/>Veteris Testamenti, ut Abrahami, Isai, Jacobi, 
-          Da<lb break="no" ed="#P" n="89"/>vidis, Danielis et aliorum in Graecia et Ycnetiae
+          <lb ed="#P" n="88"/>Veteris Testamenti, ut Abrahami, Isai, Jacobi,
+          Da<lb break="no" ed="#P" n="89"/>vidis, Danielis et aliorum in Graecia et Venetiae
           <lb ed="#P" n="90"/>colantur, habeantque isthic suas ecclesias.
         </p>
       </div>
