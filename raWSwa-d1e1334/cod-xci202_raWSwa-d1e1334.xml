@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -59,31 +64,31 @@
           <lb ed="#P" n="56"/>CAPUT CV
           <lb ed="#P" n="57"/>De Sabbato.
         </p>
-        <p xml:id="raWSwa-d1e1334-d1e113">
-          <lb ed="#P" n="58"/>His ita de vi feria prosecutis, transeundum est
+       <p xml:id="raWSwa-d1e1334-d1e113">
+          <lb ed="#P" n="58"/>His ita de VI feria prosecutis, transeundum est
           <lb ed="#P" n="59"/>ad Sabbatum, in quo dicendum prius est de ipsius
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>diei nomine, ac postea de ejusdem eofficio, servato
-          <lb ed="#P" n="61"/>ordine. Hoc ergo Sabbatum xavrovopoci proprie
+          <lb ed="#P" n="60"/>diei nomine, ac postea de ejusdem officio, servato
+          <lb ed="#P" n="61"/>ordine. Hoc ergo Sabbatum <foreign>κατ' ἀντονομασίαν</foreign> proprie
           <lb ed="#P" n="62"/>Sabbatum sanctum appellatur. Sabbatum autem
-          <lb ed="#P" n="63"/>interpretatur requies, quoniam tempore creatiouis
+          <lb ed="#P" n="63"/>interpretatur requies, quoniam tempore creationis
           <lb ed="#P" n="64"/>mundi quam Deus sex diebus absolvit et septimo
           <lb ed="#P" n="65"/>die ab opere requievit. Quamobrem in lege Deus
-          <lb ed="#P" n="66"/>praecepit hunc diem abomni servili opere observari,
+          <lb ed="#P" n="66"/>praecepit hunc diem ab omni servili opere observari,
           <lb ed="#P" n="67"/>ita ut in veteri lege haberetur sanctus. Verum hoc
-          <lb ed="#P" n="68"/>Sabbatum xa' itoys, seu per excellentiam ita est
+          <lb ed="#P" n="68"/>Sabbatum <foreign>κατ' ἐξοχὴν,</foreign> seu per excellentiam ita est
           <lb ed="#P" n="69"/>appellatum, quia significat requiem Christi ab opere
-          <lb ed="#P" n="70"/>recreationis in vi aetate. Quemadmodum enim Dcus
+          <lb ed="#P" n="70"/>recreationis in VII aetate. Quemadmodum enim Deus
           <lb ed="#P" n="71"/>opere creationis mundi, sexto die completo, septimo
-          <lb ed="#P" n="72"/>conquievit ; ita quoque in sexta aetate, recreationis
-          <lb ed="#P" n="73"/>opere absoluto, scilicet nativitate, passioneet 
-          caete<lb break="no" ed="#P" n="74"/>ris omnibus, quae de illo praedicta fuerant, vn aetate
+          <lb ed="#P" n="72"/>conquievit; ita quoque in sexta aetate, recreationis
+          <lb ed="#P" n="73"/>opere absoluto, scilicet nativitate, passione et 
+          caete<lb break="no" ed="#P" n="74"/>ris omnibus, quae de illo praedicta fuerant, VII aetate
           <lb ed="#P" n="75"/>requievit, quae secundum quorumdam opinionem ab
           <lb ed="#P" n="76"/>ipsius passione fuit auspicata. Alii tamen dicunt
-          <lb ed="#P" n="77"/>eam incoepisse a morte Abeli Quando enim anima
+          <lb ed="#P" n="77"/>eam incoepisse a morte Abeli. Quando enim anima
           <lb ed="#P" n="78"/>Christi mortalitatem et omnem patibilem 
-          corpo<lb break="no" ed="#P" n="79"/>ris qualitatem exuisset, quasi in requic 
-          comquic<lb break="no" ed="#P" n="80"/>vit.
+          corpo<lb break="no" ed="#P" n="79"/>ris qualitatem exuisset, quasi in requie 
+          conquie<lb break="no" ed="#P" n="80"/>vit.
         </p>
       </div>
     </body>
