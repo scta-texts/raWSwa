@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -55,49 +60,49 @@
       <div xml:id="raWSwa-d1e2052"><!-- raWSwa-c164 -->
         <head xml:id="raWSwa-d1e2052-Hd1e101">Caput 164</head>
         <head xml:id="raWSwa-d1e2052-Hd1e103" type="question-title">
-          De festo Andrea et Thoma: apostolorum.
+          De festo Andrea et Thomae apostolorum.
         </head>
         <p xml:id="raWSwa-d1e2052-d1e106">
           <lb ed="#P" n="14"/>CAPUT CLXIV.
-          <lb ed="#P" n="15"/>De festo Andrea et Thoma: apostolorum.
+          <lb ed="#P" n="15"/>De festo Andrea et Thomae apostolorum.
         </p>
         <p xml:id="raWSwa-d1e2052-d1e113">
           <lb ed="#P" n="16"/>Cognoscere operae pretium est Andream colore
           <lb ed="#P" n="17"/>fuisse nigro, barba prolixa ac statura mediocri.
           <lb ed="#P" n="18"/>Hoc ideo a nobis dictum sit, ut sciatur qualis in
-          <lb ed="#P" n="19"/>Ecclesia pingi debeat, quod simili ratione 
-          facien<lb break="no" ed="#P" n="20"/>dum esse in omnibus apostolia atque aliis sanctis.
+          <lb ed="#P" n="19"/>Ecclesia pingi debeat, quod simili ratione
+          facien<lb break="no" ed="#P" n="20"/>dum esse in omnibus apostolis atque aliis sanctis.
           <lb ed="#P" n="21"/>Caeteroquin enim mentiremur in littera laicorum,
           <lb ed="#P" n="22"/>nempe in picturis. Concionatus autem est in
-          <lb ed="#P" n="23"/>Achaia et Athenis, ac circa illas partes. Valde 
-          ex<lb break="no" ed="#P" n="24"/>cellentis fuit meriti, nec id quidem sine causa 
-          bea<lb break="no" ed="#P" n="25"/>tis Gregorius adeo ipsi fuit addictus, ut primum
+          <lb ed="#P" n="23"/>Achaia et Athenis, ac circa illas partes. Valde
+          ex<lb break="no" ed="#P" n="24"/>cellentis fuit meriti, nec id quidem sine causa
+          bea<lb break="no" ed="#P" n="25"/>tus Gregorius adeo ipsi fuit addictus, ut primum
           <lb ed="#P" n="26"/>ejus fecerit officium, et monasterium ei condiderit,
-          <lb ed="#P" n="27"/>ubi item et monachus exstitit. Quadraginta 
+          <lb ed="#P" n="27"/>ubi item et monachus exstitit. Quadraginta
           mor<lb break="no" ed="#P" n="28"/>tuos simul suscitavit, quod de nullo alio legitur;
-          <lb ed="#P" n="29"/>llius namque sui bospitis, cum navigaret cum
+          <lb ed="#P" n="29"/>filius namque sui hospitis, cum navigaret cum
           <lb ed="#P" n="30"/>triginta et novem sociis nave fracta submersus est,
           <lb ed="#P" n="31"/>cujus pater cum misere lamentaretur in littore,
-          <lb ed="#P" n="32"/>misecricordia motus Anareas fudit preces ad 
+          <lb ed="#P" n="32"/>misericordia motus Andreas fudit preces ad
           Do<lb break="no" ed="#P" n="33"/>minum, et redditi sunt vitae universi. Tandem ad
-          <lb ed="#P" n="34"/>se proconsul JEgeas vocavit Andream, ut idolis
+          <lb ed="#P" n="34"/>se proconsul Aegeas vocavit Andream, ut idolis
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="35"/>sacrificaret, qui quemadmodum noluit et 
-          recusa<lb break="no" ed="#P" n="36"/>vit, ut in ipsius vita legitur, ita ut eum cruci 
-          affixe<lb break="no" ed="#P" n="37"/>runt, reclamanti et invito populo. Pependit itaqve
-          <lb ed="#P" n="38"/>integro biduo in crnce per transversum ut 
-          nonnul<lb break="no" ed="#P" n="39"/>lis placet, positus. Nibilominus tamen praedicavit,
-          <lb ed="#P" n="40"/>et verbum Dei concionatus est. Tandemque 
+          <lb ed="#P" n="35"/>sacrificaret, qui quemadmodum noluit et
+          recusa<lb break="no" ed="#P" n="36"/>vit, ut in ipsius vita legitur, ita ut eum cruci
+          affixe<lb break="no" ed="#P" n="37"/>runt, reclamanti et invito populo. Pependit itaque
+          <lb ed="#P" n="38"/>integro biduo in cruce per transversum ut
+          nonnul<lb break="no" ed="#P" n="39"/>lis placet, positus. Nihilominus tamen praedicavit,
+          <lb ed="#P" n="40"/>et verbum Dei concionatus est. Tandemque
           felici<lb break="no" ed="#P" n="41"/>ter ad superos migravit. Vigiliam institutionis non
-          <lb ed="#P" n="42"/>habet, quia in tempore est jejuniorum, quare 
+          <lb ed="#P" n="42"/>habet, quia in tempore est jejuniorum, quare
           ne<lb break="no" ed="#P" n="43"/>cesse non fuit, ut ei vigilia institueretur. De beato
-          <lb ed="#P" n="44"/>autem Thoma nihil equidem quod hic dicere 
+          <lb ed="#P" n="44"/>autem Thoma nihil equidem quod hic dicere
           ne<lb break="no" ed="#P" n="45"/>cesse sit habeo, cum vita ejus ex historia, quae de
           <lb ed="#P" n="46"/>ipso conscripta est, satis abunde cognosci queat.
-          <lb ed="#P" n="47"/>Hoc tamen adjiciendum putavi, ipsum jejunium 
-          in<lb break="no" ed="#P" n="48"/>stitutionis nun habere, ob eamdem causam, qua
-          <lb ed="#P" n="49"/>neque ÁAndream habere diximus. Legitur vero hic
-          <lb ed="#P" n="50"/>evangelium : Thomas unus ex duodecim (Joan. xx).
+          <lb ed="#P" n="47"/>Hoc tamen adjiciendum putavi, ipsum jejunium
+          in<lb break="no" ed="#P" n="48"/>stitutionis non habere, ob eamdem causam, qua
+          <lb ed="#P" n="49"/>neque Andream habere diximus. Legitur vero hic
+          <lb ed="#P" n="50"/>evangelium: Thomas unus ex duodecim (Joan. xx).
           <lb ed="#P" n="51"/>Qua ratione id fiat satis ex iis patet, quae supra a
           <lb ed="#P" n="52"/>nobis dicta sunt.
         </p>
