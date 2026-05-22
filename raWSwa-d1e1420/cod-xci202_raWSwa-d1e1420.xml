@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,25 +67,25 @@
           <lb ed="#P" n="12"/>De tempore regressionis.
         </p>
         <p xml:id="raWSwa-d1e1420-d1e113">
-          <lb ed="#P" n="13"/>Dictum est hactenus de duobus temporibus 
-          revo<lb break="no" ed="#P" n="14"/>cationis nimirum et deviationis. Nunc vero 
+          <lb ed="#P" n="13"/>Dictum est hactenus de duobus temporibus
+          revo<lb break="no" ed="#P" n="14"/>cationis nimirum et deviationis. Nunc vero
           sequi<lb break="no" ed="#P" n="15"/>tur tempus ipsum regressionis, non quidem ordine
-          <lb ed="#P" n="16"/>temporum, sed ratione officiorum. Hoc itaque 
+          <lb ed="#P" n="16"/>temporum, sed ratione officiorum. Hoc itaque
           tem<lb break="no" ed="#P" n="17"/>pus vocatur Paschale, significatque tempus illud
           <lb ed="#P" n="18"/>quod futurum est post diem judicii. Quoniam tum
-          <lb ed="#P" n="19"/>temporis ad vita patriam quam per Adamum
-          <lb ed="#P" n="20"/>amisimus, propitiante Deo regrediemur. 
-          Cogno<lb break="no" ed="#P" n="21"/>scendum tamen est primam hujus temporis 
-          septi<lb break="no" ed="#P" n="22"/>manam communem esse et huic tempori et 
+          <lb ed="#P" n="19"/>temporis ad vitae patriam quam per Adamum
+          <lb ed="#P" n="20"/>amisimus, propitiante Deo regrediemur.
+          Cogno<lb break="no" ed="#P" n="21"/>scendum tamen est primam hujus temporis
+          septi<lb break="no" ed="#P" n="22"/>manam communem esse et huic tempori et
           praece<lb break="no" ed="#P" n="23"/>denti. Pertinet enim tota ad Septuagesimam, ut
           <lb ed="#P" n="24"/>supra dictum est. Unde profecto illud est, quod
-          <lb ed="#P" n="25"/>tractus , qui in ipso Sabbato Paschae canitur, et
+          <lb ed="#P" n="25"/>tractus, qui in ipso Sabbato Paschae canitur, et
           <lb ed="#P" n="26"/>graduale per totam illam septimanam cantentur,
-          <lb ed="#P" n="27"/>quae laborem nobis indicant. Duo etenim illa 
+          <lb ed="#P" n="27"/>quae laborem nobis indicant. Duo etenim illa
           re<lb break="no" ed="#P" n="28"/>spectu cantantur Quadragesimae. Alleluia vero et
-          <lb ed="#P" n="29"/>caetera cantica laetitiae , propter tempus 
-          regressio<lb break="no" ed="#P" n="30"/>nis. Dicitur autem haec aeptimana paschalis , quae
-          <lb ed="#P" n="31"/>a Paschate, primo hujus temporis die, sic 
+          <lb ed="#P" n="29"/>caetera cantica laetitiae, propter tempus
+          regressio<lb break="no" ed="#P" n="30"/>nis. Dicitur autem haec septimana paschalis, quae
+          <lb ed="#P" n="31"/>a Paschate, primo hujus temporis die, sic
           denomi<lb break="no" ed="#P" n="32"/>nata est.
         </p>
       </div>
