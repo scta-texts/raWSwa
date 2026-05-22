@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,32 +67,32 @@
         <p xml:id="raWSwa-d1e1493-d1e113">
           <lb ed="#P" n="59"/>Nihil quod non sit a sacerdote benedictum, hoc
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>die Paschatis comedere debemus. Unde etiam nune
+          <lb ed="#P" n="60"/>die Paschatis comedere debemus. Unde etiam nunc
           <lb ed="#P" n="61"/>in quibusdam regionibus pro more receptum est ut
           <lb ed="#P" n="62"/>in magno vase omnia quae velint illo die comedere
-          <lb ed="#P" n="63"/>fercula ad ecclesiam deferant, in cujus aurio et 
+          <lb ed="#P" n="63"/>fercula ad ecclesiam deferant, in cujus atrio et
           ve<lb break="no" ed="#P" n="64"/>stibulo a sacerdote cum cruce et aqua lustrali, quam
-          <lb ed="#P" n="65"/>benedictam dicimus, in sacris vestibus 
-          benedicun<lb break="no" ed="#P" n="66"/>tur. Postea vero |sacerdos aliquid sibi de singulis
+          <lb ed="#P" n="65"/>benedictam dicimus, in sacris vestibus
+          benedicun<lb break="no" ed="#P" n="66"/>tur. Postea vero sacerdos aliquid sibi de singulis
           <lb ed="#P" n="67"/>ad suam necessitatem sumit. Et certe nullus quovis
           <lb ed="#P" n="68"/>die quidquam vel edere, vel bibere deberet, quod
           <lb ed="#P" n="69"/>non ante sit benedictum, unde B. Hieronymus de
-          <lb ed="#P" n="70"/>quadam moniali recenset in eo libro, cui Vitas 
-          Pa<lb break="no" ed="#P" n="71"/>trum titulum fecit : « Cum enim illa forte fortuna
+          <lb ed="#P" n="70"/>quadam moniali recenset in eo libro, cui Vitas
+          Pa<lb break="no" ed="#P" n="71"/>trum titulum fecit: «Cum enim illa forte fortuna
           <lb ed="#P" n="72"/>in ortum suum iret, et lactucas absque benedictione
           <lb ed="#P" n="73"/>comederet, simul etiam diabolum qui sub eas sese
           <lb ed="#P" n="74"/>abdiderat, imprudens deglutiit, qui multo tempore
-          <lb ed="#P" n="75"/>eam acerbe vexavit. » Debet autem quivis homo hoc
-          <lb ed="#P" n="76"/>die tria potissimum exercere, misericordiam 
-          vide<lb break="no" ed="#P" n="77"/>licet, liberalitatem et sobrietatem. Misericurdiam,
+          <lb ed="#P" n="75"/>eam acerbe vexavit.» Debet autem quivis homo hoc
+          <lb ed="#P" n="76"/>die tria potissimum exercere, misericordiam
+          vide<lb break="no" ed="#P" n="77"/>licet, liberalitatem et sobrietatem. Misericordiam,
           <lb ed="#P" n="78"/>ut egenos et vagabundos ad se suscipiat, eisque
           <lb ed="#P" n="79"/>misericordiae opera exhibeat, et illis aliquid juxta
           <lb ed="#P" n="80"/>quod in lege praeceptum est, mittat, qui nihil sibi
-          <lb ed="#P" n="81"/>aut coxerunt, aut praepararunt. Liberalitem vero
+          <lb ed="#P" n="81"/>aut coxerunt, aut praepararunt. Liberalitatem vero
           <lb ed="#P" n="82"/>maxime hoc tempore quemque exercere oportet, ut,
-          <lb ed="#P" n="83"/>si abundat, vicinis et amicis suis quidpiam 
-          impar<lb break="no" ed="#P" n="84"/>tiatur. Sed et sobrietatem ideo, quod debcamus
-          <lb ed="#P" n="85"/>illo die magis sobrie comedere, ut sibi quisque 
+          <lb ed="#P" n="83"/>si abundat, vicinis et amicis suis quidpiam
+          impar<lb break="no" ed="#P" n="84"/>tiatur. Sed et sobrietatem ideo, quod debeamus
+          <lb ed="#P" n="85"/>illo die magis sobrie comedere, ut sibi quisque
           par<lb break="no" ed="#P" n="86"/>cus sit, aliis vero largus. Observet ergo quilibet
           <lb ed="#P" n="87"/>misericordiam quantum ad pauperes, liberalitatem
           <lb ed="#P" n="88"/>quantum ad amicos, et sobrietatem quantum ad
