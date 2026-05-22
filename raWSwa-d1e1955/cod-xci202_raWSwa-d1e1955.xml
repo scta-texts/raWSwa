@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -64,16 +69,16 @@
         <p xml:id="raWSwa-d1e1955-d1e113">
           <lb ed="#P" n="20"/>Lucas natione fuit Syrus, patria Antiochenus, et
           <lb ed="#P" n="21"/>praedicavit in Bithynia, atque isthic propria morte
-          <lb ed="#P" n="22"/>absque martyrio vitam feliviter finivit. Vixit autem
-          <lb ed="#P" n="23"/>octoginta annis, ei duo volumina posteritati reliquit,
-          <lb ed="#P" n="24"/>Evangelium videlicet et Actus apostolorum. Fuit 
-          dis<lb break="no" ed="#P" n="25"/>cipulus Pauli, a quo quae docuit didicit, sicut 
+          <lb ed="#P" n="22"/>absque martyrio vitam feliciter finivit. Vixit autem
+          <lb ed="#P" n="23"/>octoginta annis, et duo volumina posteritati reliquit,
+          <lb ed="#P" n="24"/>Evangelium videlicet et Actus apostolorum. Fuit
+          dis<lb break="no" ed="#P" n="25"/>cipulus Pauli, a quo quae docuit didicit, sicut
           Mar<lb break="no" ed="#P" n="26"/>cus a Petro. In prologo tamen Evangelii invenitur,
           <lb ed="#P" n="27"/>quod ipse didicisset a quibusdam qui a principio
           <lb ed="#P" n="28"/>fuerunt cum Domino. Ex quo sequi videretur, quod
-          <lb ed="#P" n="29"/>non ex Paulo didicisset , cum hic a principio cum
-          <lb ed="#P" n="30"/>Domino non fuerit. Verum quadam ex DPaulo 
-          didi<lb break="no" ed="#P" n="31"/>cit, quaedam etiau ex aliis, sed maxime tamen a
+          <lb ed="#P" n="29"/>non ex Paulo didicisset, cum hic a principio cum
+          <lb ed="#P" n="30"/>Domino non fuerit. Verum quaedam ex Paulo
+          didi<lb break="no" ed="#P" n="31"/>cit, quaedam etiam ex aliis, sed maxime tamen a
           <lb ed="#P" n="32"/>Paulo edoctus est.
         </p>
       </div>
