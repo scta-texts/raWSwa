@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,22 +67,22 @@
           <lb ed="#P" n="9"/>De reconciliatione proximi.
         </p>
         <p xml:id="raWSwa-d1e1468-d1e113">
-          <lb ed="#P" n="10"/>Sequitur de reconciliatione proximi : Cum enim
-          <lb ed="#P" n="11"/>illo die communicare omnes debemus, si cum 
+          <lb ed="#P" n="10"/>Sequitur de reconciliatione proximi: Cum enim
+          <lb ed="#P" n="11"/>illo die communicare omnes debemus, si cum
           ali<lb break="no" ed="#P" n="12"/>quo discordes fuerimus, necessario oportet ut ipsum
           <lb ed="#P" n="13"/>nobis reconciliemus. Alioqui certe judicium nobis
-          <lb ed="#P" n="14"/>sumeremus, quod eleganter a minori probari 
+          <lb ed="#P" n="14"/>sumeremus, quod eleganter a minori probari
           po<lb break="no" ed="#P" n="15"/>test, juxta illud evangelicum : Si offers munus
-          <lb ed="#P" n="16"/>tuum, etc. (Matih. v). Unde est quod sacerdos 
-          die<lb break="no" ed="#P" n="17"/>bus Dominicis postquam concionem absolverit, 
-          te<lb break="no" ed="#P" n="18"/>neatur populo Orationem Dominicam, et fidei 
+          <lb ed="#P" n="16"/>tuum, etc. (Matth. v). Unde est quod sacerdos
+          die<lb break="no" ed="#P" n="17"/>bus Dominicis postquam concionem absolverit,
+          te<lb break="no" ed="#P" n="18"/>neatur populo Orationem Dominicam, et fidei
           arti<lb break="no" ed="#P" n="19"/>culos vernacula lingua exponere. Ex qua etiam
-          <lb ed="#P" n="20"/>eausa fit, quod Oratio Dominica alta voce in missa
-          <lb ed="#P" n="21"/>cantetur, ut omnes eam addiscant, et hinc ad 
-          con<lb break="no" ed="#P" n="22"/>ciliationem proximi admoneantur. Tota hac 
-          pa<lb break="no" ed="#P" n="23"/>s^hali septimana aequum foret ut, nisi aliter modo
-          <lb ed="#P" n="24"/>usus obtineret, hoc pacto unumquemque 
-          salutare<lb break="no" ed="#P" n="25"/>mus, videlicet HResurrexit Dominus (Matth. xxvm),
+          <lb ed="#P" n="20"/>causa fit, quod Oratio Dominica alta voce in missa
+          <lb ed="#P" n="21"/>cantetur, ut omnes eam addiscant, et hinc ad
+          con<lb break="no" ed="#P" n="22"/>ciliationem proximi admoneantur. Tota hac
+          pa<lb break="no" ed="#P" n="23"/>schali septimana aequum foret ut, nisi aliter modo
+          <lb ed="#P" n="24"/>usus obtineret, hoc pacto unumquemque
+          salutare<lb break="no" ed="#P" n="25"/>mus, videlicet Resurrexit Dominus (Matth. xxviii),
           <lb ed="#P" n="26"/>et qui ita salutatus esset responderet, Deo gratias,
           <lb ed="#P" n="27"/>datis sibi mutuo osculis in signum dilectionis et
           <lb ed="#P" n="28"/>charitatis.
