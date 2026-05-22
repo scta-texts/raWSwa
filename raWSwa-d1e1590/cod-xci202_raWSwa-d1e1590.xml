@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,14 +67,14 @@
           <lb ed="#P" n="16"/>De sancto Joanne evangelista ante Portam Latinam.
         </p>
         <p xml:id="raWSwa-d1e1590-d1e113">
-          <lb ed="#P" n="17"/>Nero interfecerat Petrum et Paulum. Quo 
+          <lb ed="#P" n="17"/>Nero interfecerat Petrum et Paulum. Quo
           mor<lb break="no" ed="#P" n="18"/>tuo, successit ei Vespasianus, atque ei Titus, cui
-          <lb ed="#P" n="19"/>postea Domitianus. Sub hoc beatus Joannes 
-          evan<lb break="no" ed="#P" n="20"/>relista profectus est Romam, ut isthic verbum Dei
-          <lb ed="#P" n="21"/>concionaretur. Domitianus autem ipsum poni 
+          <lb ed="#P" n="19"/>postea Domitianus. Sub hoc beatus Joannes
+          evan<lb break="no" ed="#P" n="20"/>gelista profectus est Romam, ut isthic verbum Dei
+          <lb ed="#P" n="21"/>concionaretur. Domitianus autem ipsum poni
           cu<lb break="no" ed="#P" n="22"/>ravit in dolium ferventis olei plenum ante Portam
           <lb ed="#P" n="23"/>Latinam, sic enim vocabatur. Sed B. Joannes nullam
-          <lb ed="#P" n="24"/>sthic sensit Llesionem, divina gratia ipsum 
+          <lb ed="#P" n="24"/>isthic sensit laesionem, divina gratia ipsum
           prote<lb break="no" ed="#P" n="25"/>gente. Quantum tamen ad illum attinet, martyr
           <lb ed="#P" n="26"/>fuit. Quapropter festum de illo agitur, non secus
           <lb ed="#P" n="27"/>ac si martyrium ibi sustinuisset. Tum a Domitiano
@@ -77,10 +82,10 @@
           <lb ed="#P" n="29"/>Nerva imperatore revocatus est. Notemus hic tres
           <lb ed="#P" n="30"/>tantum apostolos vivos fuisse Romae, Petrum nempe,
           <lb ed="#P" n="31"/>Paulum et Joannem: ac tres item evangelistas,
-          <lb ed="#P" n="32"/>Joannem, Marcum, et Lucam. Praeterea 
-          animadver<lb break="no" ed="#P" n="33"/>amus Christi apostolos sive discipulos non ideo
+          <lb ed="#P" n="32"/>Joannem, Marcum, et Lucam. Praeterea
+          animadver<lb break="no" ed="#P" n="33"/>tamus Christi apostolos sive discipulos non ideo
           <lb ed="#P" n="34"/>fuisse passos, quod Christum praedicabant, sed quod
-          <lb ed="#P" n="35"/>ppsum deificabant ac Deum esse aiebant sine 
+          <lb ed="#P" n="35"/>ipsum deificabant ac Deum esse aiebant sine
           Ro<lb break="no" ed="#P" n="36"/>manorum auctoritate; quod ipsi prohibuerant.
         </p>
       </div>
