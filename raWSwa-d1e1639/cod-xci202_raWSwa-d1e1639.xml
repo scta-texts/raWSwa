@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -63,45 +68,45 @@
         </p>
         <p xml:id="raWSwa-d1e1639-d1e113">
           <lb ed="#P" n="105"/>Dicto de festis, considerandae sunt quaedam hujus
-          <lb ed="#P" n="106"/>temporis varietates. Sunt enim hae tres septiman:e
-          <lb ed="#P" n="107"/>quasi propriis vocabulis nuncupata. Prima est
+          <lb ed="#P" n="106"/>temporis varietates. Sunt enim hae tres septimanae
+          <lb ed="#P" n="107"/>quasi propriis vocabulis nuncupatae. Prima est
           <lb ed="#P" n="108"/>paschalis, secunda in albis, tertia exspectationis,
-          <lb ed="#P" n="109"/>ila videlicet quae est post Ascensionem Doniini.
-          <lb ed="#P" n="110"/>Prima dicitur sanctificata, quia homines per 
-          ba<lb break="no" ed="#P" n="111"/>ptismum sanctificati tota illa septimana xestem
-          <lb ed="#P" n="112"/>gerunt in qua baptismum susceperunt, quae 
+          <lb ed="#P" n="109"/>illa videlicet quae est post Ascensionem Domini.
+          <lb ed="#P" n="110"/>Prima dicitur sanctificata, quia homines per
+          ba<lb break="no" ed="#P" n="111"/>ptismum sanctificati tota illa septimana vestem
+          <lb ed="#P" n="112"/>gerunt in qua baptismum susceperunt, quae
           signifi<lb break="no" ed="#P" n="113"/>cat primam stolam. Secunda septimana appellatur in
           <lb ed="#P" n="114"/>Albis, quoniam tunc baptizati altero Sabbato vestes
           <lb ed="#P" n="115"/>baptismi deponentes, albas induunt vestes. Vel
-          <lb ed="#P" n="116"/>quoniam tunc solent, illi qui baptizati sunt 
+          <lb ed="#P" n="116"/>quoniam tunc solent, illi qui baptizati sunt
           confir<lb break="no" ed="#P" n="117"/>mari ab episcopis, et alias albas vestes induere,
-          <lb ed="#P" n="118"/>usque ad sequens Sabbatum. Vel certe ideo nomi-
+          <lb ed="#P" n="118"/>usque ad sequens Sabbatum. Vel certe ideo
           <pb ed="#P" n="68"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>naur in Albis. quia significat vitam aeternam in
-          <lb ed="#P" n="2"/>qua utraque stola vesticmur. Tertia tandem 
-          nun<lb break="no" ed="#P" n="3"/>cupata est, ut diximus, septimana exspcctationis,
-          <lb ed="#P" n="4"/>quod repraesentet tempus illud quo apostoli 
-          exspe<lb break="no" ed="#P" n="5"/>ciaverunt adventum Spiritus sancti. Atque hinc
-          <lb ed="#P" n="6"/>animadvertamus quosdam solere jejunare ab Á
-          scen<lb break="no" ed="#P" n="7"/>sione usque ad Pentcecosten, quia apostoli eo 
-          tem<lb break="no" ed="#P" n="8"/>pore dicuntur jcjunasse Sed D. Gilberto videtur non
-          <lb ed="#P" n="9"/>esse jejunandum, quod ad Paschale tempus 
-          perti<lb break="no" ed="#P" n="10"/>neat. Alia item varietas hic est attendenda. 
+          nomi<lb break="no" ed="#P" n="1"/>natur in Albis, quia significat vitam aeternam in
+          <lb ed="#P" n="2"/>qua utraque stola vestiemur. Tertia tandem
+          nun<lb break="no" ed="#P" n="3"/>cupata est, ut diximus, septimana exspectationis,
+          <lb ed="#P" n="4"/>quod repraesentet tempus illud quo apostoli
+          exspe<lb break="no" ed="#P" n="5"/>ctaverunt adventum Spiritus sancti. Atque hinc
+          <lb ed="#P" n="6"/>animadvertamus quosdam solere jejunare ab
+          Ascen<lb break="no" ed="#P" n="7"/>sione usque ad Pentecosten, quia apostoli eo
+          tem<lb break="no" ed="#P" n="8"/>pore dicuntur jejunasse Sed D. Gilberto videtur non
+          <lb ed="#P" n="9"/>esse jejunandum, quod ad Paschale tempus
+          perti<lb break="no" ed="#P" n="10"/>neat. Alia item varietas hic est attendenda.
           Septi<lb break="no" ed="#P" n="11"/>mana enim paschalis non protenditur nisi usque ad
-          <lb ed="#P" n="12"/>Sahbatum in.Albis, atque ita Pascha pro octavis sex
+          <lb ed="#P" n="12"/>Sabbatum in Albis, atque ita Pascha pro octavis sex
           <lb ed="#P" n="13"/>duntaxat dies habet. Septimana in Albis incipit a
-          <lb ed="#P" n="14"/>Sbbato in Albis, et finitur in altero Sabbato, et sic
-          <lb ed="#P" n="15"/>durat octo dicbus. Octavae Ascensionis cum 
-          debe<lb break="no" ed="#P" n="16"/>rent terminari v, Feria ante Pentecosten. Nam licet
+          <lb ed="#P" n="14"/>Sabbato in Albis, et finitur in altero Sabbato, et sic
+          <lb ed="#P" n="15"/>durat octo diebus. Octavae Ascensionis cum
+          debe<lb break="no" ed="#P" n="16"/>rent terminari V, Feria ante Pentecosten. Nam licet
           <lb ed="#P" n="17"/>duo dies qui octavis supersunt, ad missam officium
           <lb ed="#P" n="18"/>suum facile possint ab Dominica accipere, tamen
-          <lb ed="#P" n="19"/>non haberent ad nocturnos invitatorium vel 
+          <lb ed="#P" n="19"/>non haberent ad nocturnos invitatorium vel
           respon<lb break="no" ed="#P" n="20"/>soria, nisi ab Ascensione Domini illa peterent. Unde
           <lb ed="#P" n="21"/>profecto decem illi dies pro una octava reputantur.
           <lb ed="#P" n="22"/>Nec id quidem mirum cum totum Paschale velut una
           <lb ed="#P" n="23"/>habeatur octava, quemadmodum etiam tempus
-          <lb ed="#P" n="24"/>illud a Nativitate Domini usque ad octavas 
+          <lb ed="#P" n="24"/>illud a Nativitate Domini usque ad octavas
           Epi<lb break="no" ed="#P" n="25"/>phaniae.
         </p>
       </div>
