@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -62,36 +67,36 @@
           <lb ed="#P" n="52"/>De divisione apostolorum.
         </p>
         <p xml:id="raWSwa-d1e1748-d1e113">
-          <lb ed="#P" n="53"/>De festo divisionis apostolorum 
-          magnaeauctorita<lb break="no" ed="#P" n="54"/>tis scriptores varii dissentiunt. Quidam enim volunt
-          <lb ed="#P" n="55"/>divisionem hanc intelligendam esse quasi quae 
-          Jero<lb break="no" ed="#P" n="56"/>solymae post duodecim aunos facta esset, cum 
-          vide<lb break="no" ed="#P" n="57"/>licet apostoli partiti ac scparati fuerint ad 
-          concio<lb break="no" ed="#P" n="58"/>nandum ethnicis : Nonnulli vero putant festum hoc
+          <lb ed="#P" n="53"/>De festo divisionis apostolorum magnae 
+          auctorita<lb break="no" ed="#P" n="54"/>tis scriptores varii dissentiunt. Quidam enim volunt
+          <lb ed="#P" n="55"/>divisionem hanc intelligendam esse quasi quae
+          Jero<lb break="no" ed="#P" n="56"/>solymae post duodecim annos facta esset, cum
+          vide<lb break="no" ed="#P" n="57"/>licet apostoli partiti ac separati fuerint ad
+          concio<lb break="no" ed="#P" n="58"/>nandum ethnicis: Nonnulli vero putant festum hoc
           <lb ed="#P" n="59"/>esse accipiendum de divisione Petri et Pauli, illa
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>videlicet, de qua superius mentio facta est. illam
-          <lb ed="#P" n="61"/>enim tali dic factam fuisse arbitrantur quod utique
+          <lb ed="#P" n="60"/>videlicet, de qua superius mentio facta est. Illam
+          <lb ed="#P" n="61"/>enim tali die factam fuisse arbitrantur quod utique
           <lb ed="#P" n="62"/>bene fieri potuit. Dicitur autem hoc die magna illa
-          <lb ed="#P" n="63"/>apostolorum scquentia, cujus initium est hujusmodi.
-          <lb ed="#P" n="64"/>Cali enarrant, et Exvangelium Ascensionis, sed non
+          <lb ed="#P" n="63"/>apostolorum sequentia, cujus initium est hujusmodi.
+          <lb ed="#P" n="64"/>Coeli enarrant, et Evangelium Ascensionis, sed non
           <lb ed="#P" n="65"/>integrum, ut quod ibi incipit: Et Dominus quidem
           <lb ed="#P" n="66"/>Jesus postquam locutus est (Marc. xvi). Ad cujus
-          <lb ed="#P" n="67"/>extrenie partis probationem nonnulli hic mentionem
+          <lb ed="#P" n="67"/>extremae partis probationem nonnulli hic mentionem
           <lb ed="#P" n="68"/>faciunt de duobus discipulis Petri, qui cum ad
-          <lb ed="#P" n="69"/>praedicandum missi essent, et virciter viginti dies
+          <lb ed="#P" n="69"/>praedicandum missi essent, et circiter viginti dies
           <lb ed="#P" n="70"/>iter ingressi, alter eorum mortuus est, et alter ad
           <lb ed="#P" n="71"/>Petrum rediit. Hunc aiunt fuisse B. Maternum. Sed
           <lb ed="#P" n="72"/>Petrus ei tradidit baculum suum, ac ipsum remisit,
           <lb ed="#P" n="73"/>praecipiens ut ad corpus socii sui adiret, et illud suo
-          <lb ed="#P" n="74"/>baculo tangeret. Quod quidem cum hic fecisscet, e
+          <lb ed="#P" n="74"/>baculo tangeret. Quod quidem cum hic fecisset, e
           <lb ed="#P" n="75"/>vestigio alter revixit ad tactum baculi, qui jam
-          <lb ed="#P" n="76"/>mortuus fucrat quadraginta diebus. Et sic verum
-          <lb ed="#P" n="77"/>esse completum est, quod dixerat Dominus : Et 
-          ma<lb break="no" ed="#P" n="78"/>jora horum facietis (Joan. xw). Dominus cnim 
+          <lb ed="#P" n="76"/>mortuus fuerat quadraginta diebus. Et sic verum
+          <lb ed="#P" n="77"/>esse completum est, quod dixerat Dominus : Et
+          ma<lb break="no" ed="#P" n="78"/>jora horum facietis (Joan. xiv). Dominus enim
           qua<lb break="no" ed="#P" n="79"/>triduanum suscitavit Lazarum, quod sane oppido
-          <lb ed="#P" n="80"/>quam magnunmne fuit : sed magis quod ad tactum 
-          ba<lb break="no" ed="#P" n="81"/>culi Pctri revixit ille, qui jam mortuus fuerat 
+          <lb ed="#P" n="80"/>quam magnum fuit: sed magis quod ad tactum
+          ba<lb break="no" ed="#P" n="81"/>culi Petri revixit ille, qui jam mortuus fuerat
           qua<lb break="no" ed="#P" n="82"/>draginta diebus.
         </p>
       </div>
