@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Eger</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -61,34 +66,34 @@
           <lb ed="#P" n="51"/>CAPUT CXLI.
           <lb ed="#P" n="52"/>De festo Petri ad Vincula.
         </p>
-        <p xml:id="raWSwa-d1e1772-d1e113">
-          <lb ed="#P" n="53"/>Theosebia, uxor Theodosii imperatoris , cum per
+<p xml:id="raWSwa-d1e1772-d1e113">
+          <lb ed="#P" n="53"/>Theosebia, uxor Theodosii imperatoris, cum per
           <lb ed="#P" n="54"/>Alexandriam proficisceretur Jerosolymam, incidit in
-          <lb ed="#P" n="55"/>cjus regionis homines, qui tum temporis festum in
-          <lb ed="#P" n="56"/>bouotem Augusti Caesaris colebant de triumpho
+          <lb ed="#P" n="55"/>ejus regionis homines, qui tum temporis festum in
+          <lb ed="#P" n="56"/>honorem Augusti Caesaris colebant de triumpho
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="57"/>habito adversus Cleopatram et Marcum Antonium
-          <lb ed="#P" n="58"/>Quod cum animadvertisset Theosebia aegerrime 
-          iu<lb break="no" ed="#P" n="59"/>lit tantum honorem exbiberi etbnico homini et
-          <lb ed="#P" n="60"/>daunato. Cum autem veuisset Jerosolvmaum 
-          da<lb break="no" ed="#P" n="61"/>te sunt ei cujusdam benelivio catena , quibus
-          <lb ed="#P" n="62"/>sub Herode ligatus fuit Petrus. Tandem vero 
-          lto<lb break="no" ed="#P" n="63"/>mam rediens super eo, quod in Alexandria viderat,
-          <lb ed="#P" n="64"/>summum consuluit pontilicem, eique ostendit 
-          cate<lb break="no" ed="#P" n="65"/>nas, quas Jerosolvmae dono acceperat. Jussit itemn
+          <lb ed="#P" n="57"/>habito adversus Cleopatram et Marcum Antonium.
+          <lb ed="#P" n="58"/>Quod cum animadvertisset Theosebia aegerrime
+          tu<lb break="no" ed="#P" n="59"/>lit tantum honorem exhiberi ethnico homini et
+          <lb ed="#P" n="60"/>damnato. Cum autem venisset Jerosolymam,
+          da<lb break="no" ed="#P" n="61"/>tae sunt ei cujusdam beneficio catenae, quibus
+          <lb ed="#P" n="62"/>sub Herode ligatus fuit Petrus. Tandem vero
+          Ro<lb break="no" ed="#P" n="63"/>mam rediens super eo, quod in Alexandria viderat,
+          <lb ed="#P" n="64"/>summum consuluit pontificem, eique ostendit
+          cate<lb break="no" ed="#P" n="65"/>nas, quas Jerosolymae dono acceperat. Jussit item
           <lb ed="#P" n="66"/>papa illas afferri catenas, quibus sub Nerone ligatus
-          <lb ed="#P" n="67"/>fueral Petrus, quae simul atque tangerent alias, ita
+          <lb ed="#P" n="67"/>fuerat Petrus, quae simul atque tangerent alias, ita
           <lb ed="#P" n="68"/>fuerunt conjunctae atque implicatae, ac si semper
-          <lb ed="#P" n="69"/>eaedem fuisscnt. Quo quidem viso Theosebia jussit
+          <lb ed="#P" n="69"/>eaedem fuissent. Quo quidem viso Theosebia jussit
           <lb ed="#P" n="70"/>consilio pontificis aedificare ecclesiam in honorem
-          <lb ed="#P" n="71"/>beati Petri, et in eacatenaos illas collocavit. 
-          Dedica<lb break="no" ed="#P" n="72"/>tia autem ejusmodi facta est RKalendis Augusti ; 
-          sta<lb break="no" ed="#P" n="73"/>tuitque pontifex ut quod iudiscreta et inepta 
-          ho<lb break="no" ed="#P" n="74"/>minum voluntas huc usque fecisset principi 
+          <lb ed="#P" n="71"/>beati Petri, et in ea catenas illas collocavit.
+          Dedica<lb break="no" ed="#P" n="72"/>tio autem ejusmodi facta est Kalendis Augusti;
+          sta<lb break="no" ed="#P" n="73"/>tuitque pontifex ut quod indiscreta et inepta
+          ho<lb break="no" ed="#P" n="74"/>minum voluntas huc usque fecisset principi
           Roma<lb break="no" ed="#P" n="75"/>no, modo idem Christianorum pietas in universo
           <lb ed="#P" n="76"/>orbe semper faceret principi apostolorum Petro.
-          <lb ed="#P" n="77"/>Atque ad cum sane modum solemnitas Petri 
-          ex<lb break="no" ed="#P" n="78"/>stip«it solemnitatem Augusti.
+          <lb ed="#P" n="77"/>Atque ad eum sane modum solemnitas Petri
+          ex<lb break="no" ed="#P" n="78"/>stinxit solemnitatem Augusti.
         </p>
       </div>
     </body>
